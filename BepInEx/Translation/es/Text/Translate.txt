@@ -2716,9 +2716,9 @@ Go to Gas-Mart= Ve al Gas-Mart
 
 Purchase at least one mixing ingredient=Compra al menos un ingrediente para mezclar
 
-r:Working on it. Should be ready in around (\d+) hours (\d+) min=Trabajando en esto. Debería estar listo en alrededor de $1 horas $2 minutos
+r:Working on it. Should be ready in around (\d+) hours (\d+) min=Trabajando en esto. Debería estar listo en alrededor de $1 Hs $2 Min
 
-r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Entendido. Te avisaré cuando esté listo. Debería ser en alrededor de $1 horas $2 minutos
+r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Entendido. Te avisaré cuando esté listo. Debería ser en alrededor de $1 Hs $2 Min
 
 Your drop is ready. Grab it in the alleyway behind the laundromat=Tu entrega está lista. Recógela en el callejón detrás de la lavandería
 
@@ -2733,6 +2733,9 @@ Cancel=Cancelar
 Send Message=Enviar Mensaje
 
 Just reminding you that you owe me $(\d+). Please deposit the amount into my stash box when you're ready.=Solo recordándote que me debes $(\d+). Por favor, deposita la cantidad en mi caja de escondite cuando estés listo.
+
+The drop is ready. You can find it behind the western Gas-Mart=La entrega está lista. Puedes encontrarla detrás del Gas-Mart occidental
+
 
 ##TATUAJES SUPERIORES##
 
