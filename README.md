@@ -1,6 +1,6 @@
 Traducción al español del juego Schedule 1
 
-Al no existir por ahora una traducción oficial por parte de los desarrolladores, se ha decidido buscar todas las palabras y frases que están en el juuego y traducirlas al español, no es un mod, no es un plugin, es más como una extensión del juego 
+Al no existir por ahora una traducción oficial por parte de los desarrolladores, se ha decidido buscar todas las palabras y frases que están en el juego y traducirlas al español, no es un mod, no es un plugin, es más como una extensión del juego 
 
 Sólo copien y peguen el contenido en la carpeta de instalación 
 
