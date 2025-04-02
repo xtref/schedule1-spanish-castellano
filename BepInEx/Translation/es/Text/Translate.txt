@@ -201,7 +201,7 @@ Today=Hoy
 
 More than a year ago=Hace más de un año
 
-Last Played=Última vez jugado
+Last Played=Última vez
 
 Are you sure you want to \noverwrite this save?=¿Estás seguro de que deseas \nsobrescribir este guardado?
 
@@ -739,7 +739,7 @@ Hair=Cabello
 
 Shoes=Zapatos
 
-Insert \nmixer=Insertar \nmezclador
+Insert \nmixer=Insertar \ningrediente
 
 Unlocks at Street Rat II=Se desbloquea en Rata de Calle II
 
@@ -921,7 +921,7 @@ Name=Nombre
 
 Request dead drop=Solicitar entrega secreta
 
-Order Total=Total del Pedido
+Order Total=Total del\nPedido
 
 Order Limit=Limite del Pedido
 
@@ -1099,9 +1099,9 @@ Deliveries=Entregas
 
 General (legal) supplies=Provisiones generales (legales)
 
-Item Total=Total de Artículos
+Item Total=Total de\nArtículos
 
-Delivery Fee=Tarifa de Entrega
+Delivery Fee=Tarifa de\nEntrega
 
 Destination=Destino
 
@@ -1312,6 +1312,8 @@ Exit=Salir
 r:(\d+)L=$1L
 
 A pair of plant trimmers. Necessity for harvesting plants.=Un par de podadoras de plantas. Necesarias para cosechar plantas.
+
+A pair of electric plant trimmers. Simply click and drag to harvest.=Un par de podadoras eléctricas de plantas. Un simple click y arrastra para cosechar.
 
 Holds water.=Contiene agua.
 
@@ -2663,6 +2665,74 @@ Apron. = Delantal.
 Products=Productos
 
 I want to pay off my debt=Yo quiero pagar mi deuda
+
+Start a new mix at the mixing station=Inicia una nueva mezcla en la estación de mezcla
+
+Use Mixing Station=Usar estación de mezcla
+
+Insert unpackaged product and mixing ingredient=Inserte productos sin empaquetar y los ingredientes a mezclar
+
+Activate sprinkler=Activar aspersor
+
+Police curfew in effect until 5AM=Toque de queda policial hasta las 5 AM
+
+It is 4AM - go to sleep to progress to tomorrow=Son las 4 AM - ve a dormir para avanzar a la mañana
+
+Combine ingredients in bowl=Combina los ingredientes en el bowl
+
+Start mixing machine=Inicia la maquina de mezclado
+
+Mixing in progress...=Mezcla en progreso...
+
+Market value:=Valor en el mercado:
+
+Collect output=Recoger salida
+
+Drag packaged product into output=Arrastra producto empaquetado a la salida
+
+UNPACK=DESEMPACAR
+
+Talk to Uncle Nelson at a payphone=Habla con el Tío Nelson en una cabina telefónica
+
+Electric Plant Trimmers=Podadora eléctrica
+
+Trash Grabber=Recolector de basura
+
+Trash Bag=Bolsa de basura
+
+Used to easlly collect trash.=Usado para recoger la basura facilmente.
+
+Basic potting soil to grow stuff in.=Tierra básica para plantar.
+
+Remember to list your new product for sale in the product manager app.=Recuerda listar tu nuevo producto para la venta en la app de Productos.
+
+Purchase a mixing station and make your first custom mix.=Compra una estación de mezcla y has tu primera mezcla personalizada.
+
+Purchase a mixing station from the hardware store=Compra una estación de mezcla en la ferretería
+
+Place the mixing station=Coloca la estación de carga. 
+
+Go to Gas-Mart= Ve al Gas-Mart
+
+Purchase at least one mixing ingredient=Compra al menos un ingrediente para mezclar
+
+r:Working on it. Should be ready in around (\d+) hours (\d+) min=Trabajando en esto. Debería estar listo en alrededor de $1 horas $2 minutos
+
+r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Entendido. Te avisaré cuando esté listo. Debería ser en alrededor de $1 horas $2 minutos
+
+Your drop is ready. Grab it in the alleyway behind the laundromat=Tu entrega está lista. Recógela en el callejón detrás de la lavandería
+
+You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.= Puedes saldar tu deuda colocando dinero en mi escondite. Está detrás de la Ferretería de Dan.
+
+I've received $(\d+) cash from you. Your debt is now paid off.=He recibido $(\d+) en efectivo de tu parte. Tu deuda ahora está saldada.
+
+I need to order a dead drop=Necesito ordenar un pedido secreto
+
+Cancel=Cancelar
+
+Send Message=Enviar Mensaje
+
+Just reminding you that you owe me $(\d+). Please deposit the amount into my stash box when you're ready.=Solo recordándote que me debes $(\d+). Por favor, deposita la cantidad en mi caja de escondite cuando estés listo.
 
 ##TATUAJES SUPERIORES##
 
