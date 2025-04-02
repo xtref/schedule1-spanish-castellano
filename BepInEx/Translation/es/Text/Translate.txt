@@ -921,9 +921,9 @@ Name=Nombre
 
 Request dead drop=Solicitar entrega secreta
 
-Order Total=Total del\nPedido
+Order Total=Total
 
-Order Limit=Limite del Pedido
+Order Limit=Limite
 
 Debt=Deuda
 
@@ -1099,9 +1099,9 @@ Deliveries=Entregas
 
 General (legal) supplies=Provisiones generales (legales)
 
-Item Total=Total de\nArtículos
+Item Total=Total
 
-Delivery Fee=Tarifa de\nEntrega
+Delivery Fee=Entrega
 
 Destination=Destino
 
@@ -1135,7 +1135,7 @@ Wrapping Up=Finalizando los negocios de la ciudad
 
 Making the Rounds=Haciendo las rondas
 
-Item Limit=Límite de Artículos
+Item Limit=Artículos
 
 NEEDS WATER=NECESITA AGUA
 
@@ -2664,7 +2664,7 @@ Apron. = Delantal.
 
 Products=Productos
 
-I want to pay off my debt=Yo quiero pagar mi deuda
+I want to pay off my debt=Quiero pagar mi deuda
 
 Start a new mix at the mixing station=Inicia una nueva mezcla en la estación de mezcla
 
@@ -2712,7 +2712,7 @@ Purchase a mixing station from the hardware store=Compra una estación de mezcla
 
 Place the mixing station=Coloca la estación de carga. 
 
-Go to Gas-Mart= Ve al Gas-Mart
+Go to Gas-Mart=Ve al Gas-Mart
 
 Purchase at least one mixing ingredient=Compra al menos un ingrediente para mezclar
 
@@ -2726,7 +2726,7 @@ You can pay off your debt by placing cash in my stash. It's behind Dan's Hardwar
 
 I've received $(\d+) cash from you. Your debt is now paid off.=He recibido $(\d+) en efectivo de tu parte. Tu deuda ahora está saldada.
 
-I need to order a dead drop=Necesito ordenar un pedido secreto
+I need to order a dead drop=Necesito hacer un pedido secreto
 
 Cancel=Cancelar
 
