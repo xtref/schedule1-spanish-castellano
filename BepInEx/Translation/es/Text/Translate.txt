@@ -875,7 +875,7 @@ MESSAGE=MENSAJE
 
 Plastic Pot=Maceta Plástica
 
-Add to Cart=Añadir al Carrito
+Add to Cart=Añadir
 
 Soil=Tierra
 
@@ -941,11 +941,11 @@ Product Manager=Gestor de Producto
 
 Select a product to view details=Selecciona un producto para ver detalles
 
-Asking Price=Precio Solicitado
+Asking Price=Solicitado
 
 r:Suggested: \$(\d{1,3}(?:,\d{3})*)=Sugerido: $1
 
-List For Sale?=¿Listar para la Venta?
+List For Sale?=¿Vender?
 
 Addictiveness=Adicción
 
@@ -1085,7 +1085,7 @@ Dealer Management=Gestión de Vendedores
 
 Benji Coleman=Benji Coleman
 
-Cut=Corte
+Cut=Comisión
 
 Inventory=Inventario
 
@@ -1285,7 +1285,7 @@ Construction Site=Sitio de Construcción
 
 Pseudo=Pseudo
 
-Use trimmers to harvest=Usa tijeras para cosechar
+Use trimmers to harvest=Usa las tijeras para cosechar
 
 r:(\d+)% grown=$1% crecido
 
@@ -1305,7 +1305,7 @@ Use Packaging Station=Usar Estación de Empaque
 
 Access storage=Acceder al almacenamiento
 
-Medium Storage Rack=Estante de Almacenamiento Mediana
+Medium Storage Rack=Estante de Almacenamiento Mediano
 
 Exit=Salir
 
@@ -1485,7 +1485,7 @@ Hi=Hola
 
 Hello=Hola
 
-Purchase Cuke=Comprar Cuke
+Purchase Cuke=Comprar Coka
 
 You ready?=¿Estás listo?
 
@@ -1547,7 +1547,7 @@ You can see all the available listings on the whiteboard to your left.=Puedes ve
 
 If you want to drive through here, I'll need to search your vehicle.=Si quieres pasar por aquí, necesitaré registrar tu vehículo.
 
-You need to park your car nearby for me to search it.=Necesitas estacionar tu coche cerca para que pueda registrarlo.
+You need to park your car nearby for me to search it.=Estaciona tu coche cerca para que pueda registrarlo.
 
 Huh?!=¿Eh?!
 
@@ -2662,6 +2662,48 @@ Apron = Delantal
 
 Apron. = Delantal.
 
+
+##TATUAJES SUPERIORES##
+
+Heart = Corazón
+Web = Telaraña
+Weed = Hierba
+Peace = Símbolo de la Paz
+Alien = Alienígena
+Sword = Espada
+Bird = Pájaro
+Egg = Huevo
+Dead face = Cara Muerta
+Teardrop = Lágrima
+Forehead cross = Cruz en la Frente
+Tribal = Diseño Tribal
+
+##TATUAJE SUPERIOR##
+
+Heart = Corazón
+
+Web = Web
+
+Weed = Hierba
+
+Peace = Paz
+
+Alien = Alienígena
+
+Sword = Espada
+
+Bird = Pájaro
+
+Egg = Huevo
+
+Dead face = Rostro Muerto
+
+Teardrop = Lágrima
+
+Forehead cross = Cruz en la Frente
+
+Tribal = Diseño Tribal
+
 Products=Productos
 
 I want to pay off my debt=Quiero pagar mi deuda
@@ -2724,7 +2766,7 @@ Your drop is ready. Grab it in the alleyway behind the laundromat=Tu entrega est
 
 You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.= Puedes saldar tu deuda colocando dinero en mi escondite. Está detrás de la Ferretería de Dan.
 
-I've received $(\d+) cash from you. Your debt is now paid off.=He recibido $(\d+) en efectivo de tu parte. Tu deuda ahora está saldada.
+I've received \$(\d{1,3}(?:,\d{3})*) cash from you. Your debt is now paid off.=He recibido $1 en efectivo de tu parte. Tu deuda ahora está saldada.
 
 I need to order a dead drop=Necesito hacer un pedido secreto
 
@@ -2732,37 +2774,446 @@ Cancel=Cancelar
 
 Send Message=Enviar Mensaje
 
-Just reminding you that you owe me $(\d+). Please deposit the amount into my stash box when you're ready.=Solo recordándote que me debes $(\d+). Por favor, deposita la cantidad en mi caja de escondite cuando estés listo.
+Just reminding you that you owe me \$(\d{1,3}(?:,\d{3})*). Please deposit the amount into my stash box when you're ready.=Solo recordándote que me debes $1. Por favor, deposita la cantidad en mi caja de escondite cuando estés listo.
 
 The drop is ready. You can find it behind the western Gas-Mart=La entrega está lista. Puedes encontrarla detrás del Gas-Mart occidental
 
+Open shutters=Abrir persiana
 
-##TATUAJES SUPERIORES##
+Close shutters=Cerrar persiana
 
-Heart = Corazón
-Web = Telaraña
-Weed = Hierba
-Peace = Símbolo de la Paz
-Alien = Alienígena
-Sword = Espada
-Bird = Pájaro
-Egg = Huevo
-Dead face = Cara Muerta
-Teardrop = Lágrima
-Forehead cross = Cruz en la Frente
-Tribal = Diseño Tribal
+Hey boss, I've run out of product.=Hola jefe, me he quedado sin producto.
 
-##TATUAJE SUPERIOR##
+I need a dead drop:=Necesito un pedido secreto:
 
-Heart = Corazón
-Web = Telaraña
-Weed = Hierba
-Peace = Símbolo de la Paz
-Alien = Alienígena
-Sword = Espada
-Bird = Pájaro
-Egg = Huevo
-Dead face = Rostro Muerto
-Teardrop = Lágrima
-Forehead cross = Cruz en la Frente
-Tribal = Diseño Tribal
+Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.=Envíame un mensaje si te gustaría hacer un pedido. Nelson ha hablado bien de ti, así que te proporcionaré una cuenta que podrás pagar después.
+
+Ok. What time you wanna meet?= Ok, en qué momento nos reunimos?
+
+I guess that's fine. When?=Supongo que está bien. Cuándo?
+
+I've heard you're in some trouble. Best not to talk over your mobile phone. Go find a payphone. - U.N.=He escuchado que estás en problemas. Mejor no hablar por el teléfono móvil. Ve a buscar un teléfono público. - U.N.
+
+Insufficient online balance=Balance en linea insuficiente
+
+Small Storage Rack=Estante de almacenamiento pequeño
+
+Hi boss, just letting you know I'm out of product.=Hola jefe, solo le aviso que me he quedado sin producto.
+
+Cuke=Coka
+
+A refreshing can of Cuke that leaves you feeling energized. It's heaven in a can.=Una refrescante lata de Coka que te deja lleno de energía. Es el cielo en una lata.
+
+Medication that is used to get you chubbed-up.=Medicamento que se utiliza para ponerte en forma.
+
+View dead drop=Revisar
+
+Dead Drop=Caja secreta
+
+Insert Trash=Deposita basura
+
+Start=Iniciar
+
+Processing...=Procesando...
+
+Collect cash=Recoger dinero
+
+Open Hatch=Abre la tapa
+
+CURFEW ACTIVE UNTIL 5AM=TOQUE DE QUEDA HASTA LAS 5 AM
+
+Cuffing...=Arrestando...
+
+OFFENSE NOTICE=MULTA
+
+You have been convicted of the following:=Has sido condenado por lo siguiente:
+
+Penalty:=Penalidad:
+
+Can't sleep before 6:00 PM=No puedes dormir antes de las 6 PM
+
+Press to Start=Presiona para iniciar
+
+CURFEW TONIGHT=TOQUE DE QUEDA
+
+CURFEW SOON=TOQUE DE QUEDA
+
+What's up homedog, what can I do for you?=¿Qué pasa, amigo? ¿En qué puedo ayudarte?
+
+I'd like to buy a skateboard=Me gustaría comprar una skateboard
+
+Can I interest you in a free sample=¿Te interesa una muestra gratis?
+
+Wicked sick my man, which board are you looking for?=¡Genial, amigo! ¿Qué tabla estás buscando?
+
+INSUFFICIENT CASH=DINERO INSUFICIENTE 
+
+USE ATM=USAR CAJERO
+
+Hello there! What can I do for you?=Hola, ¿en qué puedo ayudarte?
+
+I'd like to purchase something=Me gustaría comprar algo
+
+Provides a clean surface to place product into packaging.=Proporciona una superficie limpia para colocar el producto en el empaque.
+
+A clear glass jar to keep various substances in. Holds 5x units of any product.=Un frasco de vidrio transparente para guardar varias sustancias. Almacena hasta 5 unidades de cualquier producto.
+
+Plant growth regulator (PGR) will increase the yields of your plants, at the cost of quality.=El regulador de crecimiento de plantas (PGR) aumentará el rendimiento de tus plantas, a costa de la calidad.
+
+Instantly grows the plant by 50%, but reduces plant quality.=Crece instantáneamente la planta un 50%, pero reduce la calidad de la planta.
+
+All-natural fertilizer which will increase the quality of your plants.=Fertilizante completamente natural que aumentará la calidad de tus plantas.
+
+(Hold) Mount=(Mantener) Montar
+
+Dismount=Desmontar
+
+(Hold) Jump=(Mantener) Saltar
+
+UNDER ARREST=BAJO ARRESTO
+
+WANTED=BUSCADO
+
+Large Storage Rack=Estante de almacenamiento grande
+
+sr:"Bucket Hat (.+)$"=Balde en la Cabeza $1
+Not actually shaped like a bucket.=No está realmente hecho en forma de cubo.
+
+sr:"Blazer (.+)$"=Americana $1
+Blazer=Americana
+Blazer/sports jacket/suit - who knows the difference.=Blazer/chaqueta deportiva/saco - ¿quién sabe la diferencia?.
+
+sr:"Belt (.+)$"=Cinturon $1
+Belt=Cinturon
+Very useful for holding up your pants.=Muy útil para sujetar tus pantalones.
+
+sr:"Apron (.+)$"=Delantal $1
+Apron=Delantal
+Apron.=Delantal.
+
+What can I do for you?=¿Qué desea comprar?
+
+Yeah?=¿Si?
+
+Ho?=¿Eh?
+
+Trash Bag=Bolsa de Basura
+
+Battery=Batería
+
+Mega Bean=Mega frijol
+
+Energy Drink=Bebida energética
+
+Chili=Chile
+
+Flu Medicine=Medicamento para la gripe
+
+Mouth Wash=Enguaje Bucal
+
+Donut=Dona
+
+Motor Oil=Aceite de motor
+
+Iodine=Yodo
+
+Addy=Adderall
+
+Chemical element thaht is an essential nutrient in a healthy diet. It also has other purposes=Elemento químico esencial en una dieta saludable. Tiene otras funciones.
+
+A refreshing can of cuke thaht leaves you feeling energized. It's heaven in a can.=Una refrescante lata de Cuke que te llena de energía. Es el paraíso en una lata.
+
+Elongated yellow fruit, rich in potassium.=Fruto alargado de color amarillo, rico en potasio.
+
+Mild over-the-counter painkiller=Analgésico que nunca debe faltar en casa.
+
+Yummy strawberry frosted donut.=Deliciosa dona glaseada con fresa... Mmmh Glaseada.
+
+Antiseptic mouth wash for a minty fresh breath.=Enjuague bucal antiséptico para un aliento fresco y mentolado.
+
+Pain reliever and mild sedative used to alleviate flu symptoms.=Analgésico y sedante suave utilizado para aliviar los síntomas de la gripe.
+
+A jerry can full of gasoline.=Un bidón lleno de bencina.
+
+Tasty energy drink filled with lots of yummy chemicals to make you feel refreshed. Removes the effects of drugs when consumed.=Deliciosa bebida energética. Elimina los efectos de las drogas al consumirla.
+
+Specially formulated oil used for lubricating the moving stuff in an egine.=Aceite para que el motor de tu vehículo siga funcionando, no para freir comida.
+
+An unusually large bean of mysterious origin.=Es un misterioso frijol largo, su origen es desconocido.
+
+Yummy spicy chili.=Un delicioso chile picante.
+
+Chemistry Station=Estación de química
+
+Place Item=Poner Objeto
+
+Evening=Tarde
+
+Whats up bro=Que pasá bro
+
+Hi dawg=Hola bro
+
+Evenin' bro=Tarde hermano
+
+Good Evening=Buenas Noches
+
+Increase bet=Aumentar Apuesta
+
+Decrease bet=Disminuir Apuesta
+
+Play Blackjack=Jugar Blackjack
+
+Place your bet and press 'ready'=Pon tu apuesta y apreta listo
+
+Ready=Listo
+
+Get as close as possible to 21 without going bust.=Llega lo más cerca posible de 21 sin pasarte.
+
+Bet Amount=Dinero
+
+Players=Jugadores
+
+Predict the next card to multiply your winnings!=¡Predice la siguiente carta y multiplica tus ganancias!
+
+Game saved!=Partida guardada
+
+OPENING HOURS=Abrimos a las
+
+
+Offer Deal=Ofrecer
+
+Place product here=Ofrece un producto
+
+Pull Handle=Bajar
+
+Save game=Guardar
+
+
+BODY SEARCH=Inspección
+
+Officer=Policia
+
+Police curfew starting soon= El toque de queda empezará pronto
+
+I've heard you're in some trouble. Best not to talk over your mobile phone. Go find a payphone. - U.N.=
+
+Long-Life Soil=Tierra+
+
+Extra Long-Life Soil=Tierra++
+Extra long-lasting soil that can be used to grow 3 plants before expiring.=Tierra de alta durabilidad+, te permite plantar hasta 3 veces más!
+
+Loading Dock=Zona de descarga
+
+Wait$1s=Espera
+
+Molly Presley\n(Dealer)=Molly Presley\n(Repartidor)
+
+Benji Coleman\n(Dealer)=Benji Coleman\n(Repartidor)
+
+Laundromat(Owned)=Propietario
+
+Select items to order from shirley=Selecciona los items para comprar
+
+Send Message=Enviar Mensaje
+
+Cancel=Cancelar
+Carol\nMartinez=Villancico\nMartínez
+Current Time=Hora actual
+Late Night=Nota tarde
+
+Night=Noche
+Morning=Mañana
+S.W=SUDOESTE
+Barn=Granero
+Properties for sale=Propiedades en venta
+Employee of \nthe month=Empleado del mes
+TOWN   SQUARE=Plaza municipal
+Businesses for sale=Negocios en venta
+Kyle=Kyle
+Choose Color=Elige el color
+H=H
+Color=Color
+Online balance only=Saldo en línea solamente
+BETTER LUCK NEXT TIME...=Mejor suerte la próxima vez ...
+Exit Vehicle=Salir del Vehículo
+NEW REGION UNLOCKED!=Nueva región desbloqueada!
+Open Hatch=Escotilla abierta
+Repaint vehicle=Vehículo de repintado
+CORRECT!=¡CORRECTO!
+BLACKJACK!=¡BLACKJACK!
+Forfeit and collect $10,000=Perder y cobrar $ 10,000
+Preset=Programar
+Answer 1=Respuesta 1
+Head=Cabeza
+Handbrake=Arbitraje
+Waist=Cintura
+PUSH=EMPUJAR
+Dealer=Distribuidor
+- Property\n- Property\n- Property\n- Property\n+ 5 More=- Propiedad - Propiedad - Propiedad - Propiedad + 5 Más
+5 Customers\n3 Suppliers\n1 Dealer=5 clientes 3 proveedores 1 distribuidor
+Facial Detail Intensity=Intensidad de detalles faciales
+Resume=Reanudar
+Shirley Watts=Shirley Watts
+Salvador Moreno=Salvador Moreno
+Albert Hoover=Albert Hoover
+BET MULTIPLIER=Multiplicador de apuesta
+Headlights=Farolas
+Tools=Herramientas
+Hit=Golpear
+Eyewear=Gafas
+Outerwear=Ropa de calle
+A.H=A.H
+S.M=S.M
+20x OG Kush Test Test=Prueba de prueba de 20X OG Kush
+Request dead drop=Solicitar caída muerta
+THE BUTTER BOX=Caja de mantequilla
+HYLAND\nBANK=Cañón\nBANCO
+DAN'S  HARDWARE=Hardware de Dan
+EST.  1904=Est.\n1904
+CAFE & BAKERY=Cafetería
+Deal Completed for  Jimmy Bimbo=Acuerdo completado para Jimmy Bimbo
+0km/h=0 km/h
+Market Value: $100=Valor de mercado: $ 100
+You=Tú
+What will the next card be?=¿Cuál será la próxima tarjeta?
+Blackjack=Blackjack
+Eyes=Ojos
+Schedule I will be releasing in <color\=#5DD642>March 2025.</color> \n\nIf you've enjoyed this demo, please consider wishlisting the <color\=#000000>                                      <size\=0>.</size>\n\n<color\=#5DD642>Full Game Features</color>\n=Horario en el que estaré lanzando <color\=#5DD642>Marzo de 2025.</color> \n\nSi ha disfrutado de esta demostración, considere la lista de deseos del <color\=#000000>                                      <size\=0>.</size>\n\n<color\=#5DD642>Características del Juego Completo</color>\n
+Feet=Pies
+Confirm (<color\=#54E717>$100</color>)=Confirmar (<color\=#54E717>$100</color>)
+Hands=Manos
+Move Camera=Mover la cámara
+Ride the Bus=Montar en el autobús
+BUST!=¡BUSTO!
+Stand=Pararse
+Tattoo Shop=Tatuaje
+Manor=Señorío
+Motel Room=Habitación del motel
+Wait 46s=Espera 46s
+Long Skirt=Falda larga
+Legend Sunglasses=Gafas de sol de leyenda
+Rectangle Frame Glasses=Gafas de marco rectangle
+Small Round Glasses=Gafas redondas pequeñas
+Speed Dealer Shades=Distribuidores de Speed ​​Distribuidores
+Combat Boots=Botas de combate
+Fingerless Gloves=Guantes sin dedos
+Porkpie Hat=Sombrero de cerdo
+Paul=Pablo
+Chef Hat=Gorro de chef
+Cowboy Hat=Sombrero de vaquero
+Collar Jacket=Chaqueta
+Tactical Vest=Chaleco táctico
+Button-Up Shirt=Camisa con botones
+Chest=Pecho
+Left Arm=Brazo izquierdo
+Right Arm=Brazo derecho
+Hair Style=Peinado
+Rectangular Frame Glasses=Gafas de marco rectangular
+Speed Dealer Sunglasses=Gafas de sol de distribuidor de velocidad
+Coca Seed=Semilla de coca
+OG Kush Seed=Semilla de og kush
+Sour Diesel Seed=Semilla de diesel agrio
+Green Crack Seed=Semilla de grieta verde
+Granddaddy Purple Seed=Semilla morada de abuelo
+Afro=Afro
+High Bun=Moño
+Double Top Knot=Doble nudo superior
+Side-part Bob=Bob a la partida lateral
+Phosphorus=Fósforo
+Moisture-Preserving Pot=Bote de preservación de humedad
+Air Pot=Maceta de Aire
+Full Spectrum Grow Light=Luz de cultivo de espectro completo
+Pot Sprinkler=Rociador de marihuana
+Soil Pourer=Vertido de tierra
+Packaging Station Mk II=Estación de embalaje Mk II
+Brick Press=Prensa de ladrillo
+Mixing Station Mk2=Estación de mezcla MK2
+
+Shitbox=Mierda
+Stubble=Rastrojo
+Banana=Banana
+Paracetamol=Paracetamol
+Viagra=Viagra
+Horse Semen=Semen de caballos
+Coffee Table=Mesa de centro
+Wooden Square Table=Mesa cuadrada de madera
+Metal Square Table=Mesa cuadrada de metal
+Floor Lamp=Lámpara de piso
+TV=TELEVISOR
+
+Display Cabinet=Gabinete de exhibición
+Trash Grabber=Pinza de Agarre
+Trash Can=Bote de basura
+Hounddog=Hounddog
+Veeper=Veeper
+Cheetah=Guepardo
+Dinkler=Aturdimiento
+S=S
+W=W
+N=N
+Sweatshop=Fábrica con explotación exagerada
+Fair price: $100=Precio justo: $ 100
+2x Item Name=2x Nombre del artículo
+Coca Seeds=Semillas de coca
+On the Grind=En la rutina
+Getting Started=Empezando
+Dodgy Dealing=Trato dudoso
+Packin'=Empacado
+Keeping it Fresh=Manteniéndolo fresco
+Money Management=Administración de dinero
+Wretched Hive of Scum and Villainy=Wretched Hive of Scum and Villany
+Gearing Up=Preparándose
+Moving Up=Moverse
+Clean Cash=Efectivo limpio
+Welcome to Hyland Point=Bienvenido a Hyland Point
+You haven't recruited any dealers=No has reclutado ningún distribuidor
+Collect Dead Drop=Recolectar caída muerta
+Player Name=Nombre del jugador
+Drop=Pedido
+SCORE=PUNTAJE
+HIGH SCORE=Puntaje alto
+EGG RUN=Huevo
+Start=Comenzar
+Snake=Serpiente
+Egg Run=Huevo
+Ctrl=Control
+Pong=Apestar
+Tuesday=Martes
+Christopher\nGarcia=Christopher\nGarcía
+Paul\nAllen=Pablo\nAllen
+Chloe=Chloe
+A clear glass jar to keep various substances in. Holds 5x units of any product.=Un frasco de vidrio transparente para mantener varias sustancias. Contiene 5 veces unidades de cualquier producto.
+A small plastic baggie.  Holds 1x unit of any product.=Una pequeña bolsa de plástico.\nPosee 1x unidad de cualquier producto.
+Specially formulated oil used for lubricating the moving stuff in an engine.=Aceite especialmente formulado utilizado para lubricar las cosas móviles en un motor.
+Can be used to either gather up trash or to bag the contents of a trash can.=Se puede usar para recoger basura o para embolsar el contenido de un bote de basura.
+Stand still. You're being searched=Estarse quieto.\nTe están buscando
+All clear.=Todo claro.
+Charles=Charles
+Billy=Billy
+Ow!=¡Ay!
+'DOCKS' REGION MUST BE UNLOCKED=La región de 'muelles' debe desbloquearse
+Can I interest you in a free sample?=¿Puedo interesarle en una muestra gratuita?
+Doris=Doris
+Spiky=Puntiagudo
+Acid=Ácido
+Smug=Presumido
+Agitated=Agitado
+Bruiser=Matón
+Needin' the Green=Necesito el verde
+Packagers=Empaquetador
+Hey, that drop is ready in the alleyway behind the grocery store=Oye, nos veremos en el callejón detrás de la tienda de comestibles
+Hey, that drop is ready behind the supermarket=Oye, nos veremos detrás del supermercado
+I’ve heard you’re in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=He oído que estás en problemas. Busca un teléfono público para que hablemos.\n- U.N.
+Got it. I'll let you know when it's ready. Should be about 5 hours=Entiendo.\nTe haré saber cuándo está listo.\nDebería ser unas 5 horas
+Your drop is ready. Grab it on the east-exterior wall of Taco Ticklers=Tu pedido está lista.\nRecogelo detrás del local de Tacos.
+I've received $600 cash from you. Your debt is now paid off.=He recibido $600 en efectivo tuyo.\nYa no tienes deuda.
+Copy. I'll message you when it's ready in about 5 hours.=Okay. Te enviaré un mensaje cuando esté listo dentro de 5 horas.
+I need a dead drop:\n10x Low-Quality Pseudo=Necesito una entrega: Fármaco de baja calidad
+Heyo - if you're looking to streamline, I'm now doing deliveries. Use your deliveries app to place an order and I'll get it to you ASAP.=Heyo - Si estás buscando mercancia, ahora estoy haciendo entregas.\nen la aplicación de entregas para que compres y te llegue.
+Okay. I'll be in the west construction site for the next 6 hours.=Bueno. Estaré en el sitio de construcción del oeste dentro de 6 horas.
+I've received $400 cash from you. Your debt is now paid off.=He recibido $400 en efectivo tuyo.\nYa no tienes deuda.
+The drop is ready. You can find it behind the motel office=Tu pedido esta listo.\nPuedes encontrarlo cerca del motel.
+^I need a dead drop^:\n10x Green Crack Seed=Necesito una entrega
+I've received $405 cash from you. Your debt is now paid off.=Recibí $405 en efectivo tuyo.\nYa no tienes deuda.
+A cozy single bed to slumber in.=Una cómoda cama para tus largas horas de trabajo.
+
