@@ -1380,7 +1380,7 @@ Click and hold tap to refill watering can=Haz clic y mantén presionado el grifo
 Pour water=Verter agua
 Pour soil=Verter tierra
 Click and drag to cut soil bag=Click y arrasta para cortar la bolsa
-r:Pour soil into pot (.+)%=Verter tierra $1%)
+r:Pour soil into pot (.+)%=Vierte la tierra $1%)
 
 While dragging an item, press <color\=#88CBFF>A</color> or <color\=#88CBFF>D</color> to rotate it.=Mientras arrastras un objeto, presiona <color\=#88CBFF>A</color> o <color\=#88CBFF>D</color> para rotarlo.
 
@@ -1540,7 +1540,7 @@ I haven't had my fix in too long, I really need something right now bro. You got
 
 Big ol' cast iron skillet. Great for cooking and beating the shit out of people (but not at the same time).=Una gran sartén de hierro fundido. Genial para cocinar y para golpear a la gente (pero no al mismo tiempo).
 
-Howdy, I'm Marco. If you're looking for a fresh paint job, or need your car towed, I'm the fella for the job.=Hola, soy Marco. Si buscas un trabajo de pintura nuevo o necesitas que remolquen tu coche, soy el indicado para el trabajo.
+Howdy, I'm Marco. If you're looking for a fresh paint job, or need your car towed, I'm the fella for the job.=Hola, soy Marco. Si buscas un trabajo de pintura nuevo o necesitas que remolquen tu coche, soy el indicado.
 
 Enter price...=Introduce el precio...
 
@@ -2765,7 +2765,7 @@ Purchase at least one mixing ingredient=Compra al menos un ingrediente para mezc
 
 r:Working on it. Should be ready in around (\d+) hours (\d+) min=Trabajando en esto. Debería estar listo en alrededor de $1 Hs $2 Min
 
-r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Entendido. Te avisaré cuando esté listo. Debería ser en alrededor de $1 Hs $2 Min
+r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Entendido. Te avisaré cuando esté listo. Debería estar en $1 Hs $2 Min
 
 Your drop is ready. Grab it in the alleyway behind the laundromat=Tu entrega está lista. Recógela en el callejón detrás de la lavandería
 
@@ -2847,7 +2847,7 @@ What's up homedog, what can I do for you?=¿Qué pasa, amigo? ¿En qué puedo ay
 
 I'd like to buy a skateboard=Me gustaría comprar una skateboard
 
-Can I interest you in a free sample=¿Te interesa una muestra gratis?
+Can I interest you in a free sample?=¿Te interesa una muestra gratis?
 
 Wicked sick my man, which board are you looking for?=¡Genial, amigo! ¿Qué tabla estás buscando?
 
@@ -3034,8 +3034,9 @@ Send Message=Enviar Mensaje
 Cancel=Cancelar
 Carol\nMartinez=Villancico\nMartínez
 Current Time=Hora actual
-Late Night=Nota tarde
-
+Late Night=Noche tarde
+Afternoon=Tarde
+Night=Noche
 Morning=Mañana
 S.W=SUDOESTE
 Barn=Granero
@@ -3126,7 +3127,7 @@ Coca Seed=Semilla de coca
 OG Kush Seed=Semilla de og kush
 Sour Diesel Seed=Semilla de Sour Diesel
 Green Crack Seed=Semilla de Green Crack
-Granddaddy Purple Seed=Semilla morada de abuelo
+Granddaddy Purple Seed=Semilla Granddaddy Purple
 High Bun=Moño
 Double Top Knot=Doble nudo superior
 Side-part Bob=Bob a la partida lateral
@@ -3205,6 +3206,7 @@ Needin' the Green=Necesito el verde
 Packagers=Empaquetador
 Hey, that drop is ready in the alleyway behind the grocery store=Oye, nos veremos en el callejón detrás de la tienda de comestibles
 Hey, that drop is ready behind the supermarket=Oye, nos veremos detrás del supermercado
+Hey, that drop is ready on the east-exterior wall of Taco Ticklers=Oye, tu pedido está listo en la pared exterior este de Taco Ticklers.
 I’ve heard you’re in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=He oído que estás en problemas. Busca un teléfono público para que hablemos.\n- U.N.
 Got it. I'll let you know when it's ready. Should be about 5 hours=Entiendo.\nTe haré saber cuándo está listo.\nDebería ser unas 5 horas
 Your drop is ready. Grab it on the east-exterior wall of Taco Ticklers=Tu pedido está listo.\nRecógelo detrás del local de Tacos.
@@ -3224,6 +3226,9 @@ You know everything you need to get yourself established. I'll call you later wh
 • Talk to the real estate agent=• Habla con el agente inmobiliario
 • Talk to the dealership manager=• Habla con el vendedor de autos
 • Talk to the mechanic=• Habla con el mecánico
+Talk to the real estate agent=Habla con el agente inmobiliario
+Talk to the dealership manager=Habla con el vendedor de autos
+Talk to the mechanic=Habla con el mecánico
 r:Mix a strain worth at least (.+)$=Mezcla una variedad con un valor de al menos $1
 Pot Already full=Maceta llena
 Already contains seed=Ya contiene semilla
@@ -3235,7 +3240,7 @@ Bag trash=Embolsar
 Hi boss, what do you need?=Hola jefe, qué necesitas?
 I need to trade some items=Necesito intercambiar algunos productos
 How do I assign customers to you?=Cómo te asigno clientes?
-Place packaged product here and the dealer will sell it to assigned customers=Coloca el <color\=#7FFD63>producto empaquetado</color> aquí y el vendedor lo venderá a los clientes asignados
+Place <color\=#7FFD63>packaged product</color> here and the dealer will sell it to assigned customers=Coloca el <color\=#7FFD63>producto empaquetado</color> aquí y el vendedor lo venderá a los clientes asignados
 Insufficient online balance. Visit an ATM to deposit cash.=Insuficiente dinero en la cuenta. Visita un cajero para depositar.
 Request Dead Drop=Solicitar entrega secreta
 Select items to order from Albert=Selecciona los productos que necesitas de Albert
@@ -3245,3 +3250,28 @@ You can assign customers to me with the dealer management app on your phone.=Tu 
 Inventory won't fit everything. Some Items will be placed on the pallets.=El inventario no puede contener todo. Algunos artículos se colocarán en los pallets.
 Access delivery bay=Acceder al área de entrega
 Delivery bay=Área de entrega
+
+Mixing in progress= Mezcla en progreso
+Contains items= Contiene artículos
+Outpot slot is full!= ¡La ranura de salida está llena!
+Where is my room?= ¿Dónde está mi habitación?
+Let me try...= Déjame intentar...
+Welcome to Hyland Auto. What can I do for you?= Bienvenido a Hyland Auto. ¿En qué puedo ayudarte?
+I'd like to purchase a vehicle= Me gustaría comprar un vehículo
+Bye= Adiós
+Fantastic! Which model are you interested in?= ¡Fantástico! ¿En qué modelo estás interesado?
+I'd like to repaint my vehicle= Me gustaría repintar mi vehículo
+VEHICLE MUST BE PARKED INSIDE THE SHOP= EL VEHÍCULO DEBE ESTAR ESTACIONADO DENTRO DEL TALLER
+Hey there, what can I do for you?= Hola, ¿en qué puedo ayudarte?
+I'd like to purchase a property= Me gustaría comprar una propiedad
+I'd like to purchase a business= Me gustaría comprar un negocio
+That's great to hear. Which property are you interested in?= Qué bien. ¿En qué propiedad estás interesado?
+Great idea! Which business are you interested in?= ¡Gran idea! ¿En qué negocio estás interesado?
+10K in earnings - not bad at all! Soon you'll have the capital needed to start manufacturing meth. But first, you're gonna need to purchase equipment.=10K en ganancias, ¡nada mal! Pronto tendrás el capital necesario para empezar a fabricar metanfetamina. Pero primero, necesitarás comprar equipo.
+You best bet for getting the tools you need is the warehouse. It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers, for hire - all the good stuff.=Tu mejor opción para conseguir las herramientas que necesitas es el almacén. Es el lugar local donde puedes hacer negocios con... personas de ideas afines. Armas, equipo especializado, trabajadores en alquiler, todo lo bueno.
+It's the big brick building behind the Liquor store. Head down there and see if you can mosey your way in. Just keep in mind they'll only let you in once you've built a solid rep for yourself.=Es el gran edificio de ladrillo detrás de la licorería. Ve hasta allí y mira si puedes colarte. Solo ten en cuenta que solo te dejarán entrar cuando hayas construido una buena reputación.
+Gain access to the warehouse= Consigue acceso al almacén
+Can I come in?= ¿Puedo entrar?
+Who the hell are you? Get lost.= ¿Quién demonios eres? Lárgate.
+
+
