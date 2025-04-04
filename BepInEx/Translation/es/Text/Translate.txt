@@ -619,13 +619,15 @@ Multiplayer is in beta, there may be bugs.=El modo multijugador está en beta, p
 
 NPC Name=Nombre del NPC
 
-r:Market Value: \$(\d{1,3}(?:,\d{3})*)=Valor de Mercado: \$$1
+r:Market Value: (.+)$=Valor de Mercado: $1
 
 Speed Up Search=Acelerar Búsqueda
 
 Pickpocket=Robar
 
-Dismiss=Despedir
+Dismiss=Descartar
+
+Wait for the mix to complete=Espera a que la mezcla termine
 
 Ingredient=Ingrediente
 
@@ -1363,7 +1365,7 @@ Interact / Drag=Interactuar / Arrastrar
 
 Click baggie to seal=Haz clic en la bolsita para sellar
 
-Place packaging in hopper=Coloca el empaque en el embudo
+Place packaging in hopper=Coloca el empaque en el cajón
 
 Drag the OG Kush into your inventory=Arrastra el OG Kush a tu inventario
 
@@ -1376,6 +1378,9 @@ Fill watering can=Llenar regadera
 Click and hold tap to refill watering can=Haz clic y mantén presionado el grifo para rellenar la regadera
 
 Pour water=Verter agua
+Pour soil=Verter tierra
+Click and drag to cut soil bag=Click y arrasta para cortar la bolsa
+r:Pour soil into pot (.+)%=Verter tierra $1%)
 
 While dragging an item, press <color\=#88CBFF>A</color> or <color\=#88CBFF>D</color> to rotate it.=Mientras arrastras un objeto, presiona <color\=#88CBFF>A</color> o <color\=#88CBFF>D</color> para rotarlo.
 
@@ -2746,7 +2751,7 @@ Used to easlly collect trash.=Usado para recoger la basura facilmente.
 
 Basic potting soil to grow stuff in.=Tierra básica para plantar.
 
-Remember to list your new product for sale in the product manager app.=Recuerda listar tu nuevo producto para la venta en la app de Productos.
+Remember to list your new\n product for sale in the product\n manager app.=Recuerda listar tu nuevo\n producto para la venta en la\n app de Productos.
 
 Purchase a mixing station and make your first custom mix.=Compra una estación de mezcla y has tu primera mezcla personalizada.
 
@@ -2794,11 +2799,11 @@ I guess that's fine. When?=Supongo que está bien. Cuándo?
 
 I've heard you're in some trouble. Best not to talk over your mobile phone. Go find a payphone. - U.N.=He escuchado que estás en problemas. Mejor no hablar por el teléfono móvil. Ve a buscar un teléfono público. - U.N.
 
-Insufficient online balance=Balance en linea insuficiente
+Insufficient online balance=Saldo en linea insuficiente
 
 Small Storage Rack=Estante de almacenamiento pequeño
 
-Hi boss, just letting you know I'm out of product.=Hola jefe, solo le aviso que me he quedado sin producto.
+Hi boss, just letting you know I'm out of product.=Hola Jefe, le aviso que me he quedado sin producto.
 
 Cuke=Coka
 
@@ -2834,7 +2839,7 @@ Can't sleep before 6:00 PM=No puedes dormir antes de las 6 PM
 
 Press to Start=Presiona para iniciar
 
-CURFEW TONIGHT=TOQUE DE QUEDA
+CURFEW TONIGHT\n 9PM - 5AM=TOQUE DE QUEDA\n 9PM - 5AM
 
 CURFEW SOON=TOQUE DE QUEDA
 
@@ -2848,7 +2853,17 @@ Wicked sick my man, which board are you looking for?=¡Genial, amigo! ¿Qué tab
 
 INSUFFICIENT CASH=DINERO INSUFICIENTE 
 
-USE ATM=USAR CAJERO
+Use ATM=USAR CAJERO
+
+CANCEL=CANCELAR
+
+r:DEPOSIT (.+)$=DEPOSITAR $1
+
+Select amount to deposit=Selecciona el monto a depositar
+Success!=Completado!
+You have deposited (.+)$=Acabas de depositar $1
+RETURN TO MENU=VOLVER AL MENU
+I'M DONE=TERMINAR
 
 Hello there! What can I do for you?=Hola, ¿en qué puedo ayudarte?
 
@@ -3021,7 +3036,6 @@ Carol\nMartinez=Villancico\nMartínez
 Current Time=Hora actual
 Late Night=Nota tarde
 
-Night=Noche
 Morning=Mañana
 S.W=SUDOESTE
 Barn=Granero
@@ -3037,7 +3051,6 @@ Online balance only=Saldo en línea solamente
 BETTER LUCK NEXT TIME...=Mejor suerte la próxima vez ...
 Exit Vehicle=Salir del Vehículo
 NEW REGION UNLOCKED!=Nueva región desbloqueada!
-Open Hatch=Escotilla abierta
 Repaint vehicle=Vehículo de repintado
 CORRECT!=¡CORRECTO!
 BLACKJACK!=¡BLACKJACK!
@@ -3086,7 +3099,7 @@ Move Camera=Mover la cámara
 Ride the Bus=Montar en el autobús
 BUST!=¡BUSTO!
 Stand=Pararse
-Tattoo Shop=Tatuaje
+Tattoo Shop=Tienda tatuajes
 Manor=Señorío
 Motel Room=Habitación del motel
 Wait 46s=Espera 46s
@@ -3098,7 +3111,6 @@ Speed Dealer Shades=Distribuidores de Speed ​​Distribuidores
 Combat Boots=Botas de combate
 Fingerless Gloves=Guantes sin dedos
 Porkpie Hat=Sombrero de cerdo
-Paul=Pablo
 Chef Hat=Gorro de chef
 Cowboy Hat=Sombrero de vaquero
 Collar Jacket=Chaqueta
@@ -3112,10 +3124,9 @@ Rectangular Frame Glasses=Gafas de marco rectangular
 Speed Dealer Sunglasses=Gafas de sol de distribuidor de velocidad
 Coca Seed=Semilla de coca
 OG Kush Seed=Semilla de og kush
-Sour Diesel Seed=Semilla de diesel agrio
-Green Crack Seed=Semilla de grieta verde
+Sour Diesel Seed=Semilla de Sour Diesel
+Green Crack Seed=Semilla de Green Crack
 Granddaddy Purple Seed=Semilla morada de abuelo
-Afro=Afro
 High Bun=Moño
 Double Top Knot=Doble nudo superior
 Side-part Bob=Bob a la partida lateral
@@ -3131,9 +3142,6 @@ Mixing Station Mk2=Estación de mezcla MK2
 
 Shitbox=Mierda
 Stubble=Rastrojo
-Banana=Banana
-Paracetamol=Paracetamol
-Viagra=Viagra
 Horse Semen=Semen de caballos
 Coffee Table=Mesa de centro
 Wooden Square Table=Mesa cuadrada de madera
@@ -3142,7 +3150,6 @@ Floor Lamp=Lámpara de piso
 TV=TELEVISOR
 
 Display Cabinet=Gabinete de exhibición
-Trash Grabber=Pinza de Agarre
 Trash Can=Bote de basura
 Hounddog=Hounddog
 Veeper=Veeper
@@ -3161,13 +3168,13 @@ Dodgy Dealing=Trato dudoso
 Packin'=Empacado
 Keeping it Fresh=Manteniéndolo fresco
 Money Management=Administración de dinero
-Wretched Hive of Scum and Villainy=Wretched Hive of Scum and Villany
+Wretched Hive of Scum and Villainy=Colmena Miserable de Escoria y Villanía
 Gearing Up=Preparándose
 Moving Up=Moverse
 Clean Cash=Efectivo limpio
 Welcome to Hyland Point=Bienvenido a Hyland Point
-You haven't recruited any dealers=No has reclutado ningún distribuidor
-Collect Dead Drop=Recolectar caída muerta
+You haven't recruited any dealers=No has reclutado ningún dealer
+Collect Dead Drop=Recolectar pedido secreto
 Player Name=Nombre del jugador
 Drop=Pedido
 SCORE=PUNTAJE
@@ -3176,7 +3183,6 @@ EGG RUN=Huevo
 Start=Comenzar
 Snake=Serpiente
 Egg Run=Huevo
-Ctrl=Control
 Pong=Apestar
 Tuesday=Martes
 Christopher\nGarcia=Christopher\nGarcía
@@ -3188,12 +3194,8 @@ Specially formulated oil used for lubricating the moving stuff in an engine.=Ace
 Can be used to either gather up trash or to bag the contents of a trash can.=Se puede usar para recoger basura o para embolsar el contenido de un bote de basura.
 Stand still. You're being searched=Estarse quieto.\nTe están buscando
 All clear.=Todo claro.
-Charles=Charles
-Billy=Billy
 Ow!=¡Ay!
 'DOCKS' REGION MUST BE UNLOCKED=La región de 'muelles' debe desbloquearse
-Can I interest you in a free sample?=¿Puedo interesarle en una muestra gratuita?
-Doris=Doris
 Spiky=Puntiagudo
 Acid=Ácido
 Smug=Presumido
@@ -3205,15 +3207,41 @@ Hey, that drop is ready in the alleyway behind the grocery store=Oye, nos veremo
 Hey, that drop is ready behind the supermarket=Oye, nos veremos detrás del supermercado
 I’ve heard you’re in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=He oído que estás en problemas. Busca un teléfono público para que hablemos.\n- U.N.
 Got it. I'll let you know when it's ready. Should be about 5 hours=Entiendo.\nTe haré saber cuándo está listo.\nDebería ser unas 5 horas
-Your drop is ready. Grab it on the east-exterior wall of Taco Ticklers=Tu pedido está lista.\nRecogelo detrás del local de Tacos.
-I've received $600 cash from you. Your debt is now paid off.=He recibido $600 en efectivo tuyo.\nYa no tienes deuda.
+Your drop is ready. Grab it on the east-exterior wall of Taco Ticklers=Tu pedido está listo.\nRecógelo detrás del local de Tacos.
+r:I've received (.+)$ cash from you. Your debt is now paid off.=He recibido $1 en efectivo tuyo. Ya no tienes deuda.
 Copy. I'll message you when it's ready in about 5 hours.=Okay. Te enviaré un mensaje cuando esté listo dentro de 5 horas.
 I need a dead drop:\n10x Low-Quality Pseudo=Necesito una entrega: Fármaco de baja calidad
 Heyo - if you're looking to streamline, I'm now doing deliveries. Use your deliveries app to place an order and I'll get it to you ASAP.=Heyo - Si estás buscando mercancia, ahora estoy haciendo entregas.\nen la aplicación de entregas para que compres y te llegue.
 Okay. I'll be in the west construction site for the next 6 hours.=Bueno. Estaré en el sitio de construcción del oeste dentro de 6 horas.
-I've received $400 cash from you. Your debt is now paid off.=He recibido $400 en efectivo tuyo.\nYa no tienes deuda.
-The drop is ready. You can find it behind the motel office=Tu pedido esta listo.\nPuedes encontrarlo cerca del motel.
+The drop is ready. You can find it behind the motel office=Tu pedido está listo.\nPuedes encontrarlo cerca del motel.
 ^I need a dead drop^:\n10x Green Crack Seed=Necesito una entrega
-I've received $405 cash from you. Your debt is now paid off.=Recibí $405 en efectivo tuyo.\nYa no tienes deuda.
 A cozy single bed to slumber in.=Una cómoda cama para tus largas horas de trabajo.
+Change Amount=Cambiar Monto
+Collect the new product=Recoge el nuevo producto
+That's your first mix done! There's a wide range of different ingredients with unique effects. Each one will affect the value of your product differently.=¡Tu primera mezcla está lista! Hay una amplia variedad de ingredientes diferentes con efectos únicos. Cada uno afectará el valor de tu producto de manera distinta.
+Keep trying different mix recipes, and you'll be able to make some seriously valuable product.=Sigue probando diferentes recetas de mezcla, y podrás crear productos realmente valiosos.
+You know everything you need to get yourself established. I'll call you later when you're ready to start manufacturing some harder stuff...=Sabes todo lo que necesitas para establecerte. Te llamaré más tarde cuando estés listo para empezar a fabricar cosas más fuertes...
+• Talk to the real estate agent=• Habla con el agente inmobiliario
+• Talk to the dealership manager=• Habla con el vendedor de autos
+• Talk to the mechanic=• Habla con el mecánico
+r:Mix a strain worth at least (.+)$=Mezcla una variedad con un valor de al menos $1
+Pot Already full=Maceta llena
+Already contains seed=Ya contiene semilla
+Sow seed=Sembrar semilla
+Click cap to remove=Click en la tapa para remover
+Drop seed into hole=Tira la semilla dentro del hoyo
+r:Click soil chunks to bury seed (.*)\/(.*)=Haz clic en los montones de tierra para enterrar la semilla $1/$2
+Bag trash=Embolsar
+Hi boss, what do you need?=Hola jefe, qué necesitas?
+I need to trade some items=Necesito intercambiar algunos productos
+How do I assign customers to you?=Cómo te asigno clientes?
+Place packaged product here and the dealer will sell it to assigned customers=Coloca el <color\=#7FFD63>producto empaquetado</color> aquí y el vendedor lo venderá a los clientes asignados
+Insufficient online balance. Visit an ATM to deposit cash.=Insuficiente dinero en la cuenta. Visita un cajero para depositar.
+Request Dead Drop=Solicitar entrega secreta
+Select items to order from Albert=Selecciona los productos que necesitas de Albert
 
+No worries, here you are.=No te preocupes, esto es tuyo.
+You can assign customers to me with the dealer management app on your phone.=Tu puedes asignarme compradores con la app Dealers en tu teléfono.
+Inventory won't fit everything. Some Items will be placed on the pallets.=El inventario no puede contener todo. Algunos artículos se colocarán en los pallets.
+Access delivery bay=Acceder al área de entrega
+Delivery bay=Área de entrega
