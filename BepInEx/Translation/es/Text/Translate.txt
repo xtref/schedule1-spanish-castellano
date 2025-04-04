@@ -3274,4 +3274,6 @@ Gain access to the warehouse= Consigue acceso al almacén
 Can I come in?= ¿Puedo entrar?
 Who the hell are you? Get lost.= ¿Quién demonios eres? Lárgate.
 
-
+Your drop is ready. Grab it under the west bridge= Tu entrega está lista. Recógela bajo el puente oeste.
+We've been working together for a while now, and you've proven to be quite reliable.= Hemos estado trabajando juntos por un tiempo, y has demostrado ser bastante confiable.
+If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.= Si necesitas pedir cantidades más grandes de suministros, ahora puedes organizar una reunión en persona conmigo. Solo mándame un mensaje.
