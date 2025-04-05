@@ -3334,3 +3334,4 @@ r:Deal (.*)$= r:Trato $1
 Thank you. Bring me some product and assign some customers to me, and I'll get to work.= Gracias. Tráeme algo de producto y asígname algunos clientes, y me pondré a trabajar.
 
 Pawn shop west wall=Pared oeste de la casa de empeño
+Not right now=
