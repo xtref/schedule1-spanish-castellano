@@ -2,6 +2,10 @@
 Al no existir por ahora una traducción oficial por parte de los desarrolladores, se ha decidido buscar todas las palabras y frases que están en el juego y traducirlas al español.
 
 Existen 2 versiones, Solo traducción y otra con MelonLoader (Gracias Britis)
+
+🖥 En la carpeta Archivo Traducción contendrá el archivo que se debe actualizar para ver nuevas traducciones en el juego, no tiene que volver a instalar todo, sólamente descargar el archivo Translate.txt y reemplazarlo. 
+
+
 # 🔰 Sólo traducción
 :point_right:  [Ultima versión ](https://github.com/Beetario/schedule1_Spanish/archive/refs/heads/main.zip) :point_left:
 
