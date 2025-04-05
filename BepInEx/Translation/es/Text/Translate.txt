@@ -1388,7 +1388,7 @@ Rotate Held Item=Rotar Objeto Sostenido
 
 Move=Mover
 
-Pour water over target=Verter agua sobre el objetivo
+Pour water over target=Vierte agua en los puntos
 
 Press <color\=#88CBFF>Tab</color> to open your phone.=Presiona <color\=#88CBFF>Tab</color> para abrir tu teléfono.
 
@@ -1988,7 +1988,7 @@ Stay here while I search your vehicle=Quédate aquí mientras reviso tu vehícul
 
 Oh yeah, boss man told me about you. Come in.=Ah, sí, el jefe me habló de ti. Entra.
 
-Melee weapons - blunt and sharp, and of course, firearms. Ammo too. I get more stuff in stock every now and then.=Armas cuerpo a cuerpo - contundentes y afiladas, y por supuesto, armas de fuego. También munición. Recibo más cosas en stock de vez en cuando.
+Melee weapons - blunt and sharp, and of course, firearms. Ammo too. I get more stuff in stock every now and then.=Armas cuerpo a cuerpo, por supuesto, armas de fuego y también munición. Recibo más cosas en stock de vez en cuando.
 
 Are these weapons legal?=¿Estas armas son legales?
 
@@ -2082,7 +2082,7 @@ Open safe=Abrir caja fuerte
 
 Safe=Caja fuerte
 
-You the new guy in town?=¿Eres el nuevo en la ciudad?
+You the new guy in town?=Eres el nuevo en la ciudad?
 
 Probably=Probablemente
 
@@ -2090,9 +2090,9 @@ Haha very cute. I’m Manny. I’m the local fixer. You looking to hire workers,
 
 How much does it cost to hire someone?=¿Cuánto cuesta contratar a alguien?
 
-Depends on what sort of talent you need. Cleaners and Packagers are pretty cheap, Botanists a bit more, and Chemists are the most expensive.=Depende del tipo de talento que necesites. Los limpiadores y empacadores son bastante baratos, los botánicos un poco más caros y los químicos son los más costosos.
+Depends on what sort of talent you need. Cleaners and Packagers are pretty cheap, Botanists a bit more, and Chemists are the most expensive.=Depende de lo que necesites. Los limpiadores y empacadores son bastante baratos, los botánicos un poco más caros y los químicos son los más costosos.
 
-Evening. What do you need?=Buenas noches. ¿Qué necesitas?
+Evening. What do you need?=B. Noches, Qué necesitas?
 
 Nothing=Nada
 
@@ -2108,7 +2108,7 @@ Handler (packaging, moving items)=Manipulador (embalaje, movimiento de objetos)
 
 Chemist (chemistry station, lab oven, cauldron, mixing station)=Químico (estación química, horno de laboratorio, caldero, estación de mezcla)
 
-Where you do want them? Keep in mind you'll have to provide a bed for this employee.=¿Dónde los quieres? Ten en cuenta que deberás proporcionar una cama para este empleado.
+Where you do want them? Keep in mind you'll have to provide a bed for this employee.=Dónde lo quieres? Ten en cuenta que le deberás proporcionar una cama.
 
 sr:"^That'll be a <color=#54E717>$(\d{1,3}(?:,\d{3})?)</color> signing free, and the employee's daily wage will be <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color>.$"=Será una tarifa de firma de <color=#54E717>$1</color>, y el salario diario del empleado será de <color=#54E717>$2</color>.
 
@@ -3247,7 +3247,7 @@ Select items to order from Albert=Selecciona los productos que necesitas de Albe
 
 No worries, here you are.=No te preocupes, esto es tuyo.
 You can assign customers to me with the dealer management app on your phone.=Tu puedes asignarme compradores con la app Dealers en tu teléfono.
-Inventory won't fit everything. Some Items will be placed on the pallets.=El inventario no puede contener todo. Algunos artículos se colocarán en los pallets.
+Inventory won't fit everything. Some items will be placed on the pallets.=El inventario no puede contener todo. Algunos artículos se colocarán en los pallets.
 Access delivery bay=Acceder al área de entrega
 Delivery bay=Área de entrega
 
@@ -3276,4 +3276,41 @@ Who the hell are you? Get lost.= ¿Quién demonios eres? Lárgate.
 
 Your drop is ready. Grab it under the west bridge= Tu entrega está lista. Recógela bajo el puente oeste.
 We've been working together for a while now, and you've proven to be quite reliable.= Hemos estado trabajando juntos por un tiempo, y has demostrado ser bastante confiable.
-If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.= Si necesitas pedir cantidades más grandes de suministros, ahora puedes organizar una reunión en persona conmigo. Solo mándame un mensaje.
+If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.= Si necesitas pedir cantidades más grandes, ahora puedes organizar una reunión en persona conmigo. Solo mándame un mensaje.
+
+Combine ingredients in bowl (.*)\/(.*)=Combina los ingredientes en el bowl $1/$2
+We need to meet up=Necesito que nos reunamos
+r:Agreed. I'll be next to the mayor's house for the next (\d+) hours.= De acuerdo. Estaré junto a la casa del alcalde durante las próximas $1 horas.
+r:Copy. I'll message you when it's ready in about (\d+) hours.= Copiado. Te enviaré un mensaje cuando esté listo, en unas $1 horas.
+
+Howdy buddy. if you're looking for protection, you've come to the right place.= Hola amigo. Si buscas protección, has venido al lugar correcto.
+What do you sell?= ¿Qué vendes?
+Thanks= Gracias
+Thanks...= Gracias...
+Yeahhhh, more or less. Most of them are probably not completely non-illegal… What're you askin' for anywho?= Sííí, más o menos. La mayoría probablemente no son completamente legales... ¿Qué es lo que estás buscando, de todos modos?
+Hello there, you smell nice...= Hola, hueles bien...
+Huh?= ¿Eh?
+Piss off= Lárgate
+Hehe nothing... Just Oscar being friendly. If you need special equipment or supplier, Oscar has what you need.= Jeje, nada... Solo Oscar siendo amable. Si necesitas equipo especial o suministros, Oscar tiene lo que necesitas.
+What sort of stuff do you sell?= ¿Qué tipo de cosas vendes?
+Oscar sell special equipment and supplier.= Oscar vende equipo especial y suministros.
+Yeah okay thanks...= Sí, bueno, gracias...
+Evening' there, what can i do for ya?= Buenas noches, ¿en qué puedo ayudarte?
+Flimsy plastic pot made in China.?= Maceta de plástico endeble hecha en China.¿
+Used to hang grow lights above pots.= Se usa para colgar luces de cultivo sobre macetas.
+Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luz de cultivo halógena barata y simple. Debe colocarse en un soporte suspendido.
+A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Luz de cultivo LED simple. Emite una luz púrpura que estimula el crecimiento de las plantas un 15% más rápido que la halógena. Debe colocarse en un soporte suspendido.
+That'll be a $1000 signing fee, and the employee's daily wage will be $200.= La tarifa de registro será de $1000 y el salario diario del empleado será de $200.
+Deal= Trato hecho
+Benji is out dealing= Benji está afuera haciendo tratos
+So you'd like to purchase bungalow? Payments are made from your online balance.= ¿Así que quieres comprar un bungalow? Los pagos se hacen desde tu saldo en línea.
+Actually, nevermind= En realidad, olvídalo
+Outstanding, the property has been transferred to your name.= Excelente, la propiedad ha sido transferida a tu nombre.
+Contains trash= Contiene basura
+Hello sir. Ready to peruse the supplies?= Hola señor. ¿Listo para revisar los suministros?
+Deal Expired= Trato expirado
+BUY= COMPRAR
+Assing a station to the chemist= Asignar una estación al químico
+Chemist= Químico
+Handler= Encargado
+Mixing Station= Estación de mezcla
