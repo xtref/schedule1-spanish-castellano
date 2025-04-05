@@ -1830,7 +1830,7 @@ r:"^\$([0-9]+)K$"=$$1K
 
 Combine ingredients in beaker=Combina los ingredientes en el béquer
 
-r:Stir mixture (.*)=Mezcla la mezcla $1
+r:Stir mixture (.*)=Agita la mezcla $1
 
 Lower boiling flask=Baja el matraz de ebullición
 
@@ -3208,7 +3208,7 @@ Hey, that drop is ready in the alleyway behind the grocery store=Oye, nos veremo
 Hey, that drop is ready behind the supermarket=Oye, nos veremos detrás del supermercado
 Hey, that drop is ready on the east-exterior wall of Taco Ticklers=Oye, tu pedido está listo en la pared exterior este de Taco Ticklers.
 I’ve heard you’re in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=He oído que estás en problemas. Busca un teléfono público para que hablemos.\n- U.N.
-Got it. I'll let you know when it's ready. Should be about 5 hours=Entiendo.\nTe haré saber cuándo está listo.\nDebería ser unas 5 horas
+Got it. I'll let you know when it's ready. Should be about 5 hours=Entiendo.\nTe haré saber cuándo esté listo.\nDebería ser unas 5 horas
 Your drop is ready. Grab it on the east-exterior wall of Taco Ticklers=Tu pedido está listo.\nRecógelo detrás del local de Tacos.
 r:I've received (.+)$ cash from you. Your debt is now paid off.=He recibido $1 en efectivo tuyo. Ya no tienes deuda.
 Copy. I'll message you when it's ready in about 5 hours.=Okay. Te enviaré un mensaje cuando esté listo dentro de 5 horas.
@@ -3311,6 +3311,25 @@ Hello sir. Ready to peruse the supplies?= Hola señor. ¿Listo para revisar los 
 Deal Expired= Trato expirado
 BUY= COMPRAR
 Assing a station to the chemist= Asignar una estación al químico
-Chemist= Químico
-Handler= Encargado
+1x Chemist= Químico
+1x Handler= Encargado
 Mixing Station= Estación de mezcla
+
+WITHDRAW=
+r:Assigned Stations (.*)=Estaciones Asignadas $1
+Unlock this dealer by reaching 'Friendly' with one of their connections.= Desbloquea a este vendedor alcanzando el nivel de "Amistoso" con uno de sus contactos.
+Hey, that drop is ready on the pawn shop west wall= Hey, esa entrega está lista en la pared oeste de la casa de empeños.
+Hey, that drop is ready outside apartment 2 of the western apartment block= Hey, esa entrega está lista afuera del apartamento 2 del bloque occidental de apartamentos.
+Evenin' there, what can I do for ya?= Buenas noches, ¿en qué puedo ayudarte?
+Cook liquid meth at the chemistry station= Cocina metanfetamina líquida en la estación de química.
+Thanks, Hey, my friend Molly Presly is a dealer and can help you move your product. You should go speak to them.= Gracias. Oye, mi amiga Molly Presly es una distribuidora y puede ayudarte a mover tu producto. Deberías ir a hablar con ella.
+Pseudoephedrine in tablet form,\A common precursor for meth.= Pseudoefedrina en forma de tabletas,\Un precursor común para la metanfetamina.
+Bake the liquid meth with the lab oven= Hornea la metanfetamina líquida con el horno de laboratorio.
+Small battery used to power stuff.= Pequeña batería usada para alimentar dispositivos.
+Chemical element that is an essential nutrient in a healthy diet. It also has other purposes.= Elemento químico que es un nutriente esencial en una dieta saludable. También tiene otros usos.
+
+r:(.*),Contruction site=1$, Sitio de construcción
+Do you want to work for me as a distributor?= ¿Quieres trabajar para mí como distribuidor?
+Alright, I'll be a dealer for you but there is a $1000 signing fee, and I'll take a 20% cut of each sale. We got a deal?= Está bien, seré tu distribuidor, pero hay una tarifa de registro de $1000 y tomaré un 20% de cada venta. ¿Tenemos un trato?
+r:Deal (.*)$= r:Trato $1
+Thank you. Bring me some product and assign some customers to me, and I'll get to work.= Gracias. Tráeme algo de producto y asígname algunos clientes, y me pondré a trabajar.
