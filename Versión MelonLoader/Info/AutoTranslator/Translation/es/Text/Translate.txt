@@ -1,0 +1,3336 @@
+##Menu Principal##
+TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibidas.\n\nLos procesos mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos - no lograrás crear drogas, pero podrías causarte daños graves.\n\nPor favor, no uses drogas.\n\nTraducido al Español por Beetar. 
+\n\nVersión con MelonLoader, Gracias Britis.
+
+Back=Volver
+
+Esc=Esc
+
+BETA=BETA
+
+Quit=Salir
+
+Credits=Agradecimientos
+
+Settings=Configuraciones
+
+New Game=Nuevo juego
+
+Continue=Continuar
+
+Back=Volver
+
+<Loading Message>=<Mensaje de carga>
+
+Loading...=Cargando...
+
+You'll play the prologue in singleplayer\nand join your friends once complete.=Jugarás el prólogo en modo un jugador\ny podrás unirte a tus amigos cuando lo completes.
+
+Prologue=Prólogo
+
+Leave=Abandonar
+
+r:Lobby \((\d+)/(\d+)\)=Lobby ($1/$2)
+
+Invite Friends=Invitar
+
+Tylah Cannell=Tylah Cannell
+
+Voice Actors=Actores de Voz
+
+Soundtrack by=Banda sonora por
+
+TVGS=TVGS
+
+Will Jackson=Will Jackson
+
+Graffiti by=Graffiti por
+
+Cody To=Cody To
+
+Created by =Creado por
+
+Debbie Cannell=Debbie Cannell
+
+Adam Walton=Adam Walton
+
+KAESUL=KAESUL
+
+Zac Williams=Zac Williams
+
+Interact=Interactuar
+
+View Avatar=Avatar
+
+Right=Derecha
+
+Texts=Chats
+
+Control=CTRL
+
+Sprint=Correr
+
+Flashlight=Linterna
+
+Journal=Diario
+
+Graphics=Gráficos
+
+Invert Y Axis=<size\=13>Invertir eje Y</size>
+
+Space=Espacio
+
+Jump=Saltar
+
+Use/Drag/Attack=<size\=10>Usar/Arrastar\n/Atacar</size>
+
+Pick up=Recoger
+
+Controls=Controles
+
+Mouse Sensitivity=<size\=12>Sensibilidad del Mouse</size>
+
+Forward=Avanzar
+
+Phone=Teléfono
+
+Backward=Retroceder
+
+Audio=Audio
+
+Sprint Mode=Modo de correr
+
+Map=Mapa
+
+Left=Izquierda
+
+Display=Ventana
+
+Crouch=Agachar
+
+Press=Presionar
+
+Target Framerate=Tasa de Fotogramas
+
+Resolution=Resolución
+
+Interface Scale=Escala de Interfaz
+
+VSync=VSync
+
+Camera Bobbing=Bamboleo de Cámara
+
+Display Mode=Modo de Visualización
+
+Fullscreen Window=Pantalla Completa
+
+Apply Settings=Aplicar Configuración
+
+Revert=Revertir
+
+Keep settings?=¿Confirmar configuración?
+
+Confirm=Confirmar
+
+r:Reverting in (\d+(\,\d+)?) seconds=Revertir en $1 segundos
+
+Ultra=Ultra
+
+Active Display=Pantalla Activa
+
+r:Monitor (\d+)=Monitor $1
+
+SMAA=SMAA
+
+FOV=FOV
+
+Anti-aliasing=Suavizado de Bordes
+
+God Rays=Rayos de Luz
+
+SSAO=SSAO
+
+Quality=Calidad
+
+High=Alto
+
+Medium=Medio
+
+Low=Bajo
+
+Very Low=Muy Bajo
+
+Option A=Opción A
+
+FXAA=FXAA
+
+Off=Apagado
+
+Music=Música
+
+Footsteps=Pasos
+
+Ambience=Ambiente
+
+Master Volume=Volumen General
+
+Dialogue=Diálogos
+
+Interface=Interfaz
+
+SFX=Efectos de Sonido
+
+Hold=Mantener
+
+Tab=Tab
+
+Shift=Shift
+
+Exclusive Fullscreen=Pantalla Completa Exclusiva
+
+Windowed=Ventana
+
+Created=Creado
+
+Net worth=Valor Neto
+
+Select Save Slot=Seleccionar ranura de guardado
+
+Organisation=Organización
+
+Today=Hoy
+
+More than a year ago=Hace más de un año
+
+Last Played=Última vez
+
+Are you sure you want to \noverwrite this save?=¿Estás seguro de que deseas \nsobrescribir este guardado?
+
+Begin Game=Comenzar juego
+
+Enter name...=Introduce el nombre...
+
+Skip prologue=Omitir prólogo
+
+Organisation setup=Configuración de la organización
+
+Specify a name for your organisation=Especifica un nombre para tu organización
+
+Not recommended for new players=No recomendado para nuevos jugadores
+
+Yesterday=Ayer
+
+Select a category=<size\=13>Seleccionar una categoría</size>
+
+Include Save File?=¿Incluir archivo de guardado?
+
+Bugs - Crashing =Errores - Fallos
+
+Bugs - Saving/Loading =<size\=11>Errores - Guardado/Carga</size>
+
+Bugs - Multiplayer =Errores - Multijugador
+
+Bugs - General =Errores - Generales
+
+Bugs - Employees =Errores - Empleados
+
+Bugs - Customers =Bugs - Clientes
+
+Bugs - Interface =Bugs - Interface
+
+Submitting feedback...=Enviando comentarios...
+
+Thank you for your feedback!=¡Gracias por tus comentarios!
+
+r:"^\$\d{1,3},\dK$"=$0
+
+File Permission Issue=Problema de Permisos de Archivo
+
+Schedule I was unable to verify file write access; this might result in errors when saving. This is usually due to Windows blocking file writing permissions.\n\n\nIf saving still seems to be working fine, you can ignore this.=Schedule I no pudo verificar el acceso de escritura al archivo; esto podría causar errores al guardar. Esto generalmente ocurre porque Windows bloquea los permisos de escritura de archivos.\n\n\nSi guardar parece funcionar correctamente, puedes ignorar este mensaje.
+
+View fix instructions=Ver instrucciones de corrección
+
+##CONSOLE##
+
+Changes the player's cash balance by the specified amount=Cambia el saldo de efectivo del jugador por la cantidad especificada.
+
+Gives the player the specified item. Optionally specify a quantity.=Da al jugador el objeto especificado. Opcionalmente, especifica una cantidad.
+
+give ogkush 5=give ogkush 5
+
+give=dar
+
+Sets the time of day to the specified 24-hour time=Establece la hora del día al tiempo especificado en formato de 24 horas.
+
+settime 1530=settime 1530
+
+settime=fijar hora
+
+Forces a save=Fuerza un guardado.
+
+save=Guardar
+
+freecam=freecam
+
+Toggles free cam mode=Activa/desactiva el modo de cámara libre.
+
+clearinventory=Limpiar inventario
+
+Clears the player's inventory=Limpia el inventario del jugador
+
+changecash=changecash
+
+changecash 5000=changecash 5000
+
+Changes the player's cash balance by the specified amount=Cambia el saldo de caja del jugador en la cantidad especificada.
+
+changebalance=changebalance
+
+changebalance 5000=changebalance 5000
+
+Changes the player's online balance by the specified amount=Cambia el saldo online del jugador en la cantidad especificada.
+
+addxp=addxp
+
+addxp 100=addxp 100
+
+Adds the specified amount of experience points.=Adiciona a quantidade especificada de pontos de experiência.
+
+spawnvehicle=spawnvehicle
+
+spawnvehicle shitbox=spawnvehicle shitbox
+
+Spawns a vehicle at the player's location=Gera um veículo na localização do jogador.
+
+setmovespeed=setmovespeed
+
+setmovespeed 1=setmovespeed 1
+
+Sets the player's move speed multiplier=Define o multiplicador de velocidade de movimento do jogador.
+
+setjumpforce=setjumpforce
+
+setjumpforce 1=setjumpforce 1
+
+Sets the player's jump force multiplier=Define o multiplicador de força de pulo do jogador.
+
+teleport=teleport
+
+teleport townhall, teleport barn=teleport townhall, teleport barn
+
+Teleports the player to the specified location=Teleporta o jogador para o local especificado.
+
+setowned=setowned
+
+setowned barn, setowned laundromat=setowned barn, setowned laundromat
+
+Sets the specified property or business as owned=Define a propriedade ou negócio especificado como possuído.
+
+packageprodcut=packageprodcut
+
+packageproduct jar, packageproduct baggie=packageproduct jar, packageproduct baggie
+
+Packages the equipped product with the specified packaging=Empacota o produto equipado com a embalagem especificada.
+
+setstaminareserve=setstaminareserve
+
+setstaminareserve 200=setstaminareserve 200
+
+Sets the player's stamina reserve (default 100) to the specified amount.=Define a reserva de stamina do jogador (padrão 100) para a quantia especificada.
+
+raisewanted=raisewanted
+
+Raises the player's wanted level=Aumenta o nível de procurado do jogador.
+
+lowerwanted=lowerwanted
+
+Lowers the player's wanted level=Reduz o nível de procurado do jogador.
+
+clearwanted=clearwanted
+
+Clears the player's wanted level=Remove o nível de procurado do jogador.
+
+sethealth=sethealth
+
+sethealth 100=sethealth 100
+
+Sets the player's health to the specified amount=Define a saúde do jogador para a quantia especificada.
+
+settimescale=settimescale
+
+settimescale 1=settimescale 1
+
+Sets the time scale. Default 1=Define a escala de tempo. Padrão 1
+
+setvar=setvar
+
+setvar <variable> <value>=setvar <variable> <value>
+
+Sets the value of the specified variable=Define o valor da variável especificada.
+
+setqueststate=setqueststate
+
+setqueststate <quest name> <state>=setqueststate <quest name> <state>
+
+Sets the state of the specified quest=Define o estado da missão especificada.
+
+setquestentrystate=setquestentrystate
+
+setquestentrystate <quest name> <entry index> <state>=setquestentrystate <quest name> <entry index> <state>
+
+Sets the state of the specified quest entry=Define o estado da entrada de missão especificada.
+
+setemotion=setemotion
+
+setemotion cheery=setemotion cheery
+
+Sets the facial expression of the player's avatar.=Define a expressão facial do avatar do jogador.
+
+setunlocked=setunlocked
+
+setunlocked <npc_id>=setunlocked <npc_id>
+
+Unlocks the given NPC=Desbloqueia o NPC especificado.
+
+setrelationship=setrelationship
+
+setrelationship <npc_id> 5=setrelationship <npc_id> 5
+
+Sets the relationship scalar of the given NPC. Range is 0-5.=Define o escalar de relacionamento do NPC especificado. Faixa de 0 a 5.
+
+addemployee=addemployee
+
+addemployee botanist barn=addemployee botanist barn
+
+Adds an employee of the specified type to the given property.=Adiciona um funcionário do tipo especificado à propriedade indicada.
+
+setdiscovered=setdiscovered
+
+setdiscovered ogkush=setdiscovered ogkush
+
+Sets the specified product as discovered=Define o produto especificado como descoberto.
+
+growplants=growplants
+
+Sets ALL plants in the world fully grown=Faz TODAS as plantas do mundo crescerem completamente.
+
+setlawintensity=setlawintensity
+
+setlawintensity 6=setlawintensity 6
+
+Sets the intensity of law enforcement activity on a scale of 0-10.=Define a intensidade da atividade policial em uma escala de 0 a 10.
+
+setquality=setquality
+
+setquality standard, setquality heavenly=setquality standard, setquality heavenly
+
+Sets the quality of the currently equipped item.=Define a qualidade do item atualmente equipado.
+
+bind=bind
+
+bind t 'settime 1200'=bind t 'settime 1200'
+
+Binds the given key to the given command.=Vincula a tecla especificada ao comando dado.
+
+unbind=unbind
+
+unbind t=unbind t
+
+Removes the given bind.=Remove o vínculo especificado.
+
+clearbinds=clearbinds
+
+Clears ALL binds.=Remove TODOS os vínculos.
+
+hideui=hideui
+
+Hides all on-screen UI.=Esconde toda a interface na tela.
+
+disable=disable
+
+disable pp=disable pp
+
+Disables the specified GameObject=Desativa o GameObject especificado.
+
+enable=enable
+
+enable pp=enable pp
+
+Enables the specified GameObject=Ativa o GameObject especificado.
+
+endtutorial=endtutorial
+
+Forces the tutorial to end immediately (only if the player is actually in the tutorial).=Força o tutorial a terminar imediatamente (apenas se o jogador estiver no tutorial).
+
+disablenpcasset=disablenpcasset
+
+disablenpcasset avatar=disablenpcasset avatar
+
+Disabled the given asset under all NPCs=Desativa o ativo especificado em todos os NPCs.
+
+showfps=showfps
+
+Shows FPS label.=Mostra o rótulo de FPS.
+
+hidefps=hidefps
+
+Hides FPS label.=Esconde o rótulo de FPS.
+
+##Carregamento##
+
+Feeling stingy? Customers sometimes won't notice if you give them slightly less product than requested.=¿Te sientes tacaño? Los clientes a veces no notan si les das un poco menos de producto del solicitado.
+
+You won't be able to enter your property while wanted if you're within sight of police.=No podrás entrar a tu propiedad mientras seas buscado o si estás a la vista de la policía.
+
+When curfew is active, all citizens are legally required to remain within their residences from 9pm to 5am.=Cuando el toque de queda está activo, todos los ciudadanos están legalmente obligados a permanecer en sus residencias de 21:00 a 5:00.
+
+Each property has a limit to the amount of employees that can work there.=Cada propiedad tiene un límite en la cantidad de empleados que pueden trabajar allí.
+
+You can repaint your vehicles at the body shop.=Puedes repintar tus vehículos en el taller.
+
+Vehicle stuck? Head to the body shop to get it towed.=¿Vehículo atascado? Ve al taller para que lo remolquen.
+
+Need some extra cash? Grab some trash and take it to a 'Trash for Cash' machine.=¿Necesitas dinero extra? Recoge algo de basura y llévala a una máquina de "Basura por Dinero".
+
+Be wary of your surroundings when you're dealing! Police will notice when you're handing over product or providing samples to customers.=¡Ten cuidado con tu entorno cuando estés negociando! La policía notará cuando entregues productos o proporciones muestras a los clientes.
+
+We careful when cooking meth - applying too much heat to the mixture may cause an explosion.=Ten cuidado al cocinar metanfetamina: aplicar demasiado calor a la mezcla puede causar una explosión.
+
+A coca plant will display distinctive red berries when it is ready for harvest.=Una planta de coca mostrará bayas rojas distintivas cuando esté lista para la cosecha.
+
+Speak to the friendly folk at Dan's Hardware for all your 'home improvement' needs!=Habla con el amable personal de la Ferretería de Dan para todas tus necesidades de "mejoras para el hogar".
+
+Need to hide from the authorities? Try a bush, dumpster, or large tree.=¿Necesitas esconderte de las autoridades? Prueba un arbusto, un contenedor de basura o un árbol grande.
+
+Employees slacking off? Try punching them!=¿Empleados holgazaneando? ¡Intenta darles un puñetazo!
+
+There are a number of ATMs scattered throughout Hyland Point for your convenience.=Hay varios cajeros automáticos repartidos por Hyland Point para tu conveniencia.
+
+You can view and track/untrack all of your current quests and contracts in your Journal.=Puedes ver y seguir/dejar de seguir todas tus misiones y contratos actuales en tu Diario.
+
+Dealers will automatically split up bricks/jars when necessary.=Los vendedores dividirán automáticamente los ladrillos/frascos cuando sea necesario.
+
+Hyland Point was first established in 1903 thanks to the efforts of P.P. Hyland.=Hyland Point fue fundada por primera vez en 1903 gracias a los esfuerzos de P.P. Hyland.
+
+If you die in singleplayer, you'll go back to your last save. If you die in multiplayer, you'll pay an expensive visit to the medical clinic.=Si mueres en el modo un jugador, volverás a tu último guardado. Si mueres en multijugador, pagarás una costosa visita a la clínica médica.
+
+If you've recently been searched at a checkpoint, you're free to pass through that checkpoint multiple times without another search.=Si te han registrado recientemente en un puesto de control, puedes pasar por ese puesto varias veces sin otro registro.
+
+Visit the graveyard and ponder your mortality!=¡Visita el cementerio y reflexiona sobre tu mortalidad!
+
+Head to Ray's Realty to purchase properties and businesses.=Dirígete a la Inmobiliaria de Ray para comprar propiedades y negocios.
+
+Dealers will sell whatever is in their inventory, regardless of it's listed for sale or not.=Los vendedores venderán lo que esté en su inventario, independientemente de si está listado para la venta o no.
+
+Dealers will sell whatever is in their inventory, regardless of if it's listed for sale or not.=Los vendedores venderán lo que esté en su inventario, independientemente de si está listado para la venta o no.
+
+Your progress is automatically saved when you sleep. You can also manually save at the save panel in any of your properties.=Tu progreso se guarda automáticamente cuando duermes. También puedes guardar manualmente en el panel de guardado en cualquiera de tus propiedades.
+
+Be careful when cooking meth - applying too much heat to the mixture may cause an explosion.=Ten cuidado al cocinar metanfetamina: aplicar demasiado calor a la mezcla puede causar una explosión.
+
+Staff don't work for free! They will automatically draw their daily wage from their briefcase on their bed. If it's empty at the start of a new shift, they won't work.=¡El personal no trabaja gratis! Retirarán automáticamente su salario diario de su maletín en su cama. Si está vacío al comienzo de un nuevo turno, no trabajarán.
+
+Resisting arrest will result in law enforcement utilizing tasers. Continue to resist, and they'll eventually switch to lethal weapons.=Resistirse al arresto resultará en que las fuerzas del orden utilicen táseres. Si continúas resistiéndote, eventualmente cambiarán a armas letales.
+
+Loading world...=Cargando mundo...
+
+Loading data...=Cargando datos...
+
+Spawning player...=Generando jugador...
+
+Initializing...=Inicializando...
+
+Text=Chats
+
+BEGIN=COMENZAR
+
+##Brincadeiras Multijogador##
+
+Waiting for other players=Esperando a otros jugadores
+
+Waiting for other players...=Esperando a otros jugadores...
+
+Waiting for host...=Esperando al anfitrión...
+
+Waiting for host to finish loading...=Esperando a que el anfitrión termine de cargar...
+
+##Prólogo (y más allá)##
+
+Pot=Maceta
+
+Ingredients=Ingredientes
+
+Output=Salida
+
+Character=Personaje
+
+Drag packaging + product into slots=Arrastra el empaque y el producto a los espacios
+
+Input=Entrada
+
+Press 'done' to finalize your character's appearance=Presiona 'Hecho' para finalizar la apariencia de tu personaje
+
+Next=Siguiente
+
+Done=Hecho
+
+Category=Categoría
+
+Customize Appearance=Personalizar Apariencia
+
+RV=Casa Rodante
+
+Move Custom Amount=Mover Cantidad Personalizada
+
+STREET RAT I=RATA DE CALLE I
+
+Products Sold=Productos Vendidos
+
+Choose who to summon=Elige a quién convocar
+
+Lights=Luces
+
+r:\+\$(\d{1,3}(?:,\d{3})*)\sBonus=\+\$$1 Bonificación
+
+NOW AVAILABLE:=AHORA DISPONIBLE:
+
+Complete Deal=Completar Trato
+
+Product=Producto
+
+Agriculture=Agricultura
+
+CLOSE=CERRAR
+
+Thanks for playing!=¡Gracias por jugar!
+
+Report Type=Tipo de Informe
+
+Insert ingredient=Insertar ingrediente
+
+Cauldron=Caldero
+
+full game on Steam.\n=juego completo en Steam.\n
+
+Console Commands=Comandos de Consola
+
+Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Toma las podadoras del estante de almacenamiento y cosecha la planta de marihuana completamente crecida
+
+Multiplayer is in beta, there may be bugs.=El modo multijugador está en beta, puede haber errores.
+
+NPC Name=Nombre del NPC
+
+r:Market Value: (.+)$=Valor de Mercado: $1
+
+Speed Up Search=Acelerar Búsqueda
+
+Pickpocket=Robar
+
+Dismiss=Descartar
+
+Wait for the mix to complete=Espera a que la mezcla termine
+
+Ingredient=Ingrediente
+
+• More drug types and ingredients\n• 8+ purchasable properties\n• Employees (chemists, botanists, etc)\n• Firearms and melee weapons\n• Full map access\n• Vehicles\n• Purchasable businesses\n• Money laundering\n• 60+ NPCs/customers\n• Upgraded equipment and tools\n• Full character customization\n• Much more!=• Más tipos de drogas e ingredientes\n• 8+ propiedades comprables\n• Empleados (químicos, botánicos, etc.)\n• Armas de fuego y cuerpo a cuerpo\n• Acceso total al mapa\n• Vehículos\n• Negocios comprables\n• Lavado de dinero\n• 60+ NPCs/clientes\n• Equipos y herramientas mejorados\n• Personalización completa de personajes\n• ¡Mucho más!
+
+Stop Arrow=Detener Flecha
+
+Female=Femenino
+
+Nevermind=No importa
+
+Uncle Nelson=Tío Nelson
+
+Item Name=Nombre del Objeto
+
+PAUSED=PAUSADO
+
+Insert \nweed=Insertar \nmarihuana
+
+Drying Rack=Estante de Secado
+
+Mixing Station=Estación de Mezcla
+
+Basic system information will be sent with your report.=La información básica del sistema será enviada con tu informe.
+
+Include Screenshot?=¿Incluir Captura de Pantalla?
+
+Sleep=Dormir
+
+Email (Optional)=Correo Electrónico (Opcional)
+
+Stop the arrow in the green area to unlock item=Detén la flecha en el área verde para desbloquear el objeto
+
+Packaging=Empaque
+
+Provide ingredients then select recipe=Proporciona los ingredientes y luego selecciona la receta
+
+CONSOLE >=CONSOLE >
+
+View Commands=Ver Comandos
+
+Eyeball Color=Color de los Ojos
+
+Skin Color=Color de la Piel
+
+Hair Color=Color del Cabello
+
+Male=Masculino
+
+Click and hold items to conceal=Haz clic y mantén presionados los objetos para ocultarlos
+
+FirstName\nLastName=Nombre\nApellido
+
+Tools=<size\=11>Herramientas</size>
+
+DONE=HECHO
+
+Game Saved!=¡Juego Guardado!
+
+Fancy hand woven fabric pot that keeps roots ventilated. Boosts plant growth speed by 15%, but also increases moisture drain by 30%=Maceta de tela tejida a mano que mantiene las raíces ventiladas. Aumenta la velocidad de crecimiento de la planta en un 15%, pero también incrementa la pérdida de humedad en un 30%.
+
+Gender=Género
+
+Command/Example Usage=Comando/Ejemplo de Uso
+
+Load Into Vehicle=Cargar en el Vehículo
+
+Resume=<size\=17>Continuar</size>
+
+Coca Leaves=Hojas de Coca
+
+Console=Consola
+
+LEVEL UP!=¡SUBIR DE NIVEL!
+
+Quantity=Cantidad
+
+Gasoline=Gasolina
+
+Test test=Prueba prueba
+
+PACKAGE=EMPAQUE
+
+Insert bud/leaf into input and press 'dry'\n=Inserta brote/hoja en la entrada y presiona 'secar'\n
+
+Lorem ipsum=Lorem ipsum
+
+Hardware Store=Ferretería
+
+Description=Descripción
+
+Purchase=Comprar
+
+Submit=Enviar
+
+Player Earnings=Ganancias del Jugador
+
+BUSTED=ARRESTADO
+
+Move All=Mover Todo
+
+Bottom=Inferior
+
+Headwear=Accesorios para la Cabeza
+
+Top=Parte Superior
+
+Facial Details=Detalles Faciales
+
+Hair=Cabello
+
+Shoes=Zapatos
+
+Insert \nmixer=Insertar \ningrediente
+
+Unlocks at Street Rat II=Se desbloquea en Rata de Calle II
+
+Body Search=Revisión Corporal
+
+Eyebrow Thickness=Grosor de las Cejas
+
+Upper Eyelid Resting Position=Posición de Reposo del Párpado Superior
+
+Facial Detail Intensity=<size\=17>Intensidad de los Detalles Faciales</size>
+
+Pupil Dilation=Dilatación de la Pupila
+
+Eyebrow Resting Angle=Ángulo de Reposo de las Cejas
+
+Lower Eyelid Resting Position=Posición de Reposo del Párpado Inferior
+
+Eyebrow Scale=Escala de las Cejas
+
+Weight=Peso
+
+DRY=SECAR
+
+r:"^(\d{1,2})h (\d{1,2})m until next tier$"=$1h $2m hasta el siguiente nivel
+
+r:"^(\d{1,2})m until next tier$"=$1m hasta el siguiente nivel
+
+I'm Stuck=Estoy Atascado
+
+Cart=Carrito
+
+END OF THE LINE=FIN DEL CAMINO
+
+Waking up at=Despertando a las
+
+Bug Report/Feedback=Informe de Errores/Comentarios
+
+Lab Oven=Horno de Laboratorio
+
+Submit Feedback=Enviar Comentarios
+
+Game=Juego
+
+r:(\d+)% chance of success=$1% de probabilidad de éxito
+
+XP Earned=XP Ganado
+
+Summary=Resumen
+
+Required=Requerido
+
+Are you sure?=¿Estás seguro?
+
+Subtitle=Subtítulo
+
+Insert product and mixing ingredient=Inserta el producto y el ingrediente de mezcla
+
+Game settings can only be configured by the host=La configuración del juego solo puede ser modificada por el anfitrión
+
+Storage Entity=Entidad de Almacenamiento
+
+Quick Move=Mover Rápido
+
+Weekly Deposit Limit=Límite Semanal de Depósito
+
+Hello, Player=Hola, Jugador
+
+ATM=<size\=22>Cajero Automático</size>
+
+Cash=Dinero
+
+None=Ninguno
+
+Cargo Pants=Pantalones Cargo
+
+Goatee=Perilla
+
+Neutral=Neutral
+
+Slight Smile=Sonrisa Leve
+
+Pout=Puchero
+
+Sneakers=Zapatillas
+
+Dress Shoes=Zapatos de Vestir
+
+Sandals=Sandalias
+
+Hiking Boots=Botas de Senderismo
+
+Buzz Cut=Corte Raspado
+
+Bowl Cut=Corte Tazón
+
+Peaked=Peinado en Punta
+
+Balding=Calvo
+
+Messy Bob=Bob Despeinado
+
+Low Bun=Moño Bajo
+
+Fringe Bob=Bob con Flequillo
+
+Long Curly=Largo y Rizado
+
+Wrinkles=Arrugas
+
+Freckles=Pecas
+
+Cap=Gorra
+
+T-Shirt=Camiseta
+
+Button Shirt=Camisa de Botones
+
+V-Neck=Camiseta con Cuello en V
+
+Flannel Shirt=Camisa de Franela
+
+What would you like to do?=¿Qué te gustaría hacer?
+
+Online Balance=Saldo en Línea
+
+DEPOSIT=DEPOSITAR
+
+Liquid Meth=Metanfetamina Líquida
+
+WITHDRAW=RETIRAR
+
+MESSAGE=MENSAJE
+
+Plastic Pot=Maceta Plástica
+
+Add to Cart=Añadir
+
+Soil=Tierra
+
+Fertilizer=Fertilizante
+
+Speed Grow=Crecimiento Rápido
+
+PGR=PGR
+
+Grow Tent=Carpa de Cultivo
+
+Suspension Rack=Estante Suspendido
+
+Halogen Grow Light=Luz de Cultivo Halógena
+
+LED Grow Light=Luz de Cultivo LED
+
+Watering Can=Regadera
+
+Plant Trimmers=Podadoras de Plantas
+
+Baggie=Bolsita
+
+Jar=Frasco
+
+Packaging Station=Estación de Empaque
+
+Bed=Cama
+
+Messages=Mensajes
+
+Hover a task to view details=Pasa el cursor sobre una tarea para ver detalles
+
+Task Details=Detalles de la Tarea
+
+Tasks=Tareas
+
+Recipe=Receta
+
+Select seed=Seleccionar semilla
+
+Name=Nombre
+
+Request dead drop=Solicitar entrega secreta
+
+Order Total=Total
+
+Order Limit=Limite
+
+Debt=Deuda
+
+Place Order=Realizar Pedido
+
+Customer Receives=El Cliente Recibe
+
+You Receive=Recibes
+
+r:Fair price: \$(\d{1,3}(?:,\d{3})*)=Precio Justo: $1
+
+Send=Enviar
+
+Product Manager=Gestor de Producto
+
+Select a product to view details=Selecciona un producto para ver detalles
+
+Asking Price=Solicitado
+
+r:Suggested: \$(\d{1,3}(?:,\d{3})*)=Sugerido: $1
+
+List For Sale?=¿Vender?
+
+Addictiveness=Adicción
+
+Favourites=Favoritos
+
+Methamphetamine=Metanfetamina
+
+Cocaine=Cocaína
+
+Northtown=Northtown
+
+Westville=Westville
+
+Downtown=Downtown
+
+Docks=Muelles
+
+Suburbia=Suburbios
+
+Uptown=Uptown
+
+NORTHTOWN=NORTHTOWN
+
+WESTVILLE=WESTVILLE
+
+DOWNTOWN=DOWNTOWN
+
+DOCKS=MUELLES
+
+SUBURBIA=SUBURBIOS
+
+UPTOWN=UPTOWN
+
+Customer=Cliente
+
+Relationship=Relación
+
+Friendly=Amistoso
+
+Addiction=Adicción
+
+Standards=Estándares
+
+Favourite Effects=Efectos Favoritos
+
+Parking Garage=Estacionamiento
+
+Casino=Casino
+
+The Butter\nBox=La Caja de\nMantequilla
+
+The Crimson \nCanary=El Canario\nCarmesí
+
+Hyland \nTower 1=Torre Hyland\n1
+
+Hyland \nTower 2=Torre Hyland\n2
+
+HAM\nLegal=HAM\nLegal
+
+Hyland \nMedical=Hyland\nMédico
+
+Slop Shop=Slop Shop
+
+Hyland Police Station=Delegacia de Polícia de Hyland
+
+Hyland Bank=Banco Hyland
+
+Fire Station=Estación de Bomberos
+
+Church=Iglesia
+
+Handy Hank's\nHardware=Ferretería de\nHank
+
+Courthouse=Tribunal
+
+Bleuball\nBoutique=Boutique\nBleuball
+
+Rays Realty=Inmobiliaria de Ray
+
+Post \nOffice=Oficina de Correos
+
+Gas-Mart=Gas-Mart
+
+Car Wash=Lavado de Autos
+
+Hyland Auto=Hyland Auto
+
+Hyland Manor=Mansión Hyland
+
+Docks \nWarehouse=Almacén de los\nMuelles
+
+Randy's\nBait & Tackle=Carnadas y\nEquipos de Randy
+
+Suburbia Park=Parque de los Suburbios
+
+Dan's\nHardware=Ferretería de\nDan
+
+Chinese \nRestaurant=Restaurante\nChino
+
+Motel=Motel
+
+Thompson\nConstruction & Demo=Construcción y\nDemolición Thompson
+
+Taco\nTicklers=Taco\nTicklers
+
+Skatepark=Parque de Skate
+
+Koyama Chemical\nCompany=Compañía Química\nKoyama
+
+Laundromat=Lavandería
+
+Thrifty \nThreads=Ropa\nThrifty
+
+Barbershop=Barbería
+
+Pawn shop=Casa de Empeño
+
+Liquor \nStore=Tienda de\nLicores
+
+Top\n Tattoo=Tatuajes\nTop
+
+Community\nCenter=Centro\nComunitario
+
+Shred \nShack=Cabaña\nShred
+
+Bud's\nBar=Bar de\nBud
+
+Pharmacy=Farmacia
+
+Arcade=Arcade
+
+Basketball\nCourt=Cancha de\nBaloncesto
+
+Sauerkraut\nSupreme=Sauerkraut\nSupreme
+
+Dealer Management=Gestión de Vendedores
+
+Benji Coleman=Benji Coleman
+
+Cut=Comisión
+
+Inventory=Inventario
+
+r:Assigned Customers \((\d+\/\d+)\)=Clientes Asignados ($1)
+
+Assign Customer=Asignar Cliente
+
+Customer Name=Nombre del Cliente
+
+Deliveries=Entregas
+
+General (legal) supplies=Provisiones generales (legales)
+
+Item Total=Total
+
+Delivery Fee=Entrega
+
+Destination=Destino
+
+Bungalow=Bungaló
+
+Loading Dock=<size\=15>Muelle de Carga</size>
+
+Note=Nota
+
+Gas-Mart (West)=Gas-Mart (Oeste)
+
+Ingredients and packaging=Ingredientes y empaques
+
+Gas-Mart (Central)=Gas-Mart (Central)
+
+Oscar's Store=Tienda de Oscar
+
+General illegal supplies=Provisiones generales ilegales
+
+Weed Seeds=Semillas de Marihuana
+
+Order Submitted=Pedido Enviado
+
+Active Deliveries=Entregas Activas
+
+There are no active deliveries=No hay entregas activas
+
+Contacts=Contactos
+
+Wrapping Up=Finalizando los negocios de la ciudad
+
+Making the Rounds=Haciendo las rondas
+
+Item Limit=Artículos
+
+NEEDS WATER=NECESITA AGUA
+
+Incompatible game version=Versión del juego incompatible
+
+Close=Cerrar
+
+Garbage Gas=Gasolina Basura
+
+Sexy Gas=Gasolina Sexy
+
+Regular Gas=Gasolina Regular
+
+Mega Gas=Gasolina Mega
+
+sr:"^Potential Customer\n(.+)$"=Cliente Potencial\n$1
+
+Pre-release roadmap=Hoja de ruta de pre-lanzamiento
+
+Monday 10th\nCo-op & deliveries\n\nMonday 17th\nCasino\n\nSaturday 22nd\nBoutique store, wall decorations, pawn shop\n\nMonday 24th - Release!\n\n\n=Lunes 10\nCooperativo y entregas\n\nLunes 17\nCasino\n\nSábado 22\nTienda boutique, decoraciones de pared, casa de empeño\n\nLunes 24 - Lanzamiento!
+
+This is a beta version of the game - save files may get corrupted. \nDon't load any saves that are important to you.=Esta es una versión beta del juego - los archivos de guardado pueden corromperse.\nNo cargues guardados que sean importantes para ti.
+
+Action can only be performed by host=La acción solo puede ser realizada por el anfitrión
+
+Press key...=Presiona la tecla...
+
+Enter=Enter
+
+Suggestions=Sugerencias
+
+Chelsey=Chelsey
+
+Another Day in Paradise=Otro Día en el Paraíso
+
+OR=O
+
+r:\+ (\d+) Others=\+ $1 Otros
+
+Bugs=Errores
+
+Mixer=Mezclador
+
+Thank you for playing the pre-release version of Schedule I.\n\nI'm still polishing everything up for release so I apologize if you encounter any bugs or confusion.\n\nIf you have any issues or questions, feel free to shoot me an email at \n<color\=#00ADEF>tyler@tvgs-games.com</color>\n\n- Tyler,\n  Schedule I Developer=Gracias por jugar la versión de pre-lanzamiento de Schedule I.\n\nTodavía estoy ajustando todo para el lanzamiento, así que pido disculpas si encuentras errores o confusiones.\n\nSi tienes problemas o preguntas, no dudes en enviarme un correo electrónico a \n<color\=#00ADEF>tyler@tvgs-games.com</color>\n\n- Tyler,\n  Desarrollador de Schedule I
+
+Schedule I pre-release=Pre-lanzamiento de Schedule I
+
+Wishlist on=Agregar a la lista de deseos
+
+Releasing on <color\=#7FFD63>March 24th</color> \n\n=Lanzamiento el <color\=#7FFD63>24 de marzo</color> \n\n
+
+• More drug types and ingredients\n• 8+ purchasable properties\n• Employees (chemists, botanists, etc)\n• Firearms and melee weapons\n• Full map access\n• Vehicles\n• Purchasable businesses\n• Money laundering\n• 70+ NPCs/customers\n• Upgraded equipment and tools\n• Full character customization\n• Much more!=• Más tipos de drogas e ingredientes\n• 8+ propiedades comprables\n• Empleados (químicos, botánicos, etc.)\n• Armas de fuego y cuerpo a cuerpo\n• Acceso total al mapa\n• Vehículos\n• Negocios comprables\n• Lavado de dinero\n• 70+ NPCs/clientes\n• Equipos y herramientas mejorados\n• Personalización completa de personajes\n• ¡Mucho más!
+
+Full Game Features\n=Características del Juego Completo\n
+
+Join local as client=Unirse localmente como cliente
+
+Coming January 2025=Llegando en enero de 2025
+
+Multiplayer=Multijugador
+
+r:Last save was (\d+) minutes ago=Último guardado hace $1 minutos
+
+r:Last save was (\d+) minute ago=Último guardado hace $1 minuto
+
+r:Last save was (\d+) seconds ago=Último guardado hace $1 segundos
+
+r:Last save was (\d+) second ago=Último guardado hace $1 segundo
+
+r:(\d+) seconds since last save=$1 segundos desde el último guardado
+
+r:"^(\d+) days ago$"=Hace $1 días
+
+r:"^(\d+) day ago$"=Hace $1 día
+
+New Customer Unlocked!=¡Nuevo Cliente Desbloqueado!
+
+Bug=Error
+
+Dealer Earnings=Ganancias del Vendedor
+
+Drag product into slots=Arrastra el producto a los espacios
+
+UNPACKAGE=DESEMPAQUETAR
+
+Schedule I will be releasing in <color\=#5DD642>March 2025.</color> \n\nIf you've enjoyed this demo, please consider wishlisting the <color\=#000000>                                      <size\=0>.</size>\n\n<color\=#5DD642>Full Game Features</color>\n=Schedule I será lanzado en <color\=#5DD642>marzo de 2025.</color> \n\nSi disfrutaste esta demo, por favor considera agregarla a tu lista de deseos en <color\=#000000>                                      <size\=0>.</size>\n\n<color\=#5DD642>Características del Juego Completo</color>\n
+
+New Mix Discovered!=¡Nueva Mezcla Descubierta!
+
+Press ~ (tilde) to toggle=Presiona ~ (tilde) para alternar
+
+Satisfaction=Satisfacción
+
+Face=Rostro
+
+Facial Hair=Vello Facial
+
+Eyebrow Resting Height=Altura de Reposo de las Cejas
+
+Furniture=Mobiliario
+
+Storage=Almacenamiento
+
+Deal Completed for  Jimmy Bimbo=Negocio Completado para Jimmy Bimbo
+
+All=Todo
+
+Place the expected products here.=Coloca los productos esperados aquí.
+
+Jeans=Jeans
+
+Flat Cap=Boina Plana
+
+Nothing to do for now...=Nada que hacer por ahora...
+
+Select Deal Time=Seleccionar Hora del Negocio
+
+You can complete the deal any time within the window=Puedes completar el negocio en cualquier momento dentro del período
+
+Albert Hoover (Weed Supplier)=Albert Hoover (Proveedor de Marihuana)
+
+Counter-offer=Contraoferta
+
+Effects=Efectos
+
+Marijuana=Marihuana
+
+Les Ordures\nPuantes \n=Les Ordures\nPuantes \n
+
+Supermarket=Supermercado
+
+Town\nHall=Ayuntamiento
+
+Body\nShop=Taller
+
+Canal=Canal
+
+Motel\nOffice=Oficina del\nMotel
+
+Warehouse=Almacén
+
+Bridge=Puente
+
+Brown Apartment\nBlock=Bloque de Apartamentos\nMarrón
+
+Construction Site=Sitio de Construcción
+
+Pseudo=Pseudo
+
+Use trimmers to harvest=Usa las tijeras para cosechar
+
+r:(\d+)% grown=$1% crecido
+
+Discard=<size\=11>Descartar\n\n</size>
+
+Reverting in 30s=Revirtiendo en 30s
+
+Contains plant=Contiene planta
+
+Switch off=Apagar
+
+Switch on=Encender
+
+Open=Abrir
+
+Use Packaging Station=Usar Estación de Empaque
+
+Access storage=Acceder al almacenamiento
+
+Medium Storage Rack=Estante de Almacenamiento Mediano
+
+Exit=Salir
+
+r:(\d+)L=$1L
+
+A pair of plant trimmers. Necessity for harvesting plants.=Un par de podadoras de plantas. Necesarias para cosechar plantas.
+
+A pair of electric plant trimmers. Simply click and drag to harvest.=Un par de podadoras eléctricas de plantas. Un simple click y arrastra para cosechar.
+
+Holds water.=Contiene agua.
+
+Cold hard cash.=Dinero en efectivo.
+
+Harvest=Cosechar
+
+Rotate Pot=Rotar Maceta
+
+Input Hints=Consejos de Entrada
+
+CONTINUE=CONTINUAR
+
+If you're wondering how to do something, \nthere's usually input hints in the bottom left corner.=Si te preguntas cómo hacer algo, \nnormalmente hay consejos de entrada en la esquina inferior izquierda.
+
+r:Click buds to harvest (.*)\/(.*)=Haz clic en los brotes para cosechar $1/$2
+
+r:Click and hold over buds to harvest (.*)\/(.*)=Haz clic y mantén presionado sobre los brotes para cosechar $1/$2
+
+A=A
+
+D=D
+
+E=E
+
+Drag product + packaging into slots=Arrastra producto + empaque a los espacios
+
+PACK=EMPAQUETAR
+
+Package all the weed at the packaging station=Empaca toda la marihuana en la estación de empaque
+
+No plant in this pot=No hay planta en esta maceta
+
+(Hold) Smoke=(Mantener) Fumar
+
+No soil=Sin tierra
+
+Old school OG Kush. Offers a balanced, relaxing high with subtle physical effects.=OG Kush a la antigua. Ofrece un efecto equilibrado y relajante con efectos físicos sutiles.
+
+A small plastic baggie.  Holds 1x unit of any product.=Una pequeña bolsita de plástico. Contiene 1 unidad de cualquier producto.
+
+Place product into packaging=Coloca el producto en el empaque
+
+Drag Multiple=Arrastrar Múltiples
+
+Interact / Drag=Interactuar / Arrastrar
+
+Click baggie to seal=Haz clic en la bolsita para sellar
+
+Place packaging in hopper=Coloca el empaque en el cajón
+
+Drag the OG Kush into your inventory=Arrastra el OG Kush a tu inventario
+
+Grab the watering can from the storage rack=Toma la regadera del estante de almacenamiento
+
+Fill up the watering can at the sink and water the other weed plant=Llena la regadera en el fregadero y riega la otra planta de marihuana
+
+Fill watering can=Llenar regadera
+
+Click and hold tap to refill watering can=Haz clic y mantén presionado el grifo para rellenar la regadera
+
+Pour water=Verter agua
+Pour soil=Verter tierra
+Click and drag to cut soil bag=Click y arrasta para cortar la bolsa
+r:Pour soil into pot (.+)%=Vierte la tierra $1%)
+
+While dragging an item, press <color\=#88CBFF>A</color> or <color\=#88CBFF>D</color> to rotate it.=Mientras arrastras un objeto, presiona <color\=#88CBFF>A</color> o <color\=#88CBFF>D</color> para rotarlo.
+
+Rotate Held Item=Rotar Objeto Sostenido
+
+Move=Mover
+
+Pour water over target=Vierte agua en los puntos
+
+Press <color\=#88CBFF>Tab</color> to open your phone.=Presiona <color\=#88CBFF>Tab</color> para abrir tu teléfono.
+
+Respond to your customers in the messages app=Responde a tus clientes en la aplicación de mensajes
+
+Park the car=Estaciona el coche
+
+Drive into town=Conduce hacia la ciudad
+
+Inactive=Inactivo
+
+Talk to Uncle Nelson outside=Habla con el Tío Nelson afuera
+
+Active=Activo
+
+Completed=Completado
+
+Show on map=Mostrar en el mapa
+
+Yep=Sí
+
+Moderate standards.=Estándares moderados.
+
+Yes=Sí
+
+Loyal=Leal
+
+You can complete deals any time within the window you choose. For now, choose the morning window.=Puedes completar negocios en cualquier momento dentro del período que elijas. Por ahora, elige el período de la mañana.
+
+r:(.*), Behind gas station=$1, Detrás de la gasolinera
+
+r:(.*), Blue house=$1, Casa azul
+
+r:(.*), Behind pawn shop=$1, Detrás de la casa de empeño
+
+behind the gas station=detrás de la gasolinera
+
+outside the blue house=fuera de la casa azul
+
+behind the pawn shop=detrás de la casa de empeño
+
+Change Quantity=Cambiar Cantidad
+
+Moderate=Moderado
+
+Unlock this customer by giving them a free sample. Use your map to see their approximate location.=Desbloquea a este cliente dándole una muestra gratis. Usa tu mapa para ver su ubicación aproximada.
+
+Talk to Uncle Nelson=Habla con el Tío Nelson
+
+Morning bud, come talk to me after you've got everything done in the RV.=Buenos días, brote, ven a hablar conmigo después de terminar todo en la Casa Rodante.
+
+Morning buddy, lovely day ain't it?=Buenos días, amigo, día encantador, ¿no?
+
+Sure is=Claro que sí
+
+If you're heading in to town for some deals, would you mind grabbing something for me?=Si vas a la ciudad por algunos negocios, ¿te importaría recoger algo para mí?
+
+I've got some business with some fellas staying down at the motel, tell them you're here for Nelson's package. No need to pay for anything.=Tengo negocios con unos tipos que están en el motel, diles que estás aquí por el paquete de Nelson. No necesitas pagar nada.
+
+[SPACEBAR]=[ESPACIO]
+
+If you're lookin' to pick up any supplies for yourself, just throw 'em on my tab.=Si quieres recoger algunos suministros para ti, ponlos en mi cuenta.
+
+Cheers buddy. Feel free to take my truck.=Gracias, amigo. Siéntete libre de tomar mi camión.
+
+Enter vehicle=Entrar al vehículo
+
+Access trunk=Acceder al maletero
+
+Trunk=Maletero
+
+sr:"^Talk to (.+)$"=Hablar con $1
+
+You got the stuff?=¿Tienes las cosas?
+
+[Complete Deal]=[Completar Negocio]
+
+sr:"^(.+) is paying <color\=#50E65A>\$(\d{1,3}(?:,\d{3})*)\</color> for:$"=$1 está pagando <color\=#50E65A>$2</color> por:
+
+Item Splitting=División de Artículos
+
+To move a custom amount, <color\=#62BDFF> right-click</color> drag an item and <color\=#62BDFF>scroll</color> to change the amount.=Para mover una cantidad personalizada, arrastra un objeto con <color\=#62BDFF>clic derecho</color> y <color\=#62BDFF>desplázate</color> para cambiar la cantidad.
+
+Place the expected products here=Coloca los productos esperados aquí
+
+Much appreciated=Muy agradecido
+
+sr:"^Deal completed for (.+)$"=Negocio completado para $1
+
+Good morning=Buenos días
+
+CUSTOMER RECENTLY COMPLETED A DEAL=CLIENTE RECIENTEMENTE COMPLETÓ UN NEGOCIO
+
+You wanna buy something? [Offer a deal]=¿Quieres comprar algo? [Ofrecer un trato]
+
+Knock=Llamar
+
+Hi=Hola
+
+Hello=Hola
+
+Purchase Cuke=Comprar Coka
+
+You ready?=¿Estás listo?
+
+Thanks!=¡Gracias!
+
+Ready?=¿Listo?
+
+in the alleyway behind Slop Shop (the diner)=en el callejón detrás del Slop Shop (el restaurante)
+
+the alleyway behind Slop Shop (the diner)=el callejón detrás del Slop Shop (el restaurante)
+
+Oooh yeah not bad! I'll text you=¡Oooh sí, nada mal! Te enviaré un mensaje
+
+DROP=SOLTAR
+
+Item won't fit in inventory=El objeto no cabe en el inventario
+
+Insert soil=Insertar tierra
+
+Dispense soil=Distribuir tierra
+
+Use Packaging Station Mk II=Usar Estación de Empaque Mk II
+
+Insert product into packaging=Insertar producto en el empaque
+
+Rotate Conveyor=Rotar Transportador
+
+Drop Product=Soltar Producto
+
+Oh yeah, boss man told me about you. You can come in, but you'll have to wait until 6PM.=Ah, sí, el jefe me habló de ti. Puedes entrar, pero tendrás que esperar hasta las 6 PM.
+
+A potent classic with intense sedating and euphoric effects.=Un clásico potente con efectos sedantes e intensamente eufóricos.
+
+• Talk to the merchant=• Habla con el comerciante
+
+• Talk to the fixer=• Habla con el reparador
+
+• Talk to the arms dealer=• Habla con el traficante de armas
+
+Talk to the merchant=Habla con el comerciante
+
+Talk to the fixer=Habla con el reparador
+
+Talk to the arms dealer=Habla con el traficante de armas
+
+I haven't had my fix in too long, I really need something right now bro. You got anything I can buy??=Hace mucho que no me satisfago, realmente necesito algo ahora, hermano. ¿Tienes algo que pueda comprar??
+
+Big ol' cast iron skillet. Great for cooking and beating the shit out of people (but not at the same time).=Una gran sartén de hierro fundido. Genial para cocinar y para golpear a la gente (pero no al mismo tiempo).
+
+Howdy, I'm Marco. If you're looking for a fresh paint job, or need your car towed, I'm the fella for the job.=Hola, soy Marco. Si buscas un trabajo de pintura nuevo o necesitas que remolquen tu coche, soy el indicado.
+
+Enter price...=Introduce el precio...
+
+What do you have for sale?=¿Qué tienes a la venta?
+
+Hey there, I'm Ray - Hyland Point's best real estate agent. Come talk to me if you're looking to purchase something.=Hola, soy Ray, el mejor agente inmobiliario de Hyland Point. Habla conmigo si buscas comprar algo.
+
+You can see all the available listings on the whiteboard to your left.=Puedes ver todas las listas disponibles en la pizarra a tu izquierda.
+
+If you want to drive through here, I'll need to search your vehicle.=Si quieres pasar por aquí, necesitaré registrar tu vehículo.
+
+You need to park your car nearby for me to search it.=Estaciona tu coche cerca para que pueda registrarlo.
+
+Huh?!=¿Eh?!
+
+Hiya there, can I help you with something?=Hola, ¿puedo ayudarte con algo?
+
+I'd like to browse your stock=Me gustaría ver tu inventario.
+
+Thank you!=¡Gracias!
+
+Order won't fit in inventory=El pedido no cabe en el inventario
+
+Apply PGR=Aplicar PGR
+
+r:Cover soil with PGR (.*)=Cubrir el suelo con PGR $1
+
+Already contains PGR=Ya contiene PGR
+
+Apply Speed Grow=Aplicar Crecimiento Rápido
+
+r:Cover soil with Speed Grow (.*)=Cubrir el suelo con Crecimiento Rápido $1
+
+Already contains Speed Grow=Ya contiene Crecimiento Rápido
+
+Apply Fertilizer=Aplicar Fertilizante
+
+r:Cover soil with Fertilizer (.*)=Cubrir el suelo con Fertilizante $1
+
+Already contains Fertilizer=Ya contiene Fertilizante
+
+Only open after 6PM=Abierto solo después de las 6 PM
+
+View Cart (3 items)=Ver Carrito (3 artículos)
+
+Does not match type requirement=No cumple con el requisito de tipo
+
+Supplier Meeting=Reunión con el Proveedor
+
+Yes?=¿Sí?
+
+Alright fine=Está bien
+
+Hey!=¡Ey!
+
+Mix Already Exists=La Mezcla Ya Existe
+
+You are providing more items than required.=Estás proporcionando más artículos de los necesarios.
+
+Skate park=Parque de Skate
+
+What's your problem?=¿Cuál es tu problema?
+
+Owww...=Ay...
+
+Stand still - you're under arrest.=Quédate quieto, estás arrestado.
+
+Cheers dog=Gracias, amigo
+
+Come on come on!=¡Vamos, vamos!
+
+Yes!!!=¡Sí!!!
+
+Inventory full=Inventario lleno
+
+(Hold) Dump Contents=(Mantener) Vaciar Contenido
+
+The deal is off. This is not what I wanted.=El trato está cancelado. Esto no es lo que quería.
+
+Nope man=No, hombre
+
+r:Pick up \$(\d{1,3}(?:,\d{3})*)=Recoger $1
+
+Pick up Cuke=Recoger Cuke
+
+Oh no!=¡Oh no!
+
+Yikes!=¡Uf!
+
+r:"I need to collect the earnings <color\=#54E717>\(\$(\d{1,3}(?:,\d{3})*)\)</color>"=Necesito recoger las ganancias <color\=#54E717>($1)</color>
+
+The hell bro?=¿Qué diablos, hermano?
+
+Mornin` dude=Buenos días, amigo
+
+Not interested, sorry=No estoy interesado, lo siento
+
+Brown apartment block=Bloque de apartamentos marrón
+
+Behind auto shop=Detrás del taller
+
+What the hell?=¿Qué diablos?
+
+What?!=¿Qué?!
+
+Shit!=¡Mierda!
+
+Holy hell!=¡Santo cielo!
+
+Ouch!=¡Ay!
+
+Damn!=¡Maldita sea!
+
+Goddamn!=¡Maldita sea!
+
+Get away!=¡Aléjate!
+
+Crap!=¡Maldición!
+
+Oof!=¡Uf!
+
+Woah!=¡Guau!
+
+Holy shit!=¡Caramba!
+
+Dude!=¡Amigo!
+
+Woah man...=Guau, hombre...
+
+Thanks, we're done.=Gracias, hemos terminado.
+
+The hell?=¿Qué diablos?
+
+Bro...=Hermano...
+
+Not again...=No otra vez...
+
+r:"Insert <color\=#FFC73D>(\d+x)</color> coca leaves and <color\=#FFC73D>(\d+x)</color> gasoline"=Inserta <color\=#FFC73D>$1</color> hojas de coca y <color\=#FFC73D>$2</color> gasolina
+
+Use Cauldron=Usar Caldero
+
+Use Brick Press=Usar Prensa de Ladrillos
+
+You're welcome friend. If you need special equipment or supplies, Oscar has what you need.=De nada, amigo. Si necesitas equipos especiales o suministros, Oscar tiene lo que necesitas.
+
+You've reached your ATM daily deposit limit. If you want to convert more cash to online balance, you'll need to start laundering cash through a business.=Has alcanzado el límite diario de depósito en el cajero automático. Si quieres convertir más dinero en saldo en línea, necesitarás comenzar a lavar dinero a través de un negocio.
+
+INVENTORY FULL=INVENTARIO LLENO
+
+Classic double-kick popsicle skateboard. Use it to get around faster than on-foot.=Patineta clásica de doble patada. Úsala para moverte más rápido que a pie.
+
+Cruiser skateboard designed for high-speed, straight line motion. Not particularly agile.=Patineta cruiser diseñada para movimiento en línea recta a alta velocidad. No es particularmente ágil.
+
+Tasteful gold-plated skateboard. High top speed but slow acceleration.=Patineta bañada en oro de buen gusto. Alta velocidad máxima, pero aceleración lenta.
+
+r:"<color\=#16F01C>\$(\d{1,3}(?:,\d{3})*)</color> Laundered"=<color\=#16F01C>$1</color> Lavado
+
+sr:"^Select items to order from (.+)$"=Selecciona artículos para pedir de $1
+
+Thanks. By the way, my friend Shirley can hook you up with pseudo. I've passed your number on to her.=Gracias. Por cierto, mi amiga Shirley puede conseguirte pseudo. Le pasé tu número.
+
+You can now order <color\=#88CBFF>pseudo</color> from Shirley. Pseudo is the main precursor ingredient for <color\=#88CBFF>methamphetamine</color>.=Ahora puedes pedir <color\=#88CBFF>pseudo</color> a Shirley. El pseudo es el principal ingrediente precursor para la <color\=#88CBFF>metanfetamina</color>.
+
+Heyo, I'm Shirley. I work in the pharmaceutical business, and heard you got a nasty cough...=Hola, soy Shirley. Trabajo en la industria farmacéutica y escuché que tienes una tos fea...
+
+If you're in need of some pseudo, I'm your gal. Send me a message and we'll figure something out=Si necesitas pseudo, soy la persona indicada. Envíame un mensaje y lo resolveremos.
+
+Hey, I'm Sal. You need Coca seeds? You speak to me.=Hola, soy Sal. ¿Necesitas semillas de coca? Habla conmigo.
+
+Send me a message if you want to order a drop.=Envíame un mensaje si quieres pedir una entrega.
+
+You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.=Puedes saldar tu deuda colocando dinero en mi escondite. Está en la cara oeste del almacén.
+
+You can pay off your debt by placing cash in my stash. It's behind the Church.=Puedes saldar tu deuda colocando dinero en mi escondite. Está detrás de la Iglesia.
+
+Shirley Watts's Stash=Escondite de Shirley Watts
+
+Salvador Moreno's Stash=Escondite de Salvador Moreno
+
+r:"^You owe Shirley Watts <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt$"=Le debes <color\=#54E717>$1</color> a Shirley Watts. Inserta dinero y sal del escondite para saldar tu deuda.
+
+r:"^You owe Salvador Moreno <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt$"=Le debes <color\=#54E717>$1</color> a Salvador Moreno. Inserta dinero y sal del escondite para saldar tu deuda.
+
+View Salvador Moreno's stash=Ver el escondite de Salvador Moreno
+
+View Shirley Watts's stash=Ver el escondite de Shirley Watts
+
+COOK=COCINAR
+
+Ready to begin cooking=Listo para comenzar a cocinar
+
+Open oven door=Abrir la puerta del horno
+
+Pour liquid into tray=Verter líquido en la bandeja
+
+Close oven door=Cerrar la puerta del horno
+
+Start oven=Encender el horno
+
+Place items onto tray=Colocar objetos en la bandeja
+
+Ready to collect product=Listo para recoger el producto
+
+Use hammer to break up the product=Usa un martillo para romper el producto
+
+COLLECT=RECOGER
+
+Use Mixing Station Mk2=Usar Estación de Mezcla Mk2
+
+Use Lab Oven=Usar Horno de Laboratorio
+
+Use Chemistry Station=Usar Estación Química
+
+Place cookable item in ingredient slot=Coloca el objeto cocinable en el espacio de ingredientes
+
+Access coffee table=Acceder a la mesa de café
+
+Unlock this supplier by reaching 'friendly' with one of their connections.=Desbloquea a este proveedor alcanzando 'amistoso' con una de sus conexiones.
+
+Damn, that's pretty nice. You'll hear from me soon=Vaya, eso está bastante bien. Tendrás noticias mías pronto.
+
+How's it goin' my man?=¿Cómo van las cosas, amigo?
+
+I'd like to get a tattoo=Me gustaría hacerme un tatuaje.
+
+Thanks, we're done.=Gracias, hemos terminado.
+
+Come on come on!=¡Vamos, vamos!
+
+Post Office (Owned)=Oficina de Correos\n(Propiedad)
+
+Nevermind!=No importa.
+
+My vehicle is stuck=Mi vehículo está atascado.
+
+Thanks buddy=Gracias, amigo.
+
+Alright then, I've moved it just outside. Try not to do that again...=Está bien, lo moví justo afuera. Intenta no hacerlo de nuevo...
+
+Damn it fine. What time?=Maldita sea, está bien. ¿A qué hora?
+
+Hold on=Espera.
+
+One moment please=Un momento, por favor.
+
+Wait! You're under arrest=¡Espera! Estás arrestado.
+
+What's wrong with you?=¿Qué te pasa?
+
+Damn!=¡Maldita sea!
+
+Holy hell!=Santo inferno!
+
+Holy shit!=Caramba!
+
+Are you blind??=¿Eres ciego??
+
+Aim=Mirar
+
+Cock/Fire=Engatillar/Disparar
+
+assault with a deadly weapon=asalto con arma mortal
+
+discharge of a firearm in a public place=disparo de arma de fuego en un lugar público
+
+Revolver Cylinder=Cilindro del revólver
+
+Cheapass 6-shot revolver probably made by communists in the 70s. Needs to be manually cocked before each shot.=Revólver barato de 6 tiros, probablemente hecho por comunistas en los años 70. Necesita ser engatillado manualmente antes de cada disparo.
+
+Big sharp machete.=Machete grande y afilado.
+
+Contains 6 rounds for the Revolver.=Contiene 6 cartuchos para el revólver.
+
+Oscar says thanks=Oscar dice gracias
+
+STOP=PARAR
+
+r:"^([0-9]+) mins left$"=$1 minutos restantes
+
+7-round magazine for the M1911 handgun.=Cargador de 7 tiros para la pistola M1911.
+
+r:"^Drag (\d+x) product into input slots$"=Arrastra $1 productos a los espacios de entrada
+
+r:"^\$([0-9]+)M$"=$$1M
+
+r:"^\$([0-9]+)K$"=$$1K
+
+Combine ingredients in beaker=Combina los ingredientes en el béquer
+
+r:Stir mixture (.*)=Agita la mezcla $1
+
+Lower boiling flask=Baja el matraz de ebullición
+
+Pour mixture into boiling flask=Vierte la mezcla en el matraz de ebullición
+
+Raise boiling flask above burner=Levanta el matraz de ebullición sobre el quemador
+
+r:Start burner (.*)=Inicia el quemador $1
+
+Cooking in progress...=Cocción en progreso...
+
+We Need To Cook=Necesitamos Cocinar
+
+You're not going to get too far if you're only pushing weed. Time to move onto something a bit harder.=No vas a llegar muy lejos solo vendiendo marihuana. Es hora de pasar a algo más fuerte.
+
+Oscar will sell everything you need to make meth, with the exception of <color\=#4CB0FF>pseudo</color>. For that, you're gonna need to hook yourself up with a supplier.=Oscar venderá todo lo que necesitas para hacer metanfetamina, excepto <color\=#4CB0FF>pseudo</color>. Para eso, necesitarás encontrar un proveedor.
+
+I don't know any pseudo suppliers, so you're on your own for this one. There ought to be someone in <color\=#4CB0FF>Westville</color> that can get you what you need.=No conozco proveedores de pseudo, así que estás por tu cuenta en esto. Debería haber alguien en <color\=#4CB0FF>Westville</color> que pueda conseguirte lo que necesitas.
+
+Open up your contacts app and look for a supplier in Westville. Keep unlocking customers in that region, and you'll get their attention in no time.=Abre la app de contactos y busca un proveedor en Westville. Sigue desbloqueando clientes en esa región y pronto llamarás su atención.
+
+• Unlock the pseudo supplier in Westville (see contacts app for more info)=• Desbloquea al proveedor de pseudo en Westville (consulta la app de contactos para más información)
+
+• Purchase a chemistry station from Oscar=• Compra una estación química de Oscar
+
+• Purchase a lab oven from Oscar=• Compra un horno de laboratorio de Oscar
+
+• Message Shirley about buying some pseudo=• Envía un mensaje a Shirley sobre comprar pseudo
+
+• Purchase phosphorus from Oscar=• Compra fósforo de Oscar
+
+• Purchase acid from Oscar=• Compra ácido de Oscar
+
+Unlock the pseudo supplier in Westville (see contacts app for more info)=Desbloquea al proveedor de pseudo en Westville (consulta la app de contactos para más información)
+
+Purchase a chemistry station from Oscar=Compra una estación química de Oscar
+
+Purchase a lab oven from Oscar=Compra un horno de laboratorio de Oscar
+
+Message Shirley about buying some pseudo=Envía un mensaje a Shirley sobre comprar pseudo
+
+Purchase phosphorus from Oscar=Compra fósforo de Oscar
+
+Purchase acid from Oscar=Compra ácido de Oscar
+
+No, not right now=No, no ahora
+
+Thanks for shopping with Oscar=Gracias por comprar con Oscar
+
+Hey there=Hola
+
+No thanks bro=No, gracias, hermano
+
+Goddamn, that's nice!! I'll message you later=¡Maldita sea, eso está genial!! Te mando un mensaje después
+
+Greetings. You can now get your supplies delivered directly to your properties. Use the deliveries app on your phone to place an order.=Saludos. Ahora puedes recibir tus suministros directamente en tus propiedades. Usa la app de entregas en tu teléfono para hacer un pedido.
+
+Select a destination=Selecciona un destino
+
+Selected destination has no loading docks=El destino seleccionado no tiene muelles de carga
+
+Nah, not for me dog=No, no es para mí, hermano
+
+I don't think so...=Creo que no...
+
+Not interested=No estoy interesado
+
+SAMPLE ALREADY OFFERED TODAY=MUESTRA YA OFRECIDA HOY
+
+Ew, no.=Ew, no.
+
+One moment bro...=Un momento, hermano...
+
+Not yet=Todavía no
+
+Mornin' dude=Buenos días, amigo
+
+Heyo=¡Hola!
+
+Argh! That's nasty=¡Argh! Eso es asqueroso
+
+Ok...=Ok...
+
+Come on, I need it now!=¡Vamos, lo necesito ahora!
+
+Ready yet??=¿Ya estás listo??
+
+Ready??=¿Listo??
+
+Please tell me you're ready...=Por favor, dime que estás listo...
+
+Goddammit!!=¡Maldita sea!!
+
+Piss off!=¡Lárgate!
+
+Oh shit!=¡Mierda!
+
+I don't think so...=Creo que no...
+
+Stop!=¡Para!
+
+Thanks. Hey, I know a guy called Salvador who can hook you up with coca seeds. I've given your number to him.=Gracias. Hey, conozco a un tipo llamado Salvador que puede conseguirte semillas de coca. Le di tu número.
+
+You can now order <color\=#88CBFF>coca seeds</color> from Salvador. Coca plants yield <color\=#88CBFF>coca leaves</color>, which are the main precursor ingredient for <color\=#88CBFF>cocaine</color>.=Ahora puedes pedir <color\=#88CBFF>semillas de coca</color> a Salvador. Las plantas de coca producen <color\=#88CBFF>hojas de coca</color>, que son el ingrediente principal para <color\=#88CBFF>cocaína</color>.
+
+r:Click and hold over leaves to harvest (.*)\/(.*)=Haz clic y mantén presionado sobre las hojas para cosechar $1/$2
+
+r:Click leaves to harvest (.*)\/(.*)=Haz clic en las hojas para cosechar $1/$2
+
+Good doin' business=Un placer hacer negocios
+
+Use Drying Rack=Usar estante de secado
+
+Combine leaves and gasoline in cauldron=Combina hojas y gasolina en el caldero
+
+Start cauldron=Iniciar caldero
+
+Powerful stimulant commonly snorted for a euphoric but short-lived high.=Estimulante poderoso, comúnmente inhalado, que produce una euforia de corta duración.
+
+r:Pour product into mould (.*)\/(.*)=Vierte el producto en el molde $1/$2
+
+Rotate handle quickly to press product=Gira la manivela rápidamente para prensar el producto.
+
+Hold still - you are under arrest!=¡Quieto - estás arrestado!
+
+No Recipe Specified=No se ha especificado receta
+
+Pretty good. I'll message you soon=Bastante bien. Te enviaré un mensaje pronto.
+
+Cheers. My friend Molly Presley is a dealer and might be able to help you move your stuff. You should go speak to them.=Gracias. Mi amiga Molly Presley es traficante y podría ayudarte a mover tu mercancía. Deberías hablar con ella.
+
+Baseball Bat=Bate de béisbol
+
+In use by workers=En uso por trabajadores
+
+Hey! I really need some of your stuff right now... you got anything?=¡Hey! Necesito algo de tu mercancía ahora mismo... ¿tienes algo?
+
+Hey, you've been great to work with so I'm willing to start doing in-person meetings with you. At a meeting, you buy as much pseudo as you can carry - no more order limits.=Hey, ha sido genial trabajar contigo, así que estoy dispuesto a empezar reuniones en persona contigo. En una reunión, compras todo el pseudo que puedas cargar, sin límites de pedido.
+
+Just send me a text if you'd like to meet.=Solo mándame un mensaje si quieres encontrarte.
+
+r:"Owned Vehicle\n(.+)$"=Vehículo Propio\n$1
+
+Bin is full=Basurero lleno
+
+No issues.=Sin problemas.
+
+I'll be done shortly=Termino en breve
+
+sr:"(.+) Trunk$"=Maletero de $1
+
+Stay here while I search your vehicle=Quédate aquí mientras reviso tu vehículo
+
+##Armazém##  
+
+Oh yeah, boss man told me about you. Come in.=Ah, sí, el jefe me habló de ti. Entra.
+
+Melee weapons - blunt and sharp, and of course, firearms. Ammo too. I get more stuff in stock every now and then.=Armas cuerpo a cuerpo, por supuesto, armas de fuego y también munición. Recibo más cosas en stock de vez en cuando.
+
+Are these weapons legal?=¿Estas armas son legales?
+
+Yeahhhh, more or less. Most of them are probably not completely non-illegal… what're you asking' for anywho?=Siiií, más o menos. La mayoría probablemente no es totalmente no ilegal... ¿qué estás buscando, de todas formas?
+
+sr:"That'll be <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> for the (.+)\. We got a deal, partner\?"=Serán <color\=#54E717>$1</color> por el/la $2. ¿Tenemos un trato, socio?
+
+I'm looking for some weaponry.=Estoy buscando algunas armas.
+
+Evenin' partner, what can I do you for?=Buenas noches, socio, ¿qué puedo hacer por ti?
+
+Good idea my friend. What are you after?=Buena idea, amigo. ¿Qué buscas?
+
+Ammo=Munición
+
+Ranged=Largo Alcance
+
+Melee=Cuerpo a Cuerpo
+
+Fat Cum=Carga Gorda  
+
+I'm looking for some weaponry.=Estoy buscando algunas armas.
+
+Machete=Machete
+
+Frying Pan=Sartén
+
+Aquí están las armas de largo alcance, dime qué te agrada.  
+
+M1911=M1911  
+
+Pistola M1911. Un verdadero clásico americano.  
+
+Revólver=Revólver  
+
+Aquí está mi gama de municiones, ¿de qué tipo necesitas?  
+
+Cargador M1911=Cargador M1911  
+
+Munición de Revólver=Munición de Revólver  
+
+Hola, amigo. Si estás buscando protección, llegaste al lugar correcto.  
+
+¿Qué vendes?=¿Qué vendes?  
+
+Aquí está mi selección de armas cuerpo a cuerpo, dime qué llama tu atención.  
+
+sr:"^Eso será <color\=#54E717>\$(\d{1,3}(?:,\d{3})?)</color> por el (.+)\. ¿Tenemos un trato, socio\?$"=$2. Costará <color\=#54E717>$1</color>. ¿Trato hecho, socio?  
+
+Está bien entonces. Sabes dónde encontrarme si cambias de opinión.  
+
+Gracias, socio. =Gracias, socio.  
+
+Hola, hueles bien...  
+
+Lárgate=Lárgate  
+
+Hehe, nada... solo Oscar siendo amigable. Si necesitas equipos especiales o suministros, Oscar tiene lo que necesitas.  
+
+¿Qué tipo de cosas vendes?=¿Qué tipo de cosas vendes?  
+
+Oscar vende equipos especiales y suministros.  
+
+Sí, está bien, gracias...=Sí, está bien, gracias...  
+
+Buenas noches, ¿en qué puedo ayudarte?=Buenas noches, ¿en qué puedo ayudarte?  
+
+A common ingredient used in a chemistry station.=Un ingrediente común usado en una estación química.
+
+Common chemical ingredient in powder form. Used in matches and meth.=Ingrediente químico común en forma de polvo. Usado en fósforos y metanfetamina.
+
+A special metal pot with moisture-preserving functionality. Soil will lose moisture 40% slower.=Una maceta de metal especial con función de preservación de humedad. El suelo perderá humedad un 40% más lentamente.
+
+General-purpose chemistry station used for mixing and cooking.=Estación química de uso general para mezcla y cocción.
+
+Special-purpose laboratory oven for cooking/drying out substances.=Horno de laboratorio de propósito especial para cocinar/secar sustancias.
+
+Hang up organic items (weed, coca leaves) here to improve their quality.=Cuelga aquí objetos orgánicos (marihuana, hojas de coca) para mejorar su calidad.
+
+Industrial brick press used to squish stuff into bricks.=Prensa de ladrillos industrial usada para compactar cosas en ladrillos.
+
+Industrial cauldron used for boiling a lot of stuff at once.=Caldero industrial usado para hervir muchas cosas a la vez.
+
+An upgraded model of the mixing station with automatic ingredient insertion, and faster mix times.=Un modelo mejorado de la estación de mezcla con inserción automática de ingredientes y tiempos de mezcla más rápidos.
+
+Fancy hand woven fabric pot that keeps roots ventilated. Boosts plant growth speed by 15%, but also increases moisture drain by 30%.=Maceta de tela tejida a mano sofisticada que mantiene las raíces ventiladas. Aumenta la velocidad de crecimiento de la planta en un 15%, pero también incrementa la pérdida de humedad en un 30%.
+
+Very fancy full-spectrum grow light. Stimulates plant growth 30% faster than halogen. Must be placed on a suspension rack.=Luz de crecimiento de espectro completo muy sofisticada. Estimula el crecimiento de las plantas un 30% más rápido que el halógeno. Debe colocarse en un estante suspendido.
+
+Open safe=Abrir caja fuerte
+
+Safe=Caja fuerte
+
+You the new guy in town?=Eres el nuevo en la ciudad?
+
+Probably=Probablemente
+
+Haha very cute. I’m Manny. I’m the local fixer. You looking to hire workers, you talk to me.=Jaja, muy lindo. Soy Manny. Soy el reparador local. Si buscas contratar trabajadores, habla conmigo.
+
+How much does it cost to hire someone?=¿Cuánto cuesta contratar a alguien?
+
+Depends on what sort of talent you need. Cleaners and Packagers are pretty cheap, Botanists a bit more, and Chemists are the most expensive.=Depende de lo que necesites. Los limpiadores y empacadores son bastante baratos, los botánicos un poco más caros y los químicos son los más costosos.
+
+Evening. What do you need?=B. Noches, Qué necesitas?
+
+Nothing=Nada
+
+I want to hire an employee=Quiero contratar a un empleado.
+
+I can help you with that. What sort of employee are you looking for?=Puedo ayudarte con eso. ¿Qué tipo de empleado estás buscando?
+
+Cleaner (picking up trash, emptying trash cans)=Limpiador (recogiendo basura, vaciando cubos de basura)
+
+Botanist (planting, plant maintenance, harvesting)=Botánico (plantando, mantenimiento de plantas, cosecha)
+
+Handler (packaging, moving items)=Manipulador (embalaje, movimiento de objetos)
+
+Chemist (chemistry station, lab oven, cauldron, mixing station)=Químico (estación química, horno de laboratorio, caldero, estación de mezcla)
+
+Where you do want them? Keep in mind you'll have to provide a bed for this employee.=Dónde lo quieres? Ten en cuenta que le deberás proporcionar una cama.
+
+sr:"^That'll be a <color=#54E717>$(\d{1,3}(?:,\d{3})?)</color> signing free, and the employee's daily wage will be <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color>.$"=Será una tarifa de firma de <color=#54E717>$1</color>, y el salario diario del empleado será de <color=#54E717>$2</color>.
+
+Cheers. I'll send your new employee over to your property now. I'm also giving you a clipboard, which you can use to manage your employees and equipment.=Gracias. Enviaré a tu nuevo empleado a tu propiedad ahora. También te daré una carpeta de gestión, que puedes usar para administrar a tus empleados y equipos.
+
+Cheers. I'll send your new employee over to your property now.=Gracias. Enviaré a tu nuevo empleado a tu propiedad ahora.
+
+r:EMPLOYEE LIMIT REACHED (.)/(.)=LÍMITE DE EMPLEADOS ALCANZADO $1/$2
+
+##Empleados##
+
+Employees=Empleados
+
+Cleaners=Limpiadores
+
+• Pick up trash\n\n• Bag full trash \n cans\n\n• Dispose of full \n trash bags=• Recoger basura\n\n• Ensacar cubos de \n basura llenos\n\n• Desechar bolsas de \n basura llenas
+
+Handlers=Manipuladores
+
+• Package product\n\n• Transport items\n between stations,\n storage racks,\n loading bays, etc.=• Embalar producto\n\n• Transportar objetos entre estaciones,\n estanterías de almacenamiento,\n muelles de carga, etc.
+
+Botanists=Botánicos
+
+• Sow seeds\n\n• Water plants\n\n• Apply additives\n\n• Harvest plants\n\n• Use drying racks=• Sembrar semillas\n\n• Regar plantas\n\n• Aplicar aditivos\n\n• Cosechar plantas\n\n• Usar estantes de secado
+
+Chemists=Químicos
+
+• Use chemistry \n stations\n\n• Use lab ovens\n\n• Use cauldrons\n\n• Use mixing stations=• Usar estaciones \n químicas\n\n• Usar hornos de \n laboratorio\n\n• Usar calderos\n\n• Usar estaciones de mezcla
+
+Daily wage:=Salario diario:
+
+Management Clipboard=Carpeta de Gestión
+
+Clipboard used to manage equipment and employees.=Carpeta usada para gestionar equipos y empleados.
+
+Deselect All=Desmarcar Todo
+
+Select/Deselect=Seleccionar/Desmarcar
+
+Nothing selected=Nada seleccionado
+
+Botanist=Botánico
+
+Manage Botanist=Gestionar Botánico
+
+Assigned Pots=Macetas Asignadas
+
+Supplies=Suministros
+
+Learn how to manage botanists.=Aprende cómo gestionar botánicos.
+
+Use the management clipboard to assign the botanist to a bed=Usa la carpeta de gestión para asignar una cama al botánico.
+
+Assign a supplies source to the botanist=Asigna una fuente de suministros al botánico.
+
+Assign a pot or grow tent to the botanist=Asigna una maceta o una tienda de cultivo al botánico.
+
+Set the pot/grow tent destination=Establece el destino de la maceta/tienda de cultivo.
+
+Place cash in the briefcase on the botanist's bed=Coloca dinero en el maletín en la cama del botánico.
+
+Learn how to manage chemists.=Aprende cómo gestionar químicos.
+
+Use the management clipboard to assign the chemist to a bed=Usa la carpeta de gestión para asignar una cama al químico.
+
+Learn how to manage cleaners.=Aprende cómo gestionar limpiadores.
+
+Use the management clipboard to assign the cleaner to a bed=Usa la carpeta de gestión para asignar una cama al limpiador.
+
+Assign a trash can to the cleaner=Asigna un cubo de basura al limpiador.
+
+Place cash in the briefcase on the cleaner's bed=Coloca dinero en el maletín en la cama del limpiador.
+
+Learn how to manage packagers.=Aprende cómo gestionar embaladores.
+
+Use the management clipboard to assign the packager to a bed=Usa la carpeta de gestión para asignar una cama al embalador.
+
+Assign a packaging station to the packager=Asigna una estación de embalaje al embalador.
+
+Place cash in the briefcase on the packager's bed=Coloca dinero en el maletín en la cama del embalador.
+
+r:Pots/Drying Racks (.*)=Macetas/Estantes de Secado $1
+
+Select=Seleccionar
+
+Select Supplies Source=Seleccionar Fuente de Suministros
+
+Select an object or employee to manage it=Selecciona un objeto o empleado para gestionarlo.
+
+(Hold) Select Multiple=(Mantener) Seleccionar Múltiples
+
+Assign Pots/Drying Racks=Asignar Macetas/Estantes de Secado
+
+r:Assign Pots/Drying Racks (.*)=Asignar Macetas/Estantes de Secado $1
+
+Manage Packaging Station=Gestionar Estación de Embalaje
+
+Manage Mixing Station=Gestionar Estación de Mezcla
+
+Manage Pot=Gestionar Maceta
+
+r:Manage (\d+x) Packaging Station=Gestionar $1 Estación de Embalaje
+
+r:Manage (\d+x) Mixing Station=Gestionar $1 Estación de Mezcla
+
+r:Manage (\d+x) Pot=Gestionar $1 Maceta
+
+Assign bed=Asignar cama
+
+Open briefcase=Abrir maletín
+
+Briefcase=Maletín
+
+r:"^Assigned to (.+)$"=Asignado a $1
+
+r:"^(.+)'s Briefcase$"=Maletín de $1
+
+r:"^(.+) will draw his daily wage of <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 retirará su salario diario de <color=#54E717>$2</color> de este maletín.
+
+r:"^(.+) will draw her daily wage of <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 retirará su salario diario de <color=#54E717>$2</color> de este maletín.
+
+Any=Cualquiera
+
+^Harvested product will be automatically moved to the destination by the assigned botanist=^El producto cosechado será automáticamente movido al destino por el botánico asignado.
+
+Additive 3=Aditivo 3
+
+Additive 2=Aditivo 2
+
+Additive 1=Aditivo 1
+
+Seed=Semilla
+
+Select destination=Seleccionar destino
+
+^Output will be automatically moved to the destination by the assigned chemist=^El resultado será automáticamente movido al destino por el químico asignado.
+
+^Mixing station must contain at least this many product/mixers before mixing starts=^La estación de mezcla debe contener al menos esta cantidad de productos/mezcladores antes de comenzar la mezcla.
+
+Threshold=Umbral
+
+^Output will be automatically moved to the destination by the assigned packager=^El resultado será automáticamente movido al destino por el embalador asignado.
+
+Cleaner=Limpiador
+
+Manage Cleaner=Gestionar Limpiador
+
+Assigned Trash Cans=Cubos de Basura Asignados
+
+r:Assigned Trash Cans (.)/(.)=Cubos de Basura Asignados $1/$2
+
+Assign Trash Cans=Asignar Cubos de Basura
+
+r:Assign Trash Cans (.)/(.)=Asignar Cubos de Basura $1/$2
+
+Handler=Manipulador
+
+Manage Handler=Gestionar Manipulador
+
+Assigned Packaging Stations=Estaciones de Embalaje Asignadas
+
+Jesse Obama=Jesse Obama
+
+Add New=Agregar Nuevo
+
+Select a single instance to use this=Selecciona una sola instancia para usar esto.
+
+Multi-editing not supported=Edición múltiple no soportada.
+
+Source=Fuente
+
+To=Para
+
+From=De
+
+Routes=Rutas
+
+r:Assigned Stations (.)/(.)=Estaciones Asignadas $1/$2
+
+Select source=Seleccionar fuente
+
+Assign Packaging Stations=Asignar Estaciones de Embalaje
+
+r:Assign Packaging Stations (.)/(.)=Asignar Estaciones de Embalaje $1/$2
+
+Manage Chemist=Gestionar Químico
+
+Chemist=Químico
+
+Assigned Stations=Estaciones Asignadas
+
+Assign Stations=Asignar Estaciones
+
+r:Assign Stations (.)/(.)=Asignar Estaciones $1/$2
+
+Your services are no longer required.=Tus servicios ya no son necesarios.
+
+Why aren't you working?=¿Por qué no estás trabajando?
+
+Hi boss=Hola, jefe
+
+Sorry boss, I need to be assigned a bed before I can get to work.=Lo siento, jefe, necesito que me asignen una cama antes de empezar a trabajar.
+
+How do I assign your bed?=¿Cómo te asigno una cama?
+
+Ok=Ok
+
+You can use your management clipboard for that.=Puedes usar tu portapapeles de gestión para eso.
+
+Oh okay... I'll finish my current task and leave after that. Are you sure you want me to stop working for you?=Oh, ok... Terminaré mi tarea actual y me iré después de eso. ¿Estás seguro de que quieres que deje de trabajar para ti?
+
+Sorry boss, my shift ends at 4AM.=Lo siento, jefe, mi turno termina a las 4 de la mañana.
+
+Sorry boss, I haven't been paid to work today.=Lo siento, jefe, no me han pagado para trabajar hoy.
+
+How do I pay you?=¿Cómo te pago?
+
+You can place cash in the briefcase on my bed.=Puedes colocar dinero en el maletín en mi cama.
+
+There is a pot ready for sowing, but I don't have any seeds for it.=Hay una maceta lista para sembrar, pero no tengo semillas para ella.
+
+How can I fix this?=¿Cómo puedo solucionar esto?
+
+Make sure I have the right seeds in my supplies stash.=Asegúrate de que tenga las semillas correctas en mi almacén de suministros.
+
+There's nothing for me to do right now.=No tengo nada que hacer en este momento.
+
+I need one of my assigned stations to have enough product and packaging to get to work.=Necesito que una de mis estaciones asignadas tenga suficiente producto y embalaje para empezar a trabajar.
+
+I haven't been assigned any stations=No me han asignado ninguna estación.
+
+You can use your management clipboards to assign stations to me.=Puedes usar tus portapapeles de gestión para asignarme estaciones.
+
+##COLORES##
+
+(White)=(Blanco)
+
+(HotPink)=(Rosa Fucsia)
+
+(BrightPink)=(Rosa Brillante)
+
+(Magenta)=(Magenta)
+
+(Purple)=(Morado)
+
+(DeepPurple)=(Morado Oscuro)
+
+(Navy)=(Azul Marino)
+
+(DeepBlue)=(Azul Profundo)
+
+(Blue)=(Azul)
+
+(SkyBlue)=(Azul Cielo)
+
+(Cyan)=(Cian)
+
+(DarkGreen)=(Verde Oscuro)
+
+(LightGreen)=(Verde Claro)
+
+(Lime)=(Lima)
+
+(Yellow)=(Amarillo)
+
+(Beige)=(Beige)
+
+(Coral)=(Coral)
+
+(Coral)=(Coral)
+
+(Brown)=(Marrón)
+
+(Tan)=(Bronceado)
+
+(Orange)=(Naranja)
+
+(Crimson)=(Carmesí)
+
+(Red)=(Rojo)
+
+(LightRed)=(Rojo Claro)
+
+(Black)=(Negro)
+
+(Charcoal)=(Carbón)
+
+(DarkGrey)=(Gris Oscuro)
+
+(LightGrey)=(Gris Claro)
+
+White=Blanco
+
+HotPink=Rosa Fucsia
+
+BrightPink=Rosa Brillante
+
+Magenta=Magenta
+
+Purple=Morado
+
+DeepPurple=Morado Oscuro
+
+Navy=Azul Marino
+
+DeepBlue=Azul Profundo
+
+Blue=Azul
+
+SkyBlue=Azul Cielo
+
+Cyan=Cian
+
+DarkGreen=Verde Oscuro
+
+LightGreen=Verde Claro
+
+Lime=Lima
+
+Yellow=Amarillo
+
+Beige=Beige
+
+Coral=Coral
+
+Brown=Marrón
+
+Tan=Bronceado
+
+Orange=Naranja
+
+Crimson=Carmesí
+
+Red=Rojo
+
+LightRed=Rojo Claro
+
+Black=Negro
+
+Charcoal=Carbón
+
+DarkGrey=Gris Oscuro
+
+LightGrey=Gris Claro
+
+Dull Red=Rojo Apagado
+
+##ROPA##
+
+Bucket Hat=Sombrero Balde
+
+V-Neck Shirt=Camiseta Cuello V
+
+Button-Up Shirt (Rolled)=Camisa Abotonada (Mangas Enrolladas)
+
+VNeck=Cuello V
+
+V-Neck Shirt=Camiseta Cuello V
+
+Shirt with a v-shaped neck.=Camiseta con cuello en forma de V.
+
+sr:"Vest (.+)$"=Chaleco $1
+
+Vest=Chaleco
+
+Warm chest, cold arms.=Pecho caliente, brazos fríos.
+
+sr:"T-Shirt (.+)$"=Camiseta $1
+
+T-Shirt=Camiseta
+
+It's a t-shirt.=Es una camiseta.
+
+TacticalVest=Chaleco Táctico
+
+sr:"Tactical Vest (.+)$"=Chaleco Táctico $1
+
+Very tough looking vest. It doesn't actually block bullets, though.=Chaleco de apariencia muy resistente. No bloquea balas, sin embargo.
+
+SpeedDealerShades=Gafas de Traficante
+
+sr:"Speed Dealer Shades (.+)$"=Gafas de Traficante $1
+
+Shady looking shades.=Gafas de apariencia sospechosa.
+
+sr:"Sneakers (.+)$"=Zapatillas $1
+
+Sneakers=Zapatillas
+
+Laced sneakers.=Zapatillas con cordones.
+
+SmallRoundGlasses=Gafas Redondas Pequeñas
+
+sr:"Small Round Glasses (.+)$"=Gafas Redondas Pequeñas $1
+
+For when you only want to use 20% of your vision.=Para cuando solo quieres usar el 20% de tu visión.
+
+sr:"Skirt (.+)$"=Falda $1
+
+Skirt=Falda
+
+Tubular fabric.=Tela tubular.
+
+Saucepan=Cacerola
+
+It's stylish AND functional!=¡Es elegante Y funcional!
+
+sr:"Sandals (.+)$"=Sandalias $1
+
+Sandals=Sandalias
+
+Very stylish and versatile footwear.=Calzado muy elegante y versátil.
+
+RectangleFrameGlasses=Gafas de Montura Rectangular
+
+sr:"Rectangle Frame Glasses (.+)$"=Gafas de Montura Rectangular $1
+
+Rectangle frame glasses.=Gafas de montura rectangular.
+
+PorkpieHat=Sombrero Porkpie
+
+sr:"Porkpie Hat (.+)$"=Sombrero Porkpie $1
+
+A must-have for an aspiring kingpin.=Imprescindible para un aspirante a jefe.
+
+sr:"Overalls (.+)$"=Mono $1
+
+Overalls=Mono
+
+Pants that go over your shoulders.=Pantalones que pasan por los hombros.
+
+LongSkirt=Falda Larga
+
+sr:"Long Skirt (.+)$"=Falda Larga $1
+
+Long tubular fabric. A truly racy garment if you're Mormon.=Tela tubular larga. Una prenda atrevida si eres mormón.
+
+LegendSunglasses=Gafas Legendarias
+
+sr:"Legend Sunglasses (.+)$"=Gafas Legendarias $1
+
+Sunglasses that can only be worn by legends.=Gafas de sol que solo pueden ser usadas por leyendas.
+
+sr:"Jorts (.+)$"=Shorts Vaqueros $1
+
+Jorts=Shorts Vaqueros
+
+Abhorrent abomination.=Abominación horrenda.
+
+sr:"Jeans (.+)$"=Jeans $1
+
+Jeans=Jeans
+
+The classic pant.=El pantalón clásico.
+
+sr:"Gloves (.+)$"=Guantes $1
+
+Gloves=Guantes
+
+Gloves.=Guantes.
+
+sr:"Flats (.+)$"=Bailarinas $1
+
+Flats=Bailarinas
+
+Flats, typically worn by women, but you can also wear them as a man too.=Bailarinas, generalmente usadas por mujeres, pero también puedes usarlas si eres hombre.
+
+FlatCap=Boina
+
+sr:"Flat Cap (.+)$"=Boina $1
+
+A cap that somebody drove over.=Una boina que alguien atropelló.
+
+FlannelShirt=Camisa de Franela
+
+sr:"Flannel Shirt (.+)$"=Camisa de Franela $1
+
+The shirt of choice for internet music critics.=La camisa preferida de los críticos musicales de internet.
+
+FingerlessGloves=Guantes sin Dedos
+
+sr:"Fingerless Gloves (.+)$"=Guantes sin Dedos $1
+
+Fingerless gloves.=Guantes sin dedos.
+
+DressShoes=Zapatos de Vestir
+
+sr:"Dress Shoes (.+)$"=Zapatos de Vestir $1
+
+Fancy shiny dress shoes.=Zapatos de vestir brillantes y elegantes.
+
+CowboyHat=Sombrero de Vaquero
+
+sr:"Cowboy Hat (.+)$"=Sombrero de Vaquero $1
+
+Rootin' tootin' cowboy hat.=Sombrero de vaquero auténtico.
+
+CombatBoots=Botas de Combate
+
+sr:"Combat Boots (.+)$"=Botas de Combate $1
+
+Big ol heavy duty stompers.=Botas grandes y pesadas de servicio.
+
+CollarJacket=Chaqueta con Cuello
+
+sr:"Collar Jacket (.+)$"=Chaqueta con Cuello $1
+
+Jacket with an upturned collar.=Chaqueta con cuello levantado.
+
+ChefHat=Sombrero de Chef
+
+sr:"Chef Hat (.+)$"=Sombrero de Chef $1
+
+Traditional headwear for a Chef. Perfect for concealing a rodent in.=Sombrero tradicional de chef. Perfecto para esconder un roedor dentro.
+
+CargoPants=Pantalones Cargo
+
+sr:"Cargo Pants (.+)$"=Pantalones Cargo $1
+
+Cargo pants with lots of pockets (decorative pockets).=Pantalones cargo con muchos bolsillos (bolsillos decorativos).
+
+sr:"Cap (.+)$"=Gorra $1
+
+Cap=Gorra
+
+Classic and timeless cap.=Gorra clásica y atemporal.
+
+ButtonUp_Rolled=Camisa Abotonada Remangada
+
+sr:"Button-Up Shirt (Rolled) (.+)$"=Camisa Abotonada Remangada $1
+
+A button-up shirt featuring permanently rolled sleeves.=Camisa abotonada con mangas permanentemente remangadas.
+
+ButtonUp=Camisa Abotonada
+
+sr:"Button-Up Shirt (.+)$"=Camisa Abotonada $1
+
+Sophisticated choice for covering up your disgusting body. = Elección sofisticada para cubrir tu cuerpo asqueroso.
+
+BucketHat = Sombrero de Cubo
+
+sr:"Bucket Hat (.+)$" = Sombrero de Cubo $1
+Not actually shaped like a bucket. = En realidad, no tiene forma de cubo.
+
+sr:"Blazer (.+)$" = Blazer $1
+Blazer = Blazer
+Blazer/sports jacket/suit - who knows the difference. = Blazer, chaqueta deportiva, traje... ¿quién sabe la diferencia?
+
+sr:"Belt (.+)$" = Cinturón $1
+Belt = Cinturón
+Very useful for holding up your pants. = Muy útil para sostener tus pantalones.
+
+sr:"Apron (.+)$" = Delantal $1
+
+Apron = Delantal
+
+Apron. = Delantal.
+
+
+##TATUAJES SUPERIORES##
+
+Heart = Corazón
+Web = Telaraña
+Weed = Hierba
+Peace = Símbolo de la Paz
+Alien = Alienígena
+Sword = Espada
+Bird = Pájaro
+Egg = Huevo
+Dead face = Cara Muerta
+Teardrop = Lágrima
+Forehead cross = Cruz en la Frente
+Tribal = Diseño Tribal
+
+##TATUAJE SUPERIOR##
+
+Heart = Corazón
+
+Web = Web
+
+Weed = Hierba
+
+Peace = Paz
+
+Alien = Alienígena
+
+Sword = Espada
+
+Bird = Pájaro
+
+Egg = Huevo
+
+Dead face = Rostro Muerto
+
+Teardrop = Lágrima
+
+Forehead cross = Cruz en la Frente
+
+Tribal = Diseño Tribal
+
+Products=Productos
+
+I want to pay off my debt=Quiero pagar mi deuda
+
+Start a new mix at the mixing station=Inicia una nueva mezcla en la estación de mezcla
+
+Use Mixing Station=Usar estación de mezcla
+
+Insert unpackaged product and mixing ingredient=Inserte productos sin empaquetar y los ingredientes a mezclar
+
+Activate sprinkler=Activar aspersor
+
+Police curfew in effect until 5AM=Toque de queda policial hasta las 5 AM
+
+It is 4AM - go to sleep to progress to tomorrow=Son las 4 AM - ve a dormir para avanzar a la mañana
+
+Combine ingredients in bowl=Combina los ingredientes en el bowl
+
+Start mixing machine=Inicia la maquina de mezclado
+
+Mixing in progress...=Mezcla en progreso...
+
+Market value:=Valor en el mercado:
+
+Collect output=Recoger salida
+
+Drag packaged product into output=Arrastra producto empaquetado a la salida
+
+UNPACK=DESEMPACAR
+
+Talk to Uncle Nelson at a payphone=Habla con el Tío Nelson en una cabina telefónica
+
+Electric Plant Trimmers=Podadora eléctrica
+
+Trash Grabber=Recolector de basura
+
+Trash Bag=Bolsa de basura
+
+Used to easlly collect trash.=Usado para recoger la basura facilmente.
+
+Basic potting soil to grow stuff in.=Tierra básica para plantar.
+
+Remember to list your new\n product for sale in the product\n manager app.=Recuerda listar tu nuevo\n producto para la venta en la\n app de Productos.
+
+Purchase a mixing station and make your first custom mix.=Compra una estación de mezcla y has tu primera mezcla personalizada.
+
+Purchase a mixing station from the hardware store=Compra una estación de mezcla en la ferretería
+
+Place the mixing station=Coloca la estación de carga. 
+
+Go to Gas-Mart=Ve al Gas-Mart
+
+Purchase at least one mixing ingredient=Compra al menos un ingrediente para mezclar
+
+r:Working on it. Should be ready in around (\d+) hours (\d+) min=Trabajando en esto. Debería estar listo en alrededor de $1 Hs $2 Min
+
+r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Entendido. Te avisaré cuando esté listo. Debería estar en $1 Hs $2 Min
+
+Your drop is ready. Grab it in the alleyway behind the laundromat=Tu entrega está lista. Recógela en el callejón detrás de la lavandería
+
+You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.= Puedes saldar tu deuda colocando dinero en mi escondite. Está detrás de la Ferretería de Dan.
+
+I've received \$(\d{1,3}(?:,\d{3})*) cash from you. Your debt is now paid off.=He recibido $1 en efectivo de tu parte. Tu deuda ahora está saldada.
+
+I need to order a dead drop=Necesito hacer un pedido secreto
+
+Cancel=Cancelar
+
+Send Message=Enviar Mensaje
+
+Just reminding you that you owe me \$(\d{1,3}(?:,\d{3})*). Please deposit the amount into my stash box when you're ready.=Solo recordándote que me debes $1. Por favor, deposita la cantidad en mi caja de escondite cuando estés listo.
+
+The drop is ready. You can find it behind the western Gas-Mart=La entrega está lista. Puedes encontrarla detrás del Gas-Mart occidental
+
+Open shutters=Abrir persiana
+
+Close shutters=Cerrar persiana
+
+Hey boss, I've run out of product.=Hola jefe, me he quedado sin producto.
+
+I need a dead drop:=Necesito un pedido secreto:
+
+Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.=Envíame un mensaje si te gustaría hacer un pedido. Nelson ha hablado bien de ti, así que te proporcionaré una cuenta que podrás pagar después.
+
+Ok. What time you wanna meet?= Ok, en qué momento nos reunimos?
+
+I guess that's fine. When?=Supongo que está bien. Cuándo?
+
+I've heard you're in some trouble. Best not to talk over your mobile phone. Go find a payphone. - U.N.=He escuchado que estás en problemas. Mejor no hablar por el teléfono móvil. Ve a buscar un teléfono público. - U.N.
+
+Insufficient online balance=Saldo en linea insuficiente
+
+Small Storage Rack=Estante de almacenamiento pequeño
+
+Hi boss, just letting you know I'm out of product.=Hola Jefe, le aviso que me he quedado sin producto.
+
+Cuke=Coka
+
+A refreshing can of Cuke that leaves you feeling energized. It's heaven in a can.=Una refrescante lata de Coka que te deja lleno de energía. Es el cielo en una lata.
+
+Medication that is used to get you chubbed-up.=Medicamento que se utiliza para ponerte en forma.
+
+View dead drop=Revisar
+
+Dead Drop=Caja secreta
+
+Insert Trash=Deposita basura
+
+Start=Iniciar
+
+Processing...=Procesando...
+
+Collect cash=Recoger dinero
+
+Open Hatch=Abre la tapa
+
+CURFEW ACTIVE UNTIL 5AM=TOQUE DE QUEDA HASTA LAS 5 AM
+
+Cuffing...=Arrestando...
+
+OFFENSE NOTICE=MULTA
+
+You have been convicted of the following:=Has sido condenado por lo siguiente:
+
+Penalty:=Penalidad:
+
+Can't sleep before 6:00 PM=No puedes dormir antes de las 6 PM
+
+Press to Start=Presiona para iniciar
+
+CURFEW TONIGHT\n 9PM - 5AM=TOQUE DE QUEDA\n 9PM - 5AM
+
+CURFEW SOON=TOQUE DE QUEDA
+
+What's up homedog, what can I do for you?=¿Qué pasa, amigo? ¿En qué puedo ayudarte?
+
+I'd like to buy a skateboard=Me gustaría comprar una skateboard
+
+Can I interest you in a free sample?=¿Te interesa una muestra gratis?
+
+Wicked sick my man, which board are you looking for?=¡Genial, amigo! ¿Qué tabla estás buscando?
+
+INSUFFICIENT CASH=DINERO INSUFICIENTE 
+
+Use ATM=USAR CAJERO
+
+CANCEL=CANCELAR
+
+r:DEPOSIT (.+)$=DEPOSITAR $1
+
+Select amount to deposit=Selecciona el monto a depositar
+Success!=Completado!
+You have deposited (.+)$=Acabas de depositar $1
+RETURN TO MENU=VOLVER AL MENU
+I'M DONE=TERMINAR
+
+Hello there! What can I do for you?=Hola, ¿en qué puedo ayudarte?
+
+I'd like to purchase something=Me gustaría comprar algo
+
+Provides a clean surface to place product into packaging.=Proporciona una superficie limpia para colocar el producto en el empaque.
+
+A clear glass jar to keep various substances in. Holds 5x units of any product.=Un frasco de vidrio transparente para guardar varias sustancias. Almacena hasta 5 unidades de cualquier producto.
+
+Plant growth regulator (PGR) will increase the yields of your plants, at the cost of quality.=El regulador de crecimiento de plantas (PGR) aumentará el rendimiento de tus plantas, a costa de la calidad.
+
+Instantly grows the plant by 50%, but reduces plant quality.=Crece instantáneamente la planta un 50%, pero reduce la calidad de la planta.
+
+All-natural fertilizer which will increase the quality of your plants.=Fertilizante completamente natural que aumentará la calidad de tus plantas.
+
+(Hold) Mount=(Mantener) Montar
+
+Dismount=Desmontar
+
+(Hold) Jump=(Mantener) Saltar
+
+UNDER ARREST=BAJO ARRESTO
+
+WANTED=BUSCADO
+
+Large Storage Rack=Estante de almacenamiento grande
+
+sr:"Bucket Hat (.+)$"=Balde en la Cabeza $1
+Not actually shaped like a bucket.=No está realmente hecho en forma de cubo.
+
+sr:"Blazer (.+)$"=Americana $1
+Blazer=Americana
+Blazer/sports jacket/suit - who knows the difference.=Blazer/chaqueta deportiva/saco - ¿quién sabe la diferencia?.
+
+sr:"Belt (.+)$"=Cinturon $1
+Belt=Cinturon
+Very useful for holding up your pants.=Muy útil para sujetar tus pantalones.
+
+sr:"Apron (.+)$"=Delantal $1
+Apron=Delantal
+Apron.=Delantal.
+
+What can I do for you?=¿Qué desea comprar?
+
+Yeah?=¿Si?
+
+Ho?=¿Eh?
+
+Trash Bag=Bolsa de Basura
+
+Battery=Batería
+
+Mega Bean=Mega frijol
+
+Energy Drink=Bebida energética
+
+Chili=Chile
+
+Flu Medicine=Medicamento para la gripe
+
+Mouth Wash=Enguaje Bucal
+
+Donut=Dona
+
+Motor Oil=Aceite de motor
+
+Iodine=Yodo
+
+Addy=Adderall
+
+Chemical element thaht is an essential nutrient in a healthy diet. It also has other purposes=Elemento químico esencial en una dieta saludable. Tiene otras funciones.
+
+A refreshing can of cuke thaht leaves you feeling energized. It's heaven in a can.=Una refrescante lata de Cuke que te llena de energía. Es el paraíso en una lata.
+
+Elongated yellow fruit, rich in potassium.=Fruto alargado de color amarillo, rico en potasio.
+
+Mild over-the-counter painkiller=Analgésico que nunca debe faltar en casa.
+
+Yummy strawberry frosted donut.=Deliciosa dona glaseada con fresa... Mmmh Glaseada.
+
+Antiseptic mouth wash for a minty fresh breath.=Enjuague bucal antiséptico para un aliento fresco y mentolado.
+
+Pain reliever and mild sedative used to alleviate flu symptoms.=Analgésico y sedante suave utilizado para aliviar los síntomas de la gripe.
+
+A jerry can full of gasoline.=Un bidón lleno de bencina.
+
+Tasty energy drink filled with lots of yummy chemicals to make you feel refreshed. Removes the effects of drugs when consumed.=Deliciosa bebida energética. Elimina los efectos de las drogas al consumirla.
+
+Specially formulated oil used for lubricating the moving stuff in an egine.=Aceite para que el motor de tu vehículo siga funcionando, no para freir comida.
+
+An unusually large bean of mysterious origin.=Es un misterioso frijol largo, su origen es desconocido.
+
+Yummy spicy chili.=Un delicioso chile picante.
+
+Chemistry Station=Estación de química
+
+Place Item=Poner Objeto
+
+Evening=Tarde
+
+Whats up bro=Que pasá bro
+
+Hi dawg=Hola bro
+
+Evenin' bro=Tarde hermano
+
+Good Evening=Buenas Noches
+
+Increase bet=Aumentar Apuesta
+
+Decrease bet=Disminuir Apuesta
+
+Play Blackjack=Jugar Blackjack
+
+Place your bet and press 'ready'=Pon tu apuesta y apreta listo
+
+Ready=Listo
+
+Get as close as possible to 21 without going bust.=Llega lo más cerca posible de 21 sin pasarte.
+
+Bet Amount=Dinero
+
+Players=Jugadores
+
+Predict the next card to multiply your winnings!=¡Predice la siguiente carta y multiplica tus ganancias!
+
+Game saved!=Partida guardada
+
+OPENING HOURS=Abrimos a las
+
+
+Offer Deal=Ofrecer
+
+Place product here=Ofrece un producto
+
+Pull Handle=Bajar
+
+Save game=Guardar
+
+
+BODY SEARCH=Inspección
+
+Officer=Policia
+
+Police curfew starting soon= El toque de queda empezará pronto
+
+I've heard you're in some trouble. Best not to talk over your mobile phone. Go find a payphone. - U.N.=
+
+Long-Life Soil=Tierra+
+
+Extra Long-Life Soil=Tierra++
+Extra long-lasting soil that can be used to grow 3 plants before expiring.=Tierra de alta durabilidad+, te permite plantar hasta 3 veces más!
+
+Loading Dock=Zona de descarga
+
+Wait$1s=Espera
+
+Molly Presley\n(Dealer)=Molly Presley\n(Repartidor)
+
+Benji Coleman\n(Dealer)=Benji Coleman\n(Repartidor)
+
+Laundromat(Owned)=Propietario
+
+Select items to order from shirley=Selecciona los items para comprar
+
+Send Message=Enviar Mensaje
+
+Cancel=Cancelar
+Carol\nMartinez=Villancico\nMartínez
+Current Time=Hora actual
+Late Night=Noche tarde
+Afternoon=Tarde
+Night=Noche
+Morning=Mañana
+S.W=SUDOESTE
+Barn=Granero
+Properties for sale=Propiedades en venta
+Employee of \nthe month=Empleado del mes
+TOWN   SQUARE=Plaza municipal
+Businesses for sale=Negocios en venta
+Kyle=Kyle
+Choose Color=Elige el color
+H=H
+Color=Color
+Online balance only=Saldo en línea solamente
+BETTER LUCK NEXT TIME...=Mejor suerte la próxima vez ...
+Exit Vehicle=Salir del Vehículo
+NEW REGION UNLOCKED!=Nueva región desbloqueada!
+Repaint vehicle=Vehículo de repintado
+CORRECT!=¡CORRECTO!
+BLACKJACK!=¡BLACKJACK!
+Forfeit and collect $10,000=Perder y cobrar $ 10,000
+Preset=Programar
+Answer 1=Respuesta 1
+Head=Cabeza
+Handbrake=Arbitraje
+Waist=Cintura
+PUSH=EMPUJAR
+Dealer=Distribuidor
+- Property\n- Property\n- Property\n- Property\n+ 5 More=- Propiedad - Propiedad - Propiedad - Propiedad + 5 Más
+5 Customers\n3 Suppliers\n1 Dealer=5 clientes 3 proveedores 1 distribuidor
+Facial Detail Intensity=Intensidad de detalles faciales
+Resume=Reanudar
+Shirley Watts=Shirley Watts
+Salvador Moreno=Salvador Moreno
+Albert Hoover=Albert Hoover
+BET MULTIPLIER=Multiplicador de apuesta
+Headlights=Farolas
+Tools=Herramientas
+Hit=Golpear
+Eyewear=Gafas
+Outerwear=Ropa de calle
+A.H=A.H
+S.M=S.M
+20x OG Kush Test Test=Prueba de prueba de 20X OG Kush
+Request dead drop=Solicitar caída muerta
+THE BUTTER BOX=Caja de mantequilla
+HYLAND\nBANK=Cañón\nBANCO
+DAN'S  HARDWARE=Hardware de Dan
+EST.  1904=Est.\n1904
+CAFE & BAKERY=Cafetería
+Deal Completed for  Jimmy Bimbo=Acuerdo completado para Jimmy Bimbo
+0km/h=0 km/h
+Market Value: $100=Valor de mercado: $ 100
+You=Tú
+What will the next card be?=¿Cuál será la próxima tarjeta?
+Blackjack=Blackjack
+Eyes=Ojos
+Schedule I will be releasing in <color\=#5DD642>March 2025.</color> \n\nIf you've enjoyed this demo, please consider wishlisting the <color\=#000000>                                      <size\=0>.</size>\n\n<color\=#5DD642>Full Game Features</color>\n=Horario en el que estaré lanzando <color\=#5DD642>Marzo de 2025.</color> \n\nSi ha disfrutado de esta demostración, considere la lista de deseos del <color\=#000000>                                      <size\=0>.</size>\n\n<color\=#5DD642>Características del Juego Completo</color>\n
+Feet=Pies
+Confirm (<color\=#54E717>$100</color>)=Confirmar (<color\=#54E717>$100</color>)
+Hands=Manos
+Move Camera=Mover la cámara
+Ride the Bus=Montar en el autobús
+BUST!=¡BUSTO!
+Stand=Pararse
+Tattoo Shop=Tienda tatuajes
+Manor=Señorío
+Motel Room=Habitación del motel
+Wait 46s=Espera 46s
+Long Skirt=Falda larga
+Legend Sunglasses=Gafas de sol de leyenda
+Rectangle Frame Glasses=Gafas de marco rectangle
+Small Round Glasses=Gafas redondas pequeñas
+Speed Dealer Shades=Distribuidores de Speed ​​Distribuidores
+Combat Boots=Botas de combate
+Fingerless Gloves=Guantes sin dedos
+Porkpie Hat=Sombrero de cerdo
+Chef Hat=Gorro de chef
+Cowboy Hat=Sombrero de vaquero
+Collar Jacket=Chaqueta
+Tactical Vest=Chaleco táctico
+Button-Up Shirt=Camisa con botones
+Chest=Pecho
+Left Arm=Brazo izquierdo
+Right Arm=Brazo derecho
+Hair Style=Peinado
+Rectangular Frame Glasses=Gafas de marco rectangular
+Speed Dealer Sunglasses=Gafas de sol de distribuidor de velocidad
+Coca Seed=Semilla de coca
+OG Kush Seed=Semilla de og kush
+Sour Diesel Seed=Semilla de Sour Diesel
+Green Crack Seed=Semilla de Green Crack
+Granddaddy Purple Seed=Semilla Granddaddy Purple
+High Bun=Moño
+Double Top Knot=Doble nudo superior
+Side-part Bob=Bob a la partida lateral
+Phosphorus=Fósforo
+Moisture-Preserving Pot=Bote de preservación de humedad
+Air Pot=Maceta de Aire
+Full Spectrum Grow Light=Luz de cultivo de espectro completo
+Pot Sprinkler=Rociador de marihuana
+Soil Pourer=Vertido de tierra
+Packaging Station Mk II=Estación de embalaje Mk II
+Brick Press=Prensa de ladrillo
+Mixing Station Mk2=Estación de mezcla MK2
+
+Shitbox=Mierda
+Stubble=Rastrojo
+Horse Semen=Semen de caballos
+Coffee Table=Mesa de centro
+Wooden Square Table=Mesa cuadrada de madera
+Metal Square Table=Mesa cuadrada de metal
+Floor Lamp=Lámpara de piso
+TV=TELEVISOR
+
+Display Cabinet=Gabinete de exhibición
+Trash Can=Bote de basura
+Hounddog=Hounddog
+Veeper=Veeper
+Cheetah=Guepardo
+Dinkler=Aturdimiento
+S=S
+W=W
+N=N
+Sweatshop=Fábrica con explotación exagerada
+Fair price: $100=Precio justo: $ 100
+2x Item Name=2x Nombre del artículo
+Coca Seeds=Semillas de coca
+On the Grind=En la rutina
+Getting Started=Empezando
+Dodgy Dealing=Trato dudoso
+Packin'=Empacado
+Keeping it Fresh=Manteniéndolo fresco
+Money Management=Administración de dinero
+Wretched Hive of Scum and Villainy=Colmena Miserable de Escoria y Villanía
+Gearing Up=Preparándose
+Moving Up=Moverse
+Clean Cash=Efectivo limpio
+Welcome to Hyland Point=Bienvenido a Hyland Point
+You haven't recruited any dealers=No has reclutado ningún dealer
+Collect Dead Drop=Recolectar pedido secreto
+Player Name=Nombre del jugador
+Drop=Pedido
+SCORE=PUNTAJE
+HIGH SCORE=Puntaje alto
+EGG RUN=Huevo
+Start=Comenzar
+Snake=Serpiente
+Egg Run=Huevo
+Pong=Apestar
+Tuesday=Martes
+Christopher\nGarcia=Christopher\nGarcía
+Paul\nAllen=Pablo\nAllen
+Chloe=Chloe
+A clear glass jar to keep various substances in. Holds 5x units of any product.=Un frasco de vidrio transparente para mantener varias sustancias. Contiene 5 veces unidades de cualquier producto.
+A small plastic baggie.  Holds 1x unit of any product.=Una pequeña bolsa de plástico.\nPosee 1x unidad de cualquier producto.
+Specially formulated oil used for lubricating the moving stuff in an engine.=Aceite especialmente formulado utilizado para lubricar las cosas móviles en un motor.
+Can be used to either gather up trash or to bag the contents of a trash can.=Se puede usar para recoger basura o para embolsar el contenido de un bote de basura.
+Stand still. You're being searched=Estarse quieto.\nTe están buscando
+All clear.=Todo claro.
+Ow!=¡Ay!
+'DOCKS' REGION MUST BE UNLOCKED=La región de 'muelles' debe desbloquearse
+Spiky=Puntiagudo
+Acid=Ácido
+Smug=Presumido
+Agitated=Agitado
+Bruiser=Matón
+Needin' the Green=Necesito el verde
+Packagers=Empaquetador
+Hey, that drop is ready in the alleyway behind the grocery store=Oye, nos veremos en el callejón detrás de la tienda de comestibles
+Hey, that drop is ready behind the supermarket=Oye, nos veremos detrás del supermercado
+Hey, that drop is ready on the east-exterior wall of Taco Ticklers=Oye, tu pedido está listo en la pared exterior este de Taco Ticklers.
+I’ve heard you’re in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=He oído que estás en problemas. Busca un teléfono público para que hablemos.\n- U.N.
+Got it. I'll let you know when it's ready. Should be about 5 hours=Entiendo.\nTe haré saber cuándo esté listo.\nDebería ser unas 5 horas
+Your drop is ready. Grab it on the east-exterior wall of Taco Ticklers=Tu pedido está listo.\nRecógelo detrás del local de Tacos.
+r:I've received (.+)$ cash from you. Your debt is now paid off.=He recibido $1 en efectivo tuyo. Ya no tienes deuda.
+Copy. I'll message you when it's ready in about 5 hours.=Okay. Te enviaré un mensaje cuando esté listo dentro de 5 horas.
+I need a dead drop:\n10x Low-Quality Pseudo=Necesito una entrega: Fármaco de baja calidad
+Heyo - if you're looking to streamline, I'm now doing deliveries. Use your deliveries app to place an order and I'll get it to you ASAP.=Heyo - Si estás buscando mercancia, ahora estoy haciendo entregas.\nen la aplicación de entregas para que compres y te llegue.
+Okay. I'll be in the west construction site for the next 6 hours.=Bueno. Estaré en el sitio de construcción del oeste dentro de 6 horas.
+The drop is ready. You can find it behind the motel office=Tu pedido está listo.\nPuedes encontrarlo cerca del motel.
+^I need a dead drop^:\n10x Green Crack Seed=Necesito una entrega
+A cozy single bed to slumber in.=Una cómoda cama para tus largas horas de trabajo.
+Change Amount=Cambiar Monto
+Collect the new product=Recoge el nuevo producto
+That's your first mix done! There's a wide range of different ingredients with unique effects. Each one will affect the value of your product differently.=¡Tu primera mezcla está lista! Hay una amplia variedad de ingredientes diferentes con efectos únicos. Cada uno afectará el valor de tu producto de manera distinta.
+Keep trying different mix recipes, and you'll be able to make some seriously valuable product.=Sigue probando diferentes recetas de mezcla, y podrás crear productos realmente valiosos.
+You know everything you need to get yourself established. I'll call you later when you're ready to start manufacturing some harder stuff...=Sabes todo lo que necesitas para establecerte. Te llamaré más tarde cuando estés listo para empezar a fabricar cosas más fuertes...
+• Talk to the real estate agent=• Habla con el agente inmobiliario
+• Talk to the dealership manager=• Habla con el vendedor de autos
+• Talk to the mechanic=• Habla con el mecánico
+Talk to the real estate agent=Habla con el agente inmobiliario
+Talk to the dealership manager=Habla con el vendedor de autos
+Talk to the mechanic=Habla con el mecánico
+r:Mix a strain worth at least (.+)$=Mezcla una variedad con un valor de al menos $1
+Pot Already full=Maceta llena
+Already contains seed=Ya contiene semilla
+Sow seed=Sembrar semilla
+Click cap to remove=Click en la tapa para remover
+Drop seed into hole=Tira la semilla dentro del hoyo
+r:Click soil chunks to bury seed (.*)\/(.*)=Haz clic en los montones de tierra para enterrar la semilla $1/$2
+Bag trash=Embolsar
+Hi boss, what do you need?=Hola jefe, qué necesitas?
+I need to trade some items=Necesito intercambiar algunos productos
+How do I assign customers to you?=Cómo te asigno clientes?
+Place <color\=#7FFD63>packaged product</color> here and the dealer will sell it to assigned customers=Coloca el <color\=#7FFD63>producto empaquetado</color> aquí y el vendedor lo venderá a los clientes asignados
+Insufficient online balance. Visit an ATM to deposit cash.=Insuficiente dinero en la cuenta. Visita un cajero para depositar.
+Request Dead Drop=Solicitar entrega secreta
+Select items to order from Albert=Selecciona los productos que necesitas de Albert
+
+No worries, here you are.=No te preocupes, esto es tuyo.
+You can assign customers to me with the dealer management app on your phone.=Tu puedes asignarme compradores con la app Dealers en tu teléfono.
+Inventory won't fit everything. Some items will be placed on the pallets.=El inventario no puede contener todo. Algunos artículos se colocarán en los pallets.
+Access delivery bay=Acceder al área de entrega
+Delivery bay=Área de entrega
+
+Mixing in progress= Mezcla en progreso
+Contains items= Contiene artículos
+Outpot slot is full!= ¡La ranura de salida está llena!
+Where is my room?= ¿Dónde está mi habitación?
+Let me try...= Déjame intentar...
+Welcome to Hyland Auto. What can I do for you?= Bienvenido a Hyland Auto. ¿En qué puedo ayudarte?
+I'd like to purchase a vehicle= Me gustaría comprar un vehículo
+Bye= Adiós
+Fantastic! Which model are you interested in?= ¡Fantástico! ¿En qué modelo estás interesado?
+I'd like to repaint my vehicle= Me gustaría repintar mi vehículo
+VEHICLE MUST BE PARKED INSIDE THE SHOP= EL VEHÍCULO DEBE ESTAR ESTACIONADO DENTRO DEL TALLER
+Hey there, what can I do for you?= Hola, ¿en qué puedo ayudarte?
+I'd like to purchase a property= Me gustaría comprar una propiedad
+I'd like to purchase a business= Me gustaría comprar un negocio
+That's great to hear. Which property are you interested in?= Qué bien. ¿En qué propiedad estás interesado?
+Great idea! Which business are you interested in?= ¡Gran idea! ¿En qué negocio estás interesado?
+10K in earnings - not bad at all! Soon you'll have the capital needed to start manufacturing meth. But first, you're gonna need to purchase equipment.=10K en ganancias, ¡nada mal! Pronto tendrás el capital necesario para empezar a fabricar metanfetamina. Pero primero, necesitarás comprar equipo.
+You best bet for getting the tools you need is the warehouse. It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers, for hire - all the good stuff.=Tu mejor opción para conseguir las herramientas que necesitas es el almacén. Es el lugar local donde puedes hacer negocios con... personas de ideas afines. Armas, equipo especializado, trabajadores en alquiler, todo lo bueno.
+It's the big brick building behind the Liquor store. Head down there and see if you can mosey your way in. Just keep in mind they'll only let you in once you've built a solid rep for yourself.=Es el gran edificio de ladrillo detrás de la licorería. Ve hasta allí y mira si puedes colarte. Solo ten en cuenta que solo te dejarán entrar cuando hayas construido una buena reputación.
+Gain access to the warehouse= Consigue acceso al almacén
+Can I come in?= ¿Puedo entrar?
+Who the hell are you? Get lost.= ¿Quién demonios eres? Lárgate.
+
+Your drop is ready. Grab it under the west bridge= Tu entrega está lista. Recógela bajo el puente oeste.
+We've been working together for a while now, and you've proven to be quite reliable.= Hemos estado trabajando juntos por un tiempo, y has demostrado ser bastante confiable.
+If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.= Si necesitas pedir cantidades más grandes, ahora puedes organizar una reunión en persona conmigo. Solo mándame un mensaje.
+
+Combine ingredients in bowl (.*)\/(.*)=Combina los ingredientes en el bowl $1/$2
+We need to meet up=Necesito que nos reunamos
+r:Agreed. I'll be next to the mayor's house for the next (\d+) hours.= De acuerdo. Estaré junto a la casa del alcalde durante las próximas $1 horas.
+r:Copy. I'll message you when it's ready in about (\d+) hours.= Copiado. Te enviaré un mensaje cuando esté listo, en unas $1 horas.
+
+Howdy buddy. if you're looking for protection, you've come to the right place.= Hola amigo. Si buscas protección, has venido al lugar correcto.
+What do you sell?= ¿Qué vendes?
+Thanks= Gracias
+Thanks...= Gracias...
+Yeahhhh, more or less. Most of them are probably not completely non-illegal… What're you askin' for anywho?= Sííí, más o menos. La mayoría probablemente no son completamente legales... ¿Qué es lo que estás buscando, de todos modos?
+Hello there, you smell nice...= Hola, hueles bien...
+Huh?= ¿Eh?
+Piss off= Lárgate
+Hehe nothing... Just Oscar being friendly. If you need special equipment or supplier, Oscar has what you need.= Jeje, nada... Solo Oscar siendo amable. Si necesitas equipo especial o suministros, Oscar tiene lo que necesitas.
+What sort of stuff do you sell?= ¿Qué tipo de cosas vendes?
+Oscar sell special equipment and supplier.= Oscar vende equipo especial y suministros.
+Yeah okay thanks...= Sí, bueno, gracias...
+Evening' there, what can i do for ya?= Buenas noches, ¿en qué puedo ayudarte?
+Flimsy plastic pot made in China.?= Maceta de plástico endeble hecha en China.¿
+Used to hang grow lights above pots.= Se usa para colgar luces de cultivo sobre macetas.
+Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luz de cultivo halógena barata y simple. Debe colocarse en un soporte suspendido.
+A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Luz de cultivo LED simple. Emite una luz púrpura que estimula el crecimiento de las plantas un 15% más rápido que la halógena. Debe colocarse en un soporte suspendido.
+That'll be a $1000 signing fee, and the employee's daily wage will be $200.= La tarifa de registro será de $1000 y el salario diario del empleado será de $200.
+Deal= Trato hecho
+Benji is out dealing= Benji está afuera haciendo tratos
+So you'd like to purchase bungalow? Payments are made from your online balance.= ¿Así que quieres comprar un bungalow? Los pagos se hacen desde tu saldo en línea.
+Actually, nevermind= En realidad, olvídalo
+Outstanding, the property has been transferred to your name.= Excelente, la propiedad ha sido transferida a tu nombre.
+Contains trash= Contiene basura
+Hello sir. Ready to peruse the supplies?= Hola señor. ¿Listo para revisar los suministros?
+Deal Expired= Trato expirado
+BUY= COMPRAR
+Assing a station to the chemist= Asignar una estación al químico
+1x Chemist= Químico
+1x Handler= Encargado
+Mixing Station= Estación de mezcla
+
+WITHDRAW=
+r:Assigned Stations (.*)=Estaciones Asignadas $1
+Unlock this dealer by reaching 'Friendly' with one of their connections.= Desbloquea a este vendedor alcanzando el nivel de "Amistoso" con uno de sus contactos.
+Hey, that drop is ready on the pawn shop west wall= Hey, esa entrega está lista en la pared oeste de la casa de empeños.
+Hey, that drop is ready outside apartment 2 of the western apartment block= Hey, esa entrega está lista afuera del apartamento 2 del bloque occidental de apartamentos.
+Evenin' there, what can I do for ya?= Buenas noches, ¿en qué puedo ayudarte?
+Cook liquid meth at the chemistry station= Cocina metanfetamina líquida en la estación de química.
+Thanks, Hey, my friend Molly Presly is a dealer and can help you move your product. You should go speak to them.= Gracias. Oye, mi amiga Molly Presly es una distribuidora y puede ayudarte a mover tu producto. Deberías ir a hablar con ella.
+Pseudoephedrine in tablet form,\A common precursor for meth.= Pseudoefedrina en forma de tabletas,\Un precursor común para la metanfetamina.
+Bake the liquid meth with the lab oven= Hornea la metanfetamina líquida con el horno de laboratorio.
+Small battery used to power stuff.= Pequeña batería usada para alimentar dispositivos.
+Chemical element that is an essential nutrient in a healthy diet. It also has other purposes.= Elemento químico que es un nutriente esencial en una dieta saludable. También tiene otros usos.
+
+r:(.*),Contruction site=1$, Sitio de construcción
+Do you want to work for me as a distributor?= ¿Quieres trabajar para mí como distribuidor?
+Alright, I'll be a dealer for you but there is a $1000 signing fee, and I'll take a 20% cut of each sale. We got a deal?= Está bien, seré tu distribuidor, pero hay una tarifa de registro de $1000 y tomaré un 20% de cada venta. ¿Tenemos un trato?
+r:Deal (.*)$= r:Trato $1
+Thank you. Bring me some product and assign some customers to me, and I'll get to work.= Gracias. Tráeme algo de producto y asígname algunos clientes, y me pondré a trabajar.
