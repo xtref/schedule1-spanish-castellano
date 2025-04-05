@@ -1480,7 +1480,9 @@ sr:"^Deal completed for (.+)$"=Negocio completado para $1
 
 Good morning=Buenos días
 
-CUSTOMER RECENTLY COMPLETED A DEAL=CLIENTE RECIENTEMENTE COMPLETÓ UN NEGOCIO
+CUSTOMER RECENTLY COMPLETED A DEAL=RECIENTEMENTE COMPLETÓ UN NEGOCIO
+
+ALREADY RECENTLY OFFERED=YA OFRECIDO RECIENTEMENTE
 
 You wanna buy something? [Offer a deal]=¿Quieres comprar algo? [Ofrecer un trato]
 
@@ -2765,7 +2767,7 @@ Purchase at least one mixing ingredient=Compra al menos un ingrediente para mezc
 
 r:Working on it. Should be ready in around (\d+) hours (\d+) min=Trabajando en esto. Debería estar listo en alrededor de $1 Hs $2 Min
 
-r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Entendido. Te avisaré cuando esté listo. Debería estar en $1 Hs $2 Min
+r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Entendido. Te avisaré cuando esté listo. Debería ser en $1 Hs $2 Min
 
 Your drop is ready. Grab it in the alleyway behind the laundromat=Tu entrega está lista. Recógela en el callejón detrás de la lavandería
 
@@ -3279,7 +3281,8 @@ If you're needing to order larger quantities of supplies, you can now organize a
 
 Combine ingredients in bowl (.*)\/(.*)=Combina los ingredientes en el bowl $1/$2
 We need to meet up=Necesito que nos reunamos
-r:Agreed. I'll be next to the mayor's house for the next (\d+) hours.= De acuerdo. Estaré junto a la casa del alcalde durante las próximas $1 horas.
+r:Agreed. I'll be next to the mayor's house for the next (\d+) hours.=De acuerdo. Estaré junto a la casa del alcalde durante las próximas $1 horas.
+r:Agreed. I'll be under the west bridge for the next (\d+) hours.=De acuerdo. Estaré bajo el puente oeste durante las próximas $1 horas.
 r:Copy. I'll message you when it's ready in about (\d+) hours.= Copiado. Te enviaré un mensaje cuando esté listo, en unas $1 horas.
 
 Howdy buddy. if you're looking for protection, you've come to the right place.= Hola amigo. Si buscas protección, has venido al lugar correcto.
@@ -3306,7 +3309,7 @@ So you'd like to purchase bungalow? Payments are made from your online balance.=
 Actually, nevermind= En realidad, olvídalo
 Outstanding, the property has been transferred to your name.= Excelente, la propiedad ha sido transferida a tu nombre.
 Contains trash= Contiene basura
-Hello sir. Ready to peruse the supplies?= Hola señor. ¿Listo para revisar los suministros?
+Hello sir. Ready to peruse the supplies?= Hola sr, Listo para revisar?
 Deal Expired= Trato expirado
 BUY= COMPRAR
 Assing a station to the chemist= Asignar una estación al químico
@@ -3334,4 +3337,11 @@ r:Deal (.*)$= r:Trato $1
 Thank you. Bring me some product and assign some customers to me, and I'll get to work.= Gracias. Tráeme algo de producto y asígname algunos clientes, y me pondré a trabajar.
 
 Pawn shop west wall=Pared oeste de la casa de empeño
-Not right now=
+Not right now=No ahora
+Hey there - what can I do for you?=Hola, ¿en qué puedo ayudarte?
+I'd like a hair cut=Me gustaría un corte de cabello
+APPLY=APLICAR
+Like meth except legal. Used to stimulate cognition.=Como la metanfetamina, pero legal. Usado para estimular la cognición.
+The drop is ready. You can find it at the skate park=La entrega está lista. Puedes encontrarla en el parque de skate.
+Mixing in progress...=Mezcla en progreso
+r:(\d+) mins remaining=$1 min faltantes
