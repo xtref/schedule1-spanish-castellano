@@ -1,5 +1,5 @@
 ##Menu Principal##
-TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibidas.\n\nLos procesos mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos - no lograrás crear drogas, pero podrías causarte daños graves.\n\nPor favor, no uses drogas. \nVersión con MelonLoader, Gracias Britis. \n\nTraducido al Español por Beetar.
+TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibidas.\n\nLos procesos mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos - no lograrás crear drogas, pero podrías causarte daños graves.\n\nPor favor, no uses drogas. \n\nTraducido al Español por Beetar.
 
 Back=Volver
 
@@ -287,7 +287,7 @@ changebalance=changebalance
 
 changebalance 5000=changebalance 5000
 
-Changes the player's online balance by the specified amount=Cambia el saldo online del jugador en la cantidad especificada.
+Changes the player's online balance by the specified amount=Cambia el saldo en línea del jugador en la cantidad especificada.
 
 addxp=addxp
 
@@ -922,7 +922,7 @@ Select seed=Seleccionar semilla
 Name=Nombre
 
 Request dead drop=Solicitar entrega secreta
-Total=Sub Total
+
 Order Total=Total
 
 Order Limit=Limite
@@ -2056,8 +2056,6 @@ Oscar vende equipos especiales y suministros.
 
 Sí, está bien, gracias...=Sí, está bien, gracias...  
 
-Buenas noches, ¿en qué puedo ayudarte?=B. noches, en qué puedo ayudarte?  
-
 A common ingredient used in a chemistry station.=Un ingrediente común usado en una estación química.
 
 Common chemical ingredient in powder form. Used in matches and meth.=Ingrediente químico común en forma de polvo. Usado en fósforos y metanfetamina.
@@ -2801,7 +2799,7 @@ I guess that's fine. When?=Supongo que está bien. Cuándo?
 
 I've heard you're in some trouble. Best not to talk over your mobile phone. Go find a payphone. - U.N.=He escuchado que estás en problemas. Mejor no hablar por el teléfono móvil. Ve a buscar un teléfono público. - U.N.
 
-Insufficient online balance=Saldo en linea insuficiente
+Insufficient online balance=Saldo en cuenta insuficiente
 
 Small Storage Rack=Estante de almacenamiento pequeño
 
@@ -2907,35 +2905,20 @@ Very useful for holding up your pants.=Muy útil para sujetar tus pantalones.
 sr:"Apron (.+)$"=Delantal $1
 Apron=Delantal
 Apron.=Delantal.
-
 What can I do for you?=¿Qué desea comprar?
-
 Yeah?=¿Si?
-
 Ho?=¿Eh?
-
 Trash Bag=Bolsa de Basura
-
 Battery=Batería
-
 Mega Bean=Mega frijol
-
 Energy Drink=Bebida energética
-
 Chili=Chile
-
 Flu Medicine=Medicamento para la gripe
-
 Mouth Wash=Enguaje Bucal
-
 Donut=Dona
-
 Motor Oil=Aceite de motor
-
 Iodine=Yodo
-
 Addy=Adderall
-
 Chemical element thaht is an essential nutrient in a healthy diet. It also has other purposes=Elemento químico esencial en una dieta saludable. Tiene otras funciones.
 
 A refreshing can of cuke thaht leaves you feeling energized. It's heaven in a can.=Una refrescante lata de Cuke que te llena de energía. Es el paraíso en una lata.
@@ -3019,7 +3002,7 @@ Long-Life Soil=Tierra+
 Extra Long-Life Soil=Tierra++
 Extra long-lasting soil that can be used to grow 3 plants before expiring.=Tierra de alta durabilidad+, te permite plantar hasta 3 veces más!
 
-Loading Dock=Zona de descarga
+Loading Dock=Zona descarga
 
 Wait$1s=Espera
 
@@ -3050,7 +3033,7 @@ Kyle=Kyle
 Choose Color=Elige el color
 H=H
 Color=Color
-Online balance only=Saldo en línea solamente
+Online balance only=Solo dinero en cuenta
 BETTER LUCK NEXT TIME...=Mejor suerte la próxima vez ...
 Exit Vehicle=Salir del Vehículo
 NEW REGION UNLOCKED!=Nueva región desbloqueada!
@@ -3103,7 +3086,7 @@ BUST!=¡BUSTO!
 Stand=Pararse
 Tattoo Shop=Tienda tatuajes
 Manor=Señorío
-Motel Room=Habitación del motel
+Motel Room=Motel
 Wait 46s=Espera 46s
 Long Skirt=Falda larga
 Legend Sunglasses=Gafas de sol de leyenda
@@ -3133,7 +3116,7 @@ High Bun=Moño
 Double Top Knot=Doble nudo superior
 Side-part Bob=Bob a la partida lateral
 Phosphorus=Fósforo
-Moisture-Preserving Pot=Bote de preservación de humedad
+Moisture-Preserving Pot=Bote de preservación-humedad
 Air Pot=Maceta de Aire
 Full Spectrum Grow Light=Luz de cultivo de espectro completo
 Pot Sprinkler=Rociador de marihuana
@@ -3160,7 +3143,7 @@ Dinkler=Aturdimiento
 S=S
 W=W
 N=N
-Sweatshop=Fábrica con explotación exagerada
+Sweatshop=Sweatshop
 Fair price: $100=Precio justo: $ 100
 2x Item Name=2x Nombre del artículo
 Coca Seeds=Semillas de coca
@@ -3242,7 +3225,7 @@ Hi boss, what do you need?=Hola jefe, qué necesitas?
 I need to trade some items=Necesito intercambiar algunos productos
 How do I assign customers to you?=Cómo te asigno clientes?
 Place <color\=#7FFD63>packaged product</color> here and the dealer will sell it to assigned customers=Coloca el <color\=#7FFD63>producto empaquetado</color> aquí y el vendedor lo venderá a los clientes asignados
-Insufficient online balance. Visit an ATM to deposit cash.=Insuficiente dinero en la cuenta. Visita un cajero para depositar.
+Insufficient online balance. Visit an ATM to deposit cash.=Dinero insuficiente en la cuenta. Visita un cajero para depositar.
 Request Dead Drop=Solicitar entrega secreta
 Select items to order from Albert=Selecciona los productos que necesitas de Albert
 
@@ -3297,7 +3280,7 @@ Hehe nothing... Just Oscar being friendly. If you need special equipment or supp
 What sort of stuff do you sell?= ¿Qué tipo de cosas vendes?
 Oscar sell special equipment and supplier.= Oscar vende equipo especial y suministros.
 Yeah okay thanks...= Sí, bueno, gracias...
-Evening' there, what can i do for ya?= Buenas noches, ¿en qué puedo ayudarte?
+Evening' there, what can i do for ya?=B. noches, en qué puedo ayudarte?
 Flimsy plastic pot made in China.?= Maceta de plástico endeble hecha en China.¿
 Used to hang grow lights above pots.= Se usa para colgar luces de cultivo sobre macetas.
 Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luz de cultivo halógena barata y simple. Debe colocarse en un soporte suspendido.
@@ -3322,7 +3305,6 @@ r:Assigned Stations (.*)=Estaciones Asignadas $1
 Unlock this dealer by reaching 'Friendly' with one of their connections.= Desbloquea a este vendedor alcanzando el nivel de "Amistoso" con uno de sus contactos.
 Hey, that drop is ready on the pawn shop west wall= Hey, esa entrega está lista en la pared oeste de la casa de empeños.
 Hey, that drop is ready outside apartment 2 of the western apartment block= Hey, esa entrega está lista afuera del apartamento 2 del bloque occidental de apartamentos.
-Evenin' there, what can I do for ya?= Buenas noches, ¿en qué puedo ayudarte?
 Cook liquid meth at the chemistry station= Cocina metanfetamina líquida en la estación de química.
 Thanks, Hey, my friend Molly Presly is a dealer and can help you move your product. You should go speak to them.= Gracias. Oye, mi amiga Molly Presly es una distribuidora y puede ayudarte a mover tu producto. Deberías ir a hablar con ella.
 Pseudoephedrine in tablet form,\A common precursor for meth.= Pseudoefedrina en forma de tabletas,\Un precursor común para la metanfetamina.
@@ -3347,6 +3329,7 @@ Mixing in progress...=Mezcla en progreso
 r:(\d+) mins remaining=$1 min faltantes
 
 r:When you're ready please deposit (.*) into my stash box - your debt is still unpaid.=Cuando estés listo, por favor deposita $1 en mi caja - tu deuda aún no está saldada.
+r:I'm still currently waiting on a payment of (.*). Please deposit into my stash box when you've got a chance.=Todavía estoy esperando un pago de 1$. Por favor, deposítalo en mi caja cuando tengas la oportunidad.
 Arghh fine. What time?=Arghh bien. A qué hora?
 Hmm ok. What time?=Hmm ok. A qué hora?
 r:I've received (.*) cash for you. Your debt is now paid off.=He recibido $1 en efectivo de tu parte. Tu deuda ahora está saldada.
@@ -3370,3 +3353,31 @@ Sunday=Domingo
 Recipe(s)=Receta(s)
 Weapons=Armas
 Order is too large for delivery vehicle=La orden es muy grande para el vehículo Repartidor
+Lets get this party started= Vamos a empezar esta fiesta
+CUSTOMER IS WAITING FOR A DEALER= EL CLIENTE ESTÁ ESPERANDO A UN DISTRIBUIDOR
+'SUBURBIA' REGION MUST BE UNLOCKED= LA REGIÓN 'SUBURBIA' DEBE SER DESBLOQUEADA
+Rank=Rango
+Required for this area=Requerido para esta área
+r:Earn $10.000 (.*)\/(.*)=Gana $10.000 $1/$2
+Delivery already in progress=Entrega en curso
+No thanks=No gracias
+Target Quality= Calidad objetivo
+^The assigned botanist will remove items from the rack once they reach this quality=^El botánico asignado retirará los artículos del estante una vez que alcancen esta calidad
+^Outpot will be automatically moved to the destination by the assigned botanits=^La salida se moverá automáticamente al destino por el botánico asignado
+
+### Efectos 
+Poor Methamphetamine=Metanfetamina de baja calidad
+Thought-Provoking=Provoca la Reflexión
+Gingeritis=Gingivitis
+Energizing=Energizante
+Paranoia=Paranoia
+Sneaky=Sigiloso
+Calming=Calmante
+Toxic=Tóxico
+Tropic Thunder=Trueno Tropical
+Bright-Eyed=Ojitos Brillantes
+r:+ (.*) more...=r:+ $1 más...
+Foggy=Neblinoso
+Glowing=Brillante
+Electrifying=Electrizante
+Long faced=Cara larga
