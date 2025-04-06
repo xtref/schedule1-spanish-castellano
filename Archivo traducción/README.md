@@ -2,7 +2,7 @@
 
 Este archivo contiene todas las traducciones del juego, la idea es que puedan descargarlo cada vez que surge una actualización y copiarlo en la respectiva carpeta según la versión que usted esté usando 
 
-# 🔰 versión Sólo traducción
+# 🔰 versión BepinEx
 
 Se reemplaza el archivo Translate.txt en la siguiente ruta 
 
