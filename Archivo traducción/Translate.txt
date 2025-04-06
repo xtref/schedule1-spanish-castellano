@@ -1595,7 +1595,7 @@ Supplier Meeting=Reunión con el Proveedor
 Yes?=¿Sí?
 
 Alright fine=Está bien
-
+Alright then. What time?=Está bien entonces. ¿A qué hora?
 Hey!=¡Ey!
 
 Mix Already Exists=La Mezcla Ya Existe
@@ -1764,7 +1764,7 @@ Unlock this supplier by reaching 'friendly' with one of their connections.=Desbl
 
 Damn, that's pretty nice. You'll hear from me soon=Vaya, eso está bastante bien. Tendrás noticias mías pronto.
 
-How's it goin' my man?=¿Cómo van las cosas, amigo?
+How's it goin' my man?=Cómo van las cosas?
 
 I'd like to get a tattoo=Me gustaría hacerme un tatuaje.
 
@@ -2056,7 +2056,7 @@ Oscar vende equipos especiales y suministros.
 
 Sí, está bien, gracias...=Sí, está bien, gracias...  
 
-Buenas noches, ¿en qué puedo ayudarte?=Buenas noches, ¿en qué puedo ayudarte?  
+Buenas noches, ¿en qué puedo ayudarte?=B. noches, en qué puedo ayudarte?  
 
 A common ingredient used in a chemistry station.=Un ingrediente común usado en una estación química.
 
@@ -2781,7 +2781,7 @@ Cancel=Cancelar
 
 Send Message=Enviar Mensaje
 
-Just reminding you that you owe me \$(\d{1,3}(?:,\d{3})*). Please deposit the amount into my stash box when you're ready.=Solo recordándote que me debes $1. Por favor, deposita la cantidad en mi caja de escondite cuando estés listo.
+r:Just reminding you that you owe me \$(\d{1,3}(?:,\d{3})*). Please deposit the amount into my stash box when you're ready.=Solo recordándote que me debes $1. Por favor, deposita la cantidad en mi caja de escondite cuando estés listo.
 
 The drop is ready. You can find it behind the western Gas-Mart=La entrega está lista. Puedes encontrarla detrás del Gas-Mart occidental
 
@@ -3246,7 +3246,7 @@ Insufficient online balance. Visit an ATM to deposit cash.=Insuficiente dinero e
 Request Dead Drop=Solicitar entrega secreta
 Select items to order from Albert=Selecciona los productos que necesitas de Albert
 
-No worries, here you are.=No te preocupes, esto es tuyo.
+No worries, here you are.=No te preocupes, aquí tienes.
 You can assign customers to me with the dealer management app on your phone.=Tu puedes asignarme compradores con la app Dealers en tu teléfono.
 Inventory won't fit everything. Some items will be placed on the pallets.=El inventario no puede contener todo. Algunos artículos se colocarán en los pallets.
 Access delivery bay=Acceder al área de entrega
@@ -3345,3 +3345,13 @@ Like meth except legal. Used to stimulate cognition.=Como la metanfetamina, pero
 The drop is ready. You can find it at the skate park=La entrega está lista. Puedes encontrarla en el parque de skate.
 Mixing in progress...=Mezcla en progreso
 r:(\d+) mins remaining=$1 min faltantes
+
+r:When you're ready please deposit (.*) into my stash box - your debt is still unpaid.=Cuando estés listo, por favor deposita $1 en mi caja - tu deuda aún no está saldada.
+Arghh fine. What time?=Arghh bien. A qué hora?
+Hmm ok. What time?=Hmm ok. A qué hora?
+I've received (.*) cash for you. Your debt is now paid off.=He recibido $1 en efectivo de tu parte. Tu deuda ahora está saldada.
+r:Agreed. I'll be under the north end of the overpass for the next (\d+) hours.=De acuerdo. Estaré bajo el extremo norte del paso elevado durante las próximas $1 horas.
+r:You owe Albert Hoover <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit cash to pay off your debt=Le debes a Albert Hoover <color\=#54E717>$1</color>. Inserta dinero y sal para saldar tu deuda.
+[Schedule Deal]:Programar
+Reach the rank of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\ to access this area.=Alcanza el rango de <color\=#54E717>\$$1</color> para acceder a esta área.
+hmmmmm FINE. When?=hmmmmm BIEN, cuándo?
