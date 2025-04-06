@@ -6,8 +6,10 @@ Existen 2 versiones, Solo traducción con BepInEx y otra con MelonLoader (Gracia
 🖥 En la carpeta Archivo Traducción contendrá el archivo que se debe actualizar para ver nuevas traducciones en el juego, no tiene que volver a instalar todo, sólamente descargar el archivo Translate.txt y reemplazarlo. 
 
 
-# 🔰 Versión BepInEx (sólo traducción sin mods)
 :point_right:  [Ultima versión ](https://github.com/Beetario/schedule1_Spanish/archive/refs/heads/main.zip) :point_left:
+
+
+# 🔰 Versión BepInEx (sólo traducción sin mods)
 
 Sólo copien y peguen el contenido en la carpeta de instalación 
 
@@ -17,7 +19,7 @@ No tiene más ciencia, al primer ingreso puede que experimenten un pequeño jalo
 
 # 🔰 Versión MelonLoader
 
-Instalen el MelonLoader que se encuentra en la carpeta de descarga, si ya lo tienen instalado no hay cambio 
+Instalen el MelonLoader que se encuentra en la carpeta de descarga, si ya lo tienen instalado no hay cambio, 
 luego copien el contenido de la carpeta "info" directamente en la carpeta raíz del juego y listo, pueden iniciar el juego directamente desde el escritorio o Steam, quizás se tarde un poco en cargar, sólo espere. 
 
 Siéntase en la libertad de reportar malas traducciones o faltantes, enviando pantallazo o la frase en cuestión para incluirla en una próxima versión. [Discord ](https://discord.gg/aSvFe9CTrf)
