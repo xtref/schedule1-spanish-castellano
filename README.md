@@ -3,7 +3,7 @@ Al no existir por ahora una traducción oficial por parte de los desarrolladores
 
 Existen 2 versiones, Solo traducción con BepInEx y otra con MelonLoader (Gracias Britis)
 
-🖥 En la carpeta Archivo Traducción contendrá el archivo que se debe actualizar para ver nuevas traducciones en el juego, no tiene que volver a instalar todo, sólamente descargar el archivo Translate.txt y reemplazarlo. 
+🖥 En la carpeta [Archivo Traducción](https://github.com/Beetario/schedule1_Spanish/tree/main/Archivo%20traducci%C3%B3n), contendrá el archivo que se debe actualizar para ver nuevas traducciones en el juego, no tiene que volver a instalar todo, sólamente descargar el archivo Translate.txt y reemplazarlo en la ruta, los pasos están ahí explicados. 
 
 
 :point_right:  [Ultima versión ](https://github.com/Beetario/schedule1_Spanish/archive/refs/heads/main.zip) :point_left:
