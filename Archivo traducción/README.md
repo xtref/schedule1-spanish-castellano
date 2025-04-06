@@ -10,10 +10,7 @@ D:\Program Files (x86)\Steam\steamapps\common\Schedule I\BepInEx\Translation\es\
 
 # 🔰 Versión MelonLoader
 
-Se reemplaza el archivo Translate.txt en la siguiente ruta 
-
-D:\Program Files (x86)\Steam\steamapps\common\Schedule I\AutoTranslator\Translation\es\Text
-
+Se actualiza automáticamente en cada arranque. 
 
 Cuando inicie el juego de nuevo ya debería ver los cambios
 
