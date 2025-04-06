@@ -3355,7 +3355,7 @@ r:You owe Albert Hoover <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert 
 [Schedule Deal]:Programar
 Reach the rank of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\ to access this area.=Alcanza el rango de <color\=#54E717>\$1</color> para acceder a esta área.
 hmmmmm FINE. When?=hmmmmm BIEN, cuándo?
-Here's the ranged weapons, let me know what tickles your fancy.
+Here's the ranged weapons, let me know what tickles your fancy.=Aquí están las armas de largo alcance, dime cuál te interesa.
 AVAILABLE AT ENFORCER I=DISPONIBLE EN ENFORCER I
 Central canal=Canal central
 The drop is ready. You can find it in the central canal=La entrega está lista. Lo puedes encontrar en el canal Central
