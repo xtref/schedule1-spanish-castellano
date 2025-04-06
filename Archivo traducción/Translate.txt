@@ -1,5 +1,5 @@
 ##Menu Principal##
-TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibidas.\n\nLos procesos mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos - no lograrás crear drogas, pero podrías causarte daños graves.\n\nPor favor, no uses drogas.\n\nTraducido al Español por Beetar. \n\nVersión con MelonLoader, Gracias Britis.
+TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibidas.\n\nLos procesos mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos - no lograrás crear drogas, pero podrías causarte daños graves.\n\nPor favor, no uses drogas. \nVersión con MelonLoader, Gracias Britis. \n\nTraducido al Español por Beetar.
 
 Back=Volver
 
@@ -922,8 +922,8 @@ Select seed=Seleccionar semilla
 Name=Nombre
 
 Request dead drop=Solicitar entrega secreta
-
-Order Total=Sub Total
+Total=Sub Total
+Order Total=Total
 
 Order Limit=Limite
 
