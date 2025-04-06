@@ -1,4 +1,4 @@
-# Traducción al español del juego Schedule 1
+# Traducción al español del juego Schedule I
 Al no existir por ahora una traducción oficial por parte de los desarrolladores, se ha decidido buscar todas las palabras y frases que están en el juego y traducirlas al español.
 
 Existen 2 versiones, Solo traducción con BepInEx y otra con MelonLoader (Gracias Britis)
