@@ -923,7 +923,7 @@ Name=Nombre
 
 Request dead drop=Solicitar entrega secreta
 
-Order Total=Total
+Order Total=Sub Total
 
 Order Limit=Limite
 
@@ -1107,7 +1107,7 @@ Delivery Fee=Entrega
 
 Destination=Destino
 
-Bungalow=Bungaló
+Bungalow=Bungalo
 
 Loading Dock=<size\=15>Muelle de Carga</size>
 
@@ -3367,3 +3367,6 @@ Thursday=Jueves
 Friday=Viernes
 Saturday=Sábado
 Sunday=Domingo
+Recipe(s)=Receta(s)
+Weapons=Armas
+Order is too large for delivery vehicle=La orden es muy grande para el vehículo Repartidor
