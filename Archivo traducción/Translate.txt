@@ -1386,103 +1386,54 @@ I'd like to rent a room=Me gustaría rentar una habitación
 Respond to your customers in the messages app=Responde a tus clientes en la aplicación de mensajes
 
 Park the car=Estaciona el coche
-
 Drive into town=Conduce hacia la ciudad
-
 Inactive=Inactivo
-
 Talk to Uncle Nelson outside=Habla con el Tío Nelson afuera
-
 Active=Activo
-
 Completed=Completado
-
-Show on map=Mostrar en el mapa
-
+Show on map=Ubicar
 Yep=Sí
-
 Moderate standards.=Estándares moderados.
-
 Yes=Sí
-
 Loyal=Leal
-
 You can complete deals any time within the window you choose. For now, choose the morning window.=Puedes completar negocios en cualquier momento dentro del período que elijas. Por ahora, elige el período de la mañana.
-
 r:(.*), Behind gas station=$1, Detrás de la gasolinera
-
 r:(.*), Blue house=$1, Casa azul
-
 r:(.*), Behind pawn shop=$1, Detrás de la casa de empeño
-
 behind the gas station=detrás de la gasolinera
-
 outside the blue house=fuera de la casa azul
-
 behind the pawn shop=detrás de la casa de empeño
-
 Change Quantity=Cambiar Cantidad
-
 Moderate=Moderado
-
 Unlock this customer by giving them a free sample. Use your map to see their approximate location.=Desbloquea a este cliente dándole una muestra gratis. Usa tu mapa para ver su ubicación aproximada.
-
 Talk to Uncle Nelson=Habla con el Tío Nelson
-
 Morning bud, come talk to me after you've got everything done in the RV.=Buenos días, brote, ven a hablar conmigo después de terminar todo en la Casa Rodante.
-
 Morning buddy, lovely day ain't it?=Buenos días, amigo, día encantador, ¿no?
-
 Sure is=Claro que sí
-
 If you're heading in to town for some deals, would you mind grabbing something for me?=Si vas a la ciudad por algunos negocios, ¿te importaría recoger algo para mí?
-
 I've got some business with some fellas staying down at the motel, tell them you're here for Nelson's package. No need to pay for anything.=Tengo negocios con unos tipos que están en el motel, diles que estás aquí por el paquete de Nelson. No necesitas pagar nada.
-
 [SPACEBAR]=[ESPACIO]
-
 If you're lookin' to pick up any supplies for yourself, just throw 'em on my tab.=Si quieres recoger algunos suministros para ti, ponlos en mi cuenta.
-
 Cheers buddy. Feel free to take my truck.=Gracias, amigo. Siéntete libre de tomar mi camión.
-
 Enter vehicle=Entrar al vehículo
-
 Access trunk=Acceder al maletero
-
 Trunk=Maletero
-
 sr:"^Talk to (.+)$"=Hablar con $1
-
 You got the stuff?=¿Tienes las cosas?
-
 [Complete Deal]=[Completar Negocio]
-
 sr:"^(.+) is paying <color\=#50E65A>\$(\d{1,3}(?:,\d{3})*)\</color> for:$"=$1 está pagando <color\=#50E65A>$2</color> por:
-
 Item Splitting=División de Artículos
-
 To move a custom amount, <color\=#62BDFF> right-click</color> drag an item and <color\=#62BDFF>scroll</color> to change the amount.=Para mover una cantidad personalizada, arrastra un objeto con <color\=#62BDFF>clic derecho</color> y <color\=#62BDFF>desplázate</color> para cambiar la cantidad.
-
 Place the expected products here=Coloca los productos esperados aquí
-
 Much appreciated=Muy agradecido
-
 sr:"^Deal completed for (.+)$"=Negocio completado para $1
-
 Good morning=Buenos días
-
 CUSTOMER RECENTLY COMPLETED A DEAL=RECIENTEMENTE COMPLETÓ UN NEGOCIO
-
 ALREADY RECENTLY OFFERED=YA OFRECIDO RECIENTEMENTE
-
 You wanna buy something? [Offer a deal]=¿Quieres comprar algo? [Ofrecer un trato]
-
 Knock=Llamar
-
 Hi=Hola
-
 Hello=Hola
-
 Purchase Cuke=Comprar Coka
 
 You ready?=¿Estás listo?
@@ -1586,7 +1537,7 @@ Supplier Meeting=Reunión con el Proveedor
 Yes?=¿Sí?
 
 Alright fine=Está bien
-Alright then. What time?=Está bien entonces. ¿A qué hora?
+Alright then. What time?=Está bien A qué hora?
 Hey!=¡Ey!
 
 Mix Already Exists=La Mezcla Ya Existe
@@ -1762,119 +1713,61 @@ I'd like to get a tattoo=Me gustaría hacerme un tatuaje.
 Thanks, we're done.=Gracias, hemos terminado.
 
 Come on come on!=¡Vamos, vamos!
-
-Post Office (Owned)=Oficina de Correos\n(Propiedad)
-
 Nevermind!=No importa.
-
 My vehicle is stuck=Mi vehículo está atascado.
-
 Thanks buddy=Gracias, amigo.
-
 Alright then, I've moved it just outside. Try not to do that again...=Está bien, lo moví justo afuera. Intenta no hacerlo de nuevo...
-
 Damn it fine. What time?=Maldita sea, está bien. ¿A qué hora?
-
 Hold on=Espera.
-
 One moment please=Un momento, por favor.
-
 Wait! You're under arrest=¡Espera! Estás arrestado.
-
 What's wrong with you?=¿Qué te pasa?
-
 Damn!=¡Maldita sea!
-
 Holy hell!=Santo inferno!
-
 Holy shit!=Caramba!
-
 Are you blind??=¿Eres ciego??
-
 Aim=Mirar
-
 Cock/Fire=Engatillar/Disparar
-
 assault with a deadly weapon=asalto con arma mortal
-
 discharge of a firearm in a public place=disparo de arma de fuego en un lugar público
-
 Revolver Cylinder=Cilindro del revólver
-
 Cheapass 6-shot revolver probably made by communists in the 70s. Needs to be manually cocked before each shot.=Revólver barato de 6 tiros, probablemente hecho por comunistas en los años 70. Necesita ser engatillado manualmente antes de cada disparo.
-
 Big sharp machete.=Machete grande y afilado.
-
 Contains 6 rounds for the Revolver.=Contiene 6 cartuchos para el revólver.
-
 Oscar says thanks=Oscar dice gracias
-
 STOP=PARAR
-
 r:"^([0-9]+) mins left$"=$1 minutos restantes
-
 7-round magazine for the M1911 handgun.=Cargador de 7 tiros para la pistola M1911.
-
 r:"^Drag (\d+x) product into input slots$"=Arrastra $1 productos a los espacios de entrada
-
 r:"^\$([0-9]+)M$"=$$1M
-
 r:"^\$([0-9]+)K$"=$$1K
-
 Combine ingredients in beaker=Combina los ingredientes en el béquer
-
 r:Stir mixture (.*)=Agita la mezcla $1
-
 Lower boiling flask=Baja el matraz de ebullición
-
 Pour mixture into boiling flask=Vierte la mezcla en el matraz de ebullición
-
 Raise boiling flask above burner=Levanta el matraz de ebullición sobre el quemador
-
 r:Start burner (.*)=Inicia el quemador $1
-
 Cooking in progress...=Cocción en progreso...
-
 We Need To Cook=Necesitamos Cocinar
-
 You're not going to get too far if you're only pushing weed. Time to move onto something a bit harder.=No vas a llegar muy lejos solo vendiendo marihuana. Es hora de pasar a algo más fuerte.
-
 Oscar will sell everything you need to make meth, with the exception of <color\=#4CB0FF>pseudo</color>. For that, you're gonna need to hook yourself up with a supplier.=Oscar venderá todo lo que necesitas para hacer metanfetamina, excepto <color\=#4CB0FF>pseudo</color>. Para eso, necesitarás encontrar un proveedor.
-
 I don't know any pseudo suppliers, so you're on your own for this one. There ought to be someone in <color\=#4CB0FF>Westville</color> that can get you what you need.=No conozco proveedores de pseudo, así que estás por tu cuenta en esto. Debería haber alguien en <color\=#4CB0FF>Westville</color> que pueda conseguirte lo que necesitas.
-
 Open up your contacts app and look for a supplier in Westville. Keep unlocking customers in that region, and you'll get their attention in no time.=Abre la app de contactos y busca un proveedor en Westville. Sigue desbloqueando clientes en esa región y pronto llamarás su atención.
-
 • Unlock the pseudo supplier in Westville (see contacts app for more info)=• Desbloquea al proveedor de pseudo en Westville (consulta la app de contactos para más información)
-
 • Purchase a chemistry station from Oscar=• Compra una estación química de Oscar
-
 • Purchase a lab oven from Oscar=• Compra un horno de laboratorio de Oscar
-
 • Message Shirley about buying some pseudo=• Envía un mensaje a Shirley sobre comprar pseudo
-
 • Purchase phosphorus from Oscar=• Compra fósforo de Oscar
-
 • Purchase acid from Oscar=• Compra ácido de Oscar
-
 Unlock the pseudo supplier in Westville (see contacts app for more info)=Desbloquea al proveedor de pseudo en Westville (consulta la app de contactos para más información)
-
 Purchase a chemistry station from Oscar=Compra una estación química de Oscar
-
 Purchase a lab oven from Oscar=Compra un horno de laboratorio de Oscar
-
 Message Shirley about buying some pseudo=Envía un mensaje a Shirley sobre comprar pseudo
-
 Purchase phosphorus from Oscar=Compra fósforo de Oscar
-
 Purchase acid from Oscar=Compra ácido de Oscar
-
 No, not right now=No, no ahora
-
 Thanks for shopping with Oscar=Gracias por comprar con Oscar
-
 Hey there=Hola
-
 No thanks bro=No, gracias, hermano
 
 Goddamn, that's nice!! I'll message you later=¡Maldita sea, eso está genial!! Te mando un mensaje después
@@ -2113,21 +2006,17 @@ r:EMPLOYEE LIMIT REACHED (.)/(.)=LÍMITE DE EMPLEADOS ALCANZADO $1/$2
 
 Employees=Empleados
 
-Cleaners=Limpiador
+Cleaners=Limpieza  
+• Pick up trash\n\n• Bag full trash \n  cans\n\n• Dispose of full \n  trash bags=• Recoger basura\n\n• Embolsar botes \n  de basura llenos\n\n• Desechar las \n  bolsas de basura \n llenas
 
-• Pick up trash\n\n• Bag full trash cans\n\n• Dispose of full trash bags=• Recoger basura\n\n• Sacar cubos de basura llenos\n\n• Desechar bolsas de basura llenas
-
-Handlers=Manipulador
-
-• Package product\n\n• Transport items between stations, storage racks, loading bays, etc.=• Embalar producto\n\n• Transportar objetos entre estaciones, estanterías de almacenamiento, muelles de carga, etc.
+Handlers=Manipuladore
+• Package product\n\n• Transport items\n  between stations,\n  storage racks,\n  loading bays, etc.=• Empacar producto\n\n• Transportar artículos\n  entre estaciones,\n  estanterías de almacenamiento,\n  muelles de carga, etc.
 
 Botanists=Botánico
-
 • Sow seeds\n\n• Water plants\n\n• Apply additives\n\n• Harvest plants\n\n• Use drying racks=• Sembrar semillas\n\n• Regar plantas\n\n• Aplicar aditivos\n\n• Cosechar plantas\n\n• Usar estantes de secado
 
 Chemists=Químico
-
-• Use chemistry stations\n\n• Use lab ovens\n\n• Use cauldrons\n\n• Use mixing stations=• Usar estaciones químicas\n\n• Usar hornos de laboratorio\n\n• Usar calderos\n\n• Usar estaciones de mezcla
+• Use chemistry \n  stations\n\n• Use lab ovens\n\n• Use cauldrons\n\n• Use mixing stations=• Usar estaciones de \n  química\n\n• Usar hornos de \n  laboratorio\n\n• Usar calderos\n\n• Usar estaciones de mezcla
 
 Daily wage:=Pago diario:
 
@@ -2699,198 +2588,109 @@ Teardrop = Lágrima
 Forehead cross = Cruz en la Frente
 
 Tribal = Diseño Tribal
-
 Products=Productos
-
 I want to pay off my debt=Quiero pagar mi deuda
-
 Start a new mix at the mixing station=Inicia una nueva mezcla en la estación de mezcla
-
 Use Mixing Station=Usar estación de mezcla
-
 Insert unpackaged product and mixing ingredient=Inserte productos sin empaquetar y los ingredientes a mezclar
-
 Activate sprinkler=Activar aspersor
-
 Police curfew in effect until 5AM=Toque de queda policial hasta las 5 AM
-
 It is 4AM - go to sleep to progress to tomorrow=Son las 4 AM - ve a dormir para avanzar a la mañana
 Start mixing machine=Inicia la maquina de mezclado
 Go to the hardware store=Ve a la ferretería
 Mixing in progress...=Mezcla en progreso...
-
 Market value:=Valor en el mercado:
-
 Collect output=Recoger salida
-
 Drag packaged product into output=Arrastra producto empaquetado a la salida
-
 UNPACK=DESEMPACAR
-
 Talk to Uncle Nelson at a payphone=Habla con el Tío Nelson en una cabina telefónica
-
 Electric Plant Trimmers=Podadora eléctrica
-
 Trash Grabber=Recolector de basura
-
 Trash Bag=Bolsa de basura
-
 Used to easlly collect trash.=Usado para recoger la basura facilmente.
-
 Basic potting soil to grow stuff in.=Tierra básica para plantar.
-
 Remember to list your new\n product for sale in the product\n manager app.=Recuerda listar tu nuevo\n producto para la venta en la\n app de Productos.
-
 Purchase a mixing station and make your first custom mix.=Compra una estación de mezcla y has tu primera mezcla personalizada.
-
 Purchase a mixing station from the hardware store=Compra una estación de mezcla en la ferretería
-
 Place the mixing station=Coloca la estación de carga. 
-
 Go to Gas-Mart=Ve al Gas-Mart
-
 Purchase at least one mixing ingredient=Compra al menos un ingrediente para mezclar
-
 r:Working on it. Should be ready in around (\d+) hours (\d+) min=Trabajando en esto. Debería estar listo en alrededor de $1 Hs $2 Min
 r:Working on it. Should be ready in around (\d+) hours=Trabajando en esto. Debería estar listo en alrededor de $1 Hs
 r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Entendido. Te avisaré cuando esté listo. Debería ser en $1 Hs $2 Min
-
 Your drop is ready. Grab it in the alleyway behind the laundromat=Tu entrega está lista. Recógela en el callejón detrás de la lavandería
-
 You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.= Puedes saldar tu deuda colocando dinero en mi escondite. Está detrás de la Ferretería de Dan.
-
 I've received \$(\d{1,3}(?:,\d{3})*) cash from you. Your debt is now paid off.=He recibido $1 en efectivo de tu parte. Tu deuda ahora está saldada.
-
 I need to order a dead drop=Necesito hacer un pedido secreto
-
 Cancel=Cancelar
-
 Send Message=Enviar Mensaje
-
 r:Just reminding you that you owe me \$(\d{1,3}(?:,\d{3})*). Please deposit the amount into my stash box when you're ready.=Solo recordándote que me debes $1. Por favor, deposita la cantidad en mi caja de escondite cuando estés listo.
-
 The drop is ready. You can find it behind the western Gas-Mart=La entrega está lista. Puedes encontrarla detrás del Gas-Mart occidental
-
 Open shutters=Abrir persiana
-
 Close shutters=Cerrar persiana
-
 Hey boss, I've run out of product.=Hola jefe, me he quedado sin producto.
-
 I need a dead drop:=Necesito un pedido secreto:
-
 Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.=Envíame un mensaje si te gustaría hacer un pedido. Nelson ha hablado bien de ti, así que te proporcionaré una cuenta que podrás pagar después.
-
 Ok. What time you wanna meet?= Ok, en qué momento nos reunimos?
-
-I guess that's fine. When?=Supongo que está bien. Cuándo?
-
+ss that's fine. When?=Supongo que está bien. Cuándo?
 I've heard you're in some trouble. Best not to talk over your mobile phone. Go find a payphone. - U.N.=He escuchado que estás en problemas. Mejor no hablar por el teléfono móvil. Ve a buscar un teléfono público. - U.N.
-
 Insufficient online balance=Saldo en cuenta insuficiente
-
 Small Storage Rack=Estante de almacenamiento pequeño
-
 Hi boss, just letting you know I'm out of product.=Hola Jefe, le aviso que me he quedado sin producto.
-
 Cuke=Coka
-
 A refreshing can of Cuke that leaves you feeling energized. It's heaven in a can.=Una refrescante lata de Coka que te deja lleno de energía. Es el cielo en una lata.
-
 Medication that is used to get you chubbed-up.=Medicamento que se utiliza para ponerte en forma.
-
 View dead drop=Revisar
-
 Dead Drop=Caja secreta
-
 Insert Trash=Deposita basura
-
 Start=Iniciar
-
 Processing...=Procesando...
-
 Collect cash=Recoger dinero
-
 Open Hatch=Abre la tapa
-
 CURFEW ACTIVE UNTIL 5AM=TOQUE DE QUEDA HASTA LAS 5 AM
-
 Cuffing...=Arrestando...
-
 OFFENSE NOTICE=MULTA
-
 You have been convicted of the following:=Has sido condenado por lo siguiente:
-
 Penalty:=Penalidad:
-
 Can't sleep before 6:00 PM=No puedes dormir antes de las 6 PM
-
 Press to Start=Presiona para iniciar
-
 CURFEW TONIGHT\n 9PM - 5AM=TOQUE DE QUEDA\n 9PM - 5AM
-
 CURFEW SOON=TOQUE DE QUEDA
-
 What's up homedog, what can I do for you?=¿Qué pasa, amigo? ¿En qué puedo ayudarte?
-
 I'd like to buy a skateboard=Me gustaría comprar una skateboard
-
 Can I interest you in a free sample?=¿Te interesa una muestra gratis?
-
 Wicked sick my man, which board are you looking for?=¡Genial, amigo! ¿Qué tabla estás buscando?
-
 INSUFFICIENT CASH=DINERO INSUFICIENTE
 INSUFFICIENT BALANCE=DINERO EN CUENTA INSUFICIENTE
-
 Use ATM=USAR CAJERO
-
 CANCEL=CANCELAR
-
 r:DEPOSIT (.+)$=DEPOSITAR $1
-
 Select amount to deposit=Selecciona el monto a depositar
 Success!=Completado!
 You have deposited (.+)$=Acabas de depositar $1
 RETURN TO MENU=VOLVER AL MENU
 I'M DONE=TERMINAR
-
 Hello there! What can I do for you?=Hola, ¿en qué puedo ayudarte?
-
 I'd like to purchase something=Me gustaría comprar algo
-
 Provides a clean surface to place product into packaging.=Proporciona una superficie limpia para colocar el producto en el empaque.
-
 A clear glass jar to keep various substances in. Holds 5x units of any product.=Un frasco de vidrio transparente para guardar varias sustancias. Almacena hasta 5 unidades de cualquier producto.
-
 Plant growth regulator (PGR) will increase the yields of your plants, at the cost of quality.=El regulador de crecimiento de plantas (PGR) aumentará el rendimiento de tus plantas, a costa de la calidad.
-
 Instantly grows the plant by 50%, but reduces plant quality.=Crece instantáneamente la planta un 50%, pero reduce la calidad de la planta.
-
 All-natural fertilizer which will increase the quality of your plants.=Fertilizante completamente natural que aumentará la calidad de tus plantas.
-
 (Hold) Mount=(Mantener) Montar
-
 Dismount=Desmontar
-
 (Hold) Jump=(Mantener) Saltar
-
 UNDER ARREST=BAJO ARRESTO
-
 WANTED=BUSCADO
-
 Large Storage Rack=Estante de almacenamiento grande
-
 sr:"Bucket Hat (.+)$"=Balde en la Cabeza $1
 Not actually shaped like a bucket.=No está realmente hecho en forma de cubo.
-
 sr:"Blazer (.+)$"=Americana $1
 Blazer=Americana
 Blazer/sports jacket/suit - who knows the difference.=Blazer/chaqueta deportiva/saco - ¿quién sabe la diferencia?.
-
 sr:"Belt (.+)$"=Cinturon $1
 Belt=Cinturon
 Very useful for holding up your pants.=Muy útil para sujetar tus pantalones.
-
 sr:"Apron (.+)$"=Delantal $1
 Apron=Delantal
 Apron.=Delantal.
@@ -2909,102 +2709,53 @@ Motor Oil=Aceite de motor
 Iodine=Yodo
 Addy=Adderall
 Chemical element thaht is an essential nutrient in a healthy diet. It also has other purposes=Elemento químico esencial en una dieta saludable. Tiene otras funciones.
-
 A refreshing can of cuke thaht leaves you feeling energized. It's heaven in a can.=Una refrescante lata de Cuke que te llena de energía. Es el paraíso en una lata.
-
 Elongated yellow fruit, rich in potassium.=Fruto alargado de color amarillo, rico en potasio.
-
 Mild over-the-counter painkiller=Analgésico que nunca debe faltar en casa.
-
 Yummy strawberry frosted donut.=Deliciosa dona glaseada con fresa... Mmmh Glaseada.
-
 Antiseptic mouth wash for a minty fresh breath.=Enjuague bucal antiséptico para un aliento fresco y mentolado.
-
 Pain reliever and mild sedative used to alleviate flu symptoms.=Analgésico y sedante suave utilizado para aliviar los síntomas de la gripe.
-
 A jerry can full of gasoline.=Un bidón lleno de bencina.
-
 Tasty energy drink filled with lots of yummy chemicals to make you feel refreshed. Removes the effects of drugs when consumed.=Deliciosa bebida energética. Elimina los efectos de las drogas al consumirla.
-
 Specially formulated oil used for lubricating the moving stuff in an egine.=Aceite para que el motor de tu vehículo siga funcionando, no para freir comida.
-
 An unusually large bean of mysterious origin.=Es un misterioso frijol largo, su origen es desconocido.
-
 Yummy spicy chili.=Un delicioso chile picante.
-
 Chemistry Station=Estación de química
-
 Place Item=Poner Objeto
-
 Evening=Tarde
-
 Whats up bro=Que pasá bro
-
 Hi dawg=Hola bro
-
 Evenin' bro=Tarde hermano
-
 Good Evening=Buenas Noches
-
 Increase bet=Aumentar Apuesta
-
 Decrease bet=Disminuir Apuesta
-
 Play Blackjack=Jugar Blackjack
-
 Place your bet and press 'ready'=Pon tu apuesta y apreta listo
-
 Ready=Listo
-
 Get as close as possible to 21 without going bust.=Llega lo más cerca posible de 21 sin pasarte.
-
 Bet Amount=Dinero
-
 Players=Jugadores
-
 Predict the next card to multiply your winnings!=¡Predice la siguiente carta y multiplica tus ganancias!
-
 Game saved!=Partida guardada
-
 OPENING HOURS=Abrimos a las
-
-
 Offer Deal=Ofrecer
-
 Place product here=Ofrece un producto
-
 Pull Handle=Bajar
-
 Save game=Guardar
-
-
 BODY SEARCH=Inspección
-
 Officer=Policia
-
 Police curfew starting soon= El toque de queda empezará pronto
-
 I've heard you're in some trouble. Best not to talk over your mobile phone. Go find a payphone. - U.N.=
-
 Long-Life Soil=Tierra+
-
 Extra Long-Life Soil=Tierra++
 Extra long-lasting soil that can be used to grow 3 plants before expiring.=Tierra de alta durabilidad+, te permite plantar hasta 3 veces más!
-
 Loading Dock=Zona descarga
-
 Wait$1s=Espera
-
 Molly Presley\n(Dealer)=Molly Presley\n(Repartidor)
-
 Benji Coleman\n(Dealer)=Benji Coleman\n(Repartidor)
 
-Laundromat(Owned)=Propietario
-
 Select items to order from shirley=Selecciona los items para comprar
-
 Send Message=Enviar Mensaje
-
 Cancel=Cancelar
 Carol\nMartinez=Villancico\nMartínez
 Current Time=Hora actual
@@ -3223,7 +2974,6 @@ You can assign customers to me with the dealer management app on your phone.=Tu 
 Inventory won't fit everything. Some items will be placed on the pallets.=El inventario no puede contener todo. Algunos artículos se colocarán en los pallets.
 Access delivery bay=Acceder al área de entrega
 Delivery bay=Área de entrega
-
 Mixing in progress= Mezcla en progreso
 Contains items= Contiene artículos
 Outpot slot is full!= ¡La ranura de salida está llena!
@@ -3244,17 +2994,14 @@ Great idea! Which business are you interested in?= ¡Gran idea! ¿En qué negoci
 Gain access to the warehouse= Consigue acceso al almacén
 Can I come in?= ¿Puedo entrar?
 Who the hell are you? Get lost.= ¿Quién demonios eres? Lárgate.
-
 Your drop is ready. Grab it under the west bridge= Tu entrega está lista. Recógela bajo el puente oeste.
 We've been working together for a while now, and you've proven to be quite reliable.= Hemos estado trabajando juntos por un tiempo, y has demostrado ser bastante confiable.
 If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.= Si necesitas pedir cantidades más grandes, ahora puedes organizar una reunión en persona conmigo. Solo mándame un mensaje.
-
 Combine ingredients in bowl (.*)\/(.*)=Combina los ingredientes en el bowl $1/$2
 We need to meet up=Necesito que nos reunamos
 r:Agreed. I'll be next to the mayor's house for the next (\d+) hours.=De acuerdo. Estaré junto a la casa del alcalde durante las próximas $1 horas.
 r:Agreed. I'll be under the west bridge for the next (\d+) hours.=De acuerdo. Estaré bajo el puente oeste durante las próximas $1 horas.
 r:Copy. I'll message you when it's ready in about (\d+) hours.= Copiado. Te enviaré un mensaje cuando esté listo, en unas $1 horas.
-
 Howdy buddy. if you're looking for protection, you've come to the right place.= Hola amigo. Si buscas protección, has venido al lugar correcto.
 What do you sell?= ¿Qué vendes?
 Thanks= Gracias
@@ -3286,8 +3033,6 @@ Assing a station to the chemist= Asignar una estación al químico
 1x Chemist= Químico
 1x Handler= Encargado
 Mixing Station= Estación de mezcla
-
-WITHDRAW=
 r:Assigned Stations (.*)=Estaciones Asignadas $1
 Unlock this dealer by reaching 'Friendly' with one of their connections.= Desbloquea a este vendedor alcanzando el nivel de "Amistoso" con uno de sus contactos.
 Hey, that drop is ready on the pawn shop west wall= Hey, esa entrega está lista en la pared oeste de la casa de empeños.
@@ -3298,13 +3043,11 @@ Pseudoephedrine in tablet form,\A common precursor for meth.= Pseudoefedrina en 
 Bake the liquid meth with the lab oven= Hornea la metanfetamina líquida con el horno de laboratorio.
 Small battery used to power stuff.= Pequeña batería usada para alimentar dispositivos.
 Chemical element that is an essential nutrient in a healthy diet. It also has other purposes.= Elemento químico que es un nutriente esencial en una dieta saludable. También tiene otros usos.
-
 r:(.*),Contruction site=1$, Sitio de construcción
 Do you want to work for me as a distributor?= ¿Quieres trabajar para mí como distribuidor?
 Alright, I'll be a dealer for you but there is a $1000 signing fee, and I'll take a 20% cut of each sale. We got a deal?= Está bien, seré tu distribuidor, pero hay una tarifa de registro de $1000 y tomaré un 20% de cada venta. ¿Tenemos un trato?
-r:Deal (.*)$= r:Trato $1
+r:Deal (.*)$= Trato $1
 Thank you. Bring me some product and assign some customers to me, and I'll get to work.= Gracias. Tráeme algo de producto y asígname algunos clientes, y me pondré a trabajar.
-
 Pawn shop west wall=Pared oeste de la casa de empeño
 Not right now=No ahora
 Hey there - what can I do for you?=Hola, ¿en qué puedo ayudarte?
@@ -3314,7 +3057,6 @@ Like meth except legal. Used to stimulate cognition.=Como la metanfetamina, pero
 The drop is ready. You can find it at the skate park=La entrega está lista. Puedes encontrarla en el parque de skate.
 Mixing in progress...=Mezcla en progreso
 r:(\d+) mins remaining=$1 min faltantes
-
 r:When you're ready please deposit (.*) into my stash box - your debt is still unpaid.=Cuando estés listo, por favor deposita $1 en mi caja - tu deuda aún no está saldada.
 r:I'm still currently waiting on a payment of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Please deposit it into my stash box when you've got a chance.=Todavía estoy esperando un pago de $<color\=#54E717>$1</color>. Por favor, deposítalo en mi caja cuando tengas la oportunidad.
 Arghh fine. What time?=Arghh bien. A qué hora?
@@ -3355,20 +3097,119 @@ Target Quality= Calidad objetivo
 
 ### Efectos 
 Poor Methamphetamine=Metanfetamina pobre
-• Thought-Provoking=• Provoca la Reflexión
-• Gingeritis=• Gingivitis
-• Energizing=• Energizante
-• Paranoia=• Paranoia
-• Sneaky=• Sigiloso
-• Calming=• Calmante
-• Toxic=• Tóxico
-• Tropic Thunder=• Trueno Tropical
-• Bright-Eyed=• Ojitos Brillantes
-r:+ (.*) more...=r:+ $1 más...
-• Foggy=• Neblinoso
-• Glowing=• Brillante
-• Electrifying=• Electrizante
+Standard Methamphetamine=Metanfetamina estandar
+•  Zombifying=•  Zombificante
+• Zombifying=• Zombificante
+•  Shrinking=•  Reductor
+• Shrinking=• Reductor
+•  Long faced=•  Cara larga
 • Long faced=• Cara larga
+•  Explosive=•  Explosivo
+• Explosive=• Explosivo
+•  Electrifying=•  Electrizante
+• Electrifying=• Electrizante
+•  Cyclopean=•  Ciclópeo
+• Cyclopean=• Ciclópeo
+•  Anti-Gravity=•  Antigravedad
+•  Anti-gravity=•  Antigravedad
+• Anti-Gravity=• Antigravedad
+• Anti-gravity=• Antigravedad
+•  Tropic Thunder=•  Trueno tropical
+• Tropic Thunder=• Trueno tropical
+•  Thought-Provoking=•  Que da que pensar
+• Thought-Provoking=• Que da que pensar
+•  Schizophrenic=•  Esquizofrénico
+• Schizophrenic=• Esquizofrénico
+•  Lethal=•  Letal
+• Lethal=• Letal
+•  Jennerising=•  Inmunizante
+• Jennerising=• Inmunizante
+•  Glowie=•  Brillante
+• Glowie=• Brillante
+•  Bright-Eyed=•  Ojos brillantes 
+• Bright-Eyed=• Ojos brillantes 
+•  Spicy=•  Picante
+• Spicy=• Picante
+•  Slippery=•  Resbaladizo
+• Slippery=• Resbaladizo
+•  Seizure-Inducing=•  Provoca convulsiones
+• Seizure-Inducing=• Provoca convulsiones
+•  Laxative=•  Laxante
+• Laxative=• Laxante
+•  Foggy=•  Nublado
+• Foggy=• Nublado
+•  Balding=•  Calvicie
+• Balding=• Calvicie
+•  Athletic=•  Atlético
+• Athletic=• Atlético
+•  Toxic=•  Tóxico
+• Toxic=• Tóxico
+•  Sneaky=•  Sigiloso
+• Sneaky=• Sigiloso
+•  Sedating=•  Sedante
+• Sedating=• Sedante
+•  Gingeritis=•  Pelirrojitis
+• Gingeritis=• Pelirrojitis
+•  Energizing=•  Estimulante
+• Energizing=• Estimulante
+•  Disorienting=•  Desorientador
+• Disorienting=• Desorientador
+•  Calorie-Dense=•  Alto en calorías
+• Calorie-Dense=• Alto en calorías
+•  Smelly=•  Maloliente
+• Smelly=• Maloliente
+•  Refreshing=•  Refrescante
+• Refreshing=• Refrescante
+•  Paranoia=•  Paranoia
+• Paranoia=• Paranoia
+•  Munchies=•  Gula
+• Munchies=• Gula
+•  Focused=•  Concentrado 
+• Focused=• Concentrado 
+•  Euphoric=•  Eufórico
+• Euphoric=• Eufórico
+•  Calming=•  Calmante
+• Calming=• Calmante
+•  Glowing=•  Resplandeciente
+• Glowing=• Resplandeciente
+Zombifying=Zombificante  
+Shrinking=Reductor  
+Long faced=Cara larga  
+Explosive=Explosivo  
+Electrifying=Electrizante  
+Cyclopean=Ciclópeo  
+Anti-Gravity=Antigravedad  
+Anti-gravity=Antigravedad  
+Tropic Thunder=Trueno tropical  
+Thought-Provoking=Que da que pensar  
+Schizophrenic=Esquizofrénico  
+Lethal=Letal  
+Jennerising=Inmunizante  
+Glowie=Brillante  
+Bright-Eyed=Ojos brillantes  
+Spicy=Picante  
+Slippery=Resbaladizo  
+Seizure-Inducing=Provoca convulsiones  
+Laxative=Laxante  
+Foggy=Nublado  
+Balding=Calvicie  
+Athletic=Atlético  
+Toxic=Tóxico  
+Sneaky=Sigiloso  
+Sedating=Sedante  
+Gingeritis=Pelirrojitis  
+Energizing=Estimulante  
+Disorienting=Desorientador  
+Calorie-Dense=Alto en calorías  
+Smelly=Maloliente  
+Refreshing=Refrescante  
+Paranoia=Paranoia  
+Munchies=Gula  
+Focused=Concentrado  
+Euphoric=Eufórico  
+Calming=Calmante  
+Glowing=Resplandeciente  
+
 
 Sure thing=Claro que sí
 Your best bet for getting the tools you need is the <color=#7FFD63>warehouse.</color> It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers for hire - all the good stuff.=Tu mejor opción para conseguir las herramientas que necesitas es el <color=#7FFD63>almacén.</color> Es el lugar local donde puedes hacer negocios con... personas de ideas afines. Armas, equipo especializado, trabajadores en alquiler, todo lo bueno.
@@ -3377,8 +3218,6 @@ It's the big brick building behind the liquor store. Head down there and see if 
 follow me, I need to grab it first=Sígueme, necesito ir a recogerlo primero
 Get out of here=Lárgate de aquí
 Here's my selection of melee weapons, let me know what catches your eye.=Aquí está mi selección de armas cuerpo a cuerpo, dime cuál te llama la atención.
-Standard Marijuana=Marihuana Estandar
-Premium Marijuana=Marihuana Premium
 If you want to convert more cash to online balance, you're gonna need to start <color=#7FFD63>laundering</color>.=Si quieres convertir más dinero en efectivo a saldo en línea, vas a tener que empezar a <color=#7FFD63>lavar dinero</color>.
 Laundering involves using a legal business to conceal the origin of your less-than-legal cash.=Lavar dinero implica usar un negocio legal para ocultar el origen de tu dinero no tan legal.
 First thing's first, you're gonna need a business. Go check out <color=#7FFD63>Rays Realty</color>. You're probably not gonna be buying out the casino any time soon, but there should be a cheap business for sale.=Lo primero es lo primero, vas a necesitar un negocio. Ve a echar un vistazo a <color=#7FFD63>Rays Realty</color>. Probablemente no vayas a comprar el casino pronto, pero debería haber un negocio barato en venta.
@@ -3399,7 +3238,6 @@ The Dinkler=El Dinkler
 The Hounddog=El Sabueso  
 The Cheetah=El Guepardo  
 Actually, nevermind.=En realidad, olvídalo.  
-
 Use the laundering station to start a new laundering operation=Usa la estación de lavado para comenzar una nueva operación de lavado  
 Manage business=Administrar negocio  
 Business Management=Gestión del negocio
@@ -3416,11 +3254,389 @@ New Laundering Operation=Nueva operación de lavado
 Wait for the laundering operation to complete=Espera a que la operación de lavado se complete  
 The business is already at maximum laundering capacity.=el negocio ya está en su capacidad máxima de lavado.
 sr:(.*) hours=$1 horas
-sr:Agreed. I'll be in the west construction site for the next (.*) hours=sr:De acuerdo. Estaré en el sitio de construcción oeste durante las próximas $1 horas
+sr:Agreed. I'll be in the west construction site for the next (.*) hours.=De acuerdo. Estaré en el sitio de construcción oeste durante las próximas $1 horas
 Heavenly Marijuana=Mariguana celestial
 Alleyway behind Top Tattoo=Pasillo detrás de Top Tattoo
 The drop is ready. You can find it in the alleyway behind top tattoo=La entrega está lista. Puedes encontrarla en el pasillo detrás de Top Tattoo
 EMPLOYEE LIMIT REACHED (.*)\/(.*)= LIMITE DE EMPLEADOS ALCANZADO $1/$2
 sr:Already assigned to (.*)=Ya se encuentra asignado a $1
-sr:(.*) (owned)=$1 (Dueño)
 The drop is ready. You can find it in the gazebo in the residential park=La entrega está lista. Puedes encontrarla en el mirador del parque residencial.
+
+##Murkoti##
+
+r:"^(.+) \(Unpackaged\)$"=$1 (Sin empaquetar)
+Meth (Unpackaged)=Metanfetamina (Sin empaquetar)
+Cocaine (Unpackaged)=Cocaína (Sin empaquetar)
+Cocaine=Cocaína
+Product must be packaged=El producto debe estar empaquetado
+OG Kush=OG Kush
+Sour Diesel=Sour Diesel
+Green Crack=Green Crack
+Granddaddy Purple=Granddaddy Purple
+Coca Seed=Semilla de coca
+Coca Seeds=Semillas de coca
+OG Kush Seed=Semilla de OG Kush
+Sour Diesel Seed=Semilla de Sour Diesel
+Green Crack Seed=Semilla de Green Crack
+Granddaddy Purple Seed=Semilla de Granddaddy Purple
+One 'OG Kush' marijuana seed.=Una semilla de marihuana 'OG Kush'.
+One 'Sour Diesel' marijuana seed.=Una semilla de marihuana 'Sour Diesel'.
+One 'Green Crack' marijuana seed.=Una semilla de marihuana 'Green Crack'.
+One 'Granddaddy Purple' marijuana seed.=Una semilla de marihuana 'Granddaddy Purple'.
+Standard Marijuana=Marihuana estándar
+Poor Marijuana=Marihuana de baja calidad
+Premium Marijuana=Marihuana premium
+Meth=Metanfetamina
+Classic methamphetamine. A powerful stimulant with intense physical and mental addictiveness.=Metanfetamina clásica. Un potente estimulante con una fuerte adicción física y mental.
+Standard Methamphetamine=Metanfetamina estándar
+Poor Methamphetamine=Metanfetamina de baja calidad
+Premium Methamphetamine=Metanfetamina premium
+Meth (Liquid)=Metanfetamina (Líquida)
+Methamphetamine in liquid form. Use a drying oven to bake into solid form.=Metanfetamina en forma líquida. Usa un horno secador para convertirla en forma sólida.
+Poor=De baja calidad
+Low-quality pseudoephedrine in tablet form. A common precursor for meth.=Pseudoefedrina de baja calidad en forma de pastilla. Un precursor común para la metanfetamina.
+Marijuana=Marihuana
+Methamphetamine=Metanfetamina
+Cocaine=Cocaína
+MDMA=MDMA
+Shrooms=Hongos
+Heroin=Heroína
+A single coca seed. Grows into a coca plant, which provides coca leaves, which can be turned into something else starting with coca.=Una única semilla de coca. Crece en una planta de coca, que produce hojas de coca, las cuales pueden convertirse en algo más que empiece por "coca".
+Coca Leaf=Hoja de coca
+A single leaf from a coca plant. The main ingredient in cocaine.=Una única hoja de una planta de coca. El ingrediente principal de la cocaína.
+Raw cocaine base ready to be cooked into cocaine.=Base de cocaína cruda lista para ser cocinada en cocaína.
+Cocaine Base=Base de cocaína
+Standard Cocaine=Cocaína estándar
+Poor Cocaine=Cocaína de baja calidad
+Premium Cocaine=Cocaína premium
+(Hold) Snort=(Mantener) Aspirar
+
+r:(.*), Behind Thompson construction and demolition=$1, Detrás de la construcción y demolición Thompson  
+r:(.*), Behind Sauerkraut Supreme Pizzeria=$1, Detrás de la pizzería Sauerkraut Supreme  
+r:(.*), Basketball court=$1, Cancha de baloncesto  
+r:(.*), Behind Taco Ticklers=$1, Detrás de Taco Ticklers  
+r:(.*), Next to barbershop=$1, Al lado de la barbería  
+r:(.*), Next to Bud's Bar=$1, Al lado del bar de Bud  
+r:(.*), In front of motel=$1, Frente al motel  
+r:(.*), Behind Hyland Range=$1, Detrás del campo de tiro Hyland  
+r:(.*), Shipping containers near Sauerkraut Supreme=$1, Contenedores cerca de Sauerkraut Supreme  
+r:(.*), North waterfront=$1, Ribera norte  
+r:(.*), Under west bridge=$1, Bajo el puente oeste  
+r:(.*), Behind the western Gas Mart=$1, Detrás de la gasolinera del oeste  
+r:(.*), Construction site=$1, Sitio de construcción  
+r:(.*), Next to the statue in the west park=$1, Junto a la estatua en el parque oeste  
+r:(.*), Behind the construction site=$1, Detrás del sitio de construcción  
+r:(.*), Gazebo=$1, Mirador  
+r:(.*), Behind bank=$1, Detrás del banco  
+r:(.*), Alleyway behind Top Tattoo=$1, Pasillo detrás de Top Tattoo  
+r:(.*), Grey docks building=$1, Edificio gris en los muelles  
+r:(.*), Behind fire station=$1, Detrás de la estación de bomberos  
+r:(.*), Western wharf=$1, Muelle occidental  
+r:(.*), Behind medical practice=$1, Detrás del consultorio médico  
+r:(.*), Outside brown apartment block room #2=$1, Afuera del bloque de apartamentos marrón, habitación n.º 2  
+r:(.*), Alleyway behind grocery store=$1, Pasillo detrás del supermercado  
+r:(.*), On the east-exterior wall of Taco Ticklers=$1, En la pared exterior este de Taco Ticklers  
+r:(.*), On the west wharf=$1, En el muelle oeste  
+r:(.*), On the wharf west of the warehouse=$1, En el muelle al oeste del almacén  
+r:(.*), Behind the auto shop=$1, Detrás del taller mecánico  
+r:(.*), South Overpass=$1, Paso elevado sur  
+r:(.*), Taco Ticklers exterior wall=$1, Pared exterior de Taco Ticklers  
+r:(.*), Behind Randy's bait & tackle=$1, Detrás de carnadas y aparejos de Randy  
+r:(.*), Behind diner=$1, Detrás del restaurante  
+r:(.*), Brick warehouse at the docks=$1, Almacén de ladrillo en los muelles  
+r:(.*), Behind the motel office=$1, Detrás de la oficina del motel  
+r:(.*), Next to Medical Center=$1, Junto al centro médico  
+r:(.*), Graveyard=$1, Cementerio  
+r:(.*), Next to parking garage=$1, Junto al estacionamiento techado  
+r:(.*), Wharf near french restaurant=$1, Muelle cerca del restaurante francés  
+r:(.*), Behind the shipping containers at the docks=$1, Detrás de los contenedores en los muelles  
+r:(.*), Behind Ray's Realty=$1, Detrás de la inmobiliaria de Ray  
+r:(.*), Behind Thrifty Threads=$1, Detrás de Thrifty Threads  
+r:(.*), Residential park=$1, Parque residencial  
+r:(.*), Behind green house=$1, Detrás de la casa verde  
+r:(.*), Behind the casino=$1, Detrás del casino  
+r:(.*), Behind casino=$1, Detrás del casino  
+r:(.*), Alleyway next to HAM legal services=$1, Pasillo junto a los servicios legales HAM  
+r:(.*), Behind the Post Office=$1, Detrás de la oficina de correos  
+r:(.*), Behind the dealership=$1, Detrás del concesionario  
+r:(.*), Next to the courthouse=$1, Junto al juzgado  
+r:(.*), Behind Handy Hanks's=$1, Detrás de los artículos de Handy Hanks  
+r:(.*), Central canal=$1, Canal central  
+r:(.*), In the parking garage next to the casino=$1, En el estacionamiento junto al casino  
+
+r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now \$(\d{1,3}(?:,\d{3})*)$"=He recibido $$${1} en efectivo de tu parte. Tu deuda ahora es de $$${2}
+sr:"I need a dead drop:\n(\d+x) (.+)$"=<size=30>Necesito una entrega secreta:\n$1 $2</size>
+
+sr:"Deal for (.+)"=Trato por '$1'
+sr:"Hello, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it."=Hola, busco $1 $2. Puedo pagar <color=#46CB4F>$3$</color> por ello.
+sr:"I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it Deal\?\?"=Busco $1 $2. Puedo pagar <color=#46CB4F>$3$</color>. ¿Trato?
+sr:"You got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=¿Tienes $1 $2? Pago <color=#46CB4F>$3$</color> por ello.
+sr:"Hey, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Deal?"=Hey, necesito $1 $2. Pago <color=#46CB4F>$3$</color>. ¿Trato?
+sr:"I NEED (\d+x) (.+)\. I GOT <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. DEAL\?"=NECESITO $1 $2. TENGO <color=#46CB4F>$3$</color>. ¿TRATO?
+sr:"Hey, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Hey, ¿puedo conseguir $1 $2? Pago <color=#46CB4F>$3$</color>.
+sr:"Ay bro you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Oye bro, ¿tienes $1 $2? Pago <color=#46CB4F>$3$</color> por ello.
+sr:"Hey, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Hey, si tienes $1 $2, pago <color=#46CB4F>$3$</color> por ello. ¿Trato?
+sr:"Whats up bro, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\."=¿Qué tal bro? Busco $1 $2. Puedo pagar <color=#46CB4F>$3$</color> por ello.
+sr:"Hey, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Hey, necesito $1 $2. Pago <color=#46CB4F>$3$</color>. ¿Trato?
+sr:"Need me (\d+x) (.+)\! I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> yeah\?\?"=Necesito $1 $2. ¡Pago <color=#46CB4F>$3$</color>, ¿vale??
+sr:"Hey, have you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Oye, ¿tienes $1 $2? Pago <color=#46CB4F>$3$</color> por ello.
+sr:"Hey dog\, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Oye loco, necesito $1 $2. Pago <color=#46CB4F>$3$</color>. ¿Trato?
+sr:"You dawg\, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Ey bro, si tienes $1 $2, pago <color=#46CB4F>$3$</color> por ello. ¿Trato?
+sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Yo compa, ¿puedo conseguir $1 $2? Pago <color=#46CB4F>$3$</color>.
+sr:"U got (\d+x)  (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it. DEAL?"=¿Tienes $1 $2??? Pago <color=#46CB4F>$3$</color> por ello. ¿TRATO?
+r:"How about (\d+x) (.+) for \$(\d{1,3}(?:,\d{3})*)\?"=¿Qué tal $1 $2 por $3?
+Ok fine. What time?=Ok bien, a qué hora?
+I guess that's fine. When?=Supongo que está bien. Cuándo?
+sr:"Good!! I'll see u <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Okey !! Nos vemos <b>$1</b> en la noche.
+sr:"Good!! I'll see u <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Okey !! Nos vemos <b>$1</b> en la mañana.
+sr:"Good!! I'll see u <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Okey !! Nos vemos <b>$1</b> en la tarde.
+sr:"Good!! I'll see u <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Okey !! Nos vemos <b>$1</b> en la noche.
+
+sr:"Great, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Perfecto, nos vemos <b>$1</b> en la noche.
+sr:"Great, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Perfecto, nos vemos <b>$1</b> en la mañana.
+sr:"Great, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Perfecto, nos vemos <b>$1</b> en la tarde.
+sr:"Great, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Perfecto, nos vemos <b>$1</b> en la noche.
+
+sr:"Alright cool, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Genial, te veo <b>$1</b> en la noche.
+sr:"Alright cool, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Genial, te veo <b>$1</b> en la mañana.
+sr:"Alright cool, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Genial, te veo <b>$1</b> en la tarde.
+sr:"Alright cool, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Genial, te veo <b>$1</b> en la noche.
+
+sr:"Ok, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=De acuerdo, te veo <b>$1</b> en la noche.
+sr:"Ok, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=De acuerdo, te veo <b>$1</b> en la mañana.
+sr:"Ok, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=De acuerdo, te veo <b>$1</b> en la tarde.
+sr:"Ok, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=De acuerdo, te veo <b>$1</b> en la noche.
+
+sr:"Sick as, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=¡Buenísimo! Nos vemos <b>$1</b> en la noche.
+sr:"Sick as, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=¡Buenísimo! Nos vemos <b>$1</b> en la mañana.
+sr:"Sick as, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=¡Buenísimo! Nos vemos <b>$1</b> en la tarde.
+sr:"Sick as, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=¡Buenísimo! Nos vemos <b>$1</b> en la noche.
+
+sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=¡Claro que sí, amigo! Te veo <b>$1</b> en la noche.
+sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=¡Claro que sí, amigo! Te veo <b>$1</b> en la mañana.
+sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=¡Claro que sí, amigo! Te veo <b>$1</b> en la tarde.
+sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=¡Claro que sí, amigo! Te veo <b>$1</b> en la noche.
+
+sr:"Cheers bro, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Genial, hermano, te veo <b>$1</b> en la noche.
+sr:"Cheers bro, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Genial, hermano, te veo <b>$1</b> en la mañana.
+sr:"Cheers bro, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Genial, hermano, te veo <b>$1</b> en la tarde.
+sr:"Cheers bro, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Genial, hermano, te veo <b>$1</b> en la noche.
+
+sr:"Sweet as homie, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM."=Qué bacán, compa, te veo <b>$1</b> en la noche.
+sr:"Sweet as homie, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM."=Qué bacán, compa, te veo <b>$1</b> en la mañana.
+sr:"Sweet as homie, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM."=Qué bacán, compa, te veo <b>$1</b> en la tarde.
+sr:"Sweet as homie, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM."=Qué bacán, compa, te veo <b>$1</b> en la noche.
+
+behind Thompson construction and demolition=detrás de Thompson construcción y demolición
+Behind Thompson construction and demolition=Detrás de Thompson construcción y demolición
+Behind Sauerkraut Supreme Pizzeria=Detrás de Sauerkraut Supreme Pizzería
+behind Sauerkraut Supreme pizzeria=detrás de Sauerkraut Supreme pizzería
+Basketball court=Cancha de baloncesto
+at the basketball court=en la cancha de baloncesto
+Behind Taco Ticklers=Detrás de Taco Ticklers
+behind taco ticklers=detrás de Taco Ticklers
+Next to barbershop=junto a la barbería
+next to the barbershop=junto a la barbería
+Next to Bud's Bar=junto al bar de Bud
+next to Bud's bar=junto al bar de Bud
+In front of motel=En frente del motel
+in front of the motel=en frente del motel
+Behind Hyland Range=Detrás del campo de tiro Hyland
+behind Hyland gun range=detrás del campo de tiro Hyland
+Shipping containers near Sauerkraut Supreme=Contenedores cerca de Sauerkraut Supreme
+behind the shipping containers near Sauerkraut Supreme=detrás de los contenedores cerca de Sauerkraut Supreme
+North waterfront=Zona costera norte
+at the north waterfront=en la zona costera norte
+at the skatepark=en el parque de patinaje
+Under west bridge=Debajo del puente oeste
+under the west bridge=debajo del puente oeste
+Behind the western Gas Mart=Detrás del Gas Mart oeste
+behind the western Gas Mart=detrás del Gas Mart oeste
+in the west construction site=en la obra del oeste
+Construction site=Obra en construcción
+Next to the statue in the west park=junto a la estatua en el parque oeste
+next to the statue in the west park=junto a la estatua en el parque oeste
+Behind the construction site=Detrás de la obra en construcción
+behind the construction site=detrás de la obra en construcción
+Gazebo=Glorieta
+Behind bank=Detrás del banco
+behind bank=detrás del banco
+behind the bank=detrás del banco
+Alleyway behind Top Tattoo=Ruelle detrás de Top Tattoo
+alleyway behind Top Tattoo=ruelle detrás de Top Tattoo
+Grey docks building=Edificio gris de los muelles
+Behind fire station=Detrás de la estación de bomberos  
+behind fire station=detrás de la estación de bomberos  
+Western wharf=Muelle oeste  
+western wharf=muelle oeste  
+Behind medical practice=Detrás del consultorio médico  
+behind medical practice=detrás del consultorio médico  
+Outside brown apartment block room #2=Afuera del bloque de apartamentos marrón, habitación n.º 2  
+outside room #2 of the brown apartment block=afuera del bloque de apartamentos marrón, habitación n.º 2  
+Alleyway behind grocery store=Callejón detrás del supermercado  
+on the east-exterior wall of Taco Ticklers=en la pared exterior este de Taco Ticklers  
+On the east-exterior wall of Taco Ticklers=En la pared exterior este de Taco Ticklers  
+on the west wharf=en el muelle oeste  
+On the west wharf=En el muelle oeste  
+on the wharf west of the warehouse=en el muelle al oeste del almacén  
+On the wharf west of the warehouse=En el muelle al oeste del almacén  
+on the wharf near the french restaurant=en el muelle cerca del restaurante francés  
+behind the auto shop=detrás del taller mecánico  
+Behind the auto shop=Detrás del taller mecánico  
+South Overpass=Paso elevado sur  
+underneath the south end of the overpass=debajo del extremo sur del paso elevado  
+Taco Ticklers exterior wall=Pared exterior de Taco Ticklers  
+in the central canal near the car wash=en el canal central cerca del autolavado  
+You're under arrest!=¡Estás arrestado!  
+Behind Randy's bait & tackle=Detrás de carnadas y aparejos de Randy  
+in the alleyway behind top tattoo=en el callejón detrás de Top Tattoo  
+Behind diner=Detrás del restaurante  
+behind the diner=detrás del restaurante  
+Brick warehouse at the docks=Almacén de ladrillos en los muelles  
+brick warehouse at the docks=almacén de ladrillos en los muelles  
+Behind Crimson Canary=Detrás del Crimson Canary  
+behind the Crimson Canary=detrás del Crimson Canary  
+behind the motel office=detrás de la oficina del motel  
+Behind the motel office=Detrás de la oficina del motel  
+Next to Medical Center=cerca del Centro Médico  
+next to Medical Center=cerca del Centro Médico  
+Graveyard=Cementerio  
+on the graveyard=en el cementerio  
+Next to parking garage=cerca del estacionamiento  
+next to parking garage=cerca del estacionamiento  
+Wharf near french restaurant=Muelle cerca del restaurante francés  
+wharf near french restaurant=muelle cerca del restaurante francés  
+Behind the shipping containers at the docks=Detrás de los contenedores de transporte en los muelles  
+behind the shipping containers at the docks=detrás de los contenedores de transporte en los muelles  
+Destroyed RV=Casa rodante destruida  
+destroyed RV=casa rodante destruida  
+Behind Ray's Realty=Detrás de la inmobiliaria de Ray  
+behind Ray's Realty=detrás de la inmobiliaria de Ray  
+Behind Thrifty Threads=Detrás de Thrifty Threads  
+behind Thrifty threads=detrás de Thrifty Threads  
+Residential park=Parque residencial  
+residential park=parque residencial  
+Behind green house=Detrás de la casa verde  
+behind green house=detrás de la casa verde  
+Behind the casino=Detrás del casino  
+Behind casino=Detrás del casino  
+behind the casino=detrás del casino  
+Alleyway next to HAM legal services=Callejón al lado de los servicios legales HAM  
+alleyway next to HAM legal services=callejón al lado de los servicios legales HAM  
+Behind the Post Office=Detrás de la oficina de correos  
+behind the Post Office=detrás de la oficina de correos  
+Behind the dealership=Detrás de la concesionaria  
+behind the dealership=detrás de la concesionaria  
+Next to the courthouse=cerca del juzgado  
+next to the courthouse=cerca del juzgado  
+in the parking garage next to the casino=en el estacionamiento al lado del casino  
+In the parking garage next to the casino=En el estacionamiento al lado del casino  
+Behind Handy Hanks's=Detrás de Handy Hanks's (tienda de suministros)  
+behind Handy Hanks's=detrás de Handy Hanks's (tienda de suministros)  
+Behind pawn shop=Detrás de la casa de empeños  
+behind pawn shop=detrás de la casa de empeños  
+
+##Rang##
+
+Street Rat=Rata callejera  
+Hoodlum=Matón  
+Peddler=Camello  
+Hustler=Estafador  
+Enforcer=Matón a sueldo  
+Shot Caller=Jefe de cuadrilla  
+Block Boss=Capo del barrio  
+Underlord=Subjefe  
+Baron=Barón  
+Kingpin=Capo  
+Bagman=Recaudador  
+
+r:"^Street Rat ([IVX]+)$"=Rata callejera $1  
+r:"^Hoodlum ([IVX]+)$"=Matón $1  
+r:"^Peddler ([IVX]+)$"=Camello $1  
+r:"^Hustler ([IVX]+)$"=Estafador $1  
+r:"^Enforcer ([IVX]+)$"=Matón a sueldo $1  
+r:"^Bagman ([IVX]+)$"=Recaudador $1  
+r:"^Shot Caller ([IVX]+)$"=Jefe de cuadrilla $1  
+r:"^Block Boss ([IVX]+)$"=Capo del barrio $1  
+r:"^Underlord ([IVX]+)$"=Subjefe $1  
+r:"^Baron ([IVX]+)$"=Barón $1  
+r:"^Kingpin ([IVX]+)$"=Capo $1  
+
+r:"^Unlocks at <color\=#2DB92D>Street Rat ([IVX]+)</color>$"=<size=11>Se desbloquea en <color=#2DB92D>Rata callejera $1</color></size>  
+r:"^Unlocks at <color\=#2DB92D>Hoodlum ([IVX]+)</color>$"=<size=10>Se desbloquea en <color=#2DB92D>Matón $1</color></size>  
+r:"^Unlocks at <color\=#2DB92D>Peddler ([IVX]+)</color>$"=<size=11>Se desbloquea en <color=#2DB92D>Camello $1</color></size>  
+r:"^Unlocks at <color\=#2DB92D>Hustler ([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Estafador $1</color></size>  
+r:"^Unlocks at <color\=#2DB92D>Enforcer ([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Matón a sueldo $1</color></size>  
+r:"^Unlocks at <color\=#2DB92D>Bagman ([IVX]+)</color>$"=<size=10>Se desbloquea en <color=#2DB92D>Recaudador $1</color></size>  
+r:"^Unlocks at <color\=#2DB92D>Shot Caller([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Jefe de cuadrilla $1</color></size>  
+r:"^Unlocks at <color\=#2DB92D>Block Boss ([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Capo del barrio $1</color></size>  
+r:"^Unlocks at <color\=#2DB92D>Underlord ([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Subjefe $1</color></size>  
+r:"^Unlocks at <color\=#2DB92D>Baron ([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Barón $1</color></size>  
+r:"^Unlocks at <color\=#2DB92D>Kingpin ([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Capo $1</color></size>  
+
+r:"^Unlocks at Street Rat ([IVX]+)$"=Se desbloquea en Rata callejera $1  
+r:"^Unlocks at Hoodlum ([IVX]+)$"=Se desbloquea en Matón $1  
+r:"^Unlocks at Peddler ([IVX]+)$"=Se desbloquea en Camello $1  
+r:"^Unlocks at Hustler ([IVX]+)$"=Se desbloquea en Estafador $1  
+r:"^Unlocks at Enforcer ([IVX]+)$"=Se desbloquea en Matón a sueldo $1  
+r:"^Unlocks at Bagman ([IVX]+)$"=Se desbloquea en Recaudador $1  
+r:"^Unlocks at Shot Caller ([IVX]+)$"=Se desbloquea en Jefe de cuadrilla $1  
+r:"^Unlocks at Block Boss ([IVX]+)$"=Se desbloquea en Capo del barrio $1  
+r:"^Unlocks at Underlord  ([IVX]+)$"=Se desbloquea en Subjefe $1  
+r:"^Unlocks at Baron ([IVX]+)$"=Se desbloquea en Barón $1  
+r:"^Unlocks at Kingpin ([IVX]+)$"=Se desbloquea en Capo $1  
+
+r:"^AVAILABLE AT PEDDLER ([IVX]+)$"=Disponible con el camello $1  
+r:"^AVAILABLE AT ENFORCER ([IVX]+)$"=Disponible con el matón a sueldo $1  
+r:"^AVAILABLE AT HUSTLER ([IVX]+)$"=Disponible con el estafador $1  
+
+##Entreprises/Immobilier##
+
+Congratulations! The business has been transferred to your name.=¡Felicidades! El negocio ha sido transferido a tu nombre.  
+Manage business=Gestionar negocio  
+Laundering Timeline=Cronograma de lavado  
+Business Management=Gestión del negocio  
+12 Hrs=12 h  
+24 Hrs=24 h  
+Current total=Total actual  
+Launder=Lavar dinero  
+All Active Laundering Operations=Todas las operaciones activas de lavado  
+Business=Negocio  
+Amount=Cantidad  
+Time Remaining=Tiempo restante  
+No Active Laundering Operations=No hay operaciones activas de lavado  
+New Laundering Operation=Nueva operación de lavado  
+sr:"^(\d{1,2}) hours$"=$1 h  
+Outstanding, the property has been transferred to your name.=Excelente, la propiedad ha sido transferida a tu nombre.  
+
+taco ticklers? Payments are made from your online balance.=¿Taco Ticklers? Los pagos se hacen desde tu saldo en línea.  
+car wash? Payments are made from your online balance.=¿Lavadero de autos? Los pagos se hacen desde tu saldo en línea.  
+post office? Payments are made from your online balance.=¿Oficina de correos? Los pagos se hacen desde tu saldo en línea.  
+bungalow? Payments are made from your online balance.=¿Bungaló? Los pagos se hacen desde tu saldo en línea.  
+barn? Payments are made from your online balance.=¿Granero? Los pagos se hacen desde tu saldo en línea.  
+laundromat? Payments are made from your online balance.=¿Lavandería? Los pagos se hacen desde tu saldo en línea.  
+docks warehouse? Payments are made from your online balance.=¿Almacén de los muelles? Los pagos se hacen desde tu saldo en línea.  
+
+Taco Ticklers (Owned)=Taco Ticklers\n(Propiedad adquirida)  
+Car Wash (Owned)=Lavadero de autos\n(Propiedad adquirida)  
+Laundromat (Owned)=Lavandería\n(Propiedad adquirida)  
+Docks Warehouse (Owned)=Almacén de los muelles\n(Propiedad adquirida)  
+Bungalow (Owned)=Bungaló\n(Propiedad adquirida)  
+Barn (Owned)=Granero\n(Propiedad adquirida)
+Motel Room (Owned)=Cuarto de motel\n(Propiedad adquirida)
+Sweatshop (Owned)=Sweatshop\n(Propiedad adquirida)
+
+INVESTIGATING=EN INVESTIGACIÓN
+Police are nearby!=¡La policía está cerca!
+
+r:"^\$(\d+\.\d{2}) fine \(\$(\d+\.\d{2}) paid - insufficient cash\)$"=$${1} multa ($${2} pagado — efectivo insuficiente)  
+r:"^\$(\d+\.\d{2}) fine \(paid in cash\)$"=$${1} multa (pagada en efectivo)  
+r:"^(\d+) low-severity drugs confiscated$"=$1 drogas de baja gravedad confiscadas  
+r:"^(\d+) medium-severity drugs confiscated$"=$1 drogas de gravedad media confiscadas  
+r:"^(\d+) high-severity drugs confiscated$"=$1 drogas de alta gravedad confiscadas  
+r:"^(\d+) possession of high-severity drug$"=$1 en posesión de drogas de alta gravedad  
+r:"^(\d+) possession of medium-severity drug$"=$1 en posesión de drogas de gravedad media  
+r:"^(\d+) possession of low-severity drug$"=$1 en posesión de drogas de baja gravedad  
+r:"^(\d+) assault$"=$1 agresión  
+r:"^(\d+) evading arrest$"=$1 evasión de arresto  
+
