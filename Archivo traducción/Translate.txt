@@ -1181,14 +1181,6 @@ Bugs=Errores
 
 Mixer=Mezclador
 
-Thank you for playing the pre-release version of Schedule I.\n\nI'm still polishing everything up for release so I apologize if you encounter any bugs or confusion.\n\nIf you have any issues or questions, feel free to shoot me an email at \n<color\=#00ADEF>tyler@tvgs-games.com</color>\n\n- Tyler,\n  Schedule I Developer=Gracias por jugar la versión de pre-lanzamiento de Schedule I.\n\nTodavía estoy ajustando todo para el lanzamiento, así que pido disculpas si encuentras errores o confusiones.\n\nSi tienes problemas o preguntas, no dudes en enviarme un correo electrónico a \n<color\=#00ADEF>tyler@tvgs-games.com</color>\n\n- Tyler,\n  Desarrollador de Schedule I
-
-Schedule I pre-release=Pre-lanzamiento de Schedule I
-
-Wishlist on=Agregar a la lista de deseos
-
-Releasing on <color\=#7FFD63>March 24th</color> \n\n=Lanzamiento el <color\=#7FFD63>24 de marzo</color> \n\n
-
 • More drug types and ingredients\n• 8+ purchasable properties\n• Employees (chemists, botanists, etc)\n• Firearms and melee weapons\n• Full map access\n• Vehicles\n• Purchasable businesses\n• Money laundering\n• 70+ NPCs/customers\n• Upgraded equipment and tools\n• Full character customization\n• Much more!=• Más tipos de drogas e ingredientes\n• 8+ propiedades comprables\n• Empleados (químicos, botánicos, etc.)\n• Armas de fuego y cuerpo a cuerpo\n• Acceso total al mapa\n• Vehículos\n• Negocios comprables\n• Lavado de dinero\n• 70+ NPCs/clientes\n• Equipos y herramientas mejorados\n• Personalización completa de personajes\n• ¡Mucho más!
 
 Full Game Features\n=Características del Juego Completo\n
@@ -1222,8 +1214,6 @@ Dealer Earnings=Ganancias del Vendedor
 Drag product into slots=Arrastra el producto a los espacios
 
 UNPACKAGE=DESEMPAQUETAR
-
-Schedule I will be releasing in <color\=#5DD642>March 2025.</color> \n\nIf you've enjoyed this demo, please consider wishlisting the <color\=#000000>                                      <size\=0>.</size>\n\n<color\=#5DD642>Full Game Features</color>\n=Schedule I será lanzado en <color\=#5DD642>marzo de 2025.</color> \n\nSi disfrutaste esta demo, por favor considera agregarla a tu lista de deseos en <color\=#000000>                                      <size\=0>.</size>\n\n<color\=#5DD642>Características del Juego Completo</color>\n
 
 New Mix Discovered!=¡Nueva Mezcla Descubierta!
 
@@ -1259,7 +1249,7 @@ You can complete the deal any time within the window=Puedes completar el negocio
 
 Albert Hoover (Weed Supplier)=Albert Hoover (Proveedor de Marihuana)
 
-Counter-offer=Contraoferta
+[Counter-offer]=[Contra oferta]
 
 Effects=Efectos
 
@@ -1391,7 +1381,8 @@ Move=Mover
 Pour water over target=Vierte agua en los puntos
 
 Press <color\=#88CBFF>Tab</color> to open your phone.=Presiona <color\=#88CBFF>Tab</color> para abrir tu teléfono.
-
+Open your phone (press tab) and read your messages=Abre tu teléfono (presiona tab) y lee tus mensajes.
+I'd like to rent a room=Me gustaría rentar una habitación
 Respond to your customers in the messages app=Responde a tus clientes en la aplicación de mensajes
 
 Park the car=Estaciona el coche
@@ -1686,7 +1677,7 @@ Use Cauldron=Usar Caldero
 
 Use Brick Press=Usar Prensa de Ladrillos
 
-You're welcome friend. If you need special equipment or supplies, Oscar has what you need.=De nada, amigo. Si necesitas equipos especiales o suministros, Oscar tiene lo que necesitas.
+You're welcome friend. If you need special\n equipment or supplies, Oscar has what you need.=De nada, amigo. Si necesitas equipos\n especiales o suministros, Oscar tiene lo que necesitas.
 
 You've reached your ATM daily deposit limit. If you want to convert more cash to online balance, you'll need to start laundering cash through a business.=Has alcanzado el límite diario de depósito en el cajero automático. Si quieres convertir más dinero en saldo en línea, necesitarás comenzar a lavar dinero a través de un negocio.
 
@@ -1996,11 +1987,11 @@ Are these weapons legal?=¿Estas armas son legales?
 
 Yeahhhh, more or less. Most of them are probably not completely non-illegal… what're you asking' for anywho?=Siiií, más o menos. La mayoría probablemente no es totalmente no ilegal... ¿qué estás buscando, de todas formas?
 
-sr:"That'll be <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> for the (.+)\. We got a deal, partner\?"=Serán <color\=#54E717>$1</color> por el/la $2. ¿Tenemos un trato, socio?
+sr:"That'll be <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> for the (.+)\. We got a deal, partner\?"=Serán $<color\=#54E717>$1</color> por el/la $2. ¿Tenemos un trato, socio?
 
 I'm looking for some weaponry.=Estoy buscando algunas armas.
 
-Evenin' partner, what can I do you for?=B. noches, socio, qué puedo hacer por ti?
+Evenin' partner, what can I do you for?=B. noches, socio, qué necesitas?
 
 Good idea my friend. What are you after?=Buena idea, amigo. ¿Qué buscas?
 
@@ -2122,23 +2113,23 @@ r:EMPLOYEE LIMIT REACHED (.)/(.)=LÍMITE DE EMPLEADOS ALCANZADO $1/$2
 
 Employees=Empleados
 
-Cleaners=Limpiadores
+Cleaners=Limpiador
 
-• Pick up trash\n\n• Bag full trash \n cans\n\n• Dispose of full \n trash bags=• Recoger basura\n\n• Ensacar cubos de \n basura llenos\n\n• Desechar bolsas de \n basura llenas
+• Pick up trash\n\n• Bag full trash cans\n\n• Dispose of full trash bags=• Recoger basura\n\n• Sacar cubos de basura llenos\n\n• Desechar bolsas de basura llenas
 
-Handlers=Manipuladores
+Handlers=Manipulador
 
-• Package product\n\n• Transport items\n between stations,\n storage racks,\n loading bays, etc.=• Embalar producto\n\n• Transportar objetos entre estaciones,\n estanterías de almacenamiento,\n muelles de carga, etc.
+• Package product\n\n• Transport items between stations, storage racks, loading bays, etc.=• Embalar producto\n\n• Transportar objetos entre estaciones, estanterías de almacenamiento, muelles de carga, etc.
 
-Botanists=Botánicos
+Botanists=Botánico
 
 • Sow seeds\n\n• Water plants\n\n• Apply additives\n\n• Harvest plants\n\n• Use drying racks=• Sembrar semillas\n\n• Regar plantas\n\n• Aplicar aditivos\n\n• Cosechar plantas\n\n• Usar estantes de secado
 
-Chemists=Químicos
+Chemists=Químico
 
-• Use chemistry \n stations\n\n• Use lab ovens\n\n• Use cauldrons\n\n• Use mixing stations=• Usar estaciones \n químicas\n\n• Usar hornos de \n laboratorio\n\n• Usar calderos\n\n• Usar estaciones de mezcla
+• Use chemistry stations\n\n• Use lab ovens\n\n• Use cauldrons\n\n• Use mixing stations=• Usar estaciones químicas\n\n• Usar hornos de laboratorio\n\n• Usar calderos\n\n• Usar estaciones de mezcla
 
-Daily wage:=Salario diario:
+Daily wage:=Pago diario:
 
 Management Clipboard=Carpeta de Gestión
 
@@ -2287,7 +2278,7 @@ From=De
 Routes=Rutas
 
 r:Assigned Stations (.)/(.)=Estaciones Asignadas $1/$2
-
+r:Assigned Trash Cans (.)/(.)=Botes Asignadas $1/$2
 Select source=Seleccionar fuente
 
 Assign Packaging Stations=Asignar Estaciones de Embalaje
@@ -2724,11 +2715,8 @@ Activate sprinkler=Activar aspersor
 Police curfew in effect until 5AM=Toque de queda policial hasta las 5 AM
 
 It is 4AM - go to sleep to progress to tomorrow=Son las 4 AM - ve a dormir para avanzar a la mañana
-
-Combine ingredients in bowl=Combina los ingredientes en el bowl
-
 Start mixing machine=Inicia la maquina de mezclado
-
+Go to the hardware store=Ve a la ferretería
 Mixing in progress...=Mezcla en progreso...
 
 Market value:=Valor en el mercado:
@@ -2764,7 +2752,7 @@ Go to Gas-Mart=Ve al Gas-Mart
 Purchase at least one mixing ingredient=Compra al menos un ingrediente para mezclar
 
 r:Working on it. Should be ready in around (\d+) hours (\d+) min=Trabajando en esto. Debería estar listo en alrededor de $1 Hs $2 Min
-
+r:Working on it. Should be ready in around (\d+) hours=Trabajando en esto. Debería estar listo en alrededor de $1 Hs
 r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Entendido. Te avisaré cuando esté listo. Debería ser en $1 Hs $2 Min
 
 Your drop is ready. Grab it in the alleyway behind the laundromat=Tu entrega está lista. Recógela en el callejón detrás de la lavandería
@@ -2851,7 +2839,8 @@ Can I interest you in a free sample?=¿Te interesa una muestra gratis?
 
 Wicked sick my man, which board are you looking for?=¡Genial, amigo! ¿Qué tabla estás buscando?
 
-INSUFFICIENT CASH=DINERO INSUFICIENTE 
+INSUFFICIENT CASH=DINERO INSUFICIENTE
+INSUFFICIENT BALANCE=DINERO EN CUENTA INSUFICIENTE
 
 Use ATM=USAR CAJERO
 
@@ -3180,7 +3169,7 @@ Can be used to either gather up trash or to bag the contents of a trash can.=Se 
 Stand still. You're being searched=Estarse quieto.\nTe están buscando
 All clear.=Todo claro.
 Ow!=¡Ay!
-'DOCKS' REGION MUST BE UNLOCKED=La región de 'muelles' debe desbloquearse
+'DOCKS' REGION MUST BE UNLOCKED=LA REGIÓN DE 'MUELLES' DEBE DESBLOQUEARSE
 Spiky=Puntiagudo
 Acid=Ácido
 Smug=Presumido
@@ -3251,9 +3240,7 @@ I'd like to purchase a property= Me gustaría comprar una propiedad
 I'd like to purchase a business= Me gustaría comprar un negocio
 That's great to hear. Which property are you interested in?= Qué bien. ¿En qué propiedad estás interesado?
 Great idea! Which business are you interested in?= ¡Gran idea! ¿En qué negocio estás interesado?
-10K in earnings - not bad at all! Soon you'll have the capital needed to start manufacturing meth. But first, you're gonna need to purchase equipment.=10K en ganancias, ¡nada mal! Pronto tendrás el capital necesario para empezar a fabricar metanfetamina. Pero primero, necesitarás comprar equipo.
-You best bet for getting the tools you need is the warehouse. It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers, for hire - all the good stuff.=Tu mejor opción para conseguir las herramientas que necesitas es el almacén. Es el lugar local donde puedes hacer negocios con... personas de ideas afines. Armas, equipo especializado, trabajadores en alquiler, todo lo bueno.
-It's the big brick building behind the Liquor store. Head down there and see if you can mosey your way in. Just keep in mind they'll only let you in once you've built a solid rep for yourself.=Es el gran edificio de ladrillo detrás de la licorería. Ve hasta allí y mira si puedes colarte. Solo ten en cuenta que solo te dejarán entrar cuando hayas construido una buena reputación.
+10K in earnings - not bad at all! Soon you'll have the capital needed to start manufacturing <color\=#7FFD63>meth</color>. But first, you're gonna need to purchase some equipment.=10K en ganancias, ¡nada mal! Pronto tendrás el capital necesario para empezar a fabricar <color\=#7FFD63>metanfetamina</color>. Pero primero, necesitarás comprar equipo.
 Gain access to the warehouse= Consigue acceso al almacén
 Can I come in?= ¿Puedo entrar?
 Who the hell are you? Get lost.= ¿Quién demonios eres? Lárgate.
@@ -3280,7 +3267,7 @@ Hehe nothing... Just Oscar being friendly. If you need special equipment or supp
 What sort of stuff do you sell?= ¿Qué tipo de cosas vendes?
 Oscar sell special equipment and supplier.= Oscar vende equipo especial y suministros.
 Yeah okay thanks...= Sí, bueno, gracias...
-Evening' there, what can i do for ya?=B. noches, en qué puedo ayudarte?
+Evenin' there, what can I do for ya?=B. noches, en qué puedo ayudarte?
 Flimsy plastic pot made in China.?= Maceta de plástico endeble hecha en China.¿
 Used to hang grow lights above pots.= Se usa para colgar luces de cultivo sobre macetas.
 Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luz de cultivo halógena barata y simple. Debe colocarse en un soporte suspendido.
@@ -3306,7 +3293,7 @@ Unlock this dealer by reaching 'Friendly' with one of their connections.= Desblo
 Hey, that drop is ready on the pawn shop west wall= Hey, esa entrega está lista en la pared oeste de la casa de empeños.
 Hey, that drop is ready outside apartment 2 of the western apartment block= Hey, esa entrega está lista afuera del apartamento 2 del bloque occidental de apartamentos.
 Cook liquid meth at the chemistry station= Cocina metanfetamina líquida en la estación de química.
-Thanks, Hey, my friend Molly Presly is a dealer and can help you move your product. You should go speak to them.= Gracias. Oye, mi amiga Molly Presly es una distribuidora y puede ayudarte a mover tu producto. Deberías ir a hablar con ella.
+Thanks. Hey, my friend Molly Presly is a dealer and can help you move your product. You should go speak to them.= Gracias. Oye, mi amiga Molly Presly es una distribuidora y puede ayudarte a mover tu producto. Deberías ir a hablar con ella.
 Pseudoephedrine in tablet form,\A common precursor for meth.= Pseudoefedrina en forma de tabletas,\Un precursor común para la metanfetamina.
 Bake the liquid meth with the lab oven= Hornea la metanfetamina líquida con el horno de laboratorio.
 Small battery used to power stuff.= Pequeña batería usada para alimentar dispositivos.
@@ -3329,20 +3316,22 @@ Mixing in progress...=Mezcla en progreso
 r:(\d+) mins remaining=$1 min faltantes
 
 r:When you're ready please deposit (.*) into my stash box - your debt is still unpaid.=Cuando estés listo, por favor deposita $1 en mi caja - tu deuda aún no está saldada.
-r:I'm still currently waiting on a payment of (.*). Please deposit into my stash box when you've got a chance.=Todavía estoy esperando un pago de 1$. Por favor, deposítalo en mi caja cuando tengas la oportunidad.
+r:I'm still currently waiting on a payment of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Please deposit it into my stash box when you've got a chance.=Todavía estoy esperando un pago de $<color\=#54E717>$1</color>. Por favor, deposítalo en mi caja cuando tengas la oportunidad.
 Arghh fine. What time?=Arghh bien. A qué hora?
 Hmm ok. What time?=Hmm ok. A qué hora?
-r:I've received (.*) cash for you. Your debt is now paid off.=He recibido $1 en efectivo de tu parte. Tu deuda ahora está saldada.
+r:I've received (.*) cash from you. Your debt is now paid off.=He recibido $1 en efectivo de tu parte. Tu deuda ahora está saldada.
 r:Agreed. I'll be under the north end of the overpass for the next (\d+) hours.=De acuerdo. Estaré bajo el extremo norte del paso elevado durante las próximas $1 horas.
-r:You owe Albert Hoover <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit cash to pay off your debt=Le debes a Albert Hoover <color\=#54E717>$1</color>. Inserta dinero y sal para saldar tu deuda.
+r:You owe Albert Hoover <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt=Le debes a Albert Hoover $<color\=#54E717>$1</color>. Inserta dinero y sal para saldar tu deuda.
 [Schedule Deal]:Programar
-Reach the rank of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\ to access this area.=Alcanza el rango de <color\=#54E717>\$1</color> para acceder a esta área.
+r:Reach the rank of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\ to access this area.=Alcanza el rango de <color\=#54E717>\$1</color> para acceder a esta área.
 hmmmmm FINE. When?=hmmmmm BIEN, cuándo?
 Here's the ranged weapons, let me know what tickles your fancy.=Aquí están las armas de largo alcance, dime cuál te interesa.
 AVAILABLE AT ENFORCER I=DISPONIBLE EN ENFORCER I
+AVAILABLE AT PEDDLER III=DISPONIBLE EN PEDDLER III
 Central canal=Canal central
 The drop is ready. You can find it in the central canal=La entrega está lista. Lo puedes encontrar en el canal Central
 A big jug of ethically sourced horse semen.=Una gran jarra de semen de caballo de origen ético.
+On your away.
 Monday=Lunes
 Tuesday=Martes
 Wednesday=Miércoles
@@ -3351,7 +3340,6 @@ Friday=Viernes
 Saturday=Sábado
 Sunday=Domingo
 Recipe(s)=Receta(s)
-Weapons=Armas
 Order is too large for delivery vehicle=La orden es muy grande para el vehículo Repartidor
 Lets get this party started= Vamos a empezar esta fiesta
 CUSTOMER IS WAITING FOR A DEALER= EL CLIENTE ESTÁ ESPERANDO A UN DISTRIBUIDOR
@@ -3366,18 +3354,73 @@ Target Quality= Calidad objetivo
 ^Outpot will be automatically moved to the destination by the assigned botanits=^La salida se moverá automáticamente al destino por el botánico asignado
 
 ### Efectos 
-Poor Methamphetamine=Metanfetamina de baja calidad
-Thought-Provoking=Provoca la Reflexión
-Gingeritis=Gingivitis
-Energizing=Energizante
-Paranoia=Paranoia
-Sneaky=Sigiloso
-Calming=Calmante
-Toxic=Tóxico
-Tropic Thunder=Trueno Tropical
-Bright-Eyed=Ojitos Brillantes
+Poor Methamphetamine=Metanfetamina pobre
+• Thought-Provoking=• Provoca la Reflexión
+• Gingeritis=• Gingivitis
+• Energizing=• Energizante
+• Paranoia=• Paranoia
+• Sneaky=• Sigiloso
+• Calming=• Calmante
+• Toxic=• Tóxico
+• Tropic Thunder=• Trueno Tropical
+• Bright-Eyed=• Ojitos Brillantes
 r:+ (.*) more...=r:+ $1 más...
-Foggy=Neblinoso
-Glowing=Brillante
-Electrifying=Electrizante
-Long faced=Cara larga
+• Foggy=• Neblinoso
+• Glowing=• Brillante
+• Electrifying=• Electrizante
+• Long faced=• Cara larga
+
+Sure thing=Claro que sí
+Your best bet for getting the tools you need is the <color=#7FFD63>warehouse.</color> It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers for hire - all the good stuff.=Tu mejor opción para conseguir las herramientas que necesitas es el <color=#7FFD63>almacén.</color> Es el lugar local donde puedes hacer negocios con... personas de ideas afines. Armas, equipo especializado, trabajadores en alquiler, todo lo bueno.
+It's the big brick building behind the liquor store. Head down there and see if you can mosey your way in. Just keep in mind they'll only let you in once you've built a solid rep for yourself.=Es el gran edificio de ladrillo detrás de la licorería. Ve hasta allí y mira si puedes colarte. Solo ten en cuenta que solo te dejarán entrar cuando hayas construido una buena reputación.
+[Make an offer]=[Haz una oferta]
+follow me, I need to grab it first=Sígueme, necesito ir a recogerlo primero
+Get out of here=Lárgate de aquí
+Here's my selection of melee weapons, let me know what catches your eye.=Aquí está mi selección de armas cuerpo a cuerpo, dime cuál te llama la atención.
+Standard Marijuana=Marihuana Estandar
+Premium Marijuana=Marihuana Premium
+If you want to convert more cash to online balance, you're gonna need to start <color=#7FFD63>laundering</color>.=Si quieres convertir más dinero en efectivo a saldo en línea, vas a tener que empezar a <color=#7FFD63>lavar dinero</color>.
+Laundering involves using a legal business to conceal the origin of your less-than-legal cash.=Lavar dinero implica usar un negocio legal para ocultar el origen de tu dinero no tan legal.
+First thing's first, you're gonna need a business. Go check out <color=#7FFD63>Rays Realty</color>. You're probably not gonna be buying out the casino any time soon, but there should be a cheap business for sale.=Lo primero es lo primero, vas a necesitar un negocio. Ve a echar un vistazo a <color=#7FFD63>Rays Realty</color>. Probablemente no vayas a comprar el casino pronto, pero debería haber un negocio barato en venta.
+Purchase a business at Ray's Realty=Compra un negocio en Rays Realty
+Alright then. You know where to find me if you change your mind.=Muy bien entonces. Sabes dónde encontrarme si cambias de opinión.
+The drop is ready. You can find it on the pawn shop west wall=La entrega está lista. Puedes encontrarla en la pared oeste de la casa de empeños.
+The Laundromat=La Lavandería  
+The Post Office=La Oficina de Correos  
+The Car Wash=El Autolavado  
+Taco Ticklers=Cosquillas de Taco  
+So you'd like to purchase laundromat? Payments are made from your online balance.=¿Así que quieres comprar la lavandería? Los pagos se hacen desde tu saldo en línea.  
+Congratulations! The business has been transferred to your name.=¡Felicidades! El negocio ha sido transferido a tu nombre.  
+Go to your new business=Ir a tu nuevo negocio  
+The Shitbox=La Caja de Porquería  
+The Veeper=El Veeper  
+The Bruiser=El Matón  
+The Dinkler=El Dinkler  
+The Hounddog=El Sabueso  
+The Cheetah=El Guepardo  
+Actually, nevermind.=En realidad, olvídalo.  
+
+Use the laundering station to start a new laundering operation=Usa la estación de lavado para comenzar una nueva operación de lavado  
+Manage business=Administrar negocio  
+Business Management=Gestión del negocio
+Laundering Timeline=Línea de tiempo del lavado  
+START=INICIO  
+Launder=Lavar  
+All Active Laundering Operations=Todas las operaciones de lavado activas  
+business=Negocio  
+Amount=Monto  
+Time Remaining=Tiempo faltante  
+No active Laundering Operations=No hay operaciones de lavado activas  
+Current total=Total actual  
+New Laundering Operation=Nueva operación de lavado  
+Wait for the laundering operation to complete=Espera a que la operación de lavado se complete  
+The business is already at maximum laundering capacity.=el negocio ya está en su capacidad máxima de lavado.
+sr:(.*) hours=$1 horas
+sr:Agreed. I'll be in the west construction site for the next (.*) hours=sr:De acuerdo. Estaré en el sitio de construcción oeste durante las próximas $1 horas
+Heavenly Marijuana=Mariguana celestial
+Alleyway behind Top Tattoo=Pasillo detrás de Top Tattoo
+The drop is ready. You can find it in the alleyway behind top tattoo=La entrega está lista. Puedes encontrarla en el pasillo detrás de Top Tattoo
+EMPLOYEE LIMIT REACHED (.*)\/(.*)= LIMITE DE EMPLEADOS ALCANZADO $1/$2
+sr:Already assigned to (.*)=Ya se encuentra asignado a $1
+sr:(.*) (owned)=$1 (Dueño)
+The drop is ready. You can find it in the gazebo in the residential park=La entrega está lista. Puedes encontrarla en el mirador del parque residencial.
