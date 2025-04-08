@@ -1442,285 +1442,147 @@ Knock=Llamar
 Hi=Hola
 Hello=Hola
 Purchase Cuke=Comprar Coka
-
 You ready?=¿Estás listo?
-
 Thanks!=¡Gracias!
-
 Ready?=¿Listo?
-
 in the alleyway behind Slop Shop (the diner)=en el callejón detrás del Slop Shop (el restaurante)
-
 the alleyway behind Slop Shop (the diner)=el callejón detrás del Slop Shop (el restaurante)
-
 Oooh yeah not bad! I'll text you=¡Oooh sí, nada mal! Te enviaré un mensaje
-
 DROP=SOLTAR
-
 Item won't fit in inventory=El objeto no cabe en el inventario
-
 Insert soil=Insertar tierra
-
 Dispense soil=Distribuir tierra
-
 Use Packaging Station Mk II=Usar Estación de Empaque Mk II
-
 Insert product into packaging=Insertar producto en el empaque
-
 Rotate Conveyor=Rotar Transportador
-
 Drop Product=Soltar Producto
-
 Oh yeah, boss man told me about you. You can come in, but you'll have to wait until 6PM.=Ah, sí, el jefe me habló de ti. Puedes entrar, pero tendrás que esperar hasta las 6 PM.
-
 A potent classic with intense sedating and euphoric effects.=Un clásico potente con efectos sedantes e intensamente eufóricos.
-
 • Talk to the merchant=• Habla con el comerciante
-
 • Talk to the fixer=• Habla con el reparador
-
 • Talk to the arms dealer=• Habla con el traficante de armas
-
 Talk to the merchant=Habla con el comerciante
-
 Talk to the fixer=Habla con el reparador
-
 Talk to the arms dealer=Habla con el traficante de armas
-
 I haven't had my fix in too long, I really need something right now bro. You got anything I can buy??=Hace mucho que no me satisfago, realmente necesito algo ahora, hermano. ¿Tienes algo que pueda comprar??
-
 Big ol' cast iron skillet. Great for cooking and beating the shit out of people (but not at the same time).=Una gran sartén de hierro fundido. Genial para cocinar y para golpear a la gente (pero no al mismo tiempo).
-
 Howdy, I'm Marco. If you're looking for a fresh paint job, or need your car towed, I'm the fella for the job.=Hola, soy Marco. Si buscas un trabajo de pintura nuevo o necesitas que remolquen tu coche, soy el indicado.
-
 Enter price...=Introduce el precio...
-
 What do you have for sale?=¿Qué tienes a la venta?
-
 Hey there, I'm Ray - Hyland Point's best real estate agent. Come talk to me if you're looking to purchase something.=Hola, soy Ray, el mejor agente inmobiliario de Hyland Point. Habla conmigo si buscas comprar algo.
-
 You can see all the available listings on the whiteboard to your left.=Puedes ver todas las listas disponibles en la pizarra a tu izquierda.
-
 If you want to drive through here, I'll need to search your vehicle.=Si quieres pasar por aquí, necesitaré registrar tu vehículo.
-
 You need to park your car nearby for me to search it.=Estaciona tu coche cerca para que pueda registrarlo.
-
 Huh?!=¿Eh?!
-
 Hiya there, can I help you with something?=Hola, ¿puedo ayudarte con algo?
-
 I'd like to browse your stock=Me gustaría ver tu inventario.
-
 Thank you!=¡Gracias!
-
 Order won't fit in inventory=El pedido no cabe en el inventario
-
 Apply PGR=Aplicar PGR
-
 r:Cover soil with PGR (.*)=Cubrir el suelo con PGR $1
-
 Already contains PGR=Ya contiene PGR
-
 Apply Speed Grow=Aplicar Crecimiento Rápido
-
 r:Cover soil with Speed Grow (.*)=Cubrir el suelo con Crecimiento Rápido $1
-
 Already contains Speed Grow=Ya contiene Crecimiento Rápido
-
 Apply Fertilizer=Aplicar Fertilizante
-
 r:Cover soil with Fertilizer (.*)=Cubrir el suelo con Fertilizante $1
-
 Already contains Fertilizer=Ya contiene Fertilizante
-
 Only open after 6PM=Abierto solo después de las 6 PM
-
 View Cart (3 items)=Ver Carrito (3 artículos)
-
 Does not match type requirement=No cumple con el requisito de tipo
-
 Supplier Meeting=Reunión con el Proveedor
-
 Yes?=¿Sí?
-
 Alright fine=Está bien
 Alright then. What time?=Está bien. A qué hora?
 Ok bro. What time?=Ok bro. A qué hora?
 Aight homie. What time you wanna meet?=Está bien, compa. A qué hora quieres que nos veamos?
 Hey!=¡Ey!
-
 Mix Already Exists=La Mezcla Ya Existe
-
 You are providing more items than required.=Estás proporcionando más artículos de los necesarios.
-
 Skate park=Parque de Skate
-
 What's your problem?=¿Cuál es tu problema?
-
 Owww...=Ay...
-
 Stand still - you're under arrest.=Quédate quieto, estás arrestado.
-
 Cheers dog=Gracias, amigo
-
 Come on come on!=¡Vamos, vamos!
-
 Yes!!!=¡Sí!!!
-
 Inventory full=Inventario lleno
-
 (Hold) Dump Contents=(Mantener) Vaciar Contenido
-
 The deal is off. This is not what I wanted.=El trato está cancelado. Esto no es lo que quería.
-
 Nope man=No, hombre
-
 r:Pick up \$(\d{1,3}(?:,\d{3})*)=Recoger $1
-
 Pick up Cuke=Recoger Cuke
-
 Oh no!=¡Oh no!
-
 Yikes!=¡Uf!
-
 r:"I need to collect the earnings <color\=#54E717>\(\$(\d{1,3}(?:,\d{3})*)\)</color>"=Necesito recoger las ganancias <color\=#54E717>($1)</color>
-
 The hell bro?=¿Qué diablos, hermano?
-
 Mornin` dude=Buenos días, amigo
-
 Not interested, sorry=No estoy interesado, lo siento
-
 Brown apartment block=Bloque de apartamentos marrón
-
 Behind auto shop=Detrás del taller
-
 What the hell?=¿Qué diablos?
-
 What?!=¿Qué?!
-
 Shit!=¡Mierda!
-
 Holy hell!=¡Santo cielo!
-
 Ouch!=¡Ay!
-
 Damn!=¡Maldita sea!
-
 Goddamn!=¡Maldita sea!
-
 Get away!=¡Aléjate!
-
 Crap!=¡Maldición!
-
 Oof!=¡Uf!
-
 Woah!=¡Guau!
-
 Holy shit!=¡Caramba!
-
 Dude!=¡Amigo!
-
 Woah man...=Guau, hombre...
-
 Thanks, we're done.=Gracias, hemos terminado.
-
 The hell?=¿Qué diablos?
-
 Bro...=Hermano...
-
 Not again...=No otra vez...
-
 r:"Insert <color\=#FFC73D>(\d+x)</color> coca leaves and <color\=#FFC73D>(\d+x)</color> gasoline"=Inserta <color\=#FFC73D>$1</color> hojas de coca y <color\=#FFC73D>$2</color> gasolina
-
 Use Cauldron=Usar Caldero
-
 Use Brick Press=Usar Prensa de Ladrillos
-
 You're welcome friend. If you need special\n equipment or supplies, Oscar has what you need.=De nada, amigo. Si necesitas equipos\n especiales o suministros, Oscar tiene lo que necesitas.
-
 You've reached your ATM daily deposit limit. If you want to convert more cash to online balance, you'll need to start laundering cash through a business.=Has alcanzado el límite diario de depósito en el cajero automático. Si quieres convertir más dinero en saldo en línea, necesitarás comenzar a lavar dinero a través de un negocio.
-
 INVENTORY FULL=INVENTARIO LLENO
-
 Classic double-kick popsicle skateboard. Use it to get around faster than on-foot.=Patineta clásica de doble patada. Úsala para moverte más rápido que a pie.
-
 Cruiser skateboard designed for high-speed, straight line motion. Not particularly agile.=Patineta cruiser diseñada para movimiento en línea recta a alta velocidad. No es particularmente ágil.
-
 Tasteful gold-plated skateboard. High top speed but slow acceleration.=Patineta bañada en oro de buen gusto. Alta velocidad máxima, pero aceleración lenta.
-
 r:"<color\=#16F01C>\$(\d{1,3}(?:,\d{3})*)</color> Laundered"=<color\=#16F01C>$1</color> Lavado
-
 sr:"^Select items to order from (.+)$"=Selecciona artículos para pedir de $1
-
 Thanks. By the way, my friend Shirley can hook you up with pseudo. I've passed your number on to her.=Gracias. Por cierto, mi amiga Shirley puede conseguirte pseudo. Le pasé tu número.
-
 You can now order <color\=#88CBFF>pseudo</color> from Shirley. Pseudo is the main precursor ingredient for <color\=#88CBFF>methamphetamine</color>.=Ahora puedes pedir <color\=#88CBFF>pseudo</color> a Shirley. El pseudo es el principal ingrediente precursor para la <color\=#88CBFF>metanfetamina</color>.
-
 Heyo, I'm Shirley. I work in the pharmaceutical business, and heard you got a nasty cough...=Hola, soy Shirley. Trabajo en la industria farmacéutica y escuché que tienes una tos fea...
-
 If you're in need of some pseudo, I'm your gal. Send me a message and we'll figure something out=Si necesitas pseudo, soy la persona indicada. Envíame un mensaje y lo resolveremos.
-
 Hey, I'm Sal. You need Coca seeds? You speak to me.=Hola, soy Sal. ¿Necesitas semillas de coca? Habla conmigo.
-
 Send me a message if you want to order a drop.=Envíame un mensaje si quieres pedir una entrega.
-
 You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.=Puedes saldar tu deuda colocando dinero en mi escondite. Está en la cara oeste del almacén.
-
 You can pay off your debt by placing cash in my stash. It's behind the Church.=Puedes saldar tu deuda colocando dinero en mi escondite. Está detrás de la Iglesia.
-
 Shirley Watts's Stash=Escondite de Shirley Watts
-
 Salvador Moreno's Stash=Escondite de Salvador Moreno
-
 r:"^You owe Shirley Watts <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt$"=Le debes $<color\=#54E717>$1</color> a Shirley Watts. Inserta dinero y sal del escondite para saldar tu deuda.
-
 r:"^You owe Salvador Moreno <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt$"=Le debes $<color\=#54E717>$1</color> a Salvador Moreno. Inserta dinero y sal del escondite para saldar tu deuda.
-
 View Salvador Moreno's stash=Ver el escondite de Salvador Moreno
-
 View Shirley Watts's stash=Ver el escondite de Shirley Watts
-
 COOK=COCINAR
-
 Ready to begin cooking=Listo para comenzar a cocinar
-
 Open oven door=Abrir la puerta del horno
-
 Pour liquid into tray=Verter líquido en la bandeja
-
 Close oven door=Cerrar la puerta del horno
-
 Start oven=Encender el horno
-
 Place items onto tray=Colocar objetos en la bandeja
-
 Ready to collect product=Listo para recoger el producto
-
 Use hammer to break up the product=Usa un martillo para romper el producto
-
 COLLECT=RECOGER
-
 Use Mixing Station Mk2=Usar Estación de Mezcla Mk2
-
 Use Lab Oven=Usar Horno de Laboratorio
-
 Use Chemistry Station=Usar Estación Química
-
 Place cookable item in ingredient slot=Coloca el objeto cocinable en el espacio de ingredientes
-
 Access coffee table=Acceder a la mesa de café
-
 Unlock this supplier by reaching 'friendly' with one of their connections.=Desbloquea a este proveedor alcanzando 'amistoso' con una de sus conexiones.
-
 Damn, that's pretty nice. You'll hear from me soon=Vaya, eso está bastante bien. Tendrás noticias mías pronto.
-
 How's it goin' my man?=Cómo van las cosas?
-
 I'd like to get a tattoo=Me gustaría hacerme un tatuaje.
-
 Thanks, we're done.=Gracias, hemos terminado.
-
 Come on come on!=¡Vamos, vamos!
 Nevermind!=No importa.
 My vehicle is stuck=Mi vehículo está atascado.
@@ -1863,7 +1725,7 @@ In use by workers=En uso por trabajadores
 
 Hey! I really need some of your stuff right now... you got anything?=¡Hey! Necesito algo de tu mercancía ahora mismo... ¿tienes algo?
 
-Hey, you've been great to work with so I'm willing to start doing in-person meetings with you. At a meeting, you buy as much pseudo as you can carry - no more order limits.=Hey, ha sido genial trabajar contigo, así que estoy dispuesto a empezar reuniones en persona contigo. En una reunión, compras todo el pseudo que puedas cargar, sin límites de pedido.
+Hey, you've been great to work with so I'm willing to start doing in-person meetings with you. At a meeting, you buy as much pseudo as you can carry - no more order limits.=Hey, ha sido genial trabajar contigo, estoy dispuesto a empezar reuniones en persona. En una reunión, compras todo el pseudo que puedas cargar, sin límites de pedido.
 
 Just send me a text if you'd like to meet.=Solo mándame un mensaje si quieres encontrarte.
 
@@ -2628,7 +2490,8 @@ Go to Gas-Mart=Ve al Gas-Mart
 Purchase at least one mixing ingredient=Compra al menos un ingrediente para mezclar
 r:Working on it. Should be ready in around (\d+) hours (\d+) min=Trabajando en esto. Debería estar listo en alrededor de $1 Hs $2 Min
 r:Working on it. Should be ready in around (\d+) hours=Trabajando en esto. Debería estar listo en alrededor de $1 Hs
-r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Entendido. Te avisaré cuando esté listo. Debería ser en $1 Hs $2 Min
+r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=OK. Te avisaré cuando esté listo. Debería ser en $1 Hs $2 Min
+r:Got it. I'll let you know when it's ready. Should be about (\d+) hours=Ok. Te avisaré cuando esté listo. Debería ser en $1 Hs
 You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.= Puedes saldar tu deuda colocando dinero en mi escondite. Está detrás de la Ferretería de Dan.
 I need to order a dead drop=Necesito hacer un pedido secreto
 Cancel=Cancelar
@@ -2938,7 +2801,6 @@ Packagers=Empaquetador
 sr:"Hey, that drop is ready in (.+)$"=Oye, esa entrega está lista en $1.
 sr:"I need a dead drop:\n(\d+x) (.+)$"=<size=30>Necesito una entrega secreta:\n$1 $2</size>|
 I’ve heard you’re in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=He oído que estás en problemas. Busca un teléfono público para que hablemos.\n- U.N.
-Got it. I'll let you know when it's ready. Should be about 5 hours=Entiendo.\nTe haré saber cuándo esté listo.\nDebería ser unas 5 horas
 Copy. I'll message you when it's ready in about 5 hours.=Okay. Te enviaré un mensaje cuando esté listo dentro de 5 horas.
 I need a dead drop:\n10x Low-Quality Pseudo=Necesito una entrega: Fármaco de baja calidad
 Heyo - if you're looking to streamline, I'm now doing deliveries. Use your deliveries app to place an order and I'll get it to you ASAP.=Heyo - Si estás buscando mercancia, ahora estoy haciendo entregas.\nen la aplicación de entregas para que compres y te llegue.
@@ -3068,7 +2930,7 @@ Hmm ok. What time?=Hmm ok. A qué hora?
 r:I've received (.*) cash from you. Your debt is now paid off.=He recibido $1 en efectivo. Tu deuda ahora está saldada.
 r:Agreed. I'll be under the north end of the overpass for the next (\d+) hours.=De acuerdo. Estaré bajo el extremo norte del paso elevado durante las próximas $1 horas.
 r:You owe Albert Hoover <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt=Le debes a Albert Hoover $<color\=#54E717>$1</color>. Inserta dinero y sal para saldar tu deuda.
-[Schedule Deal]:Programar
+[Schedule Deal]:[Programar]
 r:Reach the rank of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\ to access this area.=Alcanza el rango de <color\=#54E717>\$1</color> para acceder a esta área.
 hmmmmm FINE. When?=hmmmmm BIEN, cuándo?
 Here's the ranged weapons, let me know what tickles your fancy.=Aquí están las armas de largo alcance, dime cuál te interesa.
@@ -3341,7 +3203,7 @@ r:(.*), Behind fire station=$1, Detrás de la estación de bomberos
 r:(.*), Western wharf=$1, Muelle occidental  
 r:(.*), Behind medical practice=$1, Detrás del consultorio médico  
 r:(.*), Outside brown apartment block room #2=$1, Afuera del bloque de apartamentos marrón, habitación n.º 2  
-r:(.*), Alleyway behind grocery store=$1, Pasillo detrás del supermercado  
+r:(.*), Alleyway behind grocery store.=$1, Pasillo detrás del supermercado  
 r:(.*), On the east-exterior wall of Taco Ticklers=$1, En la pared exterior este de Taco Ticklers  
 r:(.*), On the west wharf=$1, En el muelle oeste  
 r:(.*), On the wharf west of the warehouse=$1, En el muelle al oeste del almacén  
@@ -3480,7 +3342,7 @@ Behind medical practice=Detrás del consultorio médico
 behind medical practice=detrás del consultorio médico  
 Outside brown apartment block room #2=Afuera del bloque de apartamentos marrón, habitación n.º 2  
 outside room #2 of the brown apartment block=afuera del bloque de apartamentos marrón, habitación n.º 2  
-Alleyway behind grocery store=Callejón detrás del supermercado  
+Alleyway behind grocery store.=Callejón detrás del supermercado  
 on the east-exterior wall of Taco Ticklers=en la pared exterior este de Taco Ticklers  
 On the east-exterior wall of Taco Ticklers=En la pared exterior este de Taco Ticklers  
 on the west wharf=en el muelle oeste  
