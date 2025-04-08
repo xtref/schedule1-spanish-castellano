@@ -1,13 +1,13 @@
 # Traducción al español del juego Schedule I
 Al no existir por ahora una traducción oficial por parte de los desarrolladores, se ha decidido buscar todas las palabras y frases que están en el juego y traducirlas al español.
 
-Existen 2 versiones, Solo traducción con BepInEx y otra con MelonLoader (Gracias Britis)
+Existen 2 versiones, BepInEx y MelonLoader (Gracias Britis)
 
 
 :point_right:  [Ultima versión ](https://github.com/Beetario/schedule1_Spanish/archive/refs/heads/main.zip) :point_left:
 
 
-# 🔰 Versión BepInEx (sólo traducción sin mods)
+# 🔰 Versión BepInEx
 
 Sólo copien y peguen el contenido en la carpeta de instalación 
 
@@ -21,7 +21,7 @@ Instalen el MelonLoader que se encuentra en la carpeta de descarga, si ya lo tie
 luego copien el contenido de la carpeta "info" directamente en la carpeta raíz del juego y listo, pueden iniciar el juego directamente desde el escritorio o Steam, quizás se tarde un poco en cargar, sólo espere. 
 
 
-🖥 En la carpeta [Archivo Traducción](https://github.com/Beetario/schedule1_Spanish/tree/main/Archivo%20traducci%C3%B3n), contendrá el archivo que se debe actualizar para ver nuevas traducciones en el juego, no tiene que volver a instalar todo, sólamente descargar el archivo Translate.txt y reemplazarlo en la ruta, los pasos están ahí explicados. 
+🖥 Siempre estoy cargando nuevas lineas de traducciones a mi repositorio Github las cuales se bajan automáticamente al iniciar el juego, no tienes que preocuparte por eso. 
 
 
 Siéntase en la libertad de reportar malas traducciones o faltantes, enviando pantallazo o la frase en cuestión para incluirla en una próxima versión. [Discord ](https://discord.gg/aSvFe9CTrf)
