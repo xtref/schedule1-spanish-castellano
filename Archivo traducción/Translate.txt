@@ -810,7 +810,7 @@ Quick Move=Mover Rápido
 
 Weekly Deposit Limit=Límite Semanal de Depósito
 
-Hello, Player=Hola, Jugador
+Hello, Player=Hola!?
 
 ATM=<size\=22>Cajero Automático</size>
 
@@ -1428,6 +1428,7 @@ the manager in the motel officer
 You got the stuff?=¿Tienes las cosas?
 [Complete Deal]=[Completar Negocio]
 sr:"^(.+) is paying <color\=#50E65A>\$(\d{1,3}(?:,\d{3})*)\</color> for:$"=$1 está pagando <color\=#50E65A>$2</color> por:
+Very nice=Muy bien
 Item Splitting=División de Artículos
 To move a custom amount, <color\=#62BDFF> right-click</color> drag an item and <color\=#62BDFF>scroll</color> to change the amount.=Para mover una cantidad personalizada, arrastra un objeto con <color\=#62BDFF>clic derecho</color> y <color\=#62BDFF>desplázate</color> para cambiar la cantidad.
 Place the expected products here=Coloca los productos esperados aquí
@@ -3015,7 +3016,7 @@ What sort of stuff do you sell?= ¿Qué tipo de cosas vendes?
 Oscar sell special equipment and supplier.= Oscar vende equipo especial y suministros.
 Yeah okay thanks...= Sí, bueno, gracias...
 Evenin' there, what can I do for ya?=B. noches, en qué puedo ayudarte?
-Flimsy plastic pot made in China.?= Maceta de plástico endeble hecha en China.¿
+Flimsy plastic pot made in China.=Maceta de plástico endeble hecha en China.
 Used to hang grow lights above pots.= Se usa para colgar luces de cultivo sobre macetas.
 Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luz de cultivo halógena barata y simple. Debe colocarse en un soporte suspendido.
 A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Luz de cultivo LED simple. Emite una luz púrpura que estimula el crecimiento de las plantas un 15% más rápido que la halógena. Debe colocarse en un soporte suspendido.
@@ -3074,6 +3075,7 @@ Central canal=Canal central
 The drop is ready. You can find it in the central canal=La entrega está lista. Lo puedes encontrar en el canal Central
 A big jug of ethically sourced horse semen.=Una gran jarra de semen de caballo de origen ético.
 On your away.
+sr:"(.+), Day ([0-9]+)$"=$1, día $2
 Monday=Lunes
 Tuesday=Martes
 Wednesday=Miércoles
@@ -3208,19 +3210,22 @@ Munchies=Gula
 Focused=Concentrado  
 Euphoric=Eufórico  
 Calming=Calmante  
-Glowing=Resplandeciente  
+Glowing=Resplandeciente
+Hey! I'm really in need right now. Please tell me you've got something I can buy..?=¡Oye! Realmente estoy necesitado ahora mismo. Por favor dime que tienes algo que pueda comprar...
 
-
+Good afternoon=Buenas tardes
 Sure thing=Claro que sí
 Your best bet for getting the tools you need is the <color=#7FFD63>warehouse.</color> It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers for hire - all the good stuff.=Tu mejor opción para conseguir las herramientas que necesitas es el <color=#7FFD63>almacén.</color> Es el lugar local donde puedes hacer negocios con... personas de ideas afines. Armas, equipo especializado, trabajadores en alquiler, todo lo bueno.
 It's the big brick building behind the liquor store. Head down there and see if you can mosey your way in. Just keep in mind they'll only let you in once you've built a solid rep for yourself.=Es el gran edificio de ladrillo detrás de la licorería. Ve hasta allí y mira si puedes colarte. Solo ten en cuenta que solo te dejarán entrar cuando hayas construido una buena reputación.
 [Make an offer]=[Haz una oferta]
-follow me, I need to grab it first=Sígueme, necesito ir a recogerlo primero
+Follow me, I need to grab it first=Sígueme, necesito ir a recogerlo primero
 Get out of here=Lárgate de aquí
 Here's my selection of melee weapons, let me know what catches your eye.=Aquí está mi selección de armas cuerpo a cuerpo, dime cuál te llama la atención.
 If you want to convert more cash to online balance, you're gonna need to start <color=#7FFD63>laundering</color>.=Si quieres convertir más dinero en efectivo a saldo en línea, vas a tener que empezar a <color=#7FFD63>lavar dinero</color>.
+If you want to convert more cash to online balance, you're gonna need to start laundering.=Si quieres convertir más dinero en efectivo a saldo en línea, vas a tener que empezar a <color=#7FFD63>lavar dinero</color>.
 Laundering involves using a legal business to conceal the origin of your less-than-legal cash.=Lavar dinero implica usar un negocio legal para ocultar el origen de tu dinero no tan legal.
 First thing's first, you're gonna need a business. Go check out <color=#7FFD63>Rays Realty</color>. You're probably not gonna be buying out the casino any time soon, but there should be a cheap business for sale.=Lo primero es lo primero, vas a necesitar un negocio. Ve a echar un vistazo a <color=#7FFD63>Rays Realty</color>. Probablemente no vayas a comprar el casino pronto, pero debería haber un negocio barato en venta.
+First thing's first, you're gonna need a business. Go check out Rays Realty. You're probably not gonna be buying out the casino any time soon, but there should be a cheap business for sale.=Lo primero es lo primero, vas a necesitar un negocio. Ve a echar un vistazo a <color=#7FFD63>Rays Realty</color>. Probablemente no vayas a comprar el casino pronto, pero debería haber un negocio barato en venta.
 Purchase a business at Ray's Realty=Compra un negocio en Rays Realty
 Alright then. You know where to find me if you change your mind.=Muy bien entonces. Sabes dónde encontrarme si cambias de opinión.
 The drop is ready. You can find it on the pawn shop west wall=La entrega está lista. Puedes encontrarla en la pared oeste de la casa de empeños.
@@ -3668,9 +3673,32 @@ Investigate the explosion=Investiga la explosión
 Read the note=Lee la nota  
 View note=Ver nota  
 Answer phone=Contestar el teléfono
-Eh bien, merde... ce n'est pas idéal.=Pues mierda... no es lo ideal.
-Il y a un cartel puissant en ville, la <color=#4CB0FF>famille Benzies.</color> Je savais qu'ils allaient finir par poser problème, mais je ne pensais pas qu'ils te trouveraient aussi vite...=Hay un cartel poderoso en la ciudad, la <color=#4CB0FF>familia Benzies.</color> Sabía que eventualmente serían un problema, pero no pensé que te encontrarían tan rápido...
-On dirait que tu vas avoir besoin d'un endroit discret pour rester un moment. Va au <color=#4CB0FF>motel</color> et demande s'il y a des chambres disponibles.=Parece que vas a necesitar un lugar discreto donde quedarte por un tiempo. Ve al <color=#4CB0FF>motel</color> y pregunta por una habitación.
-Après ça, tu auras besoin de nouveau matériel. Il y a un magasin de bricolage au nord-est du motel. Prends un <color=#4CB0FF>tente de culture, du terreau</color>, et <color=#4CB0FF>un arrosoir.</color>=Después de eso, necesitarás nuevo equipo. Hay una ferretería al noreste del motel. Consigue una <color=#4CB0FF>carpa de cultivo, tierra</color> y <color=#4CB0FF>una regadera.</color>
-Il y a une <color=#88CBFF>carte</color> sur ton téléphone. Appuie sur <color=#88CBFF>M</color> pour l'ouvrir rapidement.=Tienes un <color=#88CBFF>mapa</color> en tu teléfono. Presiona <color=#88CBFF>M</color> para abrirlo rápidamente.
-Tu es dans une nouvelle ville, sans argent ni produit. Contacte un parent éloigné et demande de l'aide.=Estás en una ciudad nueva, sin dinero ni producto. Contacta a un pariente lejano y pídele ayuda.
+Well shit... that's not ideal.=Pues mierda... no es lo ideal.
+There's a powerful cartel in town, the <color=#4CB0FF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=Hay un cartel poderoso en la ciudad, la <color=#4CB0FF>familia Benzies.</color> Sabía que eventualmente serían un problema, pero no pensé que te encontrarían tan rápido...
+Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color=#4CB0FF>motel</color> and ask about getting a room.=Parece que vas a necesitar un lugar discreto donde quedarte por un tiempo. Ve al <color=#4CB0FF>motel</color> y pregunta por una habitación.
+After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color=#4CB0FF>grow tent, soil</color>, and <color=#4CB0FF>watering can.</color>=Después de eso, necesitarás nuevo equipo. Hay una ferretería al noreste del motel. Consigue una <color=#4CB0FF>carpa de cultivo, tierra</color> y <color=#4CB0FF>una regadera.</color>
+There is a <color=#88CBFF>map</color> on your phone. Press <color=#88CBFF>M</color> to quickly open it.=Tienes un <color=#88CBFF>mapa</color> en tu teléfono. Presiona <color=#88CBFF>M</color> para abrirlo rápidamente.
+You're in a new town with no cash and no product. Get in contact with a distant relative and ask for some help.=Estás en una ciudad nueva, sin dinero ni producto. Contacta a un pariente lejano y pídele ayuda.
+
+Looks like you've reached your <color=#7FFD63>weekly deposit limit...</color> To avoid arousing suspicion, you can only deposit so much cash each week via ATMs.=Parece que has alcanzado tu <color=#7FFD63>límite semanal de depósitos...</color> Para evitar levantar sospechas, solo puedes depositar cierta cantidad de dinero en efectivo cada semana a través de los cajeros automáticos.
+Wood coffee table. Good for placing coffee on.=Mesa de café de madera. Ideal para colocar una taza de café.
+A small sized, 4-tier storage rack.=Un estante de almacenamiento pequeño, de 4 niveles.
+1x1m metal table. You can place stuff on it.=Mesa metálica de 1x1 m. Puedes colocar cosas encima.
+1x1m wooden table. You can place stuff on it.=Mesa de madera de 1x1 m. Puedes colocar cosas encima.
+Can be used to either gather up trash or to bag the contents of a trash can.=Puede usarse para recoger basura o para embolsar el contenido de un cubo de basura.
+A large sized, 4-tier storage rack.=Estante de almacenamiento grande, de 4 niveles.
+Wooden display cabinet for putting all your fancy stuff in.=Vitrina de madera para mostrar todas tus cosas elegantes.
+Metal trash can you can place trash in.=Cubo de basura metálico donde puedes poner la basura.
+Long-lasting soil that can be used to grow 2 plants before expiring.=Sustrato de larga duración que permite cultivar hasta 2 plantas antes de deteriorarse.
+When activated, will water the adjacent pot or grow tent.=Al activarse, regará la maceta o la tienda de cultivo adyacente.
+An upgraded version of the packaging station with a rotary packing tool. Allows for much faster packing of products.=Una versión mejorada de la estación de empaquetado con una herramienta rotativa. Permite empacar los productos mucho más rápido.
+A standing floor lamp. Can be switched on and off.=Lámpara de pie. Puede encenderse y apagarse.
+Old wood with some wheels nailed to it. Not fancy but it rolls.=Madera vieja con unas ruedas clavadas. No es elegante, pero rueda.
+Television and a TV cabinet. Includes a video game console.=Televisor y mueble de TV. Incluye una consola de videojuegos.
+A medium sized, 4-tier storage rack.=Estantería de almacenamiento de 4 niveles, tamaño mediano.
+Used to easily collect trash.=Utilizado para recoger basura fácilmente.
+Used to mix product with ingredients to create unique new products.=Utilizado para mezclar un producto con ingredientes y crear nuevos productos únicos.
+A small grow tent with built-in lighting and pot. Plants will grow faster but smaller.=Una pequeña tienda de cultivo con iluminación integrada y maceta. Las plantas crecerán más rápido pero serán más pequeñas.
+Used to hang grow lights above pots.=Utilizado para colgar luces de cultivo sobre las macetas.
+When activated, will fill the adjacent pot or grow tent with soil.=Al activarse, llenará de tierra la maceta o tienda de cultivo adyacente.
+Hello?? Nevermind then=¿Hola?? Entonces olvídalo
