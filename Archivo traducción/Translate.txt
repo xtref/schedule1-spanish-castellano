@@ -1672,9 +1672,9 @@ Argh! That's nasty=¡Argh! Eso es asqueroso
 Ok...=Ok...
 
 Come on, I need it now!=¡Vamos, lo necesito ahora!
-
+Come on, I really need something=Vamos, realmente necesito algo
 Ready yet??=¿Ya estás listo??
-
+I haven't had my fix in too long, I really need something right now bro. You got anything I can buy??=Hace mucho que no tengo mi dosis, de verdad necesito algo ahora mismo, hermano. ¿Tienes algo que pueda comprar??
 Ready??=¿Listo??
 
 Please tell me you're ready...=Por favor, dime que estás listo...
@@ -2575,7 +2575,7 @@ Mega Bean=Mega frijol
 Energy Drink=Bebida energética
 Chili=Chile
 Flu Medicine=Medicamento para la gripe
-Mouth Wash=Enguaje Bucal
+Mouth Wash=Enjuague Bucal
 Donut=Donut
 Motor Oil=Aceite de motor
 Iodine=Yodo
@@ -2862,10 +2862,10 @@ Can I come in?= ¿Puedo entrar?
 Who the hell are you? Get lost.= ¿Quién demonios eres? Lárgate.
 We've been working together for a while now, and you've proven to be quite reliable.= Hemos estado trabajando juntos por un tiempo, y has demostrado ser bastante confiable.
 If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.= Si necesitas pedir cantidades más grandes, ahora puedes organizar una reunión en persona conmigo. Solo mándame un mensaje.
-Combine ingredients in bowl (.*)\/(.*)=Combina los ingredientes en el bowl $1/$2
+r:Combine ingredients in bowl (.*)\/(.*)=Combina los ingredientes en el bowl $1/$2
 We need to meet up=Necesito que nos reunamos
 r:Agreed. I'll be next to the mayor's house for the next (\d+) hours.=OK. Estaré junto a la casa del alcalde durante $1 horas.
-r:Agreed. I'll be under the west bridge for the next (\d+) hours.=De acuerdo. Estaré bajo el puente oeste durante las próximas $1 horas.
+r:Agreed. I'll be under the west bridge for the next (\d+) hours.=OK. Estaré bajo el puente oeste durante las próximas $1 horas.
 r:Copy. I'll message you when it's ready in about (\d+) hours.= Copiado. Te enviaré un mensaje cuando esté listo, en unas $1 horas.
 Howdy buddy. if you're looking for protection, you've come to the right place.= Hola amigo. Si buscas protección, has venido al lugar correcto.
 What do you sell?= ¿Qué vendes?
@@ -2927,8 +2927,8 @@ r:When you're ready please deposit (.*) into my stash box - your debt is still u
 r:"I'm still currently waiting on a payment of <color=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Please deposit it into my stash box when you've got a chance."=Todavía estoy esperando un pago de $<color\=#54E717>$1</color>. Por favor, deposítalo en mi caja cuando tengas la oportunidad.
 Arghh fine. What time?=Arghh bien. A qué hora?
 Hmm ok. What time?=Hmm ok. A qué hora?
-r:I've received (.*) cash from you. Your debt is now paid off.=He recibido $1 en efectivo. Tu deuda ahora está saldada.
-r:Agreed. I'll be under the north end of the overpass for the next (\d+) hours.=De acuerdo. Estaré bajo el extremo norte del paso elevado durante las próximas $1 horas.
+r:I've received (.*) cash from you. Your debt is now paid off.=He recibido <color\=#54E717>$1</color> en efectivo. Tu deuda ahora está saldada.
+r:Agreed. I'll be under the north end of the overpass for the next (\d+) hours.=Ok. Estaré bajo el extremo norte del paso elevado durante las próximas $1 horas.
 r:You owe Albert Hoover <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt=Le debes a Albert Hoover $<color\=#54E717>$1</color>. Inserta dinero y sal para saldar tu deuda.
 [Schedule Deal]:[Programar]
 r:Reach the rank of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\ to access this area.=Alcanza el rango de <color\=#54E717>\$1</color> para acceder a esta área.
@@ -2983,14 +2983,14 @@ Standard Methamphetamine=Metanfetamina estandar
 • Anti-gravity=• Antigravedad
 •  Tropic Thunder=•  Trueno tropical
 • Tropic Thunder=• Trueno tropical
-•  Thought-Provoking=•  Que da que pensar
-• Thought-Provoking=• Que da que pensar
+•  Thought-Provoking=•  Te hace pensar
+• Thought-Provoking=• Te hace pensar
 •  Schizophrenic=•  Esquizofrénico
 • Schizophrenic=• Esquizofrénico
 •  Lethal=•  Letal
 • Lethal=• Letal
-•  Jennerising=•  Inmunizante
-• Jennerising=• Inmunizante
+•  Jennerising=•  Jennerizando
+• Jennerising=• Jennerizando
 •  Glowie=•  Brillante
 • Glowie=• Brillante
 •  Bright-Eyed=•  Ojos brillantes 
@@ -3048,10 +3048,10 @@ Cyclopean=Ciclópeo
 Anti-Gravity=Antigravedad  
 Anti-gravity=Antigravedad  
 Tropic Thunder=Trueno tropical  
-Thought-Provoking=Que da que pensar  
+Thought-Provoking=Te hace pensar
 Schizophrenic=Esquizofrénico  
 Lethal=Letal  
-Jennerising=Inmunizante  
+Jennerising=Jennerizando  
 Glowie=Brillante  
 Bright-Eyed=Ojos brillantes  
 Spicy=Picante  
@@ -3123,7 +3123,7 @@ New Laundering Operation=Nueva operación de lavado
 Wait for the laundering operation to complete=Espera a que la operación de lavado se complete  
 The business is already at maximum laundering capacity.=el negocio ya está en su capacidad máxima de lavado.
 sr:(.*) hours=$1 horas
-sr:Agreed. I'll be in the west construction site for the next (.*) hours.=De acuerdo. Estaré en el sitio de construcción oeste durante las próximas $1 horas
+sr:Agreed. I'll be in the west construction site for the next (.*) hours.=Ok. Estaré en el sitio de construcción oeste durante las próximas $1 horas
 Heavenly Marijuana=Mariguana celestial
 Alleyway behind Top Tattoo=Pasillo detrás de Top Tattoo
 The drop is ready. You can find it in the alleyway behind top tattoo=La entrega está lista. Puedes encontrarla en el pasillo detrás de Top Tattoo
@@ -3233,8 +3233,8 @@ r:(.*), Behind Handy Hanks's=$1, Detrás de los artículos de Handy Hanks
 r:(.*), Central canal=$1, Canal central  
 r:(.*), In the parking garage next to the casino=$1, En el estacionamiento junto al casino  
 
-r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now \$(\d{1,3}(?:,\d{3})*)$"=He recibido $$${1} en efectivo. Tu deuda ahora es de $$${2}
-sr:"I need a dead drop:\n(\d+x) (.+)$"=<size=30>Necesito una entrega secreta:\n$1 $2</size>
+r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now \$(\d{1,3}(?:,\d{3})*)$"=He recibido <color\=#54E717>$$${1}</color> en efectivo. Tu deuda ahora es de <color\=#54E717>$$${2}</color>
+sr:"I need a dead drop:\n(\d+x) (.+)$"=Necesito una entrega secreta:\n$1 $2
 
 sr:"Deal for (.+)"=Trato por '$1'
 sr:"Hello, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it."=Hola, busco $1 $2. Puedo pagar <color=#46CB4F>$3$</color> por ello.
@@ -3790,3 +3790,7 @@ Let's see...=Veamos...
 Wow that's pretty good, I'll message you=Wow, eso está bastante bien, te enviaré un mensaje
 Give Free Sample=Muestra Gratis
 Only 1 sample product is required.=Solo 1 muestra es suficiente.
+sr:Okay. I'll be next to the mayor's house for the next (.*) hours.=Ok. Estaré al lado de la casa del alcalde las próximas $1 hrs
+The Docks Warehouse=El almacén de los muelles
+The Barn=El granero
+The Bungalow=El bungalow
