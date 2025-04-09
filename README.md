@@ -4,7 +4,7 @@ Al no existir por ahora una traducción oficial por parte de los desarrolladores
 Existen 2 versiones, BepInEx y MelonLoader (Gracias Britis)
 
 
-:point_right:  [Ultima versión ](https://github.com/Beetario/schedule1_Spanish/archive/refs/heads/main.zip) :point_left:
+:point_right:  [Ultima versión](https://github.com/Beetario/schedule1_Spanish/archive/refs/heads/main.zip) :point_left:
 
 
 # 🔰 Versión BepInEx
@@ -28,3 +28,5 @@ Siéntete en la libertad de reportar malas traducciones o faltantes, enviando pa
 
 
 Beetar.
+
+https://buymeacoffee.com/beetar ❤
