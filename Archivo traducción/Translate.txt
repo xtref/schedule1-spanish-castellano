@@ -812,9 +812,8 @@ Quick Move=Mover Rápido
 Weekly Deposit Limit=Límite Semanal de Depósito
 
 Hello, Player=Hola!?
-r:"^Hello, ([^ ]+)$"=Bonjour, $1
+r:"^Hello, ([^ ]+)$"=Hola, $1
 ATM=<size\=22>Cajero Automático</size>
-
 Cash=Dinero
 
 None=Ninguno
@@ -1907,7 +1906,7 @@ Employees=Empleados
 Cleaners=Limpieza  
 • Pick up trash\n\n• Bag full trash \n  cans\n\n• Dispose of full \n  trash bags=• Recoger basura\n\n• Embolsar botes \n  de basura llenos\n\n• Desechar las \n  bolsas de basura \n llenas
 
-Handlers=Manipuladore
+Handlers=Manipulador
 • Package product\n\n• Transport items\n  between stations,\n  storage racks,\n  loading bays, etc.=• Empacar producto\n\n• Transportar artículos\n  entre estaciones,\n  estanterías de almacenamiento,\n  muelles de carga, etc.
 
 Botanists=Botánico
@@ -2672,7 +2671,7 @@ Game saved!=Partida guardada
 OPENING HOURS=Abrimos a las
 Offer Deal=Ofrecer
 Place product here=Ofrece un producto
-Pull Handle=Bajar
+Pull handle=Bajar
 Save game=Guardar
 BODY SEARCH=Inspección
 Officer=Policia
@@ -3213,7 +3212,7 @@ sr:Agreed. I'll be in the west construction site for the next (.*) hours.=Ok. Es
 Heavenly Marijuana=Mariguana celestial
 Alleyway behind Top Tattoo=Pasillo detrás de Top Tattoo
 The drop is ready. You can find it in the alleyway behind top tattoo=La entrega está lista. Puedes encontrarla en el pasillo detrás de Top Tattoo
-EMPLOYEE LIMIT REACHED (.*)\/(.*)= LIMITE DE EMPLEADOS ALCANZADO $1/$2
+r:EMPLOYEE LIMIT REACHED (.)/(.*)= LIMITE DE EMPLEADOS ALCANZADO $1/$2
 sr:Already assigned to (.*)=Ya se encuentra asignado a $1
 The drop is ready. You can find it in the gazebo in the residential park=La entrega está lista. Puedes encontrarla en el mirador del parque residencial.
 Purchase 2x soil from the hardware store=Compra 2x de tierra en la ferretería
