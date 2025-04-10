@@ -237,7 +237,7 @@ Bugs - Interface =Bugs - Interface
 Submitting feedback...=Enviando comentarios...
 
 Thank you for your feedback!=¡Gracias por tus comentarios!
-
+Thank you partner.=Gracias socio.
 r:"^\$\d{1,3},\dK$"=$0
 
 File Permission Issue=Problema de Permisos de Archivo
@@ -246,6 +246,7 @@ Schedule I was unable to verify file write access; this might result in errors w
 Fine, you're clean. Lucky this time, I guess. But I know you and your Uncle are up to something on that ranch.=Está bien, estás limpio. Suerte la tuya esta vez, supongo. Pero sé que tú y tu tío traman algo en ese rancho.
 You better watch your back - this town won't tolerate scum like you for much longer...=Será mejor que mires por encima del hombro — esta ciudad no tolerará escoria como tú por mucho tiempo...
 The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendrás que enfrentarte a patrullas, cacheos, controles vehiculares, toques de queda, y más.
+Your best bet for getting the tools you need is the <color=#7FFD63>warehouse.</color> It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers for hire - all the good stuff.=Tu mejor opción para conseguir las herramientas que necesitas es el <color=#7FFD63>almacén.</color> Es el lugar local donde puedes hacer negocios con... personas de ideas afines. Armas, equipo especializado, trabajadores en alquiler, todo lo bueno.
 
 View fix instructions=Ver instrucciones de corrección
 
@@ -256,7 +257,7 @@ Changes the player's cash balance by the specified amount=Cambia el saldo de efe
 Gives the player the specified item. Optionally specify a quantity.=Da al jugador el objeto especificado. Opcionalmente, especifica una cantidad.
 
 give ogkush 5=give ogkush 5
-
+Give me'a sec...=Dame un seg...
 give=dar
 
 Sets the time of day to the specified 24-hour time=Establece la hora del día al tiempo especificado en formato de 24 horas.
@@ -660,7 +661,7 @@ Sleep=Dormir
 Email (Optional)=Correo Electrónico (Opcional)
 
 Stop the arrow in the green area to unlock item=Detén la flecha en el área verde para desbloquear el objeto
-
+r:UNLOCK ONE OF (.*)'S CONNECTIONS FIRST=DESBLOQUEA PRIMERO UNA DE LAS CONEXIONES DE $1
 Packaging=Empaque
 
 Provide ingredients then select recipe=Proporciona los ingredientes y luego selecciona la receta
@@ -814,6 +815,7 @@ Weekly Deposit Limit=Límite Semanal de Depósito
 Hello, Player=Hola!?
 r:"^Hello, ([^ ]+)$"=Hola, $1
 ATM=<size\=22>Cajero Automático</size>
+sr:"^([0-9]+)x (.+)$"=$1x $2
 Cash=Dinero
 
 None=Ninguno
@@ -1464,7 +1466,7 @@ A potent classic with intense sedating and euphoric effects.=Un clásico potente
 Talk to the merchant=Habla con el comerciante
 Talk to the fixer=Habla con el reparador
 Talk to the arms dealer=Habla con el traficante de armas
-I haven't had my fix in too long, I really need something right now bro. You got anything I can buy??=Hace mucho que no me satisfago, realmente necesito algo ahora, hermano. ¿Tienes algo que pueda comprar??
+I haven't had my fix in too long, I really need something right now. You got anything I can buy??=Hace mucho que no tengo mi dosis, de verdad necesito algo ahora mismo, hermano. ¿Tienes algo que pueda comprar??
 Big ol' cast iron skillet. Great for cooking and beating the shit out of people (but not at the same time).=Una gran sartén de hierro fundido. Genial para cocinar y para golpear a la gente (pero no al mismo tiempo).
 Howdy, I'm Marco. If you're looking for a fresh paint job, or need your car towed, I'm the fella for the job.=Hola, soy Marco. Si buscas un trabajo de pintura nuevo o necesitas que remolquen tu coche, soy el indicado.
 Enter price...=Introduce el precio...
@@ -1598,6 +1600,7 @@ Place cookable item in ingredient slot=Coloca el objeto cocinable en el espacio 
 Access coffee table=Acceder a la mesa de café
 Unlock this supplier by reaching 'friendly' with one of their connections.=Desbloquea a este proveedor alcanzando 'amistoso' con una de sus conexiones.
 Damn, that's pretty nice. You'll hear from me soon=Vaya, eso está bastante bien. Tendrás noticias mías pronto.
+Damn, that's some good shit. You'll hear from me soon=Joder, esto está buenísimo. Sabrás de mí pronto.
 How's it goin' my man?=Cómo van las cosas?
 I'd like to get a tattoo=Me gustaría hacerme un tatuaje.
 Thanks, we're done.=Gracias, hemos terminado.
@@ -1605,6 +1608,7 @@ Come on come on!=¡Vamos, vamos!
 Nevermind!=No importa.
 My vehicle is stuck=Mi vehículo está atascado.
 Thanks buddy=Gracias, amigo.
+Thanks boss=Gracias jefe
 Alright then, I've moved it just outside. Try not to do that again...=Está bien, lo moví justo afuera. Intenta no hacerlo de nuevo...
 Damn it fine. What time?=Maldita sea, está bien. ¿A qué hora?
 Hold on=Espera.
@@ -1692,7 +1696,6 @@ Ok...=Ok...
 Come on, I need it now!=¡Vamos, lo necesito ahora!
 Come on, I really need something=Vamos, realmente necesito algo
 Ready yet??=¿Ya estás listo??
-I haven't had my fix in too long, I really need something right now bro. You got anything I can buy??=Hace mucho que no tengo mi dosis, de verdad necesito algo ahora mismo, hermano. ¿Tienes algo que pueda comprar??
 Ready??=¿Listo??
 
 Please tell me you're ready...=Por favor, dime que estás listo...
@@ -1740,6 +1743,7 @@ Cheers. My friend Molly Presley is a dealer and might be able to help you move y
 Baseball Bat=Bate de béisbol
 
 In use by workers=En uso por trabajadores
+In use by other player=En uso por otra persona
 
 Hey! I really need some of your stuff right now... you got anything?=¡Hey! Necesito algo de tu mercancía ahora mismo... ¿tienes algo?
 
@@ -1940,12 +1944,14 @@ Learn how to manage botanists.=Aprende cómo gestionar botánicos.
 Use the management clipboard to assign the botanist to a bed=Usa la carpeta de gestión para asignar una cama al botánico.
 
 Assign a supplies source to the botanist=Asigna una fuente de suministros al botánico.
-
+Assign a station to the chemist=Asigna una estación al químico
+r:Assign Stations (.*)\/(.*)=Asignación de estaciones $1/$2
 Assign a pot or grow tent to the botanist=Asigna una maceta o una tienda de cultivo al botánico.
 
 Set the pot/grow tent destination=Establece el destino de la maceta/tienda de cultivo.
 
 Place cash in the briefcase on the botanist's bed=Coloca dinero en el maletín en la cama del botánico.
+Place cash in the briefcase on the chemist's bed=Coloca dinero en el maletín en la cama del químico.
 
 Learn how to manage chemists.=Aprende cómo gestionar químicos.
 
@@ -2028,63 +2034,36 @@ Select destination=Seleccionar destino
 Threshold=Umbral
 
 ^Output will be automatically moved to the destination by the assigned packager=^El resultado será automáticamente movido al destino por el embalador asignado.
-
 Cleaner=Limpiador
-
 Manage Cleaner=Gestionar Limpiador
-
 Assigned Trash Cans=Cubos de Basura Asignados
-
 r:Assigned Trash Cans (.)/(.)=Cubos de Basura Asignados $1/$2
-
 Assign Trash Cans=Asignar Cubos de Basura
-
-r:Assign Trash Cans (.)/(.)=Asignar Cubos de Basura $1/$2
-
+r:Assign Trash Cans (.*)\/(.*)=Asignar Cubos de Basura $1/$2
 Handler=Manipulador
-
 Manage Handler=Gestionar Manipulador
-
 Assigned Packaging Stations=Estaciones de Embalaje Asignadas
-
 Jesse Obama=Jesse Obama
-
 Add New=Agregar Nuevo
-
 Select a single instance to use this=Selecciona una sola instancia para usar esto.
-
 Multi-editing not supported=Edición múltiple no soportada.
-
 Source=Fuente
-
 To=Para
-
 From=De
-
 Routes=Rutas
-
 r:Assigned Stations (.)/(.)=Estaciones Asignadas $1/$2
 r:Assigned Trash Cans (.)/(.)=Botes Asignadas $1/$2
 Select source=Seleccionar fuente
-
 Assign Packaging Stations=Asignar Estaciones de Embalaje
-
 r:Assign Packaging Stations (.)/(.)=Asignar Estaciones de Embalaje $1/$2
-
 Manage Chemist=Gestionar Químico
-
 Chemist=Químico
-
 Assigned Stations=Estaciones Asignadas
-
 Assign Stations=Asignar Estaciones
-
 r:Assign Stations (.)/(.)=Asignar Estaciones $1/$2
-
 Your services are no longer required.=Tus servicios ya no son necesarios.
-
 Why aren't you working?=¿Por qué no estás trabajando?
-
+View Albert Hoover's stash=Ver la caja de Albert Hoover
 Hi boss=Jefe?
 Awesome, thanks!=Genial, gracias
 Very nice!=Muy bien!
@@ -2545,7 +2524,7 @@ Purchase a mixing station from the hardware store=Compra una estación de mezcla
 Place the mixing station=Coloca la estación de carga. 
 Go to Gas-Mart=Ve al Gas-Mart
 Purchase at least one mixing ingredient=Compra al menos un ingrediente para mezclar
-r:Working on it. Should be ready in around (\d+) hours (\d+) min=Trabajando en esto. Debería estar listo en alrededor de $1 Hs $2 Min
+r:Working on it. Should be ready in around (\d+) hours (\d+) min=Trabajando en esto. Debería estar listo en alrededor de $1 Hs $2 Mins
 r:Working on it. Should be ready in around (\d+) hours=Trabajando en esto. Debería estar listo en alrededor de $1 Hs
 r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=OK. Te avisaré cuando esté listo. Debería ser en $1 Hs $2 Min
 r:Got it. I'll let you know when it's ready. Should be about (\d+) hours=Ok. Te avisaré cuando esté listo. Debería ser en $1 Hs
@@ -2613,6 +2592,7 @@ Dismount=Desmontar
 (Hold) Jump=(Mantener) Saltar
 UNDER ARREST=BAJO ARRESTO
 WANTED=BUSCADO
+WANTED DEAD OR LIVE=BUSCADO VIVO O MUERTO
 Large Storage Rack=Estante de almacenamiento grande
 sr:"Bucket Hat (.+)$"=Balde en la Cabeza $1
 Not actually shaped like a bucket.=No está realmente hecho en forma de cubo.
@@ -2720,6 +2700,7 @@ Waist=Cintura
 PUSH=EMPATE
 Dealer=Dealer
 - Property\n- Property\n- Property\n- Property\n+ 5 More=- Propiedad - Propiedad - Propiedad - Propiedad + 5 Más
+r:REACH 'FRIENDLY' WITH ONE OF (.*)'S CONNECTIONS=ALCANZA EL NIVEL 'AMIGABLE' CON UNA DE LAS CONEXIONES DE $1
 5 Customers\n3 Suppliers\n1 Dealer=5 clientes 3 proveedores 1 distribuidor
 Facial Detail Intensity=Intensidad de detalles faciales
 Resume=Reanudar
@@ -2942,6 +2923,8 @@ Great idea! Which business are you interested in?= ¡Gran idea! ¿En qué negoci
 10K in earnings - not bad at all! Soon you'll have the capital needed to start manufacturing <color\=#7FFD63>meth</color>. But first, you're gonna need to purchase some equipment.=10K en ganancias, ¡nada mal! Pronto tendrás el capital necesario para empezar a fabricar <color\=#7FFD63>metanfetamina</color>. Pero primero, necesitarás comprar equipo.
 Gain access to the warehouse= Consigue acceso al almacén
 Can I come in?= ¿Puedo entrar?
+The hell was that=Qué demonios fue eso?
+Unlock this supplier by reaching 'friendly' with one of their connections.=Desbloquea a este proveedor volviéndote ‘amigable’ con uno de sus contactos.
 Who the hell are you? Get lost.= ¿Quién demonios eres? Lárgate.
 We've been working together for a while now, and you've proven to be quite reliable.= Hemos estado trabajando juntos por un tiempo, y has demostrado ser bastante confiable.
 If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.= Si necesitas pedir cantidades más grandes, ahora puedes organizar una reunión en persona conmigo. Solo mándame un mensaje.
@@ -2950,11 +2933,11 @@ We need to meet up=Necesito que nos reunamos
 r:Agreed. I'll be next to the mayor's house for the next (\d+) hours.=OK. Estaré junto a la casa del alcalde durante $1 horas.
 r:Agreed. I'll be under the west bridge for the next (\d+) hours.=OK. Estaré bajo el puente oeste durante las próximas $1 horas.
 r:Copy. I'll message you when it's ready in about (\d+) hours.= Copiado. Te enviaré un mensaje cuando esté listo, en unas $1 horas.
-Howdy buddy. if you're looking for protection, you've come to the right place.= Hola amigo. Si buscas protección, has venido al lugar correcto.
+Howdy buddy. If you're looking for protection, you've come to the right place.= Hola amigo. Si buscas protección, has venido al lugar correcto.
 What do you sell?= ¿Qué vendes?
 Thanks= Gracias
 Thanks...= Gracias...
-Yeahhhh, more or less. Most of them are probably not completely non-illegal… What're you askin' for anywho?= Sííí, más o menos. La mayoría probablemente no son completamente legales... ¿Qué es lo que estás buscando, de todos modos?
+Yeahhhh, more or less. Most of them are probably not completely non-illegal… what're you askin' for anywho?= Sííí, más o menos. La mayoría probablemente no son completamente legales... ¿Qué es lo que estás buscando, de todos modos?
 Hello there, you smell nice...= Hola, hueles bien...
 Huh?= ¿Eh?
 Piss off= Lárgate
@@ -2967,7 +2950,6 @@ Flimsy plastic pot made in China.=Maceta de plástico endeble hecha en China.
 Used to hang grow lights above pots.= Se usa para colgar luces de cultivo sobre macetas.
 Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luz de cultivo halógena barata y simple. Debe colocarse en un soporte suspendido.
 A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Luz de cultivo LED simple. Emite una luz púrpura que estimula el crecimiento de las plantas un 15% más rápido que la halógena. Debe colocarse en un soporte suspendido.
-That'll be a $1000 signing fee, and the employee's daily wage will be $200.= La tarifa de registro será de $1000 y el salario diario del empleado será de $200.
 Deal= Trato hecho
 Benji is out dealing= Benji está afuera haciendo tratos
 So you'd like to purchase bungalow? Payments are made from your online balance.= ¿Así que quieres comprar un bungalow? Los pagos se hacen desde tu saldo en línea.
@@ -3165,11 +3147,12 @@ Hey! I'm really in need right now. Please tell me you've got something I can buy
 
 Good afternoon=Buenas tardes
 Sure thing=Claro que sí
-Your best bet for getting the tools you need is the <color=#7FFD63>warehouse.</color> It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers for hire - all the good stuff.=Tu mejor opción para conseguir las herramientas que necesitas es el <color=#7FFD63>almacén.</color> Es el lugar local donde puedes hacer negocios con... personas de ideas afines. Armas, equipo especializado, trabajadores en alquiler, todo lo bueno.
 It's the big brick building behind the liquor store. Head down there and see if you can mosey your way in. Just keep in mind they'll only let you in once you've built a solid rep for yourself.=Es el gran edificio de ladrillo detrás de la licorería. Ve hasta allí y mira si puedes colarte. Solo ten en cuenta que solo te dejarán entrar cuando hayas construido una buena reputación.
 [Make an offer]=[Haz una oferta]
 Follow me, I need to grab it first=Sígueme, necesito ir a recogerlo primero
 Get out of here=Lárgate de aquí
+sr:"^That'll be <color=#54E717>$(\d{1,3}(?:,\d{3}))</color> for the (.+). We got a deal, partner?"=Serán $<color=#54E717>$1</color> por el $2. Tenemos un trato, socio?
+Here's my range of ammo, what sort do you need?=Aquí tienes mi gama de munición, cuál necesitas?
 Here's my selection of melee weapons, let me know what catches your eye.=Aquí está mi selección de armas cuerpo a cuerpo, dime cuál te llama la atención.
 If you want to convert more cash to online balance, you're gonna need to start <color=#7FFD63>laundering</color>.=Si quieres convertir más dinero en efectivo a saldo en línea, vas a tener que empezar a <color=#7FFD63>lavar dinero</color>.
 If you want to convert more cash to online balance, you're gonna need to start laundering.=Si quieres convertir más dinero en efectivo a saldo en línea, vas a tener que empezar a <color=#7FFD63>lavar dinero</color>.
@@ -3180,6 +3163,7 @@ Purchase a business at Ray's Realty=Compra un negocio en Rays Realty
 Alright then. You know where to find me if you change your mind.=Muy bien entonces. Sabes dónde encontrarme si cambias de opinión.
 The drop is ready. You can find it on the pawn shop west wall=La entrega está lista. Puedes encontrarla en la pared oeste de la casa de empeños.
 The Laundromat=La Lavandería  
+Alright, I'll be a dealer for you but there is a <color=#54E717>$(\d{1,3}(?:,\d{3}))</color> signing fee, and I'll take a <color=#54E717>$(\d{1,3}(?:,\d{3}))</color> cut of each sale. We got a deal?=Está bien, seré tu distribuidor, pero hay una tarifa de inscripción de $<color=#54E717>$1</color>, y tomaré un $2 de comisión por cada venta. ¿Tenemos trato?
 The Post Office=La Oficina de Correos  
 The Car Wash=El Autolavado  
 Taco Ticklers=Cosquillas de Taco  
@@ -3324,22 +3308,22 @@ r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now \$(\d{
 sr:"I need a dead drop:\n(\d+x) (.+)$"=Necesito una entrega secreta:\n$1 $2
 
 sr:"Deal for (.+)"=Trato por '$1'
-sr:"Hello, I'm after (\d+x) (.+)\.\n I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it."=Hola, busco $1 $2.\n Puedo pagar <color=#46CB4F>$3$</color> por ello.
-sr:"I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it Deal?"=Busco $1 $2. Puedo pagar <color=#46CB4F>$3$</color>. ¿Trato?
-sr:"You got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=¿Tienes $1 $2? Pago <color=#46CB4F>$3$</color> por ello.
-sr:"Hey, I need (\d+x) (.+)\.\n I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Deal?"=Hey, necesito $1 $2.\n Pago <color=#46CB4F>$3$</color>. ¿Trato?
-sr:"I NEED (\d+x) (.+)\. I GOT <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. DEAL\?"=NECESITO $1 $2. TENGO <color=#46CB4F>$3$</color>. ¿TRATO?
-sr:"Hey, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Hey, ¿puedo conseguir $1 $2? Pago <color=#46CB4F>$3$</color>.
-sr:"Ay bro you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Oye bro, ¿tienes $1 $2? Pago <color=#46CB4F>$3$</color> por ello.
-sr:"Hey, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it. Deal?"=Hey, si tienes $1 $2, pago <color=#46CB4F>$3$</color> por ello. ¿Trato?
-sr:"Whats up bro, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it."=¿Qué tal bro? Busco $1 $2. Puedo pagar <color=#46CB4F>$3$</color> por ello.
-sr:"Hey, I need (\d+x) (.+)\.\n I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal?"=Hey, necesito $1 $2.\n Pago <color=#46CB4F>$3$</color>. ¿Trato?
-sr:"Need me (\d+x) (.+)\! I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> yeah?"=Necesito $1 $2. ¡Pago <color=#46CB4F>$3$</color>, ¿vale??
-sr:"Hey, have you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Oye, ¿tienes $1 $2? Pago <color=#46CB4F>$3$</color> por ello.
-sr:"Hey dog\, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Deal?"=Oye loco, necesito $1 $2. Pago <color=#46CB4F>$3$</color>. ¿Trato?
-sr:"You dawg\, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it. Deal?"=Ey bro, si tienes $1 $2, pago <color=#46CB4F>$3$</color> por ello. ¿Trato?
-sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Yo compa, ¿puedo conseguir $1 $2? Pago <color=#46CB4F>$3$</color>.
-sr:"U got (\d+x)  (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it. DEAL?"=¿Tienes $1 $2??? Pago <color=#46CB4F>$3$</color> por ello. ¿TRATO?
+sr:"Hello, I'm after (\d+x) (.+)\.\n I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it."=Hola, busco $1 $2.\n Puedo pagar $<color=#46CB4F>$3</color> por ello.
+sr:"I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it Deal?"=Busco $1 $2. Puedo pagar $<color=#46CB4F>$3</color>. ¿Trato?
+sr:"You got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=¿Tienes $1 $2? Pago $<color=#46CB4F>$3</color> por ello.
+sr:"Hey, I need (\d+x) (.+)\.\n I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Deal?"=Hey, necesito $1 $2.\n Pago $<color=#46CB4F>$3</color>. ¿Trato?
+sr:"I NEED (\d+x) (.+)\. I GOT <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. DEAL\?"=NECESITO $1 $2. TENGO $<color=#46CB4F>$3</color>. ¿TRATO?
+sr:"Hey, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Hey, ¿puedo conseguir $1 $2? Pago $<color=#46CB4F>$3</color>.
+sr:"Ay bro you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Oye bro, ¿tienes $1 $2? Pago $<color=#46CB4F>$3</color> por ello.
+sr:"Hey, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it. Deal?"=Hey, si tienes $1 $2, pago $<color=#46CB4F>$3</color> por ello. ¿Trato?
+sr:"Whats up bro, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it."=¿Qué tal bro? Busco $1 $2. Puedo pagar $<color=#46CB4F>$3</color> por ello.
+sr:"Hey, I need (\d+x) (.+)\.\n I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal?"=Hey, necesito $1 $2.\n Pago $<color=#46CB4F>$3</color>. ¿Trato?
+sr:"Need me (\d+x) (.+)\! I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> yeah?"=Necesito $1 $2. ¡Pago $<color=#46CB4F>$3</color>, ¿vale??
+sr:"Hey, have you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Oye, ¿tienes $1 $2? Pago $<color=#46CB4F>$3</color> por ello.
+sr:"Hey dog\, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Deal?"=Oye loco, necesito $1 $2. Pago $<color=#46CB4F>$3</color>. ¿Trato?
+sr:"You dawg\, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it. Deal?"=Ey bro, si tienes $1 $2, pago $<color=#46CB4F>$3</color> por ello. ¿Trato?
+sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Yo compa, ¿puedo conseguir $1 $2? Pago $<color=#46CB4F>$3</color>.
+sr:"U got (\d+x)  (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it. DEAL?"=¿Tienes $1 $2??? Pago $<color=#46CB4F>$3</color> por ello. ¿TRATO?
 r:"How about (\d+x) (.+) for \$(\d{1,3}(?:,\d{3})*)\?"=¿Qué tal $1 $2 por $ $3?
 Ok fine. What time?=Ok bien, a qué hora?
 I guess that's fine. When?=Supongo que está bien. Cuándo?
@@ -3629,6 +3613,7 @@ Head back to the RV=Regresa a la autocaravana
 Investigate the explosion=Investiga la explosión  
 Read the note=Lee la nota  
 View note=Ver nota  
+Mmm not bad at all... I'll message you=Mmm, nada mal en absoluto... Te enviaré un mensaje
 Answer phone=Contestar el teléfono
 Well shit... that's not ideal.=Pues mierda... no es lo ideal.
 There's a powerful cartel in town, the <color=#4CB0FF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=Hay un cartel poderoso en la ciudad, la <color=#4CB0FF>familia Benzies.</color> Sabía que eventualmente serían un problema, pero no pensé que te encontrarían tan rápido...
@@ -3637,7 +3622,7 @@ After that, you'll be needing some new equipment. There's a hardware store just 
 There is a <color=#88CBFF>map</color> on your phone. Press <color=#88CBFF>M</color> to quickly open it.=Tienes un <color=#88CBFF>mapa</color> en tu teléfono. Presiona <color=#88CBFF>M</color> para abrirlo rápidamente.
 You're in a new town with no cash and no product. Get in contact with a distant relative and ask for some help.=Estás en una ciudad nueva, sin dinero ni producto. Contacta a un pariente lejano y pídele ayuda.
 Good evening=Buenas noches
-
+Looks like you've reached your weekly deposit limit... To avoid arousing suspicion, you can only deposit so much cash each week via ATMs.=Parece que has alcanzado tu límite semanal de depósitos... Para evitar levantar sospechas, solo puedes depositar cierta cantidad de dinero en efectivo cada semana a través de los cajeros automáticos.
 Looks like you've reached your <color=#7FFD63>weekly deposit limit...</color> To avoid arousing suspicion, you can only deposit so much cash each week via ATMs.=Parece que has alcanzado tu <color=#7FFD63>límite semanal de depósitos...</color> Para evitar levantar sospechas, solo puedes depositar cierta cantidad de dinero en efectivo cada semana a través de los cajeros automáticos.
 Wood coffee table. Good for placing coffee on.=Mesa de café de madera. Ideal para colocar una taza de café.
 A small sized, 4-tier storage rack.=Un estante de almacenamiento pequeño, de 4 niveles.
@@ -3878,7 +3863,7 @@ Low bun=Moño bajo
 Mohawk=Cresta
 Vehicle=Vehículo
 This is the vehicle you last drove.\nMust be within 20 meters.=Este es el último vehículo que condujiste.\nDebe estar a menos de 20 metros.
-sr:"^Place a product here for (.+) to try$"=<\size=12>Coloca un producto aquí para que $1 lo pruebe</size>
+sr:"^Place a product here for (.+) to try$"=<\size=12>Coloca un producto aquí para que $1 lo pruebe<\size>
 Let's see...=Veamos...
 Wow that's pretty good, I'll message you=Wow, eso está bastante bien, te enviaré un mensaje
 Give Free Sample=Muestra Gratis
@@ -3888,8 +3873,9 @@ The Docks Warehouse=El almacén de los muelles
 The Barn=El granero
 The Bungalow=El bungalow
 Cheers homedog, here's your board.=Gracias bro, aquí la tienes.
-Ready when you are=Listo cuando tú digas  
+Ready when you are=Cuando tú digas  
 Ok whatever. What time?=Ok, lo que sea. ¿A qué hora?  
 Alright come on=Está bien, vamos  
 Morning mate, what can I get ya?=Buenos días, amigo, ¿qué te puedo ofrecer?
 Package at least 3x weed=Empaqueta al menos 3x de marihuana.
+r:"^<color=#54E717>(+$\d+)</color> Curfew Bonus$"=<color=#54E717>$1</color> Bonificación por toque de queda
