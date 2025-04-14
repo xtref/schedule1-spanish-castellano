@@ -3600,14 +3600,80 @@ sr:"Hey, that drop is ready (.+)$"=Oye, esa entrega está lista $1.
 r:"^(.+) will draw his daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 recibirá su salario diario de <color\=#54E717>$ $2</color> de este maletín.
 r:"^(.+) will draw her daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 recibirá su salario diario de <color\=#54E717>$ $2</color> de este maletín.
 
-Howdy, buddy. You need somethin'?=Hola, amigo. ¿Necesitas algo?
-I'd like to sell something=Quisiera vender algo
-Insert items for appraisal (legal items only)=Inserta los artículos para tasar (Sólo objetos legales)
-EXIT=SALIR
+###PAWSHOP ####
+Howdy, buddy. You need somethin'?=Entonces, ¿necesitas algo?
+I'd like to sell something=Quiero vender unas cosas.
+Insert items for appraisal (legal items only)=Introduce los objetos para tasar (solo objetos legales)
+Let me think...=Déjame pensar...
+r:"How does $(\d{1,3}(?:,\d{3})) sound?"=¿Qué tal $1$?
+r:"I can give you $(\d{1,3}(?:,\d{3}))"=Puedo darte $1$.
+Lemme think...=Déjame pensar un segundo...
+r:"How's $(\d{1,3}(?:,\d{3}))?"=¿Y si te ofrezco $1$?
+r:"I can do $(\d{1,3}(?:,\d{3})). We got a deal?"=Te doy $1$. ¿Tenemos trato?
+r:"How 'bout $(\d{1,3}(?:,\d{3}))?"=¿Qué te parecen $1$?
+Deal. See ya next time buddy.=Trato hecho. Nos vemos la próxima, colega.
+r:"How 'bout $(\d{1,3}(?:,\d{3}))?"=¿Qué tal $1$?
+r:"Let's call it $(\d{1,3}(?:,\d{3})*). Deal?"=Dejémoslo en $1$. ¿Hecho?
+Mick's Temper=Ánimo de Mick
 ACCEPT=ACEPTAR
-Accept the offer or counter=Acepta la oferta o haz una contraoferta
-Mick's\n Temper=Carácter\n de Mick
 COUNTER=CONTRAOFERTA
+Accept the offer or counter=Acepta la oferta o haz una contraoferta
+Aight, you got a deal=Vale, trato hecho.
+That's a negative, partner.=Negativo, compañero.
+Quit wasting my time!=¡No me hagas perder el tiempo!
+I'm done with you. No deal.=Se acabó, sin trato.
+MICK DOESN'T WANT TO DO BUSINESS WITH YOU RIGHT NOW.=MICK NO QUIERE HACER NEGOCIOS CONTIGO AHORA MISMO.
+
+###bleuball's###
+
+Good day, what might I be able to do for you?=Buenos días, ¿qué puedo hacer por ti?
+Wooden Sign=Letrero de madera
+Metal Sign=Letrero de metal
+Wall-Mounted Shelf=Estante de pared
+Coffre-fort=Caja fuerte
+Antique Wall Lamp=Lámpara de pared antigua
+Modern Wall Lamp=Lámpara de pared moderna
+Grandfather Clock=Reloj de péndulo
+Ol Man Jimmy's=El viejo Jimmy
+Château La Peepee=Château La Peepee
+Silver Watch=Reloj de plata
+Gold Watch=Reloj de oro
+Silver Chain=Cadena de plata
+Gold Chain=Cadena de oro
+Gold Bar=Lingote de oro
+Artwork (Beach Day)=Obra de arte (Día de playa)
+Artwork (Menace)=Obra de arte (Amenaza)
+Artwork (Offer)=Obra de arte (Oferta)
+Artwork (Lines)=Obra de arte (Líneas)
+Artwork (Rapscallion)=Obra de arte (Pícaro)
+Artwork (Millie)=Obra de arte (Millie)
+Golden Toilet=Inodoro dorado
+1 of 1=1 de 1
+Your Message Here=Tu mensaje aquí
+Out of stock=Agotado
+A wall-mounted wooden sign that you can write on.=Un letrero de madera para pared en el que puedes escribir.
+A wall-mounted metal sign that you can write on.=Un letrero de metal para pared en el que puedes escribir.
+A 2-tier wall-mounted shelf which you can place items on.=Un estante de pared de dos niveles donde puedes colocar objetos.
+A big metal safe to store all your fancy stuff in.=Una gran caja fuerte de metal para guardar todas tus cosas valiosas.
+An antique lamp that can be placed on walls. Can't be used to grow plants, but it's great for seeing stuff.=Una lámpara antigua que se puede colocar en la pared. No sirve para cultivar plantas, pero es perfecta para ver.
+A minimalist lamp that can be placed on walls. Can't be used to grow plants, but it's great for seeing stuff.=Una lámpara minimalista para colocar en la pared. No sirve para cultivar plantas, pero ilumina bien.
+Antique grandfather clock made of walnut wood and trimmed with gold.=Reloj antiguo de péndulo hecho de madera de nogal con detalles dorados.
+Aged Tennessee Whisky of the finest quality.=Whisky de Tennessee añejado de la mejor calidad.
+Extremely rare Château La Peepee 1969 Cabernet Sauvignon.=Château La Peepee 1969 Cabernet Sauvignon, extremadamente raro.
+Fancy French Champagne in a gold-plated bottle.=Champán francés elegante en botella bañada en oro.
+Solid silver wrist watch to tastefully display your mild affluence.=Reloj de muñeca de plata maciza para mostrar discretamente tu nivel económico.
+Solid gold wrist watch to tastefully display your wealth.=Reloj de muñeca de oro macizo para mostrar tu riqueza con estilo.
+Absolute necessity for a budget baller.=Una necesidad absoluta para el jugador con presupuesto ajustado.
+Absolute necessity for a baller.=Una necesidad absoluta para el jugador de verdad.
+A bar of solid gold. Extremely heavy and valuable.=Un lingote de oro macizo. Extremadamente pesado y valioso.
+A fun day at the beach for everyone.=Un día divertido en la playa para todos.
+Some people just can't be reasoned with...=Hay gente con la que no se puede razonar...
+It's always nice to help a friend in need.=Siempre es bueno ayudar a un amigo necesitado.
+What does it all mean?=¿Qué significa todo esto?
+This guy seems enthusiastic.=Este tipo parece entusiasmado.
+A very good girl.=Una chica muy buena.
+Gold-plated toilet for the most discerning shitter.=Inodoro bañado en oro para los más exigentes al sentarse.
+
 Goddamn, good to hear your voice, buddy! Looks like our luck finally ran out - the feds have got me locked up while I wait for a trial. Glad to hear you managed to slip out, though.=Mierda, qué gusto oír tu voz, hijo. Parece que nuestra suerte por fin se acabó: los federales me tienen encerrado mientras espero el juicio. Me alegra saber que lograste escapar.
 Back before I moved to Serena Flats, I used to live out there in Hyland Point. Not the nicest town around, but plenty of opportunity for a dru-... someone in your line of work.=Antes de mudarme a Serena Flats, vivía en Hyland Point. No es la ciudad más agradable, pero hay muchas oportunidades para... alguien en tu línea de trabajo.
 If memory serves, I've got some cash stashed out there. It ain't much, but it'll be enough to get you back on your feet.=Si la memoria no me falla, tengo algo de dinero escondido por ahí. No es mucho, pero bastará para que te pongas de pie.
@@ -3930,3 +3996,4 @@ r:"^Deal for (.+)<color\=green> \(Expires in (\d+) min\)</color>$"=Trato de $1 <
 r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) hrs\)</color>$"=Trato de $1 <color\=#FF5555FF> (En $2 h expira)</color>
 r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) min\)</color>$"=Trato de $1 <color\=#FF5555FF> (En $2 min expira)</color>
 Thanks my man=Gracias hombre
+EXIT=SALIR
