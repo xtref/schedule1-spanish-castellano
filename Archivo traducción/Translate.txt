@@ -246,10 +246,10 @@ Schedule I was unable to verify file write access; this might result in errors w
 Fine, you're clean. Lucky this time, I guess. But I know you and your Uncle are up to something on that ranch.=Está bien, estás limpio. Suerte la tuya esta vez, supongo. Pero sé que tú y tu tío traman algo en ese rancho.
 You better watch your back - this town won't tolerate scum like you for much longer...=Será mejor que mires por encima del hombro — esta ciudad no tolerará escoria como tú por mucho tiempo...
 The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendrás que enfrentarte a patrullas, cacheos, controles vehiculares, toques de queda, y más.
-Your best bet for getting the tools you need is the <color=#7FFD63>warehouse.</color> It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers for hire - all the good stuff.=Tu mejor opción para conseguir las herramientas que necesitas es el <color=#7FFD63>almacén.</color> Es el lugar local donde puedes hacer negocios con... personas de ideas afines. Armas, equipo especializado, trabajadores en alquiler, todo lo bueno.
-
+Your best bet for getting the tools you need is the <color=#4CB0FF>warehouse.</color> It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers for hire - all the good stuff.=Tu mejor opción para conseguir las herramientas que necesitas es el <color=#4CB0FF>almacén.</color> Es el lugar local donde puedes hacer negocios con... personas de ideas afines. Armas, equipo especializado, trabajadores en alquiler, todo lo bueno.
+Greetings mate, welcome to Hyland Auto. Come talk to me if you're interested in acquiring one of my fine automobiles.=Saludos, bienvenido a Hyland Auto. Ven a hablar conmigo si te interesa adquirir uno de mis excelentes automóviles.
 View fix instructions=Ver instrucciones de corrección
-
+Welcome to Hyland Auto. What can I do for you?= Bienvenido a Hyland Auto. ¿En qué te ayudo?
 ##CONSOLE##
 
 Changes the player's cash balance by the specified amount=Cambia el saldo de efectivo del jugador por la cantidad especificada.
@@ -1447,7 +1447,7 @@ Hello=Hola
 Purchase Cuke=Comprar Coka
 You ready?=¿listo?
 Thanks!=¡Gracias!
-Ready?=¿Listo?
+Ready?=Listo?
 in the alleyway behind Slop Shop (the diner)=en el callejón detrás del Slop Shop (el restaurante)
 the alleyway behind Slop Shop (the diner)=el callejón detrás del Slop Shop (el restaurante)
 Oooh yeah not bad! I'll text you=¡Oooh sí, nada mal! Te enviaré un mensaje
@@ -1489,6 +1489,7 @@ Thanks...=Gracias...
 Oh sorry partner, didn't mean to pry. I'll let you be on your way...=Uy, lo siento, socio. No quería meterme donde no me llaman. Te dejo seguir con lo tuyo...
 Much appreciated.=Muy agradecido.
 Q=Q
+On your way.=Te dejo seguir.
 Pick up Baseball Bat=Recoger el bate de Baseball
 You're almost ready to go, but you're missing one key ingredient - <color=#4CB0FF>weed seeds</color>.=Estás casi listo para comenzar, pero te falta un ingrediente clave: <color=#4CB0FF>semillas de weed</color>.
 You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color=#4CB0FF>Albert Hoover</color> - the local weed seed supplier.=Tendrás que hablar con un proveedor para conseguir algunas semillas. Le pasé tu número a <color=#4CB0FF>Albert Hoover</color>, el proveedor local de semillas de weed.
@@ -2815,7 +2816,7 @@ TV=TELEVISOR
 
 Display Cabinet=Gabinete de exhibición
 Trash Can=Bote de basura
-Hounddog=Hounddog
+Hounddog=Sabueso
 Veeper=Veeper
 Cheetah=Guepardo
 Dinkler=Aturdimiento
@@ -2858,7 +2859,6 @@ Can be used to either gather up trash or to bag the contents of a trash can.=Se 
 Stand still. You're being searched=Estarse quieto.\nTe están buscando
 All clear.=Todo claro.
 Ow!=¡Ay!
-'DOCKS' REGION MUST BE UNLOCKED=LA REGIÓN DE 'MUELLES' DEBE DESBLOQUEARSE
 Spiky=Puntiagudo
 Acid=Ácido
 Smug=Presumido
@@ -2911,10 +2911,9 @@ Contains items= Contiene artículos
 Outpot slot is full!= ¡La ranura de salida está llena!
 Where is my room?= ¿Dónde está mi habitación?
 Let me try...= Déjame intentar...
-Welcome to Hyland Auto. What can I do for you?= Bienvenido a Hyland Auto. ¿En qué puedo ayudarte?
 I'd like to purchase a vehicle= Me gustaría comprar un vehículo
 Bye= Adiós
-Fantastic! Which model are you interested in?= ¡Fantástico! ¿En qué modelo estás interesado?
+Fantastic! Which model are you interested in?=¡Fantástico! ¿En qué modelo estás interesado?
 I'd like to repaint my vehicle= Me gustaría repintar mi vehículo
 VEHICLE MUST BE PARKED INSIDE THE SHOP= EL VEHÍCULO DEBE ESTAR ESTACIONADO DENTRO DEL TALLER
 Hey there, what can I do for you?= Hola, ¿en qué puedo ayudarte?
@@ -2954,9 +2953,9 @@ Used to hang grow lights above pots.= Se usa para colgar luces de cultivo sobre 
 Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luz de cultivo halógena barata y simple. Debe colocarse en un soporte suspendido.
 A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Luz de cultivo LED simple. Emite una luz púrpura que estimula el crecimiento de las plantas un 15% más rápido que la halógena. Debe colocarse en un soporte suspendido.
 Deal= Trato hecho
-Benji is out dealing= Benji está afuera haciendo tratos
+r:"^(.+) is out dealing$"= $1 está afuera haciendo tratos
 So you'd like to purchase bungalow? Payments are made from your online balance.= ¿Así que quieres comprar un bungalow? Los pagos se hacen desde tu saldo en línea.
-Actually, nevermind= En realidad, olvídalo
+Actually, nevermind= Olvídalo
 Outstanding, the property has been transferred to your name.= Excelente, la propiedad ha sido transferida a tu nombre.
 Contains trash= Contiene basura
 Hello sir. Ready to peruse the supplies?= Hola sr, Listo para revisar?
@@ -2991,10 +2990,11 @@ APPLY=APLICAR
 Like meth except legal. Used to stimulate cognition.=Como la metanfetamina, pero legal. Usado para estimular la cognición.
 The drop is ready. You can find it at the skate park=La entrega está lista. Puedes encontrarla en el parque de skate.
 Mixing in progress...=Mezcla en progreso
+You crazy? No thanks=Estás loco? 
 r:(\d+) mins remaining=$1 min faltantes
 r:When you're ready please deposit (.*) into my stash box - your debt is still unpaid.=Cuando estés listo, por favor deposita $1 en mi caja - tu deuda aún no está saldada.
 r:"I'm still currently waiting on a payment of <color=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Please deposit it into my stash box when you've got a chance."=Todavía estoy esperando un pago de $ <color\=#54E717>$1</color>. Por favor, deposítalo en mi caja cuando tengas la oportunidad.
-Arghh fine. What time?=Arghh bien. A qué hora?
+Arghh fine. What time?=Arghh bien. Hora?
 Hmm ok. What time?=Hmm ok. A qué hora?
 r:I've received (.*) cash from you. Your debt is now paid off.=He recibido <color\=#54E717>$1</color> en efectivo. Tu deuda ahora está saldada.
 r:Agreed. I'll be under the north end of the overpass for the next (\d+) hours.=Ok. Estaré bajo el extremo norte del paso elevado durante las próximas $1 horas.
@@ -3021,7 +3021,6 @@ Recipe(s)=Receta(s)
 Order is too large for delivery vehicle=La orden es muy grande para el vehículo Repartidor
 Lets get this party started= Vamos a empezar esta fiesta
 CUSTOMER IS WAITING FOR A DEALER= EL CLIENTE ESTÁ ESPERANDO A UN DISTRIBUIDOR
-'SUBURBIA' REGION MUST BE UNLOCKED= LA REGIÓN 'SUBURBIA' DEBE SER DESBLOQUEADA
 Rank=Rango
 Required for this area=Requerido para esta área
 r:Earn $10,000 
@@ -3157,8 +3156,7 @@ Get out of here=Lárgate de aquí
 sr:"^That'll be <color=#54E717>$(\d{1,3}(?:,\d{3}))</color> for the (.+). We got a deal, partner?"=Serán $<color=#54E717>$1</color> por el $2. Tenemos un trato, socio?
 Here's my range of ammo, what sort do you need?=Aquí tienes mi gama de munición, cuál necesitas?
 Here's my selection of melee weapons, let me know what catches your eye.=Aquí está mi selección de armas cuerpo a cuerpo, dime cuál te llama la atención.
-If you want to convert more cash to online balance, you're gonna need to start <color=#7FFD63>laundering</color>.=Si quieres convertir más dinero en efectivo a saldo en línea, vas a tener que empezar a <color=#7FFD63>lavar dinero</color>.
-If you want to convert more cash to online balance, you're gonna need to start laundering.=Si quieres convertir más dinero en efectivo a saldo en línea, vas a tener que empezar a <color=#7FFD63>lavar dinero</color>.
+If you want to convert more cash to online balance, you're gonna need to start <color=#4CB0FF>laundering</color>.=Si quieres convertir más dinero en efectivo a saldo en línea, vas a tener que empezar a <color=#4CB0FF>lavar dinero</color>.
 Laundering involves using a legal business to conceal the origin of your less-than-legal cash.=Lavar dinero implica usar un negocio legal para ocultar el origen de tu dinero no tan legal.
 First thing's first, you're gonna need a business. Go check out <color=#7FFD63>Rays Realty</color>. You're probably not gonna be buying out the casino any time soon, but there should be a cheap business for sale.=Lo primero es lo primero, vas a necesitar un negocio. Ve a echar un vistazo a <color=#7FFD63>Rays Realty</color>. Probablemente no vayas a comprar el casino pronto, pero debería haber un negocio barato en venta.
 First thing's first, you're gonna need a business. Go check out Rays Realty. You're probably not gonna be buying out the casino any time soon, but there should be a cheap business for sale.=Lo primero es lo primero, vas a necesitar un negocio. Ve a echar un vistazo a <color=#7FFD63>Rays Realty</color>. Probablemente no vayas a comprar el casino pronto, pero debería haber un negocio barato en venta.
@@ -3314,27 +3312,28 @@ sr:"Deal for (.+)"=Trato por '$1'
 
 #### Gracias MrProtex ####
 
-sr:"Hey, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Oye. ¿Tienes <b>$1</b> de <b>$2</b>? Pagaré <color\=#46CB4F>$$3</color> por ello.
-sr:"Hey, have you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Hola. ¿Tienes <b>$1</b> de <b>$2</b>? Pagaré <color\=#46CB4F>$$3</color> por ello.
-sr:"Hey, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Oye. ¿Puedo conseguir <b>$1</b> de <b>$2</b>? Pagaré <color\=#46CB4F>$$3</color> por ello.
-sr:"I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it Deal\?\?"=Estoy detras de <b>$1</b> de <b>$2</b>. Puedo pagar <color\=#46CB4F>$$3</color>.
-sr:"You got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=¿Tienes <b>$1</b> de <b>$2</b> ? Pagaré <color\=#46CB4F>$$3</color> por ello.
-sr:"Hello, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it."=Hola, busco <b>$1</b> de <b>$2</b>. Puedo pagar <color\=#46CB4F>$$3</color> por ello.
-sr:"Hey, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Deal?"=Hola, necesito <b>$1</b> de <b>$2</b>. Pagaré <color\=#46CB4F>$$3</color>.
-sr:"I NEED (\d+x) (.+)\. I GOT <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. DEAL\?"=NECESITO <b>$1</b> de <b>$2</b>. PAGARÉ <color\=#46CB4F>$$3</color>. ¿TRATO?
-sr:"Ay bro you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Hey bro, ¿Tienes <b>$1</b> de <b>$2</b>? Pagaré <color\=#46CB4F>$$3</color> por ello.
-sr:"Whats up bro, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\."=Que pasa bro, estoy detras de <b>$1</b> de <b>$2</b>. Puedo pagar <color\=#46CB4F>$$3</color>.
-sr:"Hey, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Hey, necesito <b>$1</b> de <b>$2</b>. Pagaré <color\=#46CB4F>$$3</color>.
-sr:"Need me (\d+x) (.+)\! I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> yeah\?\?"=¡Necesito <b>$1</b> de <b>$2</b>! Pagaré <color\=#46CB4F>$$3</color>.
-sr:"Hey dog\, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Hola perro, necesito <b>$1</b> de <b>$2</b>. Pagaré <color\=#46CB4F>$$3</color> por ello.
-sr:"Ayo dawg\, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Hola amigo, ¿Tienes <b>$1</b> de <b>$2</b>? Pagaré <color\=#46CB4F>$$3</color>.
-sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Hola bro. ¿Puedo conseguirte <b>$1</b> de <b>$2</b> ? Pagaré <color\=#46CB4F>$$3</color>.
-sr:"U got (\d+x) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. DEAL\?"=¿Tienes <b>$1</b> de <b>$2</b>? Pagaré <color\=#46CB4F>$$3</color>.
+sr:"Hey, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Oye. ¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
+sr:"Hey, have you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Hola. ¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
+sr:"Hey, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Oye. Quiero <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
+sr:"I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it Deal\?\?"=Estoy detras de <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
+sr:"You got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=¿Tienes <b>$1</b> de <b>$2</b> ? Pago $<color\=#46CB4F>$3</color>.
+sr:"Hello, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it."=Hola, busco <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
+sr:"Hey, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Deal?"=Hola, necesito <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
+sr:"I NEED (\d+x) (.+)\. I GOT <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. DEAL\?"=NECESITO <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>. ¿TRATO?
+sr:"Ay bro you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Hey bro, ¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
+sr:"Whats up bro, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\."=Que pasa bro, estoy detras de <b>$1</b> de <b>$2</b>. Pago $ <color\=#46CB4F>$3</color>.
+sr:"Hey, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Hey, necesito <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
+sr:"Need me (\d+x) (.+)\! I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> yeah\?\?"=¡Necesito <b>$1</b> de <b>$2</b>! Pago $<color\=#46CB4F>$3</color>.
+sr:"Hey dog\, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Hola perro, necesito <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
+sr:"Ayo dawg\, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Hola amigo, ¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
+sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Hola bro. ¿Puedo conseguirte <b>$1</b> de <b>$2</b> ? Pago $<color\=#46CB4F>$3</color>.
+sr:"U got (\d+x) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. DEAL\?"=¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
 Counter-offer=Contra oferta
 
-
+Finally=Finalmente
 r:"How about (\d+x) (.+) for \$(\d{1,3}(?:,\d{3})*)\?"=¿Qué tal $1 $2 por $ $3?
 Ok fine. What time?=Bien, hora?
+OK FINE! What time????=Bien, hora?
 I guess that's fine. When?=Supongo que está bien. Cuándo?
 sr:"Good!! I'll see u <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Okey !! Nos vemos <b>$1</b> en la noche.
 sr:"Good!! I'll see u <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Okey !! Nos vemos <b>$1</b> en la mañana.
@@ -3511,18 +3510,21 @@ r:"^Underlord ([IVX]+)$"=Subjefe $1
 r:"^Baron ([IVX]+)$"=Barón $1  
 r:"^Kingpin ([IVX]+)$"=Capo $1  
 
-r:"^Unlocks at <color\=#2DB92D>Street Rat ([IVX]+)</color>$"=<size=11>Se desbloquea en <color=#2DB92D>Rata callejera $1</color></size>  
-r:"^Unlocks at <color\=#2DB92D>Hoodlum ([IVX]+)</color>$"=<size=10>Se desbloquea en <color=#2DB92D>Matón $1</color></size>  
-r:"^Unlocks at <color\=#2DB92D>Peddler ([IVX]+)</color>$"=<size=11>Se desbloquea en <color=#2DB92D>Camello $1</color></size>  
-r:"^Unlocks at <color\=#2DB92D>Hustler ([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Estafador $1</color></size>  
-r:"^Unlocks at <color\=#2DB92D>Enforcer ([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Matón a sueldo $1</color></size>  
-r:"^Unlocks at <color\=#2DB92D>Bagman ([IVX]+)</color>$"=<size=10>Se desbloquea en <color=#2DB92D>Recaudador $1</color></size>  
-r:"^Unlocks at <color\=#2DB92D>Shot Caller([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Jefe de cuadrilla $1</color></size>  
-r:"^Unlocks at <color\=#2DB92D>Block Boss ([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Capo del barrio $1</color></size>  
-r:"^Unlocks at <color\=#2DB92D>Underlord ([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Subjefe $1</color></size>  
-r:"^Unlocks at <color\=#2DB92D>Baron ([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Barón $1</color></size>  
-r:"^Unlocks at <color\=#2DB92D>Kingpin ([IVX]+)</color>$"=<size=9>Se desbloquea en <color=#2DB92D>Capo $1</color></size>  
-
+r:"^Unlocks at <color\=#2DB92D>Street Rat ([IVX]+)</color>$"=<size\=11>Requisito: <color\=#2DB92D>Rata callejera $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Hoodlum ([IVX]+)</color>$"=<size\=12>Requisito: <color\=#2DB92D>Matón $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Peddler ([IVX]+)</color>$"=<size\=12>Requisito: <color\=#2DB92D>Camello $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Hustler ([IVX]+)</color>$"=<size\=12>Requisito: <color\=#2DB92D>Estafador $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Enforcer ([IVX]+)</color>$"=<size\=11>Requisito: <color\=#2DB92D>Matón a sueldo $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Bagman ([IVX]+)</color>$"=<size\=12>Requisito: <color\=#2DB92D>Recaudador $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Shot Caller ([IVX]+)</color>$"=<size\=11>Requisito: <color\=#2DB92D>Jefe de cuadrilla $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Block Boss ([IVX]+)</color>$"=<size\=11>Requisito: <color\=#2DB92D>Capo del barrio $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Underlord ([IVX]+)</color>$"=<size\=12>Requisito: <color\=#2DB92D>Subjefe $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Baron ([IVX]+)</color>$"=<size\=121>Requisito: <color\=#2DB92D>Barón $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Kingpin ([IVX]+)</color>$"=<size\=12>Requisito: <color\=#2DB92D>Capo $1</color></size> 
+Restart=Reiniciar
+Return to menu=Volver al menu
+Skipping...=Saltando...
+Unknown=Desconocido
 r:"^Unlocks at Street Rat ([IVX]+)$"=Se desbloquea en Rata callejera $1  
 r:"^Unlocks at Hoodlum ([IVX]+)$"=Se desbloquea en Matón $1  
 r:"^Unlocks at Peddler ([IVX]+)$"=Se desbloquea en Camello $1  
@@ -3588,7 +3590,7 @@ r:"^(\d+) possession of medium-severity drug$"=$1 en posesión de drogas de grav
 r:"^(\d+) possession of low-severity drug$"=$1 en posesión de drogas de baja gravedad  
 r:"^(\d+) assault$"=$1 agresión  
 r:"^(\d+) evading arrest$"=$1 evasión de arresto  
-'UPTOWN' REGION MUST BE UNLOCKED=LA REGIÓN 'UPTOWN' DEBE SER DESBLOQUEADA
+sr:"'(.+)' REGION MUST BE UNLOCKED?$"=LA REGIÓN '$1' DEBE SER DESBLOQUEADA
 North arcade wall=Muro norte de la galería
 on the north exterior wall of the arcade=en el muro exterior norte de la galería
 Your drop is ready. Grab it behind <b>(.+)</b>=Listo! Recógela detrás de <b>\1</b>.
@@ -3617,22 +3619,24 @@ You can find it stashed near the <color\=#88CBFF>town hall fountain, in the cana
 Collect the stash behind the supermarket=Recoge el alijo detrás del supermercado
 Behind the supermarket=Detrás del supermercado
 There is a <color=#F86266>mandatory curfew</color> between 9PM and 5AM. Police will <color=#F86266>arrest</color> you if you're seen outside.=Hay un <color=#F86266>toque de queda obligatorio</color> entre las 9PM y las 5AM. La policía te <color=#F86266>arrestará</color> si te ve afuera.
-
+Welcome to Gas-Mart=Bienvenido a Gas-Mart
+Great. It'll be <color\=#54E717>$75</color> for the week, ok?=Genial. Serían <color\=#54E717>$75</color> por semana. ¿Vale?
 Head back to the RV=Regresa a la autocaravana  
 Investigate the explosion=Investiga la explosión  
 Read the note=Lee la nota  
-View note=Ver nota  
+View note=Ver nota
+r:"^Talk to the manager in the motel office"=Habla con la gerente del motel
+r:"^Rent a motel room"=Alquila una habitación de motel
 Mmm not bad at all... I'll message you=Mmm, nada mal en absoluto... Te enviaré un mensaje
 Answer phone=Contestar el teléfono
 Well shit... that's not ideal.=Pues mierda... no es lo ideal.
-There's a powerful cartel in town, the <color=#4CB0FF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=Hay un cartel poderoso en la ciudad, la <color=#4CB0FF>familia Benzies.</color> Sabía que eventualmente serían un problema, pero no pensé que te encontrarían tan rápido...
-Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color=#4CB0FF>motel</color> and ask about getting a room.=Parece que vas a necesitar un lugar discreto donde quedarte por un tiempo. Ve al <color=#4CB0FF>motel</color> y pregunta si tienen habitaciones.
-After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color=#4CB0FF>grow tent, soil</color>, and <color=#4CB0FF>watering can.</color>=Después de eso, vas a necesitar nuevo equipo. Hay una ferretería justo al noreste del motel. Consigue una <color=#4CB0FF>carpa de cultivo, tierra</color> y <color=#4CB0FF>una regadera.</color>
+There's a powerful cartel in town, the <color\=#88CBFF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=Hay un cártel poderoso en la ciudad. La <color\=#88CBFF>Familia Benzies</color>. Imaginé que eventualmente serían un problema, pero no pensé que te encontrarían tan rápido...
+Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color\=#88CBFF>motel</color> and ask about getting a room.=Parece que vas a necesitar un lugar tranquilo para quedarte un tiempo. Ve al <color\=#88CBFF>motel</color> y pregunta por una habitación.
+After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color\=#88CBFF>grow tent, soil</color>, and <color\=#88CBFF>watering can.</color>=Después de eso, necesitarás equipo nuevo. Hay una ferretería al noreste del motel. Consigue una <color\=#88CBFF>carpa de cultivo, tierra</color>, y una <color\=#88CBFF>regadera.</color>
 There is a <color=#88CBFF>map</color> on your phone. Press <color=#88CBFF>M</color> to quickly open it.=Tienes un <color=#88CBFF>mapa</color> en tu teléfono. Presiona <color=#88CBFF>M</color> para abrirlo rápidamente.
 You're in a new town with no cash and no product. Get in contact with a distant relative and ask for some help.=Estás en una ciudad nueva, sin dinero ni producto. Contacta a un pariente lejano y pídele ayuda.
 Good evening=Buenas noches
-Looks like you've reached your weekly deposit limit... To avoid arousing suspicion, you can only deposit so much cash each week via ATMs.=Parece que has alcanzado tu límite semanal de depósitos... Para evitar levantar sospechas, solo puedes depositar cierta cantidad de dinero en efectivo cada semana a través de los cajeros automáticos.
-Looks like you've reached your <color=#7FFD63>weekly deposit limit...</color> To avoid arousing suspicion, you can only deposit so much cash each week via ATMs.=Parece que has alcanzado tu <color=#7FFD63>límite semanal de depósitos...</color> Para evitar levantar sospechas, solo puedes depositar cierta cantidad de dinero en efectivo cada semana a través de los cajeros automáticos.
+Looks like you've reached your <color=#4CB0FF>weekly deposit limit...</color> To avoid arousing suspicion, you can only deposit so much cash each week via ATMs.=Parece que has alcanzado tu <color=#4CB0FF>límite semanal de depósitos...</color> Para evitar levantar sospechas, solo puedes depositar cierta cantidad de dinero en efectivo cada semana a través de los cajeros automáticos.
 Wood coffee table. Good for placing coffee on.=Mesa de café de madera. Ideal para colocar una taza de café.
 A small sized, 4-tier storage rack.=Un estante de almacenamiento pequeño, de 4 niveles.
 1x1m metal table. You can place stuff on it.=Mesa metálica de 1x1 m. Puedes colocar cosas encima.
@@ -3894,3 +3898,35 @@ r:"^(\d+)% chance of customer accepting$"=$1% de probabilidad de éxito
 in the alleyway behind the laundromat=en el callejón, detrás de la <b>lavandería</b>
 in the alleyway behind the grocery store=en el callejón, detrás de la tienda de comestibles
 Alleyway behind the grocery store=En el callejón, detrás de la tienda de comestibles
+
+## MISIONES ##
+r:"^Deposit cash at an ATM"=Deposita dinero en un ATM
+r:"^Head back to the motel room"=Regresa a la habitación del motel
+r:"^Wait for the dead drop"=Espera para recoger las semillas
+r:"^Collect the dead drop"=Recoge las semillas
+r:"^Learn the basics of growing and selling weed"=Aprenda los conceptos básicos del cultivo y la venta de marihuana
+Buy 1x plant trimmers=Compra 1x podadora de plantas
+Buy 1x packaging station=Compra 1x estación de empaquetado
+Buy 10x baggies=Compra 10x bolsitas
+
+## OTROS ##
+Open curtains=Abrir cortinas
+Close curtains=Cerrar cortinas
+r:"^Lobby \((\d+)/(\d+)\)"=Sala ($1/$2)
+Behind Gas-Mart=Detras de Gas-Mart
+## HISTORIA ##
+Goddamn, good to hear your voice, buddy! Looks like our luck finally ran out - the feds have got me locked up while I wait for a trial. Glad to hear you managed to slip out, though.=Mierda, qué gusto oír tu voz, hijo. Parece que nuestra suerte por fin se acabó, los federales me tienen encerrado mientras espero el juicio. Me alegra saber que lograste escapar.
+z <color\=#88CBFF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=Hay un cártel poderoso en la ciudad. La <color\=#88CBFF>Familia Benzies</color>. Imaginé que eventualmente serían un problema, pero no pensé que te encontrarían tan rápido...
+Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color\=#88CBFF>motel</color> and ask about getting a room.=Parece que vas a necesitar un lugar tranquilo para quedarte un tiempo. Ve al <color\=#88CBFF>motel</color> y pregunta por una habitación.
+After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color\=#88CBFF>grow tent, soil</color>, and <color\=#88CBFF>watering can.</color>=Después de eso, necesitarás equipo nuevo. Hay una ferretería al noreste del motel. Consigue una <color\=#88CBFF>tienda de cultivo, tierra</color>, y una <color\=#88CBFF>regadera.</color>
+You're almost ready to go, but you're missing one key ingredient - <color\=#4CB0FF>weed seeds</color>.=Ya casi estás listo para empezar, pero te falta un ingrediente clave: <color\=#4CB0FF>Semillas de marihuana</color>.
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#4CB0FF>Albert Hoover</color> - the local weed seed supplier.=Necesitarás hablar con un proveedor para conseguir semillas. Le he pasado tu número a <color\=#4CB0FF>Albert Hoover</color>, El proveedor local de semillas de marihuana.
+Send him a <color\=#4CB0FF>message</color> and request a <color\=#4CB0FF>dead drop</color>. I've vouched for you so you won't have to pay up front. Your order will go on your tab, which you can pay off in the future.=Envíale un <color\=#4CB0FF>mensaje</color> y solicita un <color\=#4CB0FF>punto de entrega</color>. He hablado por ti, así que no tendrás que pagar por adelantado. Tu pedido se cargará en tu cuenta y podrás pagarlo más adelante.
+r:"^(.+)'s Inventory$"=Inventario de $1
+r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) hrs\)</color>$"=Trato de $1 <color\=#c0c0c0ff>(En $2 h comienza)</color>
+r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) min\)</color>$"=Trato de $1 <color\=#c0c0c0ff>(En $2 min comienza)</color>
+r:"^Deal for (.+)<color\=green> \(Expires in (\d+) hrs\)</color>$"=Trato de $1 <color\=green> (En $2 h expira)</color>
+r:"^Deal for (.+)<color\=green> \(Expires in (\d+) min\)</color>$"=Trato de $1 <color\=green> (En $2 min expira)</color>
+r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) hrs\)</color>$"=Trato de $1 <color\=#FF5555FF> (En $2 h expira)</color>
+r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) min\)</color>$"=Trato de $1 <color\=#FF5555FF> (En $2 min expira)</color>
+Thanks my man=Gracias hombre
