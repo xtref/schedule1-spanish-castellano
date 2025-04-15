@@ -2,15 +2,30 @@
 TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibidas.\n\nLos procesos mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos - no lograrás crear drogas, pero podrías causarte daños graves.\n\nPor favor, no uses drogas. \n\nTraducido al Español por Beetar.
 
 Back=Volver
-
+Picking Objects Up=Recogiendo objetos
+Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Haga clic y mantenga presionado el <color\=#62BDFF>botón derecho del mouse</color> sobre un objeto para recogerlo.
 Esc=Esc
-
+r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfecto. Te avisaré cuando esté listo. Tardará $1 h.
+behind the western Gas-Mart=detras de la estación de servicio 'Gas-Mart'
+Aight. What time?=Vale. ¿Hora?
 BETA=BETA
-
+No thanks. I'll just look elsewhere=No, gracias. Buscaré en otro lugar
+You're in room 1. It's the one closest to the motel office.=Estás en la habitación 1. Es la más cercana a la oficina del motel.
+Oh yes very good! <color\=#54E717>$800</color> for room, yes?=¡Oh, sí, muy bien! <color\=#54E717>$800</color> por la habitación
+Thank you, very good! You can get to the room behind the restaurant, up the stairs.=¡Gracias! Puedes subir las escaleras a la habitación, está detrás del restaurante.
+It is up the stairs behind my restaurant! Go around back and you'll see.=¡Está subiendo las escaleras detrás de mi restaurante! Da la vuelta.
 Quit=Salir
-
+That'll be <color\=#54E717>$75</color> for the Cheap Skateboard. Sound good?=Serán <color\=#54E717>$75</color> por el Skateboard barato. ¿Te parece bien?
+No problem homie, see ya later.=No te preocupes amigo, adios.
+I'd like to buy the room=Me gustaría comprar la habitación
 Credits=Agradecimientos
-
+Offer a free sample to a potential customer=Ofrece una muestra gratuita a un cliente potencial
+r:Talk to Mrs. Ming at the Chinese restaurant=Habla con Mrs. Ming en el restaurante chino
+r:• Talk to Mrs. Ming at the Chinese restaurant=• Habla con Mrs. Ming en el restaurante chino
+r:Purchase the room above the Chinese Restaurant=Compra la habitación del restaurante chino
+r:• Purchase the room above the Chinese Restaurant=• Compra la habitación que hay encima del restaurante chino
+r:Move the grow tents and packaging station to the new room=Mudate a la habitación encima del restaurante chino
+r:• Move the grow tents and packaging station to the new room=• Traslada las carpas de cultivo y la estación de empaquetado a la nueva habitación
 Settings=Configuraciones
 
 New Game=Nuevo juego
@@ -1158,9 +1173,8 @@ Sexy Gas=Gasolina Sexy
 Regular Gas=Gasolina Regular
 
 Mega Gas=Gasolina Mega
-
 sr:"^Potential Customer\n(.+)$"=Cliente Potencial\n$1
-
+sr:"^Supplier Meeting\n\((.+)\)$"=Cliente Potencial\n\($1\)
 Pre-release roadmap=Hoja de ruta de pre-lanzamiento
 
 Monday 10th\nCo-op & deliveries\n\nMonday 17th\nCasino\n\nSaturday 22nd\nBoutique store, wall decorations, pawn shop\n\nMonday 24th - Release!\n\n\n=Lunes 10\nCooperativo y entregas\n\nLunes 17\nCasino\n\nSábado 22\nTienda boutique, decoraciones de pared, casa de empeño\n\nLunes 24 - Lanzamiento!
@@ -1476,7 +1490,7 @@ Hey there, I'm Ray - Hyland Point's best real estate agent. Come talk to me if y
 You can see all the available listings on the whiteboard to your left.=Puedes ver todas las listas disponibles en la pizarra a tu izquierda.
 If you want to drive through here, I'll need to search your vehicle.=Si quieres pasar por aquí, necesitaré registrar tu vehículo.
 You need to park your car nearby for me to search it.=Estaciona tu coche cerca para que pueda registrarlo.
-Huh?!=¿Eh?!
+Huh?!=Eh?
 Hey friend, you're new, right? Nice to see a fresh face in town.=Ey amigo, ¿eres nuevo, no? Me alegra ver una cara nueva en el pueblo.
 I'm Dan, I run this here hardware store. What line of work are you in?=Soy Dan, llevo esta ferretería. ¿A qué te dedicas?
 You wanna try minding your own business?=¿Por qué no intentas meterte en tus propios asuntos?
@@ -1499,6 +1513,7 @@ Place the grow tent and fill it with soil=Coloca la tierra de cultivo y llénala
 Hiya there, can I help you with something?=Hola, ¿puedo ayudarte con algo?
 I'd like to browse your stock=Me gustaría ver tu inventario.
 Thank you!=¡Gracias!
+Thank you=Gracias
 Order won't fit in inventory=El pedido no cabe en el inventario
 Apply PGR=Aplicar PGR
 r:Cover soil with PGR (.*)=Cubrir el suelo con PGR $1
@@ -1666,7 +1681,8 @@ Hey there=Hola
 No thanks bro=No, gracias, hermano
 Talk to 'U.N.' at a payphone=Habla con 'U.N.' en un teléfono público
 Goddamn, that's nice!! I'll message you later=¡Maldita sea, eso está genial!! Te mando un mensaje después
-
+Nice=Genial
+Gross!=Asco!
 Greetings. You can now get your supplies delivered directly to your properties. Use the deliveries app on your phone to place an order.=Saludos. Ahora puedes recibir tus suministros directamente en tus propiedades. Usa la app de entregas en tu teléfono para hacer un pedido.
 
 Select a destination=Selecciona un destino
@@ -1756,7 +1772,9 @@ Buy 1x grow tent=Compra 1x carpa de cultivo
 • Buy 1x watering can=• Comprar 1x regadera
 There are two types of currency: <color=#46CB4F>cash</color> and <color=#88CBFF>online balance</color>. Customers pay with cash, but most legal shops only accept card.=Hay dos tipos de dinero: <color=#46CB4F>efectivo</color> y <color=#88CBFF>saldo en línea</color>. Los clientes pagan en efectivo, pero la mayoría de las tiendas legales solo aceptan tarjeta.
 Visit an <color=#88CBFF>ATM</color> to deposit or withdraw cash.=Visita un <color=#88CBFF>cajero automático</color> para depositar o retirar efectivo.
-
+Select amount to withdraw=Selecciona el monto a retirar
+r:WITHDRAW (.+)$=RETIRAR $1 
+r:You have withdrawn (.+)$=Has retirado $1 
 Just send me a text if you'd like to meet.=Solo mándame un mensaje si quieres encontrarte.
 
 r:"Owned Vehicle\n(.+)$"=Vehículo Propio\n$1
@@ -2037,7 +2055,7 @@ Threshold=Umbral
 Cleaner=Limpiador
 Manage Cleaner=Gestionar Limpiador
 Assigned Trash Cans=Cubos de Basura Asignados
-r:Assigned Trash Cans (.)/(.)=Cubos de Basura Asignados $1/$2
+r:Assigned Trash Cans (.*)\/(.*)=Cubos de Basura Asignados $1/$2
 Assign Trash Cans=Asignar Cubos de Basura
 r:Assign Trash Cans (.*)\/(.*)=Asignar Cubos de Basura $1/$2
 Handler=Manipulador
@@ -2052,7 +2070,6 @@ To=Para
 From=De
 Routes=Rutas
 r:Assigned Stations (.)/(.)=Estaciones Asignadas $1/$2
-r:Assigned Trash Cans (.)/(.)=Botes Asignadas $1/$2
 Select source=Seleccionar fuente
 Assign Packaging Stations=Asignar Estaciones de Embalaje
 r:Assign Packaging Stations (.)/(.)=Asignar Estaciones de Embalaje $1/$2
@@ -2125,7 +2142,7 @@ Make sure I have the right seeds in my supplies stash.=Asegúrate de que tenga l
 
 There's nothing for me to do right now.=No tengo nada que hacer en este momento.
 
-I need one of my assigned stations to have enough product and packaging to get to work.=Necesito que una de mis estaciones asignadas tenga suficiente producto y embalaje para empezar a trabajar.
+I need one of my assigned stations to have enough product and packaging to get to work.=Necesito que una de mis estaciones asignadas tenga suficiente producto y embalaje.
 
 I haven't been assigned any stations=No me han asignado ninguna estación.
 
@@ -2947,7 +2964,7 @@ Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luz d
 A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Luz de cultivo LED simple. Emite una luz púrpura que estimula el crecimiento de las plantas un 15% más rápido que la halógena. Debe colocarse en un soporte suspendido.
 Deal= Trato hecho
 r:"^(.+) is out dealing$"= $1 está afuera haciendo tratos
-So you'd like to purchase bungalow? Payments are made from your online balance.= ¿Así que quieres comprar un bungalow? Los pagos se hacen desde tu saldo en línea.
+So you'd like to purchase bungalow? Payments are made from your online balance.= ¿Así que quieres comprar un bungalow? Los pagos se cargan a tu saldo en línea.
 Actually, nevermind= Olvídalo
 Outstanding, the property has been transferred to your name.= Excelente, la propiedad ha sido transferida a tu nombre.
 Contains trash= Contiene basura
@@ -3014,9 +3031,8 @@ Recipe(s)=Receta(s)
 Order is too large for delivery vehicle=La orden es muy grande para el vehículo Repartidor
 Lets get this party started= Vamos a empezar esta fiesta
 CUSTOMER IS WAITING FOR A DEALER= EL CLIENTE ESTÁ ESPERANDO A UN DISTRIBUIDOR
-Rank=Rango
-Required for this area=Requerido para esta área
-Required for this region=Requerido para esta región
+Rank\n\n\nRequired for this region=Rango\n\n\nRequerido para esta región
+Rank\n\n\nRequired for this area=Rango\n\n\nRequerido para esta área
 r:Earn $10,000 
 (.∗)\/(.∗)(.∗)\/(.∗)=Gana $10.000 $ ($1/$2)
 Delivery already in progress=Entrega en curso
@@ -3162,7 +3178,7 @@ Alright, I'll be a dealer for you but there is a <color=#54E717>$(\d{1,3}(?:,\d{
 The Post Office=La Oficina de Correos  
 The Car Wash=El Autolavado  
 Taco Ticklers=Cosquillas de Taco  
-So you'd like to purchase laundromat? Payments are made from your online balance.=¿Así que quieres comprar la lavandería? Los pagos se hacen desde tu saldo en línea.  
+So you'd like to purchase laundromat? Payments are made from your online balance.=¿Así que quieres comprar la lavandería? Los pagos se cargan a tu saldo en línea.  
 Congratulations! The business has been transferred to your name.=¡Felicidades! El negocio ha sido transferido a tu nombre.  
 Go to your new business=Ir a tu nuevo negocio  
 The Shitbox=La Caja de Porquería  
@@ -3301,9 +3317,7 @@ r:(.*), In the parking garage next to the casino=$1, En el estacionamiento junto
 
 r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now \$(\d{1,3}(?:,\d{3})*)$"=He recibido <color\=#54E717>$$${1}</color> en efectivo. Tu deuda ahora es de <color\=#54E717>$$${2}</color>
 sr:"I need a dead drop:\n(\d+x) (.+)$"=Necesito una entrega secreta:\n$1 $2
-
 r:"^Deal for (.+)"=Trato por $1
-
 #### Gracias MrProtex ####
 
 sr:"Hey, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Oye. ¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
@@ -3593,6 +3607,7 @@ sr:"Your drop is ready. Grab it (.+)$"=Listo! Recógela $1.
 sr:"Hey, that drop is ready (.+)$"=Oye, esa entrega está lista $1.
 r:"^(.+) will draw his daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 recibirá su salario diario de <color\=#54E717>$ $2</color> de este maletín.
 r:"^(.+) will draw her daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 recibirá su salario diario de <color\=#54E717>$ $2</color> de este maletín.
+nvm=-.-"
 
 ###PAWSHOP ####
 Howdy, buddy. You need somethin'?=Entonces, ¿necesitas algo?
@@ -3999,7 +4014,7 @@ sr:"^(.+) has requested a delivery of ([0-9]+)x Sour Diesel (.+) for \$(\d{1,3}(
 sr:"^(.+) has requested a delivery of ([0-9]+)x Green Crack (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=Ha solicitado una entrega $2x Green Crack por $1. Estará $3. Pagará $4$.
 sr:"^(.+) has requested a delivery of ([0-9]+)x Granddaddy Purple (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=Ha solicitado una entrega $2x Granddaddy Purple por $1. Estará $3. Pagará $4$.
 Complete your first deal=Completa tu primera venta
-r:Complete 3 deals (.)/(.)=Realiza 3 ventas $1/$2
+r:Complete 3 deals (.+)/(.+)=Realiza 3 ventas $1/$2
 Not what i like, sorry=No es lo que me gusta, lo siento
 Nope - nevermind=No, no importa
 No way=De ninguna manera
