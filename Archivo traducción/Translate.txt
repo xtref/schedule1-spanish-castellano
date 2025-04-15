@@ -586,7 +586,7 @@ STREET RAT I=RATA DE CALLE I
 
 Products Sold=Productos Vendidos
 
-Choose who to summon=Elige a quién convocar
+Choose who to summon=Elige a quién llamas
 
 Lights=Luces
 
@@ -661,7 +661,7 @@ Sleep=Dormir
 Email (Optional)=Correo Electrónico (Opcional)
 
 Stop the arrow in the green area to unlock item=Detén la flecha en el área verde para desbloquear el objeto
-r:UNLOCK ONE OF (.*)'S CONNECTIONS FIRST=DESBLOQUEA PRIMERO UNA DE LAS CONEXIONES DE $1
+r:UNLOCK ONE OF (.*)'S CONNECTIONS FIRST=DESBLOQUEA UNA DE LAS CONEXIONES DE $1
 Packaging=Empaque
 
 Provide ingredients then select recipe=Proporciona los ingredientes y luego selecciona la receta
@@ -2960,7 +2960,7 @@ Assing a station to the chemist= Asignar una estación al químico
 1x Handler= Encargado
 Mixing Station= Estación de mezcla
 r:Assigned Stations (.*)=Estaciones Asignadas $1
-Unlock this dealer by reaching 'Friendly' with one of their connections.= Desbloquea a este vendedor alcanzando el nivel de "Amistoso" con uno de sus contactos.
+Unlock this dealer by reaching 'friendly' with one of their connections.= Desbloquea a este vendedor alcanzando el nivel de "Amistoso" con uno de sus contactos.
 Hey, that drop is ready on the pawn shop west wall=Hey, esa entrega está lista en la pared oeste de la casa de empeños.
 Hey, that drop is ready outside apartment 2 of the western apartment block=Hey, esa entrega está lista afuera del apartamento 2 del bloque occidental de apartamentos.
 Cook liquid meth at the chemistry station= Cocina metanfetamina líquida en la estación de química.
@@ -3016,6 +3016,7 @@ Lets get this party started= Vamos a empezar esta fiesta
 CUSTOMER IS WAITING FOR A DEALER= EL CLIENTE ESTÁ ESPERANDO A UN DISTRIBUIDOR
 Rank=Rango
 Required for this area=Requerido para esta área
+Required for this region=Requerido para esta región
 r:Earn $10,000 
 (.∗)\/(.∗)(.∗)\/(.∗)=Gana $10.000 $ ($1/$2)
 Delivery already in progress=Entrega en curso
@@ -4006,3 +4007,20 @@ I don't think so. Nevermind=No lo creo. No importa
 sr:Don't worry about it=No te preocupes.
 r:(.*), West Warehouse Wharf=$1, Muelle del almacén Oeste
 Alleyway behind the laundromat=En el callejón, detrás de la lavandería
+You've finished a few deals and made some decent cash, but if you're looking to make real money, you'll need to expand your operations - more <color\=#4CB0FF>product</color> and more <color\=#4CB0FF>customers</color>.=Has cerrado algunos tratos y has ganado algo de dinero, pero si buscas ganar dinero real, necesitarás expandir tus operaciones. ¡<color\=#4CB0FF>Más productos</color> y <color\=#4CB0FF>más clientes</color>!.
+The best way to gain new customers is to give a <color\=#4CB0FF>free sample</color> to a friend of an existing customer.=La mejor manera de ganar nuevos clientes es regalar una <color\=#4CB0FF>muestra gratuita</color> a un amigo de un cliente.
+You can view all potential customers on your <color\=#4CB0FF>map</color>. Grab some weed and give them a <color\=#4CB0FF>free sample</color>. With a bit of luck, they'll agree to become a customer.=Puedes ver a todos los clientes potenciales en tu <color\=#4CB0FF>mapa</color>. Consigue marihuana y regálales una <color\=#4CB0FF>muestra gratis</color>. Con un poco de suerte, aceptarán hacerse clientes.
+To keep up with more customers, you'll need more product. The motel room isn't gonna cut it for much longer - time for an upgrade.=Para atender a más clientes, necesitarás más productos. La habitación de motel no te servirá por mucho más tiempo.
+There's a cheap room for sale above the Chinese restaurant just north of your motel room. Save <color\=#4CB0FF>$800</color>, then go ask about buying the room.=Hay una habitación barata en venta encima del restaurante chino, justo al norte de tu habitación de motel. Ahorra <color\=#4CB0FF>$800</color> y luego pregunta por la habitación.
+Open the map app to see your potential customers=Abre el mapa para ver a los clientes potenciales
+You'll need more space if you're looking to get serious. Time to save for and purchase a new property.=Necesitarás más espacio si quieres tomarte en serio el asunto. Es hora de ahorrar y comprar una nueva propiedad. 
+Save $800 for a new property=Ahorra $800 para una nueva propiedad
+r:Unlock 10 customers (.+)/(.+)=Consigue 10 clientes $1/$2
+• Save $800 for a new property=• Ahorra <color\=green>$800</color> para una nueva propiedad
+r:• Unlock 10 customers (.+)/(.+)=• Consigue 10 clientes $1/$2
+Thanks you=Gracias
+Cheers=Salud
+Golden Skateboard=Skate Dorado
+r:"^Water the weed plant"=Rega la planta de marihuana
+r:"^Time to clean some shit up."=Es hora de limpiar algo de mierda.
+Buy and place another grow tent=Compra y coloca otra carpa de cultivo
