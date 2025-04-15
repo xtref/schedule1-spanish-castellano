@@ -1607,7 +1607,7 @@ How's it goin' my man?=Cómo van las cosas?
 I'd like to get a tattoo=Me gustaría hacerme un tatuaje.
 Thanks, we're done.=Gracias, hemos terminado.
 Come on come on!=¡Vamos, vamos!
-Nevermind!=No importa.
+Nevermind!=No importa!
 My vehicle is stuck=Mi vehículo está atascado.
 Thanks buddy=Gracias, amigo.
 Thanks boss=Gracias jefe
@@ -1699,17 +1699,10 @@ Come on, I need it now!=¡Vamos, lo necesito ahora!
 Come on, I really need something=Vamos, realmente necesito algo
 Ready yet??=¿listo??
 Ready??=¿Listo??
-
 Please tell me you're ready...=Por favor dime que estás listo...
-
 Goddammit!!=¡Maldita sea!!
-
 Piss off!=¡Lárgate!
-
 Oh shit!=¡Mierda!
-
-I don't think so...=Creo que no...
-
 Stop!=¡Para!
 
 Thanks. Hey, I know a guy called Salvador who can hook you up with coca seeds. I've given your number to him.=Gracias. Hey, conozco a un tipo llamado Salvador que puede conseguirte semillas de coca. Le di tu número.
@@ -2915,7 +2908,7 @@ I'd like to purchase a vehicle= Me gustaría comprar un vehículo
 Bye= Adiós
 Fantastic! Which model are you interested in?=¡Fantástico! ¿En qué modelo estás interesado?
 I'd like to repaint my vehicle= Me gustaría repintar mi vehículo
-VEHICLE MUST BE PARKED INSIDE THE SHOP= EL VEHÍCULO DEBE ESTAR ESTACIONADO DENTRO DEL TALLER
+VEHICLE MUST BE PARKED INSIDE THE SHOP= EL VEHÍCULO DEBE ESTAR DENTRO DEL TALLER
 Hey there, what can I do for you?= Hola, ¿en qué puedo ayudarte?
 I'd like to purchase a property= Me gustaría comprar una propiedad
 I'd like to purchase a business= Me gustaría comprar un negocio
@@ -3308,7 +3301,7 @@ r:(.*), In the parking garage next to the casino=$1, En el estacionamiento junto
 r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now \$(\d{1,3}(?:,\d{3})*)$"=He recibido <color\=#54E717>$$${1}</color> en efectivo. Tu deuda ahora es de <color\=#54E717>$$${2}</color>
 sr:"I need a dead drop:\n(\d+x) (.+)$"=Necesito una entrega secreta:\n$1 $2
 
-sr:"Deal for (.+)"=Trato por '$1'
+r:"^Deal for (.+)"=Trato por $1
 
 #### Gracias MrProtex ####
 
@@ -3983,8 +3976,6 @@ Behind Gas-Mart=Detras de Gas-Mart
 ## HISTORIA ##
 Goddamn, good to hear your voice, buddy! Looks like our luck finally ran out - the feds have got me locked up while I wait for a trial. Glad to hear you managed to slip out, though.=Mierda, qué gusto oír tu voz, hijo. Parece que nuestra suerte por fin se acabó, los federales me tienen encerrado mientras espero el juicio. Me alegra saber que lograste escapar.
 z <color\=#88CBFF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=Hay un cártel poderoso en la ciudad. La <color\=#88CBFF>Familia Benzies</color>. Imaginé que eventualmente serían un problema, pero no pensé que te encontrarían tan rápido...
-Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color\=#88CBFF>motel</color> and ask about getting a room.=Parece que vas a necesitar un lugar tranquilo para quedarte un tiempo. Ve al <color\=#88CBFF>motel</color> y pregunta por una habitación.
-After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color\=#88CBFF>grow tent, soil</color>, and <color\=#88CBFF>watering can.</color>=Después de eso, necesitarás equipo nuevo. Hay una ferretería al noreste del motel. Consigue una <color\=#88CBFF>tienda de cultivo, tierra</color>, y una <color\=#88CBFF>regadera.</color>
 You're almost ready to go, but you're missing one key ingredient - <color\=#4CB0FF>weed seeds</color>.=Ya casi estás listo para empezar, pero te falta un ingrediente clave: <color\=#4CB0FF>Semillas de marihuana</color>.
 You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#4CB0FF>Albert Hoover</color> - the local weed seed supplier.=Necesitarás hablar con un proveedor para conseguir semillas. Le he pasado tu número a <color\=#4CB0FF>Albert Hoover</color>, El proveedor local de semillas de marihuana.
 Send him a <color\=#4CB0FF>message</color> and request a <color\=#4CB0FF>dead drop</color>. I've vouched for you so you won't have to pay up front. Your order will go on your tab, which you can pay off in the future.=Envíale un <color\=#4CB0FF>mensaje</color> y solicita un <color\=#4CB0FF>punto de entrega</color>. He hablado por ti, así que no tendrás que pagar por adelantado. Tu pedido se cargará en tu cuenta y podrás pagarlo más adelante.
@@ -3997,3 +3988,21 @@ r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) hrs\)</color>$"=Trato de 
 r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) min\)</color>$"=Trato de $1 <color\=#FF5555FF> (En $2 min expira)</color>
 Thanks my man=Gracias hombre
 EXIT=SALIR
+## MISIONES ##
+r:"^Place the packaging station in the motel room"=Coloca la estación de embalaje en la habitación del motel
+r:"^Get some deals done, and start expanding your network."=Cierra algunos tratos y comience a expandir su red
+r:"^Wait for a message from a customer"=Espera un mensaje de un cliente
+r:"^Schedule your first deal"=Programa tu primera oferta
+sr:"^(.+) has requested a delivery of ([0-9]+)x OG Kush (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=Ha solicitado una entrega $2x OG Kush por $1. Estará $3. Pagará $4$.
+sr:"^(.+) has requested a delivery of ([0-9]+)x Sour Diesel (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=Ha solicitado una entrega $2x Sour Diesel por $1. Estará $3. Pagará $4$.
+sr:"^(.+) has requested a delivery of ([0-9]+)x Green Crack (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=Ha solicitado una entrega $2x Green Crack por $1. Estará $3. Pagará $4$.
+sr:"^(.+) has requested a delivery of ([0-9]+)x Granddaddy Purple (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=Ha solicitado una entrega $2x Granddaddy Purple por $1. Estará $3. Pagará $4$.
+Complete your first deal=Completa tu primera venta
+r:Complete 3 deals (.)/(.)=Realiza 3 ventas $1/$2
+Not what i like, sorry=No es lo que me gusta, lo siento
+Nope - nevermind=No, no importa
+No way=De ninguna manera
+I don't think so. Nevermind=No lo creo. No importa
+sr:Don't worry about it=No te preocupes.
+r:(.*), West Warehouse Wharf=$1, Muelle del almacén Oeste
+Alleyway behind the laundromat=En el callejón, detrás de la lavandería
