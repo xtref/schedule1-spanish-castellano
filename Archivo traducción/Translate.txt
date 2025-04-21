@@ -695,7 +695,6 @@ Male=Masculino
 
 Click and hold items to conceal=Haz clic y mantén presionados los objetos para ocultarlos
 BODY SEARCH IN PROGRESS=REGISTRO CORPORAR EN CURSO
-The officer will search your inventory from <color=#62BDFF>left to right</color>.\n\n<color=#62BDFF>Click and hold</color> an item to <color=#62BDFF>conceal</color> it. You can only conceal one item at a time.=El oficial registrará tu inventario de <color=#62BDFF>izquierda a derecha</color>.\n\n<color=#62BDFF>Haz clic y mantén</color> un objeto para <color=#62BDFF>ocultarlo</color>. Solo puedes ocultar un objeto a la vez.
 FirstName\nLastName=Nombre\nApellido
 
 Tools=<size\=11>Herramientas</size>
@@ -916,7 +915,7 @@ Halogen Grow Light=Luz de Cultivo Halógena
 LED Grow Light=Luz de Cultivo LED
 
 Watering Can=Regadera
-
+Watering can empty=Regadera vacía
 Plant Trimmers=Podadoras de Plantas
 
 Baggie=Bolsita
@@ -1157,7 +1156,7 @@ Contacts=Contactos
 Wrapping Up=Finalizando los negocios de la ciudad
 
 Making the Rounds=Haciendo las rondas
-
+Provide a sample to Chelsey near the doctor's office=Proporciona una muestra a Chelsey cerca del consultorio del doctor
 Item Limit=Artículos
 
 NEEDS WATER=NECESITA AGUA
@@ -1427,7 +1426,7 @@ Change Quantity=Cambiar Cantidad
 Moderate=Moderado
 Unlock this customer by giving them a free sample. Use your map to see their approximate location.=Desbloquea a este cliente dándole una muestra gratis. Usa tu mapa para ver su ubicación aproximada.
 Talk to Uncle Nelson=Habla con el Tío Nelson
-Morning bud, come talk to me after you've got everything done in the RV.=Buenos días, brote, ven a hablar conmigo después de terminar todo en la Casa Rodante.
+Morning bud, come talk to me after you've got everything done in the RV.=Buenos días, habla conmigo después de terminar todo en la caravana.
 Morning buddy, lovely day ain't it?=Buenos días, amigo, día encantador, ¿no?
 Sure is=Claro que sí
 If you're heading in to town for some deals, would you mind grabbing something for me?=Si vas a la ciudad por algunos negocios, ¿te importaría recoger algo para mí?
@@ -1498,7 +1497,7 @@ Drug dealer=Camello
 I work in agriculture=Trabajo en agricultura
 Oh ain't that nice, I always fancied a bit of gardening myself. Here's some SpeedGrow on the house. Welcome to Hyland Point.=Qué bien, siempre me gustó un poco de jardinería. Toma un poco de SpeedGrow por cuenta de la casa. Bienvenido a Hyland Point.
 Thanks=Gracias
-Haha good one partner. Tell you what, take some SpeedGrow on the house - them 'Marijuana' plants will love it.=Jajaja, buena esa, socio. Mira, toma un poco de SpeedGrow por cuenta de la casa – a esas plantas de 'María' les va a encantar.
+Haha good one partner. Tell you what, take some SpeedGrow on the house - them 'Marijuana' plants will love it.=Jaj buena esa, socio. Toma un poco de SpeedGrow por cuenta de la casa a las plantas de 'María' les va a encantar.
 Thanks...=Gracias...
 Oh sorry partner, didn't mean to pry. I'll let you be on your way...=Uy, lo siento, socio. No quería meterme donde no me llaman. Te dejo seguir con lo tuyo...
 Much appreciated.=Muy agradecido.
@@ -2087,7 +2086,6 @@ Very nice!=Muy bien!
 I'm good thanks=Estoy bien gracias
 Sorry boss, I need to be assigned a bed before I can get to work.=Lo siento, jefe, necesito que me asignen una cama antes de empezar a trabajar.
 Very nice. Chelsey might be interested. You should go talk to them.=Muy bien. Chelsey podría estar interesada. Deberías ir a hablar con ella.
-Thank you. You should go talk to Chelsey - I think they'll like your stuff=Gracias. Deberías ir a hablar con Chelsey, creo que le va a gustar tu producto.
 How do I assign your bed?=¿Cómo te asigno una cama?
 Open the contacts app=Abre la app de Contactos
 This is your <color\=#88CBFF>contacts web</color>. This is where you can view all your customers and potential customers.=Este es tu <color\=#88CBFF>red de contactos</color>. Aquí es donde puedes ver a todos tus clientes y clientes potenciales.
@@ -3338,11 +3336,12 @@ sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d
 sr:"U got (\d+x) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. DEAL\?"=¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
 Counter-offer=Contra oferta
 
-Finally=Finalmente
+Finally=Por fin
 r:"How about (\d+x) (.+) for \$(\d{1,3}(?:,\d{3})*)\?"=¿Qué tal $1 $2 por $ $3?
 Ok fine. What time?=Bien, hora?
 OK FINE! What time????=Bien, hora?
 I guess that's fine. When?=Supongo que está bien. Cuándo?
+Alright dude. What time?=Está bien, tío. Hora?
 sr:"Good!! I'll see u <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Okey !! Nos vemos <b>$1</b> en la noche.
 sr:"Good!! I'll see u <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Okey !! Nos vemos <b>$1</b> en la mañana.
 sr:"Good!! I'll see u <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Okey !! Nos vemos <b>$1</b> en la tarde.
@@ -3964,7 +3963,7 @@ Cheers homedog, here's your board.=Gracias bro, aquí la tienes.
 Ready when you are=Cuando tú digas  
 Ok whatever. What time?=Ok, lo que sea. Hora?  
 Alright come on=Está bien, vamos  
-Morning mate, what can I get ya?=Buenos días, amigo, ¿qué te puedo ofrecer?
+Morning mate, what can I get ya?=Buenos días, ¿qué te ofrezco?
 Package at least 3x weed=Empaqueta al menos 3x de marihuana.
 r:"^<color=#54E717>(+$\d+)</color> Curfew Bonus$"=<color=#54E717>$1</color> Bonificación por toque de queda
 Curfew Bonus=Bonificación por toque de queda
@@ -4039,3 +4038,75 @@ Golden Skateboard=Skate Dorado
 r:"^Water the weed plant"=Rega la planta de marihuana
 r:"^Time to clean some shit up."=Es hora de limpiar algo de mierda.
 Buy and place another grow tent=Compra y coloca otra carpa de cultivo
+Thank you. You should go talk to Chelsey - I think they'll like your stuff=Gracias. Deberías ir a hablar con Chelsey, creo que le va a gustar tu producto.
+Thank you. You should go talk to Chelsey - I think she'll like your stuff=Gracias. Deberías ir a hablar con Chelsey, creo que le va a gustar tu producto.
+Thanks. Hey my friend Chelsey might be interested in your stuff. You should go talk to her.=Gracias. Oye, a mi amiga Chelsey podrían interesarle tus cosas. Deberías hablar con ella.
+Much appreciated. Maybe go talk to Chelsey. I think she'd like your product=Muchas gracias. Podrías hablar con Chelsey. Creo que le gustaría tu producto.
+Cheers. My friend Chelsey might like your stuff. Go check her out=Saludos. A mi amiga Chelsey podría gustarle tu material. Ve a verla.
+r:Provide a sample to Chelsey near the doctor's office=Provee una muestra gratuita a Chelsey en la oficina del doctor
+Check out your motel room=Ve hacia la habitación del motel
+r:Check out your motel room=Ve hacia la habitación del motel
+The officer will search your inventory from <color\=#4CB0FF>left to right</color>.=El oficial buscará en su inventario de <color\=#4CB0FF>izquierda a derecha</color>.
+<color\=#4CB0FF>Click and hold</color> an item to <color\=#4CB0FF>conceal</color> it. You can only conceal one item at a time.=<color\=#4CB0FF>Mantén pulsado</color> un objeto para <color\=#4CB0FF>ocultarlo</color>. Solo puedes ocultar un objeto a la vez.
+r:You're in a new town with no cash and no product. Get in contact with a distant relative and get some advice.=Estás en una ciudad nueva sin dinero, ni productos. Contacta con un pariente lejano y pídele consejo.
+r:Collect the stash near the fountain=Recupera el alijo cerca de la fuente
+r:Collect the stash near the canal=Recupera el alijo cerca del canal
+r:"^There is a <color\=#88CBFF>map</color> on your phone. Press <color\=#88CBFF>M</color> to quickly open it."=Hay un <color\=#88CBFF>mapa</color> en tu teléfono. Pulsa <color\=#88CBFF>M</color> para abrirlo.
+r:"^There is a <color\=#F86266>mandatory curfew</color> between 9PM and 5AM. Police will <color\=#F86266>arrest</color> you if you're seen outside."=Hay un <color\=#F86266>toque de queda</color> obligatorio entre las 9PM y las 5AM. La policia te <color\=#F86266>arrestará</color> si te ven por la calle.
+r:"^There are two types of currency: <color\=#46CB4F>cash</color> and <color\=#88CBFF>online balance</color>. Customers pay with cash, but most legal shops only accept card."=Hay 2 tipos de moneda: <color\=#46CB4F>efectivo</color> y <color\=#88CBFF>cuenta bancaria</color>. Los clientes pagan en efectivo, pero la mayoría de los comercios legales, solo aceptan tarjeta.
+r:"^Visit an <color\=#88CBFF>ATM</color> to deposit or withdraw cash."=Ve a un <color\=#88CBFF>ATM</color> para depositar o retirar dinero.
+r:"^Dead drops take time to fulfill, depending on the size of the order. The supplier will <color\=#88CBFF>message you</color> when it's ready."=Los envíos a domicilio tardan en completarse, dependiendo del tamaño del pedido. El proveedor te mandará un <color\=#88CBFF>mensaje</color> cuando esté listo.
+r:"^Use the <color\=#88CBFF>product manager app</color> on your phone to list products for sale."=Utiliza la app <color\=#88CBFF>Productos</color> de su teléfono para enumerar los productos a la venta.
+r:"^Dead drops take time to fulfill, depending on the size of the order. The supplier will <color\=#88CBFF>message you</color> when it's ready."=Los envíos a domicilio tardan en completarse, dependiendo del tamaño del pedido. El proveedor te mandará un <color\=#88CBFF>mensaje</color> cuando esté listo.
+r:"^Use the <color\=#88CBFF>product manager app</color> on your phone to list products for sale."=Utiliza la app <color\=#88CBFF>Productos</color> de su teléfono para enumerar los productos a la venta.
+You've got a decent base of operations and a growing customer base. You'll be pulling in some proper cash now, but you'll need help to manage all your customers.=Ya tienes una base de operaciones sólida y unos cuantos clientes. Ahora estarás generando ingresos considerables, pero necesitarás ayuda para gestionar todo.
+Time to think about recruiting a <color\=#4CB0FF>dealer</color>. There's a guy... hmm... <color\=#4CB0FF>Benji Coleman</color> his name is, I think. He'll be the first dealer you can work with.=Es hora de contratar un <color\=#4CB0FF>distribuidor</color>. Hay un tipo... mm.. Creo que se llama <color\=#4CB0FF>Benji Coleman</color>. Será el primero con el que puedas trabajar.
+You won't be able to hire a dealer until one of their friends has recommended you. Benji is friends with <color\=#4CB0FF>Peggy, Beth,</color> and <color\=#4CB0FF>Ludwig</color>. Focus on selling to them until one of them recommends you.=No lo podrás contratar hasta que uno de sus amigos te recomiende. Benji es amigo de <color\=#4CB0FF>Peggy, Beth,</color> y <color\=#4CB0FF>Ludwig</color>. Concéntrate en venderles hasta que alguno de ellos te recomiende.
+r:"^You can now hire <color\=#88CBFF>Benji Coleman</color> as a dealer."=Ya puedes contratar a <color\=#88CBFF>Benji Coleman</color> de distribuidor.
+
+## MISIONES ##
+r:"Reach 'friendly' relationship status with Chloe, Ludwig, or Beth"=Alcanza una relación 'amistosa' con Chloe, Ludwig o Beth.
+r:"Unlock Chloe, Ludwig, or Beth as customers"=Desbloquea a Chloe, Ludwig o Beth como clientes.
+Thank you. You should go talk to Benji Coleman - they might be able to help you move your stuff.=Gracias, deberías hablar con Benji Coleman, quizás te pueda ayudar a mover tu mercancia.
+
+Thanks. Hey my friend Benji Coleman is a dealer and can help you move your product. You should go speak to them.=Gracias. Tengo un amigo que es distribuidor, se llama Benji Coleman y puede ayudarte a mover tu producto. Deberías hablar con él.
+r:"Talk to Benji Coleman in Motel Room #2"=Habla con Benji Coleman en el Motel (Habitación 2)
+r:Recruit Benji Coleman as a dealer=Contrata a Benji Coleman para que sea tu dealer
+r:Provide Benji with at least 10x Weed=Proporciona a Benji al menos x10 de hierba
+Alright, I'll be a dealer for you but there is a <color\=#54E717>$500</color> signing fee, and I'll take a <color\=#54E717>20%</color> cut of each sale. We got a deal?=De acuerdo, seré tu distribuidor, pero hay una comisión de <color\=#54E717>$500</color> y me llevaré un <color\=#54E717>20%</color> de cada venta. ¿Tenemos un trato?
+r:"^Use the <color\=#88CBFF>dealer management app</color> to assign customers to dealers."=Usa la app <color\=#88CBFF>Dealers</color> para asignar clientes a tus dealers.
+r:Assign at least 3 customers to Benji=Asigna 3 clientes a Benji
+
+r:Behind Casino=Detrás del Casino
+Mod Manager=Manejar Mods
+Save Game= Guardar Partida
+Restart Game=Reiniciar Juego
+Open Mods Folder=Abrir archivos del juego
+Restart the game to apply changes=Reinicia el juego para que los cambios se apliquen
+Quality Bonus=Bonificación por Calidad
+A ceramic toilet for disposing of waste matter.=Un inodoro de cerámica para desechar desechos.
+Manage Drying Rack=Gestionar Estante de Secado
+Manage Chemistry Station=Gestionar Estación Química
+Manage Lab Oven=Gestionar Horno de Laboratorio
+Manage Brick Press=Gestionar Prensa de Ladrillo
+Unpackaged items won't fit!=¡No hay espacio para desempacar!
+Quick Delivery Bonus=Bono de entrega rápida
+Yeah, alright. You drive a hard bargain, buddy.=Sí, está bien. Eres un negociador duro.
+Okay - you caught me in a generous mood.=Está bien, me pillaste en un estado de ánimo generoso.
+Fine, but you're raking me over here.=¿Te estás riendo de mí? Porque eso parece.
+Yeah alright. I suppose I can do that.=Sí, está bien. Supongo que puedo hacerlo.
+That ain't gonna work for me buddy.=Eso no va a funcionar conmigo.
+Not gonna happen=No va a pasar.
+Not gonna happen.=No va a pasar.
+No can do, buddy.=Es demasiado.
+Nah, too high.=No, es demasiado.
+Get over here you cheapskate!=¡Ven aquí, tacaño!
+r:"How does \$(\d{1,3}(?:,\d{3})*) sound?"=¿Qué tal $1$?
+r:"I can give you \$(\d{1,3}(?:,\d{3})*)"=Puedo darte $1$.
+r:"How's \$(\d{1,3}(?:,\d{3})*)?"=¿Y si te ofrezco $1$?
+r:"I can do \$(\d{1,3}(?:,\d{3})*). We got a deal?"=Te doy $1$. ¿Tenemos trato?
+r:"How 'bout \$(\d{1,3}(?:,\d{3})*)?"=¿Qué te parecen $1$?
+r:"How 'bout \$(\d{1,3}(?:,\d{3})*)?"=¿Qué tal $1$?
+r:"Let's call it \$(\d{1,3}(?:,\d{3})*). Deal?"=Dejémoslo en $1$. ¿Hecho?
+r:"Best l can do is \$(\d{1,3}(?:,\d{3})*)"=Lo mejor que te puedo2 ofrecer es $1$
+r:"Best I can do is \$(\d{1,3}(?:,\d{3})*)"=Lo mejor que te puedo ofrecer es $1$
