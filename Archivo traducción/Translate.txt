@@ -1683,33 +1683,18 @@ Goddamn, that's nice!! I'll message you later=¡Maldita sea, eso está genial!! 
 Nice=Genial
 Gross!=Asco!
 Greetings. You can now get your supplies delivered directly to your properties. Use the deliveries app on your phone to place an order.=Saludos. Ahora puedes recibir tus suministros directamente en tus propiedades. Usa la app de entregas en tu teléfono para hacer un pedido.
-
 Select a destination=Selecciona un destino
-
 Selected destination has no loading docks=El destino seleccionado no tiene muelles de carga
-
 Nah, not for me dog=No, no es para mí, hermano
-
 I don't think so...=Creo que no...
-
 Not interested=No estoy interesado
-
 SAMPLE ALREADY OFFERED TODAY=MUESTRA YA OFRECIDA HOY
-
 Ew, no.=Ew, no.
-
 One moment bro...=Un momento, hermano...
-
 Not yet=Todavía no
-
 Mornin' dude=Buenos días, amigo
-
 Heyo=¡Hola!
-
 Argh! That's nasty=¡Argh! Eso es asqueroso
-
-Ok...=Ok...
-
 Come on, I need it now!=¡Vamos, lo necesito ahora!
 Come on, I really need something=Vamos, realmente necesito algo
 Ready yet??=¿listo??
@@ -1719,35 +1704,20 @@ Goddammit!!=¡Maldita sea!!
 Piss off!=¡Lárgate!
 Oh shit!=¡Mierda!
 Stop!=¡Para!
-
 Thanks. Hey, I know a guy called Salvador who can hook you up with coca seeds. I've given your number to him.=Gracias. Hey, conozco a un tipo llamado Salvador que puede conseguirte semillas de coca. Le di tu número.
-
 You can now order <color\=#88CBFF>coca seeds</color> from Salvador. Coca plants yield <color\=#88CBFF>coca leaves</color>, which are the main precursor ingredient for <color\=#88CBFF>cocaine</color>.=Ahora puedes pedir <color\=#88CBFF>semillas de coca</color> a Salvador. Las plantas de coca producen <color\=#88CBFF>hojas de coca</color>, que son el ingrediente principal para <color\=#88CBFF>cocaína</color>.
-
 r:Click and hold over leaves to harvest (.*)\/(.*)=Haz clic y mantén presionado sobre las hojas para cosechar $1/$2
-
 r:Click leaves to harvest (.*)\/(.*)=Haz clic en las hojas para cosechar $1/$2
-
 Good doin' business=Un placer hacer negocios
-
 Use Drying Rack=Usar estante de secado
-
 Combine leaves and gasoline in cauldron=Combina hojas y gasolina en el caldero
-
 Start cauldron=Iniciar caldero
-
 Powerful stimulant commonly snorted for a euphoric but short-lived high.=Estimulante poderoso, comúnmente inhalado, que produce una euforia de corta duración.
-
 r:Pour product into mould (.*)\/(.*)=Vierte el producto en el molde $1/$2
-
 Rotate handle quickly to press product=Gira la manivela rápidamente para prensar el producto.
-
 Hold still - you are under arrest!=¡Quieto - estás arrestado!
-
 No Recipe Specified=No se ha especificado receta
-
 Pretty good. I'll message you soon=Bastante bien. Te enviaré un mensaje pronto.
-
 Cheers. My friend Molly Presley is a dealer and might be able to help you move your stuff. You should go speak to them.=Gracias. Mi amiga Molly Presley es traficante y podría ayudarte a mover tu mercancía. Deberías hablar con ella.
 Cheers. My friend Brad Crosby is a dealer and might be able to help you move your stuff. You should go speak to them.=Gracias. Mi amigo Brad Crosby es traficante y podría ayudarte a mover tu mercancía. Deberías hablar con él.
 Cheers. My friend Benji Coleman is a dealer and might be able to help you move your stuff. You should go speak to them.=Gracias. Mi amigo Benji Coleman es un dealer y podría ayudarte a mover tu mercancía. Deberías hablar con él.
@@ -1775,155 +1745,80 @@ Select amount to withdraw=Selecciona el monto a retirar
 r:WITHDRAW (.+)$=RETIRAR $1 
 r:You have withdrawn (.+)$=Has retirado $1 
 Just send me a text if you'd like to meet.=Solo mándame un mensaje si quieres encontrarte.
-
 r:"Owned Vehicle\n(.+)$"=Vehículo Propio\n$1
-
 Bin is full=Basurero lleno
-
 No issues.=Sin problemas.
-
 I'll be done shortly=Termino en breve
-
 sr:"(.+) Trunk$"=Maletero de $1
-
 Stay here while I search your vehicle=Quédate aquí mientras reviso tu vehículo
-
 ##Armazém##  
-
 Oh yeah, boss man told me about you. Come in.=Ah, sí, el jefe me habló de ti. Entra.
-
 Melee weapons - blunt and sharp, and of course, firearms. Ammo too. I get more stuff in stock every now and then.=Armas cuerpo a cuerpo, por supuesto, armas de fuego y también munición. Recibo más cosas en stock de vez en cuando.
-
 Are these weapons legal?=¿Estas armas son legales?
-
 Yeahhhh, more or less. Most of them are probably not completely non-illegal… what're you asking' for anywho?=Siiií, más o menos. La mayoría probablemente no es totalmente no ilegal... ¿qué estás buscando, de todas formas?
-
 sr:"That'll be <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> for the (.+)\. We got a deal, partner\?"=Serán $<color\=#54E717>$1</color> por el/la $2. ¿Tenemos un trato, socio?
-
 I'm looking for some weaponry.=Estoy buscando algunas armas.
-
 Evenin' partner, what can I do you for?=B. noches, socio, qué necesitas?
-
 Good idea my friend. What are you after?=Buena idea, amigo. ¿Qué buscas?
-
 Ammo=Munición
-
 Ranged=Largo Alcance
-
 Melee=Cuerpo a Cuerpo
-
 Fat Cum=Carga Gorda  
-
 I'm looking for some weaponry.=Estoy buscando algunas armas.
-
 Machete=Machete
-
 Frying Pan=Sartén
-
 Aquí están las armas de largo alcance, dime qué te agrada.  
-
 M1911=M1911  
-
 Pistola M1911. Un verdadero clásico americano.  
-
 Revólver=Revólver  
-
 Aquí está mi gama de municiones, ¿de qué tipo necesitas?  
-
 Cargador M1911=Cargador M1911  
-
 Munición de Revólver=Munición de Revólver  
-
 Hola, amigo. Si estás buscando protección, llegaste al lugar correcto.  
-
 ¿Qué vendes?=¿Qué vendes?  
-
 Aquí está mi selección de armas cuerpo a cuerpo, dime qué llama tu atención.  
-
 sr:"^Eso será <color\=#54E717>\$(\d{1,3}(?:,\d{3})?)</color> por el (.+)\. ¿Tenemos un trato, socio\?$"=$2. Costará <color\=#54E717>$1</color>. ¿Trato hecho, socio?  
-
 Está bien entonces. Sabes dónde encontrarme si cambias de opinión.  
-
 Gracias, socio. =Gracias, socio.  
-
 Hola, hueles bien...  
-
 Lárgate=Lárgate  
-
 Hehe, nada... solo Oscar siendo amigable. Si necesitas equipos especiales o suministros, Oscar tiene lo que necesitas.  
-
 ¿Qué tipo de cosas vendes?=¿Qué tipo de cosas vendes?  
-
 Oscar vende equipos especiales y suministros.  
-
 Sí, está bien, gracias...=Sí, está bien, gracias...  
-
 A common ingredient used in a chemistry station.=Un ingrediente común usado en una estación química.
-
 Common chemical ingredient in powder form. Used in matches and meth.=Ingrediente químico común en forma de polvo. Usado en fósforos y metanfetamina.
-
 A special metal pot with moisture-preserving functionality. Soil will lose moisture 40% slower.=Una maceta de metal especial con función de preservación de humedad. El suelo perderá humedad un 40% más lentamente.
-
 General-purpose chemistry station used for mixing and cooking.=Estación química de uso general para mezcla y cocción.
-
 Special-purpose laboratory oven for cooking/drying out substances.=Horno de laboratorio de propósito especial para cocinar/secar sustancias.
-
 Hang up organic items (weed, coca leaves) here to improve their quality.=Cuelga aquí objetos orgánicos (marihuana, hojas de coca) para mejorar su calidad.
-
 Industrial brick press used to squish stuff into bricks.=Prensa de ladrillos industrial usada para compactar cosas en ladrillos.
-
 Industrial cauldron used for boiling a lot of stuff at once.=Caldero industrial usado para hervir muchas cosas a la vez.
-
 An upgraded model of the mixing station with automatic ingredient insertion, and faster mix times.=Un modelo mejorado de la estación de mezcla con inserción automática de ingredientes y tiempos de mezcla más rápidos.
-
 Fancy hand woven fabric pot that keeps roots ventilated. Boosts plant growth speed by 15%, but also increases moisture drain by 30%.=Maceta de tela tejida a mano sofisticada que mantiene las raíces ventiladas. Aumenta la velocidad de crecimiento de la planta en un 15%, pero también incrementa la pérdida de humedad en un 30%.
-
 Very fancy full-spectrum grow light. Stimulates plant growth 30% faster than halogen. Must be placed on a suspension rack.=Luz de crecimiento de espectro completo muy sofisticada. Estimula el crecimiento de las plantas un 30% más rápido que el halógeno. Debe colocarse en un estante suspendido.
-
 Open safe=Abrir caja fuerte
-
 Safe=Caja fuerte
-
 You the new guy in town?=Eres el nuevo en la ciudad?
-
 Probably=Probablemente
-
 Haha very cute. I’m Manny. I’m the local fixer. You looking to hire workers, you talk to me.=Jaja, muy lindo. Soy Manny. Soy el reparador local. Si buscas contratar trabajadores, habla conmigo.
-
 How much does it cost to hire someone?=¿Cuánto cuesta contratar a alguien?
-
 Depends on what sort of talent you need. Cleaners and Packagers are pretty cheap, Botanists a bit more, and Chemists are the most expensive.=Depende de lo que necesites. Los limpiadores y empacadores son bastante baratos, los botánicos un poco más caros y los químicos son los más costosos.
-
 Evening. What do you need?=B. Noches, Qué necesitas?
-
 Nothing=Nada
-
 I want to hire an employee=Quiero contratar a un empleado.
-
 I can help you with that. What sort of employee are you looking for?=Puedo ayudarte con eso. ¿Qué tipo de empleado estás buscando?
-
 Cleaner (picking up trash, emptying trash cans)=Limpiador (recogiendo basura, vaciando cubos de basura)
-
 Botanist (planting, plant maintenance, harvesting)=Botánico (plantando, mantenimiento de plantas, cosecha)
-
 Handler (packaging, moving items)=Manipulador (embalaje, movimiento de objetos)
-
 Chemist (chemistry station, lab oven, cauldron, mixing station)=Químico (estación química, horno de laboratorio, caldero, estación de mezcla)
-
 Where you do want them? Keep in mind you'll have to provide a bed for this employee.=Dónde lo quieres? Ten en cuenta que le deberás proporcionar una cama.
-
 sr:"^That'll be a <color=#54E717>$(\d{1,3}(?:,\d{3})?)</color> signing free, and the employee's daily wage will be <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color>.$"=Será una tarifa de firma de <color=#54E717>$1</color>, y el salario diario del empleado será de <color=#54E717>$2</color>.
-
 Cheers. I'll send your new employee over to your property now. I'm also giving you a clipboard, which you can use to manage your employees and equipment.=Gracias. Enviaré a tu nuevo empleado a tu propiedad ahora. También te daré una carpeta de gestión, que puedes usar para administrar a tus empleados y equipos.
-
 Cheers. I'll send your new employee over to your property now.=Gracias. Enviaré a tu nuevo empleado a tu propiedad ahora.
-
 r:EMPLOYEE LIMIT REACHED (.)/(.)=LÍMITE DE EMPLEADOS ALCANZADO $1/$2
-
 ##Empleados##
-
 Employees=Empleados
-
 Cleaners=Limpieza  
 • Pick up trash\n\n• Bag full trash \n  cans\n\n• Dispose of full \n  trash bags=• Recoger basura\n\n• Embolsar botes \n  de basura llenos\n\n• Desechar las \n  bolsas de basura \n llenas
 
@@ -1935,121 +1830,65 @@ Botanists=Botánico
 
 Chemists=Químico
 • Use chemistry \n  stations\n\n• Use lab ovens\n\n• Use cauldrons\n\n• Use mixing stations=• Usar estaciones de \n  química\n\n• Usar hornos de \n  laboratorio\n\n• Usar calderos\n\n• Usar estaciones de mezcla
-
 Daily wage:=Pago diario:
-
 Management Clipboard=Carpeta de Gestión
-
 Clipboard used to manage equipment and employees.=Carpeta usada para gestionar equipos y empleados.
-
 Deselect All=Desmarcar Todo
-
 Select/Deselect=Seleccionar/Desmarcar
-
 Nothing selected=Nada seleccionado
-
 Botanist=Botánico
-
 Manage Botanist=Gestionar Botánico
-
 Assigned Pots=Macetas Asignadas
-
 Supplies=Suministros
-
 Learn how to manage botanists.=Aprende cómo gestionar botánicos.
-
 Use the management clipboard to assign the botanist to a bed=Usa la carpeta de gestión para asignar una cama al botánico.
-
 Assign a supplies source to the botanist=Asigna una fuente de suministros al botánico.
 Assign a station to the chemist=Asigna una estación al químico
 r:Assign Stations (.*)\/(.*)=Asignación de estaciones $1/$2
 Assign a pot or grow tent to the botanist=Asigna una maceta o una tienda de cultivo al botánico.
-
 Set the pot/grow tent destination=Establece el destino de la maceta/tienda de cultivo.
-
 Place cash in the briefcase on the botanist's bed=Coloca dinero en el maletín en la cama del botánico.
 Place cash in the briefcase on the chemist's bed=Coloca dinero en el maletín en la cama del químico.
-
 Learn how to manage chemists.=Aprende cómo gestionar químicos.
-
 Use the management clipboard to assign the chemist to a bed=Usa la carpeta de gestión para asignar una cama al químico.
-
 Learn how to manage cleaners.=Aprende cómo gestionar limpiadores.
-
 Use the management clipboard to assign the cleaner to a bed=Usa la carpeta de gestión para asignar una cama al limpiador.
-
 Assign a trash can to the cleaner=Asigna un cubo de basura al limpiador.
-
 Place cash in the briefcase on the cleaner's bed=Coloca dinero en el maletín en la cama del limpiador.
-
 Learn how to manage packagers.=Aprende cómo gestionar embaladores.
-
 Use the management clipboard to assign the packager to a bed=Usa la carpeta de gestión para asignar una cama al embalador.
-
 Assign a packaging station to the packager=Asigna una estación de embalaje al embalador.
-
 Place cash in the briefcase on the packager's bed=Coloca dinero en el maletín en la cama del embalador.
-
 r:Pots/Drying Racks (.*)=Macetas/Estantes de Secado $1
-
 Select=Seleccionar
-
 Select Supplies Source=Seleccionar Fuente de Suministros
-
 Select an object or employee to manage it=Selecciona un objeto o empleado para gestionarlo.
-
 (Hold) Select Multiple=(Mantener) Seleccionar Múltiples
-
 Assign Pots/Drying Racks=Asignar Macetas/Estantes de Secado
-
 r:Assign Pots/Drying Racks (.*)=Asignar Macetas/Estantes de Secado $1
-
 Manage Packaging Station=Gestionar Estación de Embalaje
-
 Manage Mixing Station=Gestionar Estación de Mezcla
-
 Manage Pot=Gestionar Maceta
-
 r:Manage (\d+x) Packaging Station=Gestionar $1 Estación de Embalaje
-
 r:Manage (\d+x) Mixing Station=Gestionar $1 Estación de Mezcla
-
 r:Manage (\d+x) Pot=Gestionar $1 Maceta
-
 Assign bed=Asignar cama
-
 Open briefcase=Abrir maletín
-
 Briefcase=Maletín
-
 r:"^Assigned to (.+)$"=Asignado a $1
-
 r:"^(.+)'s Briefcase$"=Maletín de $1
-
 sr:^(.+) will draw his daily wage of <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$=$1 retirará su salario diario de <color=#54E717>$2</color> de este maletín.
-
 sr:^(.+)$ will draw her daily wage of <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.=$1 retirará su salario diario de <color=#54E717>$2</color> de este maletín.
-
 Any=Cualquiera
-
 ^Harvested product will be automatically moved to the destination by the assigned botanist=^El producto cosechado será automáticamente movido al destino por el botánico asignado.
-
 Additive 3=Aditivo 3
-
 Additive 2=Aditivo 2
-
 Additive 1=Aditivo 1
-
 Seed=Semilla
-
 Select destination=Seleccionar destino
-
 ^Output will be automatically moved to the destination by the assigned chemist=^El resultado será automáticamente movido al destino por el químico asignado.
-
 ^Mixing station must contain at least this many product/mixers before mixing starts=^La estación de mezcla debe contener al menos esta cantidad de productos/mezcladores antes de comenzar la mezcla.
-
 Threshold=Umbral
-
 ^Output will be automatically moved to the destination by the assigned packager=^El resultado será automáticamente movido al destino por el embalador asignado.
 Cleaner=Limpiador
 Manage Cleaner=Gestionar Limpiador
@@ -2909,7 +2748,7 @@ How do I assign customers to you?=Cómo te asigno clientes?
 Place <color\=#7FFD63>packaged product</color> here and the dealer will sell it to assigned customers=Coloca el <color\=#7FFD63>producto empaquetado</color> aquí y el vendedor lo venderá a los clientes asignados
 Insufficient online balance. Visit an ATM to deposit cash.=Dinero insuficiente en la cuenta. Visita un cajero para depositar.
 Request Dead Drop=Solicitar entrega secreta
-No worries, here you are.=No te preocupes, aquí tienes.
+No worries, here you are.=No te preocupes, aquí está
 You can assign customers to me with the dealer management app on your phone.=Tu puedes asignarme compradores con la app Dealers en tu teléfono.
 Inventory won't fit everything. Some items will be placed on the pallets.=El inventario no puede contener todo. Algunos artículos se colocarán en los pallets.
 Access delivery bay=Acceder al área de entrega
@@ -4113,3 +3952,86 @@ r:"How 'bout \$(\d{1,3}(?:,\d{3})*)?"=¿Qué tal $1$?
 r:"Let's call it \$(\d{1,3}(?:,\d{3})*). Deal?"=Dejémoslo en $1$. ¿Hecho?
 r:"Best l can do is \$(\d{1,3}(?:,\d{3})*)"=Lo mejor que te puedo2 ofrecer es $1$
 r:"Best I can do is \$(\d{1,3}(?:,\d{3})*)"=Lo mejor que te puedo ofrecer es $1$
+
+## COLORES <color\= ></color>##
+## AZUL: 4CB0FF - 88CBFF - 62BDFF ##
+## VERDE: 54E717 - 46CB4F - 4F8030 ##
+## GRIS: c0c0c0ff - c0c0c0 ##
+## ROJO: F86266 - FFB43C ##
+## SALTOS DE LINEA: \n ##
+
+## TUTORIALES ## 
+r:"^You can now hire <color\=#88CBFF>Jane Lucero</color> as a dealer."=Ya puedes contratar a <color\=#88CBFF>Jane Lucero</color> de distribuidor.
+
+## MISIONES ##
+r:"Alleyway behind Slop Shop"=Callejon detrás de Slop Shop
+r:"Recruit and manage your first dealer to handle distribution for you."=Recluta y gestina a su primer distribuidor para que se encargue de la distribución por ti.
+r:"(.+) has requested a delivery of ([0-9]+)x (.+) (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 Ha solicitado una entrega, $2x de $3. Pagará $5$.
+
+## MOVIL ##
+Not gonna happen. I'll get it somewhere else=Paso, lo conseguiré en otro lugar.
+
+## NPCS ##
+Give me a sec...=Dame un segundo...
+One sec...=Un segundo...
+Thanks mate!=¡Gracias compa!
+Heyo dog=Que pasa, perro
+'Sup=Ajam
+Ready to roll?=¿Estas listo?
+Ready when you are homie=Listo, cuando quieras
+Hell yeah, brotha=Buena mierda, bro
+Sweet as my man= Dulce como mi hombre
+That's shit=Vaya mierda
+Oh thanks god=Oh, gracias dios
+Lets get this over with=Date prisa
+Come on lets go=Venga ya, vamos
+You got it?=¿Lo pillas?
+Yeah??=¿Si?
+Ooooh yeah=Oh, si
+Nvm dog=Perro ;/
+No thanks...=No gracias...
+Nope=No
+Nope.=No
+Ok...=Vale...
+Ok maybe next time=Vale, en otro momento
+Son of a bitch!=¡Hijo de puta!
+Eh... not what i'm after=No es lo que busco...
+No what i like=No me gusta
+Cool=Guai 
+Not what I like=No es lo que me gusta
+Oh very nice! You'll be hearing from me=¡Que bien! Ya tendrás noticias mías.
+Yeah I can do that.=Si, puedo hacerlo.
+That's deal. Thanks partner.=Listo. Gracias, compañero.
+Mmm... fine.=Mmm... bien.
+Deal, good doin' business.=Buen trato, buen negocio.
+Thanks for shopping at Handy Hanks!=¡Gracias por comprar en Handy Hanks!
+HEY! I really need some of your stuff right now... you got anything?!=¡OYE! Necesito material ahora mismo... ¿Tienes algo?
+
+## DEALERS ##
+Thank you. You should go talk to Jane Lucero - they might be able to help you move your stuff.=Gracias. Deberías ir a hablar con Jane Lucero, creo que le va a gustar tu producto.
+Cheers. My friend Jane Lucero is a dealer and might be able to help you move your stuff. You should go speak to them.=Gracias. Mi amiga Jane Lucero es una dealer y podría ayudarte a mover tu mercancía. Deberías hablar con ella.
+Thanks. Hey, my friend Jane Lucero is a dealer and can help you move your product. You should go speak to them.= Gracias. Oye, mi amiga Jane es una distribuidora y puede ayudarte a mover tu producto. habla con ella.
+
+## OBJETOS ##
+Cheap Skateboard=Skateboard Barato
+Lightweight Skateboard=Skateboard Ligero
+Table=Mesa
+
+## TRADERS ##
+That'll be <color\=#54E717>$500</color> for the Lightweight Skateboard. Sound good?=Serán <color\=#54E717>$500</color> por el Skateboard ligero. ¿Te parece bien?
+That'll be <color\=#54E717>$250</color> for the Skateboard. Sound good?=Serán <color\=#54E717>$250</color> por el Skateboard. ¿Te parece bien?
+That'll be <color\=#54E717>$250</color> for the Cruiser. Sound good?=Serán <color\=#54E717>$500</color> por el Skateboard Cruiser. ¿Te parece bien?
+That'll be <color\=#54E717>$500</color> for the Golden Skateboard. Sound good?=Serán <color\=#54E717>$1,500</color> por el Skateboard Dorado. ¿Te parece bien?
+That'll be a <color\=#54E717>$2,000</color> signing free, and the employee's daily wage will be <color\=#54E717>$300</color>.=Tienes que pagar <color\=#54E717>$2,000</color> ahora y despues tienes que pagar <color\=#54E717>$300</color> diarios al empleado.
+
+## OTROS ##
+Load Last Save=Cargar último guardado
+<color\=#FFB43C>Deal Expiring Soon</color>=<color\=#FFB43C>El trato expira pronto</color>
+Manage Cauldron=Gestionar Caldero
+r:Manage (\d+x) Lab Oven=Gestionar $1 Hornos de laboratorio
+r:Manage (\d+x) Chemistry Station=Gestionar $1 Estaciones Químicas
+r:Manage (\d+x) Cauldron=Gestionar $1 Calderos
+View table=Acceder a la Mesa
+Select a loading dock=Selecciona un muelle de carga
+
+r:(.*), Behind the Crimson Canary=$1, Detrás de Crimson Canary
