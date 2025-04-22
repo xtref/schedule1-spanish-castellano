@@ -1,7 +1,7 @@
 ##Menu Principal##
 TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibidas.\n\nLos procesos mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos - no lograrás crear drogas, pero podrías causarte daños graves.\n\nPor favor, no uses drogas. \n\nTraducido al Español por Beetar.
 
-Back=Volver
+Back= Volver
 Picking Objects Up=Recogiendo objetos
 Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Haga clic y mantenga presionado el <color\=#62BDFF>botón derecho del mouse</color> sobre un objeto para recogerlo.
 Esc=Esc
@@ -29,13 +29,8 @@ r:• Move the grow tents and packaging station to the new room=• Traslada las
 Settings=Configuraciones
 
 New Game=Nuevo juego
-
 Continue=Continuar
-
-Back=Volver
-
 <Loading Message>=<Mensaje de carga>
-
 Loading...=Cargando...
 
 You'll play the prologue in singleplayer\nand join your friends once complete.=Jugarás el prólogo en modo un jugador\ny podrás unirte a tus amigos cuando lo completes.
@@ -951,7 +946,7 @@ Debt=Deuda
 Place Order=Realizar Pedido
 
 Customer Receives=El Cliente Recibe
-
+Customer already has
 You Receive=Recibes
 
 r:Fair price: \$(\d{1,3}(?:,\d{3})*)=Precio Justo: $1
@@ -1173,7 +1168,7 @@ Regular Gas=Gasolina Regular
 
 Mega Gas=Gasolina Mega
 sr:"^Potential Customer\n(.+)$"=Cliente Potencial\n$1
-sr:"^Supplier Meeting\n\((.+)\)$"=Cliente Potencial\n\($1\)
+sr:"^Supplier Meeting\n\((.+)\)$"=Reunión con proveedor\n($1)
 Pre-release roadmap=Hoja de ruta de pre-lanzamiento
 
 Monday 10th\nCo-op & deliveries\n\nMonday 17th\nCasino\n\nSaturday 22nd\nBoutique store, wall decorations, pawn shop\n\nMonday 24th - Release!\n\n\n=Lunes 10\nCooperativo y entregas\n\nLunes 17\nCasino\n\nSábado 22\nTienda boutique, decoraciones de pared, casa de empeño\n\nLunes 24 - Lanzamiento!
@@ -1295,7 +1290,8 @@ Brown Apartment\nBlock=Bloque de Apartamentos\nMarrón
 Construction Site=Sitio de Construcción
 
 Pseudo=Pseudo
-
+High-Quality Pseudo=Pseudo Alta Calidad
+pseudoephedrine in table form. A common precursor for meth.=Pseudoefedrina de alta calidad en forma de tabletas. Un precursor común para la metanfetamina.
 Use trimmers to harvest=Usa las tijeras para cosechar
 
 r:(\d+)% grown=$1% crecido
@@ -1887,7 +1883,7 @@ Additive 1=Aditivo 1
 Seed=Semilla
 Select destination=Seleccionar destino
 ^Output will be automatically moved to the destination by the assigned chemist=^El resultado será automáticamente movido al destino por el químico asignado.
-^Mixing station must contain at least this many product/mixers before mixing starts=^La estación de mezcla debe contener al menos esta cantidad de productos/mezcladores antes de comenzar la mezcla.
+^Mixing station must contain at least this many product/mixers before mixing starts=^La estación de mezcla debe contener al menos esta cantidad de productos antes de comenzar.
 Threshold=Umbral
 ^Output will be automatically moved to the destination by the assigned packager=^El resultado será automáticamente movido al destino por el embalador asignado.
 Cleaner=Limpiador
@@ -1900,7 +1896,7 @@ Handler=Manipulador
 Manage Handler=Gestionar Manipulador
 Assigned Packaging Stations=Estaciones de Embalaje Asignadas
 Jesse Obama=Jesse Obama
-Add New=Agregar Nuevo
+Add New=Agregar
 Select a single instance to use this=Selecciona una sola instancia para usar esto.
 Multi-editing not supported=Edición múltiple no soportada.
 Source=Fuente
@@ -2552,7 +2548,7 @@ Waist=Cintura
 PUSH=EMPATE
 Dealer=Dealer
 - Property\n- Property\n- Property\n- Property\n+ 5 More=- Propiedad - Propiedad - Propiedad - Propiedad + 5 Más
-r:REACH 'FRIENDLY' WITH ONE OF (.*)'S CONNECTIONS=ALCANZA EL NIVEL 'AMIGABLE' CON UNA DE LAS CONEXIONES DE $1
+r:REACH 'FRIENDLY' WITH ONE OF (.*)'S CONNECTIONS=ALCANZA NIVEL 'AMIGABLE' CON ALGUNA CONEXIÓN DE $1
 5 Customers\n3 Suppliers\n1 Dealer=5 clientes 3 proveedores 1 distribuidor
 Facial Detail Intensity=Intensidad de detalles faciales
 Resume=Reanudar
@@ -2810,8 +2806,8 @@ Deal Expired= Trato expirado
 BUY=<\size=12>COMPRAR</size>
 Use TV=Usar TV
 Assing a station to the chemist= Asignar una estación al químico
-1x Chemist= Químico
-1x Handler= Encargado
+1x Chemist=Químico
+1x Handler=Encargado
 Mixing Station= Estación de mezcla
 r:Assigned Stations (.*)=Estaciones Asignadas $1
 Unlock this dealer by reaching 'friendly' with one of their connections.= Desbloquea a este vendedor alcanzando el nivel de "Amistoso" con uno de sus contactos.
@@ -2866,7 +2862,7 @@ Saturday=Sábado
 Sunday=Domingo
 Recipe(s)=Receta(s)
 Order is too large for delivery vehicle=La orden es muy grande para el vehículo Repartidor
-Lets get this party started= Vamos a empezar esta fiesta
+Lets get this party started= Vamos a empezar la fiesta
 CUSTOMER IS WAITING FOR A DEALER= EL CLIENTE ESTÁ ESPERANDO A UN DISTRIBUIDOR
 Rank\n\n\nRequired for this region=Rango\n\n\nRequerido para esta región
 Rank\n\n\nRequired for this area=Rango\n\n\nRequerido para esta área
@@ -3425,6 +3421,7 @@ Bungalow (Owned)=Bungaló\n(Propiedad adquirida)
 Barn (Owned)=Granero\n(Propiedad adquirida)
 Motel Room (Owned)=Cuarto de motel\n(Propiedad adquirida)
 Sweatshop (Owned)=Sweatshop\n(Propiedad adquirida)
+RV (Owned)=Casa rodante\n(Propiedad adquirida)
 
 INVESTIGATING=EN INVESTIGACIÓN
 Police are nearby!=¡La policía está cerca!
@@ -4035,3 +4032,7 @@ View table=Acceder a la Mesa
 Select a loading dock=Selecciona un muelle de carga
 
 r:(.*), Behind the Crimson Canary=$1, Detrás de Crimson Canary
+Hey - ready to take a peek at the supplies?=
+This packaging type requires <color\=#ffe599>5x</color> product=Este tipo de empaque requiere <color\=#ffe599>5x</color> de producto
+Oh thank god=Gracias Dios
+I don't really like that...=No me gusta mucho eso...
