@@ -689,7 +689,7 @@ Hair Color=Color del Cabello
 Male=Masculino
 
 Click and hold items to conceal=Haz clic y mantén presionados los objetos para ocultarlos
-BODY SEARCH IN PROGRESS=REGISTRO CORPORAR EN CURSO
+BODY SEARCH IN PROGRESS=REGISTRO CORPORAL EN CURSO
 FirstName\nLastName=Nombre\nApellido
 
 Tools=<size\=11>Herramientas</size>
@@ -1429,7 +1429,7 @@ If you're heading in to town for some deals, would you mind grabbing something f
 I've got some business with some fellas staying down at the motel, tell them you're here for Nelson's package. No need to pay for anything.=Tengo negocios con unos tipos que están en el motel, diles que estás aquí por el paquete de Nelson. No necesitas pagar nada.
 [SPACEBAR]=[ESPACIO]
 If you're lookin' to pick up any supplies for yourself, just throw 'em on my tab.=Si quieres recoger algunos suministros para ti, ponlos en mi cuenta.
-Cheers buddy. Feel free to take my truck.=Gracias, amigo. Siéntete libre de tomar mi camión.
+Cheers buddy. Feel free to take my truck.=Gracias. Siéntete libre de usar mi camión.
 Enter vehicle=Entrar al vehículo
 Access trunk=Acceder al maletero
 Trunk=Maletero
@@ -1927,7 +1927,7 @@ Open the contacts app=Abre la app de Contactos
 This is your <color\=#88CBFF>contacts web</color>. This is where you can view all your customers and potential customers.=Este es tu <color\=#88CBFF>red de contactos</color>. Aquí es donde puedes ver a todos tus clientes y clientes potenciales.
 You can use your management clipboard for that.=Puedes usar tu portapapeles de gestión para eso.
 The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample</color> to a friend of an existing customer.=La forma más rápida de conseguir nuevos clientes es dar una <color\=#88CBFF>muestra gratis</color> a un amigo de un cliente existente.
-Oh okay... I'll finish my current task and leave after that. Are you sure you want me to stop working for you?=Oh, ok... Terminaré mi tarea actual y me iré después de eso. ¿Estás seguro de que quieres que deje de trabajar para ti?
+Oh okay... I'll finish my current task and leave after that. Are you sure you want me to stop working for you?=Oh, ok... Terminaré mi tarea actual y me iré después de eso. Estás seguro de que quieres que deje de trabajar?
 sr:"^You've unlocked (.+) as a customer. She will now start sending you deal offers.$"=Has desbloqueado a $1 como cliente. Ahora empezará a enviarte ofertas de negocio.
 sr:"^You've unlocked (.+) as a customer. He will now start sending you deal offers.$"=Has desbloqueado a $1 como cliente. Ahora empezará a enviarte ofertas de negocio.
 Every customer has their own preferences for drug type and effects.=Cada cliente tiene sus propias preferencias en cuanto al tipo de droga y sus efectos.
@@ -1940,7 +1940,7 @@ What do you want?=¿Qué quieres?
 I'm here for Nelson's package=Estoy aquí por el paquete de Nelson
 Oh yeah? And you gonna pay for it?=¿Ah sí? ¿Y vas a pagar por eso?
 It's already paid for=Ya está pagado
-No it ain't. Infact, ol' Nellie already owes us some serious cash...=No, no lo está. De hecho, el viejo Nellie ya nos debe una buena cantidad de dinero...
+No it ain't. Infact, ol' Nellie already owes us some serious cash...=No, no lo está. El viejo Nellie ya nos debe una buena cantidad de dinero...
 Lucky for you, he's been good on his word so far. But you let him know he better close that tab real soon...=Por suerte para ti, ha cumplido su palabra hasta ahora. Pero dile que más le vale saldar esa deuda pronto...
 I also need some weed seeds=También necesito unas semillas de marihuana
 Ballsy today, huh? Fine, but if Nelson doesn't pay up, you'll be next in line.=¿Con agallas hoy, eh? Está bien, pero si Nelson no paga, tú serás el siguiente en la lista.
@@ -2630,11 +2630,6 @@ Right Arm=Brazo derecho
 Hair Style=Peinado
 Rectangular Frame Glasses=Gafas de marco rectangular
 Speed Dealer Sunglasses=Gafas de sol de distribuidor de velocidad
-Coca Seed=Semilla de coca
-OG Kush Seed=Semilla de og kush
-Sour Diesel Seed=Semilla de Sour Diesel
-Green Crack Seed=Semilla de Green Crack
-Granddaddy Purple Seed=Semilla Granddaddy Purple
 High Bun=Moño
 Double Top Knot=Doble nudo superior
 Side-part Bob=Bob a la partida lateral
@@ -2650,7 +2645,7 @@ Mixing Station Mk2=Estación de mezcla MK2
 
 Shitbox=Mierda
 Stubble=Rastrojo
-Horse Semen=Semen de caballos
+Horse Semen=Semen de caballo
 Coffee Table=Mesa de centro
 Wooden Square Table=Mesa cuadrada de madera
 Metal Square Table=Mesa cuadrada de metal
@@ -3059,10 +3054,10 @@ Green Crack=Green Crack
 Granddaddy Purple=Granddaddy Purple
 Coca Seed=Semilla de coca
 Coca Seeds=Semillas de coca
-OG Kush Seed=Semilla de OG Kush
-Sour Diesel Seed=Semilla de Sour Diesel
-Green Crack Seed=Semilla de Green Crack
-Granddaddy Purple Seed=Semilla de Granddaddy Purple
+OG Kush Seed=OG Kush
+Sour Diesel Seed=Sour Diesel
+Green Crack Seed=Green Crack
+Granddaddy Purple Seed=Granddaddy Purple
 One 'OG Kush' marijuana seed.=Una semilla de marihuana 'OG Kush'.
 One 'Sour Diesel' marijuana seed.=Una semilla de marihuana 'Sour Diesel'.
 One 'Green Crack' marijuana seed.=Una semilla de marihuana 'Green Crack'.
@@ -4040,3 +4035,4 @@ Excellent choice, sir.=Excelente elección, señor.
 Edit message=Editar mensaje
 Edit Sign Message=Editar mensaje
 Your Message Here=Tu mensaje aquí
+wrong property=Propiedad incorrecta
