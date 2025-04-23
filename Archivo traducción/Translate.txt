@@ -3958,7 +3958,7 @@ r:"^You can now hire <color\=#88CBFF>Jane Lucero</color> as a dealer."=Ya puedes
 ## MISIONES ##
 r:"Alleyway behind Slop Shop"=Callejon detrás de Slop Shop
 r:"Recruit and manage your first dealer to handle distribution for you."=Recluta y gestina a su primer distribuidor para que se encargue de la distribución por ti.
-r:"(.+) has requested a delivery of ([0-9]+)x (.+) (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 Ha solicitado una entrega, $2x de $3. Pagará $5$.
+r:"(.+) has requested a delivery of ([0-9]+)x (.+) (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 Ha solicitado una entrega, $2 de $3. Pagará $5$.
 
 ## MOVIL ##
 Not gonna happen. I'll get it somewhere else=Paso, lo conseguiré en otro lugar.
@@ -4036,3 +4036,8 @@ Edit message=Editar mensaje
 Edit Sign Message=Editar mensaje
 Your Message Here=Tu mensaje aquí
 wrong property=Propiedad incorrecta
+No plant=No tiene semilla
+r:Manage (\d+x) Drying Rack=Gestionar $1 Estantes de Secado
+r:Manage (\d+x) Brick Press=Gestionar $1 Prensas de ladrillos
+behind Randy's bait & tackle=detrás de carnadas y aparejos de Randy
+Need to hide from the authorities? Try a bush, dumpster, or large tree,=Necesitas esconderte de las autoridades? Prueba un arbusto, un contenedor de basura o un árbol grande
