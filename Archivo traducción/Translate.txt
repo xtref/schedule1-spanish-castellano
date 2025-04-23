@@ -1717,9 +1717,9 @@ Pretty good. I'll message you soon=Bastante bien. Te enviaré un mensaje pronto.
 Cheers. My friend Molly Presley is a dealer and might be able to help you move your stuff. You should go speak to them.=Gracias. Mi amiga Molly Presley es traficante y podría ayudarte a mover tu mercancía. Deberías hablar con ella.
 Cheers. My friend Brad Crosby is a dealer and might be able to help you move your stuff. You should go speak to them.=Gracias. Mi amigo Brad Crosby es traficante y podría ayudarte a mover tu mercancía. Deberías hablar con él.
 Cheers. My friend Benji Coleman is a dealer and might be able to help you move your stuff. You should go speak to them.=Gracias. Mi amigo Benji Coleman es un dealer y podría ayudarte a mover tu mercancía. Deberías hablar con él.
-You can now hire Benji Coleman as a dealer.=Ahora puedes contratar a Benji Coleman como dealer.
-You can now hire Molly Presley as a dealer.=Ahora puedes contratar a Molly Presley como dealer.
-You can now hire Brad Crosby as a dealer.=Ahora puedes contratar a Brad Crosby como dealer.
+You can now hire <color\=#88CBFF>Benji Coleman</color> as a dealer.=Ahora puedes contratar a <color\=#88CBFF>Benji Coleman</color> como dealer.
+You can now hire <color\=#88CBFF>Molly Presley</color> as a dealer.=Ahora puedes contratar a <color\=#88CBFF>Molly Presley</color> como dealer.
+You can now hire <color\=#88CBFF>Brad Crosby</color> as a dealer.=Ahora puedes contratar a <color\=#88CBFF>Brad Crosby</color> como dealer.
 Baseball Bat=Bate de béisbol
 
 In use by workers=En uso por trabajadores
@@ -2393,6 +2393,7 @@ Send me a message if you'd like to order some. Nelson has put in a good word for
 Ok. What time you wanna meet?= Ok, en qué momento nos reunimos?
 ss that's fine. When?=Supongo que está bien. Cuándo?
 Insufficient online balance=Saldo en cuenta insuficiente
+Insufficient cash. Visit an ATM to withdraw cash.=Efectivo insuficiente, visita un cajero.
 Small Storage Rack=Estante de almacenamiento pequeño
 Hi boss, just letting you know I'm out of product.=Hola Jefe, le aviso que me he quedado sin producto.
 Cuke=Coka
@@ -4027,7 +4028,7 @@ View table=Ver tabla
 Select a loading dock=Selecciona un muelle de carga
 
 r:(.*), Behind the Crimson Canary=$1, Detrás de Crimson Canary
-Hey - ready to take a peek at the supplies?=Oye, listo para echar un vistazo a los suministros?
+Hey - ready to take a peek at the supplies?=Hey, listo para echar un vistazo?
 This packaging type requires <color\=#ffe599>5x</color> product=Este tipo de empaque requiere <color\=#ffe599>5x</color> de producto
 Oh thank god=Gracias Dios
 I don't really like that...=No me gusta mucho eso...
@@ -4041,3 +4042,6 @@ r:Manage (\d+x) Drying Rack=Gestionar $1 Estantes de Secado
 r:Manage (\d+x) Brick Press=Gestionar $1 Prensas de ladrillos
 behind Randy's bait & tackle=detrás de carnadas y aparejos de Randy
 Need to hide from the authorities? Try a bush, dumpster, or large tree,=Necesitas esconderte de las autoridades? Prueba un arbusto, un contenedor de basura o un árbol grande
+Good business for you, sir.?=¿Buen negocio para usted, señor?
+About time...=Ya era hora...
+Thanks. Hey, my friend Brad Crosby is a dealer and can help you move your product. You should go speak to them.=Gracias. Oye, mi amigo Brad Crosby es un distribuidor y puede ayudarte a mover tu producto. Deberías hablar con él.
