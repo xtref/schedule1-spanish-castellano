@@ -3151,7 +3151,7 @@ r:"^Deal for (.+)"=Trato por $1
 
 sr:"Hey, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Oye. ¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
 sr:"Hey, have you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Hola. ¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
-sr:"Hey, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Oye. Quiero <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
+sr:"Hey, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Oye, quiero <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
 sr:"I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it Deal\?\?"=Estoy detras de <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
 sr:"You got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=¿Tienes <b>$1</b> de <b>$2</b> ? Pago $<color\=#46CB4F>$3</color>.
 sr:"Hello, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it."=Hola, busco <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
@@ -4078,3 +4078,9 @@ CUSTOMER ALREADY HAS A PENDING OFFER=TIENE UNA OFERTA PENDIENTE
 Mixed types=Tipos mixtos
 Different object types can't be multi-edited=No es posible editar varios tipos de objetos a la vez
 r:CURFEW SOON\n([0-9]+) MINS=TOQUE DE QUEDA EN\n$1 MINUTOS
+Currently cooking=Actualmente Cocinando
+Barn [1]=Granero [1]
+Barn [2]=Granero [2]
+Bungalow [1]=Bungaló [1]
+Eh, I don't think so loco=Eh, no lo creo loco
+Good doing business with you, sir.=Fue un placer hacer negocios con usted, Sr.
