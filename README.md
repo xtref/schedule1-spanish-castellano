@@ -20,13 +20,13 @@ No tiene más ciencia, al primer ingreso puede que experimenten un pequeño jalo
 Instala el MelonLoader que se encuentra en la carpeta que se descargó, si ya lo tienes instalado no hace falta hacer nada, 
 luego copia el contenido de la carpeta "info" directamente en la carpeta raíz del juego y listo, puedes iniciar el juego directamente desde el escritorio o Steam, quizás se tarde un poco en cargar, sólo espera. 
 
-
+# 
 🖥 Siempre estoy cargando nuevas lineas de traducciones a mi repositorio Github las cuales se bajan automáticamente al iniciar el juego, no tienes que preocuparte por eso. 
 
 
-Siéntete en la libertad de reportar malas traducciones o faltantes, enviando pantallazo o la frase en cuestión para incluirla en la próxima actualización. [Discord ](https://discord.gg/aSvFe9CTrf)
+Siéntete en la libertad de reportar malas traducciones o faltantes, enviando pantallazo o la frase en cuestión para incluirla en la próxima actualización. Te espero en mi [Discord ](https://discord.gg/aSvFe9CTrf)
 
 
 Beetar.
 
-https://buymeacoffee.com/beetar ❤
+Gracias https://buymeacoffee.com/beetar ❤
