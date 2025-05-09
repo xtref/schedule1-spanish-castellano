@@ -3461,3 +3461,4 @@ Okay, let me know if you change your mind.=Ok, dejame saber si cambiar de opini√
 Lower volume=Bajar volumen
 Increase volume=Subir volumen
 Use jukebox=Usar rocola
+This delivery has arrived and is ready to be unloaded.=Este pedido ha llegado y est√° listo para ser descargado.
