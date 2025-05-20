@@ -202,61 +202,39 @@ Adds an employee of the specified type to the given property.=Añade un empleado
 setdiscovered=setdiscovered
 setdiscovered ogkush=setdiscovered ogkush
 Sets the specified product as discovered=Define un producto especificado como descubierto.
-
 growplants=growplants
-
-Sets ALL plants in the world fully grown=Faz TODAS as plantas do mundo crescerem completamente.
-
+Sets ALL plants in the world fully grown=Haz que TODAS las plantas en el mundo estén completamente crecidas
 setlawintensity=setlawintensity
-
 setlawintensity 6=setlawintensity 6
-
-Sets the intensity of law enforcement activity on a scale of 0-10.=Define a intensidade da atividade policial em uma escala de 0 a 10.
-
+Sets the intensity of law enforcement activity on a scale of 0-10.=Define la intensidad de la actividad policial en una escala de 0-10.
 setquality=setquality
-
 setquality standard, setquality heavenly=setquality standard, setquality heavenly
-
-Sets the quality of the currently equipped item.=Define a qualidade do item atualmente equipado.
-
+Sets the quality of the currently equipped item.=Define la calidad del objeto equipado.
 bind=bind
-
 bind t 'settime 1200'=bind t 'settime 1200'
-
-Binds the given key to the given command.=Vincula a tecla especificada ao comando dado.
-
+Binds the given key to the given command.=Vincula la tecla especificada al comando dado.
 unbind=unbind
-
 unbind t=unbind t
-
-Removes the given bind.=Remove o vínculo especificado.
-
+Removes the given bind.=Borra un vínculo especificado.
 clearbinds=clearbinds
-
-Clears ALL binds.=Remove TODOS os vínculos.
-
+Clears ALL binds.=Borra TODOS los vínculos.
 hideui=hideui
 
-Hides all on-screen UI.=Esconde toda a interface na tela.
 
+
+Hides all on-screen UI.=Esconde toda a interface na tela.
 disable=disable
 
 disable pp=disable pp
-
-Disables the specified GameObject=Desativa o GameObject especificado.
-
+Disables the specified GameObject=Desactiva el GameObject especificado.
 enable=enable
-
 enable pp=enable pp
-
-Enables the specified GameObject=Ativa o GameObject especificado.
-
+Enables the specified GameObject=Activa el GameObject especificado.
 endtutorial=endtutorial
 
 Forces the tutorial to end immediately (only if the player is actually in the tutorial).=Força o tutorial a terminar imediatamente (apenas se o jogador estiver no tutorial).
 
 disablenpcasset=disablenpcasset
-
 disablenpcasset avatar=disablenpcasset avatar
 
 Disabled the given asset under all NPCs=Desativa o ativo especificado em todos os NPCs.
@@ -1231,7 +1209,7 @@ You wanna buy something? [Offer a deal]=¿Quieres comprar algo? [Ofrecer un trat
 Knock=Llamar
 Hi=Hola
 Hello=Hola
-Purchase Cuke=Comprar Coka
+Purchase Cuke=Comprar Cuka
 You ready?=¿Estás listo?
 Thanks!=¡Gracias!
 Ready?=¿Listo?
@@ -1240,7 +1218,7 @@ the alleyway behind Slop Shop (the diner)=el callejón detrás del Slop Shop (el
 Oooh yeah not bad! I'll text you=¡Oooh sí, nada mal! Te enviaré un mensaje
 DROP=SOLTAR
 Item won't fit in inventory=El objeto no cabe en el inventario
-Insert soil=Insertar tierra
+Insert soil=Meter tierra
 Dispense soil=Distribuir tierra
 Use Packaging Station Mk II=Usar Estación de Empaque Mk II
 Insert product into packaging=Insertar producto en el empaque
@@ -1664,9 +1642,7 @@ Cheers. I'll send your new employee over to your property now.=Gracias. Enviaré
 r:EMPLOYEE LIMIT REACHED (.)/(.)=LÍMITE DE EMPLEADOS ALCANZADO $1/$2
 
 ##Empleados##
-
 Employees=Empleados
-
 Cleaners=Limpieza  
 • Pick up trash\n\n• Bag full trash \n  cans\n\n• Dispose of full \n  trash bags=• Recoger basura\n\n• Embolsar botes \n  de basura llenos\n\n• Desechar las \n  bolsas de basura \n llenas
 
@@ -1734,9 +1710,7 @@ Place cash in the briefcase on the packager's bed=Coloca dinero en el maletín e
 r:Pots/Drying Racks (.*)=Macetas/Estantes de Secado $1
 
 Select=Seleccionar
-
-Select Supplies Source=Seleccionar Fuente de Suministros
-
+Select Supplies Source=Seleccionar fuente de suministros
 Select an object or employee to manage it=Selecciona un objeto o empleado para gestionarlo.
 
 (Hold) Select Multiple=(Mantener) Seleccionar Múltiples
@@ -2466,8 +2440,8 @@ Outerwear=Ropa de calle
 A.H=A.H
 S.M=S.M
 20x OG Kush Test Test=Prueba de prueba de 20X OG Kush
-Request dead drop=Solicitar caída muerta
-THE BUTTER BOX=Caja de mantequilla
+Request dead drop=Pedir dead drop
+THE BUTTER BOX=LA CAJA DE MANTEQUILLA
 HYLAND\nBANK=Cañón\nBANCO
 EST.  1904=Est.\n1904
 CAFE & BAKERY=Cafetería
