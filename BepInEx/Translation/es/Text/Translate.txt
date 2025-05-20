@@ -1,413 +1,207 @@
-##Menú principal##
-TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibidas.\n\nLos procesos mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos - no lograrás crear drogas, pero podrías causarte daños graves.\n\nPor favor, no uses drogas. \n\nTraducido al Español por Beetar.
-
-Back=Volver
-
+##MAIN MENU##
+TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de drogas ilegales.\n\nLos procesos de fabricación mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos - no lograrás crear drogas, pero podrías causarte daños graves.\n\nPor favor, no uses drogas. \n\nTraducido al castellano por Crisol García, basado en la traducción al español (de Colombia) de Beetar.
+Back=Atrás
 Esc=Esc
-
 BETA=BETA
-
 Quit=Salir
-
 Credits=Créditos
-
-Settings=Configuraciones
-
+Settings=Configuración
 New Game=Nuevo juego
-
 Continue=Continuar
-
-Back=Volver
-
 <Loading Message>=<Mensaje de carga>
-
 Loading...=Cargando...
-
-You'll play the prologue in singleplayer\nand join your friends once complete.=Jugarás el prólogo en modo un jugador\ny podrás unirte a tus amigos cuando lo completes.
-
+You'll play the prologue in singleplayer\nand join your friends once complete.=Jugarás el prólogo en modo de un solo jugador\ny podrás unirte a tus amigos cuando lo completes.
 Prologue=Prólogo
-
 Leave=Abandonar
-
 r:Lobby \((\d+)/(\d+)\)=Lobby ($1/$2)
-
 Invite Friends=Invitar
-
 Tylah Cannell=Tylah Cannell
-
-Voice Actors=Actores de Voz
-
+Voice Actors=Actores de doblaje
 Soundtrack by=Banda sonora por
-
 TVGS=TVGS
-
 Will Jackson=Will Jackson
-
 Graffiti by=Graffiti por
-
 Cody To=Cody To
-
 Created by =Creado por
-
 Debbie Cannell=Debbie Cannell
-
 Adam Walton=Adam Walton
-
 KAESUL=KAESUL
-
 Zac Williams=Zac Williams
-
 Interact=Interactuar
-
 View Avatar=Avatar
-
 Right=Derecha
-
-Texts=Chats
-
+Texts=Mensajes
 Control=CTRL
-
 Sprint=Correr
-
 Flashlight=Linterna
-
 Journal=Diario
-
 Graphics=Gráficos
-
 Invert Y Axis=<size\=13>Invertir eje Y</size>
-
 Space=Espacio
-
 Jump=Saltar
-
 Use/Drag/Attack=<size\=10>Usar/Arrastar\n/Atacar</size>
-
 Pick up=Recoger
-
 Controls=Controles
-
-Mouse Sensitivity=<size\=12>Sensibilidad del Mouse</size>
-
+Mouse Sensitivity=<size\=12>Sensibilidad del ratón</size>
 Forward=Avanzar
-
 Phone=Teléfono
-
 Backward=Retroceder
-
 Audio=Audio
-
-Sprint Mode=Modo de correr
-
+Sprint Mode=Modo correr
 Map=Mapa
-
 Left=Izquierda
-
 Display=Ventana
-
 Crouch=Agachar
-
-Press=Presionar
-
-Target Framerate=Tasa de Fotogramas
-
+Press=Pulsar
+Target Framerate=Tasa de fotogramas deseada
 Resolution=Resolución
-
-Interface Scale=Escala de Interfaz
-
+Interface Scale=Escala de interfaz
 VSync=VSync
-
-Camera Bobbing=Bamboleo de Cámara
-
-Display Mode=Modo de Visualización
-
-Fullscreen Window=Pantalla Completa
-
-Apply Settings=Aplicar Configuración
-
+Camera Bobbing=Bamboleo de cámara
+Display Mode=Modo de visualización
+Fullscreen Window=Pantalla completa
+Apply Settings=Aplicar configuración
 Revert=Revertir
-
-Keep settings?=¿Confirmar configuración?
-
+Keep settings?=¿Guardar cambios?
 Confirm=Confirmar
-
-r:Reverting in (\d+(\,\d+)?) seconds=Revertir en $1 segundos
-
+r:Reverting in (\d+(\,\d+)?) seconds=Revirtiendo en $1 segundos
 Ultra=Ultra
-
-Active Display=Pantalla Activa
-
+Active Display=Pantalla activa
 r:Monitor (\d+)=Monitor $1
-
 SMAA=SMAA
-
 FOV=FOV
-
-Anti-aliasing=Suavizado de Bordes
-
-God Rays=Rayos de Luz
-
+Anti-aliasing=Suavizado de bordes
+God Rays=Rayos de luz
 SSAO=SSAO
-
 Quality=Calidad
-
 High=Alto
-
 Medium=Medio
-
 Low=Bajo
-
 Very Low=Muy Bajo
-
 Option A=Opción A
-
 FXAA=FXAA
-
 Off=Apagado
-
 Music=Música
-
 Footsteps=Pasos
-
 Ambience=Ambiente
-
-Master Volume=Volumen General
-
+Master Volume=Volumen general
 Dialogue=Diálogos
-
 Interface=Interfaz
-
-SFX=Efectos de Sonido
-
+SFX=Efectos de sonido
 Hold=Mantener
-
 Tab=Tab
-
 Shift=Shift
-
-Exclusive Fullscreen=Pantalla Completa Exclusiva
-
+Exclusive Fullscreen=Pantalla completa exclusiva
 Windowed=Ventana
-
 Created=Creado
-
-Net worth=Valor Neto
-
+Net worth=Valor neto
 Select Save Slot=Seleccionar ranura de guardado
-
 Organisation=Organización
-
 Today=Hoy
-
 More than a year ago=Hace más de un año
-
-Last Played=Última vez
-
-Are you sure you want to \noverwrite this save?=¿Estás seguro de que deseas \nsobrescribir este guardado?
-
+Last Played=Jugado por última vez
+Are you sure you want to \noverwrite this save?=¿Estás seguro/a de que deseas \nsobrescribir esta partida guardada?
 Begin Game=Comenzar juego
-
 Enter name...=Introduce el nombre...
-
 Skip prologue=Omitir prólogo
-
 Organisation setup=Configuración de la organización
-
 Specify a name for your organisation=Especifica un nombre para tu organización
-
 Not recommended for new players=No recomendado para nuevos jugadores
-
 Yesterday=Ayer
-
 Select a category=<size\=13>Seleccionar una categoría</size>
-
 Include Save File?=¿Incluir archivo de guardado?
-
 Bugs - Crashing =Errores - Fallos
-
 Bugs - Saving/Loading =<size\=11>Errores - Guardado/Carga</size>
-
 Bugs - Multiplayer =Errores - Multijugador
-
 Bugs - General =Errores - Generales
-
 Bugs - Employees =Errores - Empleados
-
 Bugs - Customers =Bugs - Clientes
-
 Bugs - Interface =Bugs - Interface
-
 Submitting feedback...=Enviando comentarios...
-
 Thank you for your feedback!=¡Gracias por tus comentarios!
-
 r:"^\$\d{1,3},\dK$"=$0
-
-File Permission Issue=Problema de Permisos de Archivo
-
-Schedule I was unable to verify file write access; this might result in errors when saving. This is usually due to Windows blocking file writing permissions.\n\n\nIf saving still seems to be working fine, you can ignore this.=Schedule I no pudo verificar el acceso de escritura al archivo; esto podría causar errores al guardar. Esto generalmente ocurre porque Windows bloquea los permisos de escritura de archivos.\n\n\nSi guardar parece funcionar correctamente, puedes ignorar este mensaje.
-
+File Permission Issue=Problema de permisos de archivo
+Schedule I was unable to verify file write access; this might result in errors when saving. This is usually due to Windows blocking file writing permissions.\n\n\nIf saving still seems to be working fine, you can ignore this.=Schedule I no pudo verificar el acceso de escritura al archivo; esto podría causar errores al guardar. Esto generalmente ocurre porque Windows bloquea los permisos de escritura de archivos.\n\n\nSi guardar partida parece funcionar correctamente, puedes ignorar este mensaje.
 View fix instructions=Ver instrucciones de corrección
-
 ##CONSOLE##
-
-Changes the player's cash balance by the specified amount=Cambia el saldo de efectivo del jugador por la cantidad especificada.
-
+Changes the player's cash balance by the specified amount=Cambia el saldo en efectivo del jugador por la cantidad especificada.
 Gives the player the specified item. Optionally specify a quantity.=Da al jugador el objeto especificado. Opcionalmente, especifica una cantidad.
-
 give ogkush 5=give ogkush 5
-
 give=dar
-
 Sets the time of day to the specified 24-hour time=Establece la hora del día al tiempo especificado en formato de 24 horas.
-
 settime 1530=settime 1530
-
 settime=fijar hora
-
 Forces a save=Fuerza un guardado.
-
-save=Guardar
-
+save=guardar
 freecam=freecam
-
-Toggles free cam mode=Activa/desactiva el modo de cámara libre.
-
+Toggles free cam mode=Activa/desactiva el modo de cámara libre
 clearinventory=Limpiar inventario
-
 Clears the player's inventory=Limpia el inventario del jugador
-
 changecash=changecash
-
 changecash 5000=changecash 5000
-
-Changes the player's cash balance by the specified amount=Cambia el saldo de caja del jugador en la cantidad especificada.
-
 changebalance=changebalance
-
 changebalance 5000=changebalance 5000
-
-Changes the player's online balance by the specified amount=Cambia el saldo en línea del jugador en la cantidad especificada.
-
+Changes the player's online balance by the specified amount=Cambia el saldo en línea del jugador por la cantidad especificada
 addxp=addxp
-
 addxp 100=addxp 100
-
-Adds the specified amount of experience points.=Adiciona a quantidade especificada de pontos de experiência.
-
+Adds the specified amount of experience points.=Añade la cantidad específica de puntos de experiencia.
 spawnvehicle=spawnvehicle
-
 spawnvehicle shitbox=spawnvehicle shitbox
-
-Spawns a vehicle at the player's location=Gera um veículo na localização do jogador.
-
+Spawns a vehicle at the player's location=Genera un vehículo en la ubicación del jugador
 setmovespeed=setmovespeed
-
 setmovespeed 1=setmovespeed 1
-
-Sets the player's move speed multiplier=Define o multiplicador de velocidade de movimento do jogador.
-
+Sets the player's move speed multiplier=Define el multiplicador de velocidad del jugador
 setjumpforce=setjumpforce
-
 setjumpforce 1=setjumpforce 1
-
-Sets the player's jump force multiplier=Define o multiplicador de força de pulo do jogador.
-
+Sets the player's jump force multiplier=Define el multiplicador de fuerza de salto del jugador
 teleport=teleport
-
 teleport townhall, teleport barn=teleport townhall, teleport barn
-
-Teleports the player to the specified location=Teleporta o jogador para o local especificado.
-
+Teleports the player to the specified location=Teletransporta al jugador a la ubicación especificada
 setowned=setowned
-
 setowned barn, setowned laundromat=setowned barn, setowned laundromat
-
-Sets the specified property or business as owned=Define a propriedade ou negócio especificado como possuído.
-
+Sets the specified property or business as owned=Define una propiedad o negocio especificado como en propiedad
 packageprodcut=packageprodcut
-
 packageproduct jar, packageproduct baggie=packageproduct jar, packageproduct baggie
-
-Packages the equipped product with the specified packaging=Empacota o produto equipado com a embalagem especificada.
-
+Packages the equipped product with the specified packaging=Empaqueta el producto equipado con un embalaje especificado
 setstaminareserve=setstaminareserve
-
 setstaminareserve 200=setstaminareserve 200
-
-Sets the player's stamina reserve (default 100) to the specified amount.=Define a reserva de stamina do jogador (padrão 100) para a quantia especificada.
-
+Sets the player's stamina reserve (default 100) to the specified amount.=Pone la reserva de estamina del jugador (por defecto 100) en una cantidad especificada.
 raisewanted=raisewanted
-
-Raises the player's wanted level=Aumenta o nível de procurado do jogador.
-
+Raises the player's wanted level=Aumenta el nivel de búsqueda del jugador
 lowerwanted=lowerwanted
-
-Lowers the player's wanted level=Reduz o nível de procurado do jogador.
-
+Lowers the player's wanted level=Reduce el nivel de búsqueda del jugador
 clearwanted=clearwanted
-
-Clears the player's wanted level=Remove o nível de procurado do jogador.
-
+Clears the player's wanted level=Elimina el nivel de búsqueda del jugador
 sethealth=sethealth
-
 sethealth 100=sethealth 100
-
-Sets the player's health to the specified amount=Define a saúde do jogador para a quantia especificada.
-
+Sets the player's health to the specified amount=Define la salud del jugador en una cantidad especificada
 settimescale=settimescale
-
 settimescale 1=settimescale 1
-
-Sets the time scale. Default 1=Define a escala de tempo. Padrão 1
-
+Sets the time scale. Default 1=Define la escala del tiempo. Por defecto 1
 setvar=setvar
-
 setvar <variable> <value>=setvar <variable> <value>
-
-Sets the value of the specified variable=Define o valor da variável especificada.
-
+Sets the value of the specified variable=Define el valor de la variable especificada.
 setqueststate=setqueststate
-
 setqueststate <quest name> <state>=setqueststate <quest name> <state>
-
-Sets the state of the specified quest=Define o estado da missão especificada.
-
+Sets the state of the specified quest=Define el estado de la misión especificada.
 setquestentrystate=setquestentrystate
-
 setquestentrystate <quest name> <entry index> <state>=setquestentrystate <quest name> <entry index> <state>
-
-Sets the state of the specified quest entry=Define o estado da entrada de missão especificada.
-
+Sets the state of the specified quest entry=Define el estado de entrada de la misión especificada.
 setemotion=setemotion
-
 setemotion cheery=setemotion cheery
-
-Sets the facial expression of the player's avatar.=Define a expressão facial do avatar do jogador.
-
+Sets the facial expression of the player's avatar.=Define la expresión facial del avatar del jugador.
 setunlocked=setunlocked
-
 setunlocked <npc_id>=setunlocked <npc_id>
-
-Unlocks the given NPC=Desbloqueia o NPC especificado.
-
+Unlocks the given NPC=Desbloquea un NPC especificado
 setrelationship=setrelationship
-
 setrelationship <npc_id> 5=setrelationship <npc_id> 5
-
-Sets the relationship scalar of the given NPC. Range is 0-5.=Define o escalar de relacionamento do NPC especificado. Faixa de 0 a 5.
-
+Sets the relationship scalar of the given NPC. Range is 0-5.=Define la escala de relación de un NPC especificado. Rango 0-5.
 addemployee=addemployee
-
 addemployee botanist barn=addemployee botanist barn
-
-Adds an employee of the specified type to the given property.=Adiciona um funcionário do tipo especificado à propriedade indicada.
-
+Adds an employee of the specified type to the given property.=Añade un empleado del tipo especificado a la propiedad dada.
 setdiscovered=setdiscovered
-
 setdiscovered ogkush=setdiscovered ogkush
-
-Sets the specified product as discovered=Define o produto especificado como descoberto.
+Sets the specified product as discovered=Define un producto especificado como descubierto.
 
 growplants=growplants
 
