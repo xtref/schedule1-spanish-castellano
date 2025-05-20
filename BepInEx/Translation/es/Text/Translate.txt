@@ -475,8 +475,6 @@ hidefps=hidefps
 
 Hides FPS label.=Esconde o rótulo de FPS.
 
-##Carregamento##
-
 Feeling stingy? Customers sometimes won't notice if you give them slightly less product than requested.=¿Te sientes tacaño? Los clientes a veces no notan si les das un poco menos de producto del solicitado.
 
 You won't be able to enter your property while wanted if you're within sight of police.=No podrás entrar a tu propiedad mientras seas buscado o si estás a la vista de la policía.
@@ -539,11 +537,9 @@ Spawning player...=Generando jugador...
 
 Initializing...=Inicializando...
 
-Text=Chats
+Text=Mensajes
 
 BEGIN=COMENZAR
-
-##Brincadeiras Multijogador##
 
 Waiting for other players=Esperando a otros jugadores
 
@@ -577,13 +573,13 @@ Category=Categoría
 
 Customize Appearance=Personalizar Apariencia
 
-RV=Casa Rodante
+RV=Autocaravana
 
 Move Custom Amount=Mover Cantidad Personalizada
 
 STREET RAT I=RATA DE CALLE I
 
-Products Sold=Productos Vendidos
+Products Sold=Productos vendidos
 
 Choose who to summon=Elige a quién convocar
 
@@ -603,7 +599,7 @@ CLOSE=CERRAR
 
 Thanks for playing!=¡Gracias por jugar!
 
-Report Type=Tipo de Informe
+Report Type=Tipo de informe
 
 Insert ingredient=Insertar ingrediente
 
@@ -619,9 +615,9 @@ Multiplayer is in beta, there may be bugs.=El modo multijugador está en beta, p
 
 NPC Name=Nombre del NPC
 
-r:Market Value: (.+)$=Valor de Mercado: $1
+r:Market Value: (.+)$=Valor de mercado: $1
 
-Speed Up Search=Acelerar Búsqueda
+Speed Up Search=Acelerar búsqueda
 
 Pickpocket=Robar
 
@@ -637,11 +633,11 @@ Stop Arrow=Detener Flecha
 
 Female=Femenino
 
-Nevermind=No importa
+Nevermind=Da igual
 
 Uncle Nelson=Tío Nelson
 
-Item Name=Nombre del Objeto
+Item Name=Nombre del objeto
 
 PAUSED=PAUSADO
 
@@ -671,9 +667,9 @@ View Commands=Ver Comandos
 
 Eyeball Color=Color de los Ojos
 
-Skin Color=Color de la Piel
+Skin Color=Color de la piel
 
-Hair Color=Color del Cabello
+Hair Color=Color del pelo
 
 Male=Masculino
 
@@ -701,7 +697,7 @@ Coca Leaves=Hojas de Coca
 
 Console=Consola
 
-LEVEL UP!=¡SUBISTE DE NIVEL!
+LEVEL UP!=¡SUBES DE NIVEL!
 
 Quantity=Cantidad
 
@@ -735,9 +731,9 @@ Headwear=Accesorios para la Cabeza
 
 Top=Parte Superior
 
-Facial Details=Detalles Faciales
+Facial Details=Detalles faciales
 
-Hair=Cabello
+Hair=Pelo
 
 Shoes=Zapatos
 
@@ -753,13 +749,13 @@ Upper Eyelid Resting Position=Posición de Reposo del Párpado Superior
 
 Facial Detail Intensity=<size\=17>Intensidad de los Detalles Faciales</size>
 
-Pupil Dilation=Dilatación de la Pupila
+Pupil Dilation=Dilatación de la pupila
 
 Eyebrow Resting Angle=Ángulo de Reposo de las Cejas
 
 Lower Eyelid Resting Position=Posición de Reposo del Párpado Inferior
 
-Eyebrow Scale=Escala de las Cejas
+Eyebrow Scale=Escala de las cejas
 
 Weight=Peso
 
@@ -769,7 +765,7 @@ r:"^(\d{1,2})h (\d{1,2})m until next tier$"=$1h $2m hasta el siguiente nivel
 
 r:"^(\d{1,2})m until next tier$"=$1m hasta el siguiente nivel
 
-I'm Stuck=Estoy Atascado
+I'm Stuck=Estoy atascado
 
 Cart=Carrito
 
@@ -779,9 +775,9 @@ Waking up at=Despertando a las
 
 Bug Report/Feedback=Informe de Errores/Comentarios
 
-Lab Oven=Horno de Laboratorio
+Lab Oven=Horno de laboratorio
 
-Submit Feedback=Enviar Comentarios
+Submit Feedback=Enviar comentarios
 
 Game=Juego
 
@@ -818,7 +814,7 @@ Cash=Dinero
 
 None=Ninguno
 
-Cargo Pants=Pantalones Cargo
+Cargo Pants=Pantalones cargo
 
 Goatee=Perilla
 
@@ -834,13 +830,13 @@ Dress Shoes=Zapatos de Vestir
 
 Sandals=Sandalias
 
-Hiking Boots=Botas de Senderismo
+Hiking Boots=Botas de montaña
 
-Buzz Cut=Corte Raspado
+Buzz Cut=Rapado
 
-Bowl Cut=Corte Tazón
+Bowl Cut=Corte tazón
 
-Peaked=Peinado en Punta
+Peaked=Peinado en punta
 
 Balding=Calvo
 
@@ -860,7 +856,7 @@ Cap=Gorra
 
 T-Shirt=Camiseta
 
-Button Shirt=Camisa de Botones
+Button Shirt=Camisa de botones
 
 V-Neck=Camiseta con Cuello en V
 
@@ -868,11 +864,11 @@ Flannel Shirt=Camisa de Franela
 
 What would you like to do?=¿Qué te gustaría hacer?
 
-Online Balance=Saldo en Línea
+Online Balance=Saldo en línea
 
 DEPOSIT=DEPOSITAR
 
-Liquid Meth=Metanfetamina Líquida
+Liquid Meth=Metanfetamina líquida
 
 WITHDRAW=RETIRAR
 
@@ -900,7 +896,7 @@ LED Grow Light=Luz de Cultivo LED
 
 Watering Can=Regadera
 
-Plant Trimmers=Podadoras de Plantas
+Plant Trimmers=Podadoras de plantas
 
 Baggie=Bolsita
 
@@ -912,9 +908,9 @@ Bed=Cama
 
 Messages=Mensajes
 
-Hover a task to view details=Pasa el cursor sobre una tarea para ver detalles
+Hover a task to view details=Pasa el cursor sobre una tarea para ver los detalles
 
-Task Details=Detalles de la Tarea
+Task Details=Detalles de la tarea
 
 Tasks=Tareas
 
@@ -928,7 +924,7 @@ Request dead drop=Solicitar entrega secreta
 
 Order Total=Total
 
-Order Limit=Limite
+Order Limit=Límite
 
 Debt=Deuda
 
@@ -946,11 +942,11 @@ Product Manager=Gestor de Producto
 
 Select a product to view details=Selecciona un producto para ver detalles
 
-Asking Price=Solicitado
+Asking Price=Precio solicitado
 
 r:Suggested: \$(\d{1,3}(?:,\d{3})*)=Sugerido: $1
 
-List For Sale?=¿Vender?
+List For Sale?=¿Poner a la venta?
 
 Addictiveness=Adicción
 
@@ -994,7 +990,7 @@ Addiction=Adicción
 
 Standards=Estándares
 
-Favourite Effects=Efectos Favoritos
+Favourite Effects=Efectos favoritos
 
 Parking Garage=Estacionamiento
 
@@ -1014,11 +1010,11 @@ Hyland \nMedical=Hyland\nMédico
 
 Slop Shop=Slop Shop
 
-Hyland Police Station=Delegacia de Polícia de Hyland
+Hyland Police Station=Comisaría de polícia de Hyland
 
-Hyland Bank=Banco Hyland
+Hyland Bank=Banco de Hyland
 
-Fire Station=Estación de Bomberos
+Fire Station=Estación de bomberos
 
 Church=Iglesia
 
@@ -1035,7 +1031,7 @@ Post \nOffice=Oficina de Correos
 
 Gas-Mart=Gas-Mart
 
-Car Wash=Lavado de Autos
+Car Wash=Lavado de coches
 
 Hyland Auto=Hyland Auto
 
@@ -1049,7 +1045,7 @@ Suburbia Park=Parque de los Suburbios
 
 Dan's\nHardware=Ferretería de\nDan
 DAN'S HARDWARE=FERRETERÍA DE DAN
-Chinese \nRestaurant=Restaurante\nChino
+Chinese\nRestaurant=Restaurante\nchino
 
 Motel=Motel
 
@@ -1057,7 +1053,7 @@ Thompson\nConstruction & Demo=Construcción y\nDemolición Thompson
 
 Taco\nTicklers=Taco\nTicklers
 
-Skatepark=Parque de Skate
+Skatepark=Skatepark
 
 Koyama Chemical\nCompany=Compañía Química\nKoyama
 
@@ -1067,7 +1063,7 @@ Thrifty \nThreads=Ropa\nThrifty
 
 Barbershop=Barbería
 
-Pawn shop=Casa de Empeño
+Pawn shop=Casa de empeño
 
 Liquor \nStore=Tienda de\nLicores
 
@@ -1129,9 +1125,9 @@ General illegal supplies=Provisiones generales ilegales
 
 Weed Seeds=Semillas de Marihuana
 
-Order Submitted=Pedido Enviado
+Order Submitted=Pedido enviado
 
-Active Deliveries=Entregas Activas
+Active Deliveries=Entregas activas
 
 There are no active deliveries=No hay entregas activas
 
@@ -1141,7 +1137,7 @@ Wrapping Up=Finalizando los negocios de la ciudad
 
 Making the Rounds=Haciendo las rondas
 
-Item Limit=Artículos
+Item Limit=Límite de Artículos
 
 NEEDS WATER=NECESITA AGUA
 
@@ -1153,9 +1149,9 @@ Garbage Gas=Gasolina Basura
 
 Sexy Gas=Gasolina Sexy
 
-Regular Gas=Gasolina Regular
+Regular Gas=Gasolina normal
 
-Mega Gas=Gasolina Mega
+Mega Gas=Gasolina mega
 
 sr:"^Potential Customer\n(.+)$"=Cliente Potencial\n$1
 
@@ -1241,7 +1237,7 @@ All=Todo
 
 Place the expected products here.=Coloca los productos esperados aquí.
 
-Jeans=Jeans
+Jeans=Vaqueros
 
 Flat Cap=Boina Plana
 
@@ -1488,16 +1484,16 @@ Apply Fertilizer=Aplicar Fertilizante
 r:Cover soil with Fertilizer (.*)=Cubrir el suelo con Fertilizante $1
 Already contains Fertilizer=Ya contiene Fertilizante
 Only open after 6PM=Abierto solo después de las 6 PM
-View Cart (3 items)=Ver Carrito (3 artículos)
+View Cart (3 items)=Ver carrito (3 artículos)
 Does not match type requirement=No cumple con el requisito de tipo
-Supplier Meeting=Reunión con el Proveedor
+Supplier Meeting=Reunión con el proveedor
 Yes?=¿Sí?
 Alright fine=Está bien
-Alright then. What time?=Está bien. A qué hora?
-Ok bro. What time?=Ok bro. A qué hora?
+Alright then. What time?=Está bien. ¿A qué hora?
+Ok bro. What time?=Ok bro. ¿A qué hora?
 Aight homie. What time you wanna meet?=Está bien, compa. A qué hora quieres que nos veamos?
 Hey!=¡Ey!
-Mix Already Exists=La Mezcla Ya Existe
+Mix Already Exists=La mezcla ya existe
 You are providing more items than required.=Estás proporcionando más artículos de los necesarios.
 Skate park=Parque de Skate
 What's your problem?=¿Cuál es tu problema?
@@ -1509,14 +1505,14 @@ Yes!!!=¡Sí!!!
 Inventory full=Inventario lleno
 (Hold) Dump Contents=(Mantener) Vaciar Contenido
 The deal is off. This is not what I wanted.=El trato está cancelado. Esto no es lo que quería.
-Nope man=No, hombre
+Nope man=No tío
 r:Pick up \$(\d{1,3}(?:,\d{3})*)=Recoger $1
 Pick up Cuke=Recoger Cuke
 Oh no!=¡Oh no!
 Yikes!=¡Uf!
 r:"I need to collect the earnings <color\=#54E717>\(\$(\d{1,3}(?:,\d{3})*)\)</color>"=Necesito recoger las ganancias <color\=#54E717>($1)</color>
 The hell bro?=¿Qué diablos, hermano?
-Mornin` dude=Buenos días, amigo
+Mornin` dude=Buenas, tío
 Not interested, sorry=No estoy interesado, lo siento
 Brown apartment block=Bloque de apartamentos marrón
 Behind auto shop=Detrás del taller
@@ -1527,7 +1523,7 @@ Holy hell!=¡Santo cielo!
 Ouch!=¡Ay!
 Damn!=¡Maldita sea!
 Goddamn!=¡Maldita sea!
-Get away!=¡Aléjate!
+Get away!=¡Vete!
 Crap!=¡Maldición!
 Oof!=¡Uf!
 Woah!=¡Guau!
@@ -1537,10 +1533,10 @@ Woah man...=Guau, hombre...
 Thanks, we're done.=Gracias, hemos terminado.
 The hell?=¿Qué diablos?
 Bro...=Hermano...
-Not again...=No otra vez...
+Not again...=Otra vez no...
 r:"Insert <color\=#FFC73D>(\d+x)</color> coca leaves and <color\=#FFC73D>(\d+x)</color> gasoline"=Inserta <color\=#FFC73D>$1</color> hojas de coca y <color\=#FFC73D>$2</color> gasolina
-Use Cauldron=Usar Caldero
-Use Brick Press=Usar Prensa de Ladrillos
+Use Cauldron=Usar caldero
+Use Brick Press=Usar prensa de ladrillos
 You're welcome friend. If you need special\n equipment or supplies, Oscar has what you need.=De nada, amigo. Si necesitas equipos\n especiales o suministros, Oscar tiene lo que necesitas.
 You've reached your ATM daily deposit limit. If you want to convert more cash to online balance, you'll need to start laundering cash through a business.=Has alcanzado el límite diario de depósito en el cajero automático. Si quieres convertir más dinero en saldo en línea, necesitarás comenzar a lavar dinero a través de un negocio.
 INVENTORY FULL=INVENTARIO LLENO
@@ -2719,7 +2715,7 @@ Hair Style=Peinado
 Rectangular Frame Glasses=Gafas de marco rectangular
 Speed Dealer Sunglasses=Gafas de sol de distribuidor de velocidad
 Coca Seed=Semilla de coca
-OG Kush Seed=Semilla de og kush
+OG Kush Seed=Semilla de OG Kush
 Sour Diesel Seed=Semilla de Sour Diesel
 Green Crack Seed=Semilla de Green Crack
 Granddaddy Purple Seed=Semilla Granddaddy Purple
@@ -2728,7 +2724,7 @@ Double Top Knot=Doble nudo superior
 Side-part Bob=Bob a la partida lateral
 Phosphorus=Fósforo
 Moisture-Preserving Pot=Bote de preservación-humedad
-Air Pot=Maceta de Aire
+Air Pot=Maceta de aire
 Full Spectrum Grow Light=Luz de cultivo de espectro completo
 Pot Sprinkler=Rociador de marihuana
 Soil Pourer=Vertido de tierra
@@ -2808,7 +2804,7 @@ Okay. I'll be in the west construction site for the next 6 hours.=Bueno. Estaré
 The drop is ready. You can find it behind the motel office=Tu pedido está listo.\nPuedes encontrarlo cerca del motel.
 ^I need a dead drop^:\n10x Green Crack Seed=Necesito una entrega
 A cozy single bed to slumber in.=Una cómoda cama para tus largas horas de trabajo.
-Change Amount=Cambiar Monto
+Change Amount=Cambiar cantidad
 Collect the new product=Recoge el nuevo producto
 That's your first mix done! There's a wide range of different ingredients with unique effects. Each one will affect the value of your product differently.=¡Tu primera mezcla está lista! Hay una amplia variedad de ingredientes diferentes con efectos únicos. Cada uno afectará el valor de tu producto de manera distinta.
 Keep trying different mix recipes, and you'll be able to make some seriously valuable product.=Sigue probando diferentes recetas de mezcla, y podrás crear productos realmente valiosos.
@@ -3533,12 +3529,12 @@ You can find it stashed near the <color\=#88CBFF>town hall fountain, in the cana
 • Collect the stash behind the supermarket=• Recupera el alijo detrás del supermercado
 • Collect the stash near the fountain=• Recupera el alijo cerca de la fuente
 • Collect the stash near the canal=• Recupera el alijo cerca del canal
-Head back to the RV=Regresa a la autocaravana  
-Investigate the explosion=Investiga la explosión  
-Read the note=Lee la nota  
-View note=Ver nota  
+Head back to the RV=Regresa a la autocaravana
+Investigate the explosion=Investiga la explosión
+Read the note=Lee la nota
+View note=Ver nota
 Answer phone=Contestar el teléfono
-Well shit... that's not ideal.=Pues mierda... no es lo ideal.
+Well shit... that's not ideal.=Mierda... no es lo ideal.
 There's a powerful cartel in town, the <color=#4CB0FF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=Hay un cartel poderoso en la ciudad, la <color=#4CB0FF>familia Benzies.</color> Sabía que eventualmente serían un problema, pero no pensé que te encontrarían tan rápido...
 Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color=#4CB0FF>motel</color> and ask about getting a room.=Parece que vas a necesitar un lugar discreto donde quedarte por un tiempo. Ve al <color=#4CB0FF>motel</color> y pregunta por una habitación.
 After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color=#4CB0FF>grow tent, soil</color>, and <color=#4CB0FF>watering can.</color>=Después de eso, necesitarás nuevo equipo. Hay una ferretería al noreste del motel. Consigue una <color=#4CB0FF>carpa de cultivo, tierra</color> y <color=#4CB0FF>una regadera.</color>
@@ -3556,7 +3552,7 @@ Wooden display cabinet for putting all your fancy stuff in.=Vitrina de madera pa
 Metal trash can you can place trash in.=Cubo de basura metálico donde puedes poner la basura.
 Long-lasting soil that can be used to grow 2 plants before expiring.=Sustrato de larga duración que permite cultivar hasta 2 plantas antes de deteriorarse.
 When activated, will water the adjacent pot or grow tent.=Al activarse, regará la maceta o la tienda de cultivo adyacente.
-An upgraded version of the packaging station with a rotary packing tool. Allows for much faster packing of products.=Una versión mejorada de la estación de empaquetado con una herramienta rotativa. Permite empacar los productos mucho más rápido.
+An upgraded version of the packaging station with a rotary packing tool. Allows for much faster packing of products.=Una versión mejorada de la estación de empaquetado con una herramienta rotativa. Permite empaquetar los productos mucho más rápido.
 A standing floor lamp. Can be switched on and off.=Lámpara de pie. Puede encenderse y apagarse.
 Old wood with some wheels nailed to it. Not fancy but it rolls.=Madera vieja con unas ruedas clavadas. No es elegante, pero rueda.
 Television and a TV cabinet. Includes a video game console.=Televisor y mueble de TV. Incluye una consola de videojuegos.
