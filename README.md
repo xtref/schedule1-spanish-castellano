@@ -26,7 +26,7 @@ Se escanea con virustotal.com y aunque alerte, ya es por temas de Unity, la base
 # 
 🖥 Siempre estoy cargando nuevas lineas de traducciones a mi repositorio Github las cuales se bajan automáticamente al iniciar el juego, no tienes que preocuparte por eso. 
 
-[Video Tutorial] (https://youtu.be/zlGClYnd18I) 
+[Video Tutorial](https://youtu.be/zlGClYnd18I) 
 
 # 
 Siéntete en la libertad de reportar malas traducciones o faltantes, enviando pantallazo o la frase en cuestión para incluirla en la próxima actualización. Te espero en mi [Discord](https://discord.gg/aSvFe9CTrf)
