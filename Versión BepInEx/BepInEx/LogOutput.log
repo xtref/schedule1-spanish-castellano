@@ -1,4 +1,4 @@
-[Message: Preloader] BepInEx 6.0.0-be.733 - Schedule I (31/03/2025 10:45:04 p. m.)
+[Message: Preloader] BepInEx 6.0.0-be.733 - Schedule I (20/04/2025 12:02:04 a. m.)
 [Message: Preloader] Built from commit 995f04991b2b5ace4ddef07e12c3e99d4b2766a6
 [Info   :   BepInEx] System platform: Windows 10 64-bit
 [Info   :   BepInEx] Process bitness: 64-bit (x64)
@@ -9,90 +9,92 @@
 [Info   : Preloader] 0 assemblies discovered
 [Message:AssemblyPatcher] Executing 0 patch(es)
 [Message:   BepInEx] Chainloader initialized
-[Debug  : Preloader] Runtime invoke pointer: 0x7FFF0107D2F0
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF0107D2F0 to 0x7FFEC9813264
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC1080000
-[Debug  :DobbyDetour] Original: 7FFF0107D2F0, Trampoline: 7FFEC1080000, diff: 3FFFD2F0
+[Debug  : Preloader] Runtime invoke pointer: 0x7FF9BCE9CF50
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BCE9CF50 to 0x7FF97B1B3264
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97CEA0000
+[Debug  :DobbyDetour] Original: 7FF9BCE9CF50, Trampoline: 7FF97CEA0000, diff: 3FFFCF50
 [Debug  : Preloader] Runtime invoke patched
-[Debug  :Il2CppInterop] il2cpp_object_get_virtual_method: 0x7FFF0107D1F0
-[Debug  :Il2CppInterop] Object::GetVirtualMethod: 0x7FFF0103B2A0
-[Debug  :Il2CppInterop] GenericMethod::GetMethod found: 0x7FFF01072E40
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF01072E40 to 0x7FFEC98132A4
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC1080020
-[Debug  :DobbyDetour] Original: 7FFF01072E40, Trampoline: 7FFEC1080020, diff: 3FFF2E20
-[Debug  :Il2CppInterop] il2cpp_image_get_class: 0x7FFF0107CEC0
-[Debug  :Il2CppInterop] Image::GetType: 0x7FFF0100B330
+[Debug  :Il2CppInterop] il2cpp_object_get_virtual_method: 0x7FF9BCE9CE50
+[Debug  :Il2CppInterop] Object::GetVirtualMethod: 0x7FF9BCE5AF00
+[Debug  :Il2CppInterop] GenericMethod::GetMethod found: 0x7FF9BCE92AA0
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BCE92AA0 to 0x7FF97B1B32A4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97CEA0020
+[Debug  :DobbyDetour] Original: 7FF9BCE92AA0, Trampoline: 7FF97CEA0020, diff: 3FFF2A80
+[Debug  :Il2CppInterop] il2cpp_image_get_class: 0x7FF9BCE9CB20
+[Debug  :Il2CppInterop] Image::GetType: 0x7FF9BCE2AF90
 [Debug  :Il2CppInterop] imageGetTypeXrefs.Length: 2
-[Debug  :Il2CppInterop] getTypeInfoFromHandle: 7FFF01026F10
-[Debug  :Il2CppInterop] MetadataCache::GetTypeInfoFromTypeDefinitionIndex found: 0x7FFF01064F50
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF01064F50 to 0x7FFEC98132E4
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC1080040
-[Debug  :DobbyDetour] Original: 7FFF01064F50, Trampoline: 7FFEC1080040, diff: 3FFE4F10
-[Debug  :Il2CppInterop] Class::GetDefaultFieldValue found: 0x7FFF01063A10
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF01063A10 to 0x7FFEC9813324
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC1080060
-[Debug  :DobbyDetour] Original: 7FFF01063A10, Trampoline: 7FFEC1080060, diff: 3FFE39B0
+[Debug  :Il2CppInterop] getTypeInfoFromHandle: 7FF9BCE46B70
+[Debug  :Il2CppInterop] MetadataCache::GetTypeInfoFromTypeDefinitionIndex found: 0x7FF9BCE84BB0
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BCE84BB0 to 0x7FF97B1B32E4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97CEA0040
+[Debug  :DobbyDetour] Original: 7FF9BCE84BB0, Trampoline: 7FF97CEA0040, diff: 3FFE4B70
+[Debug  :Il2CppInterop] Class::GetDefaultFieldValue found: 0x7FF9BCE83670
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BCE83670 to 0x7FF97B1B3324
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97CEA0060
+[Debug  :DobbyDetour] Original: 7FF9BCE83670, Trampoline: 7FF97CEA0060, diff: 3FFE3610
 [Warning:Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
 [Debug  :Il2CppInterop] Picked mono_class_instance_size as a Class::Init substitute
-[Debug  :Il2CppInterop] Class::Init: 0x7FFF0107DB10
-[Debug  :Il2CppInterop] il2cpp_class_from_il2cpp_type: 0x7FFF01041280
-[Debug  :Il2CppInterop] Class::FromIl2CppType found: 0x7FFF01023A10
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF01023A10 to 0x7FFEC9813364
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC1080080
-[Debug  :DobbyDetour] Original: 7FFF01023A10, Trampoline: 7FFEC1080080, diff: 3FFA3990
-[Debug  :Il2CppInterop] il2cpp_class_from_name: 0x7FFF0107C7A0
-[Debug  :Il2CppInterop] Class::FromName found: 0x7FFF01023F70
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF01023F70 to 0x7FFEC98133A4
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC10800A0
-[Debug  :DobbyDetour] Original: 7FFF01023F70, Trampoline: 7FFEC10800A0, diff: 3FFA3ED0
-[Debug  :Il2CppInterop] GarbageCollector::RunFinalizer found: 0x7FFF01004090
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF01004090 to 0x7FFEC98133E4
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC10800C0
-[Debug  :DobbyDetour] Original: 7FFF01004090, Trampoline: 7FFEC10800C0, diff: 3FF83FD0
+[Debug  :Il2CppInterop] Class::Init: 0x7FF9BCE9D770
+[Debug  :Il2CppInterop] il2cpp_class_from_il2cpp_type: 0x7FF9BCE60EE0
+[Debug  :Il2CppInterop] Class::FromIl2CppType found: 0x7FF9BCE43670
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BCE43670 to 0x7FF97B1B3364
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97CEA0080
+[Debug  :DobbyDetour] Original: 7FF9BCE43670, Trampoline: 7FF97CEA0080, diff: 3FFA35F0
+[Debug  :Il2CppInterop] il2cpp_class_from_name: 0x7FF9BCE9C400
+[Debug  :Il2CppInterop] Class::FromName found: 0x7FF9BCE43BD0
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BCE43BD0 to 0x7FF97B1B33A4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97CEA00A0
+[Debug  :DobbyDetour] Original: 7FF9BCE43BD0, Trampoline: 7FF97CEA00A0, diff: 3FFA3B30
+[Debug  :Il2CppInterop] GarbageCollector::RunFinalizer found: 0x7FF9BCE23CF0
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BCE23CF0 to 0x7FF97B1B33E4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97CEA00C0
+[Debug  :DobbyDetour] Original: 7FF9BCE23CF0, Trampoline: 7FF97CEA00C0, diff: 3FF83C30
 [Info   :Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
 [Debug  :     Unity] Test call after applying unity logging hook
-[Debug  :InteropManager] Preloaded 144 interop assemblies in 203ms
-[Info   :   BepInEx] 2 plugins to load
+[Debug  :InteropManager] Preloaded 144 interop assemblies in 102ms
+[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] Loading [Translation Updater by Beetar 1.0.1]
+[Info   :Translation Updater by Beetar] 📦 TranslationUpdater IL2CPP cargado. Iniciando descarga asincrónica...
 [Info   :   BepInEx] Loading [XUnity Auto Translator 5.4.5]
 [Info   :Il2CppInterop] Registered mono type XUnity.AutoTranslator.Plugin.Core.PluginLoader+AutoTranslatorProxyBehaviour in il2cpp domain
 [Info   :   BepInEx] Loading [XUnity Resource Redirector 2.1.0]
 [Message:   BepInEx] Chainloader startup complete
 [Debug  : Preloader] Runtime invoke unpatched
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF03909690 to 0x7FFEC98138A4
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC3910000
-[Debug  :DobbyDetour] Original: 7FFF03909690, Trampoline: 7FFEC3910000, diff: 3FFF9690
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF03908090 to 0x7FFEC98138E4
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC3910020
-[Debug  :DobbyDetour] Original: 7FFF03908090, Trampoline: 7FFEC3910020, diff: 3FFF8070
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF03592D10 to 0x7FFEC9813924
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC3910040
-[Debug  :DobbyDetour] Original: 7FFF03592D10, Trampoline: 7FFEC3910040, diff: 3FC82CD0
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF0359B470 to 0x7FFEC9813964
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC3910060
-[Debug  :DobbyDetour] Original: 7FFF0359B470, Trampoline: 7FFEC3910060, diff: 3FC8B410
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF035E8E80 to 0x7FFEC98139A4
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC3910080
-[Debug  :DobbyDetour] Original: 7FFF035E8E80, Trampoline: 7FFEC3910080, diff: 3FCD8E00
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF035DDC40 to 0x7FFEC98139E4
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC39100A0
-[Debug  :DobbyDetour] Original: 7FFF035DDC40, Trampoline: 7FFEC39100A0, diff: 3FCCDBA0
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF035DDF40 to 0x7FFEC9813A24
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC39100C0
-[Debug  :DobbyDetour] Original: 7FFF035DDF40, Trampoline: 7FFEC39100C0, diff: 3FCCDE80
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF035DE1A0 to 0x7FFEC9813A64
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC39100E0
-[Debug  :DobbyDetour] Original: 7FFF035DE1A0, Trampoline: 7FFEC39100E0, diff: 3FCCE0C0
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF035DDAD0 to 0x7FFEC9813AA4
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC3910100
-[Debug  :DobbyDetour] Original: 7FFF035DDAD0, Trampoline: 7FFEC3910100, diff: 3FCCD9D0
-[Debug  :DobbyDetour] Preparing detour from 0x7FFF035DD970 to 0x7FFEC9813AE4
-[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFEC3910120
-[Debug  :DobbyDetour] Original: 7FFF035DD970, Trampoline: 7FFEC3910120, diff: 3FCCD850
+[Info   :Translation Updater by Beetar] ✅ Archivo de traducción actualizado en: D:\Games\Schedule I\BepInEx\Translation\es\Text\Translate.txt
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BF7409F0 to 0x7FF97B1B3D24
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97F750000
+[Debug  :DobbyDetour] Original: 7FF9BF7409F0, Trampoline: 7FF97F750000, diff: 3FFF09F0
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BF73F3F0 to 0x7FF97B1B3D64
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97F750020
+[Debug  :DobbyDetour] Original: 7FF9BF73F3F0, Trampoline: 7FF97F750020, diff: 3FFEF3D0
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BF3CA070 to 0x7FF97B1B3DA4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97F750040
+[Debug  :DobbyDetour] Original: 7FF9BF3CA070, Trampoline: 7FF97F750040, diff: 3FC7A030
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BF3D27D0 to 0x7FF97B1B3DE4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97F750060
+[Debug  :DobbyDetour] Original: 7FF9BF3D27D0, Trampoline: 7FF97F750060, diff: 3FC82770
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BF4201E0 to 0x7FF97B1B3E24
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97F750080
+[Debug  :DobbyDetour] Original: 7FF9BF4201E0, Trampoline: 7FF97F750080, diff: 3FCD0160
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BF414FA0 to 0x7FF97B1B3E64
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97F7500A0
+[Debug  :DobbyDetour] Original: 7FF9BF414FA0, Trampoline: 7FF97F7500A0, diff: 3FCC4F00
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BF4152A0 to 0x7FF97B1B3EA4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97F7500C0
+[Debug  :DobbyDetour] Original: 7FF9BF4152A0, Trampoline: 7FF97F7500C0, diff: 3FCC51E0
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BF415500 to 0x7FF97B1B3EE4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97F7500E0
+[Debug  :DobbyDetour] Original: 7FF9BF415500, Trampoline: 7FF97F7500E0, diff: 3FCC5420
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BF414E30 to 0x7FF97B1B3F24
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97F750100
+[Debug  :DobbyDetour] Original: 7FF9BF414E30, Trampoline: 7FF97F750100, diff: 3FCC4D30
+[Debug  :DobbyDetour] Preparing detour from 0x7FF9BF414CD0 to 0x7FF97B1B3F64
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FF97F750120
+[Debug  :DobbyDetour] Original: 7FF9BF414CD0, Trampoline: 7FF97F750120, diff: 3FCC4BB0
 [Warning:  HarmonyX] AccessTools.Method: Could not find method for type TMPro.TMP_Text and name SetCharArray and parameters (Il2CppInterop.Runtime.InteropTypes.Arrays.Il2CppStructArray<int>, int, int)
 [Info   :Il2CppInterop] Registered mono type XUnity.AutoTranslator.Plugin.Core.Il2CppManagedEnumerator in il2cpp domain
-[Message:     Unity] Initialized individual save folder path: C:/Users/Beetar/AppData/LocalLow/TVGS/Schedule I\Saves\76561198383142834
-[Message:     Unity] Successfully verified write permission on save folder: C:/Users/Beetar/AppData/LocalLow/TVGS/Schedule I\Saves\76561198383142834
-[Message:     Unity] Game folder path: D:\Program Files (x86)\Steam\steamapps\common\Schedule I
-[Warning:     Unity] ScheduleOne.AvatarFramework.Customization.BasicAvatarSettings must be instantiated using the ScriptableObject.CreateInstance method instead of new BasicAvatarSettings.
-[Message:     Unity] Loaded player appearance from C:/Users/Beetar/AppData/LocalLow/TVGS/Schedule I\Saves\76561198383142834\SaveGame_1\Players\Player_0\Appearance.json
+[Message:     Unity] Initialized individual save folder path: C:/Users/Beetar/AppData/LocalLow/TVGS/Schedule I\Saves\76561197960271872
+[Message:     Unity] Successfully verified write permission on save folder: C:/Users/Beetar/AppData/LocalLow/TVGS/Schedule I\Saves\76561197960271872
+[Message:     Unity] Game folder path: D:\Games\Schedule I
+[Message:     Unity] Loaded player appearance from C:/Users/Beetar/AppData/LocalLow/TVGS/Schedule I\Saves\76561197960271872\SaveGame_1\Players\Player_0\Appearance.json
 [Message:     Unity] Moving main window to display: MSI G2412

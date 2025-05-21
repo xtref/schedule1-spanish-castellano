@@ -18,7 +18,7 @@ Quit=Salir
 That'll be <color\=#54E717>$75</color> for the Cheap Skateboard. Sound good?=Serán <color\=#54E717>$75</color> por el Skateboard barato. ¿Te parece bien?
 No problem homie, see ya later.=No te preocupes amigo, adios.
 I'd like to buy the room=Me gustaría comprar la habitación
-Credits=Agradecimientos
+Credits=Créditos
 Offer a free sample to a potential customer=Ofrece una muestra gratuita a un cliente potencial
 r:Talk to Mrs. Ming at the Chinese restaurant=Habla con Mrs. Ming en el restaurante chino
 r:• Talk to Mrs. Ming at the Chinese restaurant=• Habla con Mrs. Ming en el restaurante chino
