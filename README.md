@@ -1,9 +1,6 @@
 # Traducción al español del juego Schedule I
 Al no existir por ahora una traducción oficial por parte de los desarrolladores, se ha decidido buscar todas las palabras y frases que están en el juego y traducirlas al español.
 
-Existen 2 versiones, BepInEx y MelonLoader (Gracias Britis)
-
-
 :point_right:  [Ultima versión](https://github.com/Beetario/schedule1_Spanish/archive/refs/heads/main.zip) :point_left:
 
 # 🔰 Versión MelonLoader
