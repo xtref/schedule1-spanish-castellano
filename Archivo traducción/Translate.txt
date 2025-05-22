@@ -39,7 +39,7 @@ r:Lobby \((\d+)/(\d+)\)=Lobby ($1/$2)
 Invite Friends=Invitar
 Tylah Cannell=Tylah Cannell
 Voice Actors=Actores de Voz
-Soundtrack by=Banda sonora por
+Soundtrack by=Banda sonora
 TVGS=TVGS
 Will Jackson=Will Jackson
 Graffiti by=Graffiti por
@@ -293,7 +293,7 @@ Dealers will sell whatever is in their inventory, regardless of it's listed for 
 Dealers will sell whatever is in their inventory, regardless of if it's listed for sale or not.=Los vendedores venderán lo que esté en su inventario, independientemente de si está listado para la venta o no.
 Your progress is automatically saved when you sleep. You can also manually save at the save panel in any of your properties.=Tu progreso se guarda automáticamente cuando duermes. También puedes guardar manualmente en el panel de guardado en cualquiera de tus propiedades.
 Be careful when cooking meth - applying too much heat to the mixture may cause an explosion.=Ten cuidado al cocinar metanfetamina: aplicar demasiado calor a la mezcla puede causar una explosión.
-Staff don't work for free! They will automatically draw their daily wage from their briefcase on their bed. If it's empty at the start of a new shift, they won't work.=¡El personal no trabaja gratis! Retirarán automáticamente su salario diario de su maletín en su cama. Si está vacío al comienzo de un nuevo turno, no trabajarán.
+Staff don't work for free! They will automatically draw their daily wage from their locker. If it's empty at the start of a new shift, they won't work.=¡El personal no trabaja gratis! Retirarán automáticamente su salario diario de su locker. Si está vacío al comienzo de un nuevo turno, no trabajarán.
 Resisting arrest will result in law enforcement utilizing tasers. Continue to resist, and they'll eventually switch to lethal weapons.=Resistirse al arresto resultará en que las fuerzas del orden utilicen táseres. Si continúas resistiéndote, eventualmente cambiarán a armas letales.
 Loading world...=Cargando mundo...
 Loading data...=Cargando datos...
@@ -490,7 +490,6 @@ Plant Trimmers=Podadoras de Plantas
 Baggie=Bolsita
 Jar=Frasco
 Packaging Station=Estación de Empaque
-Bed=Cama
 Messages=Mensajes
 Hover a task to view details=Pasa el cursor sobre una tarea para ver detalles
 Task Details=Detalles de la Tarea
@@ -624,7 +623,9 @@ sr:"^Potential Customer\n(.+)$"=Cliente Potencial\n$1
 sr:"^Supplier Meeting\n\((.+)\)$"=Reunión con proveedor\n($1)
 Pre-release roadmap=Hoja de ruta de pre-lanzamiento
 Monday 10th\nCo-op & deliveries\n\nMonday 17th\nCasino\n\nSaturday 22nd\nBoutique store, wall decorations, pawn shop\n\nMonday 24th - Release!\n\n\n=Lunes 10\nCooperativo y entregas\n\nLunes 17\nCasino\n\nSábado 22\nTienda boutique, decoraciones de pared, casa de empeño\n\nLunes 24 - Lanzamiento!
-This is a beta version of the game - save files may get corrupted. \nDon't load any saves that are important to you.=Esta es una versión beta del juego - los archivos de guardado pueden corromperse.\nNo cargues guardados que sean importantes para ti.
+This is a beta version of the game - save files may get corrupted.=Esta es una versión beta del juego - los archivos de guardado pueden corromperse.
+Don't load any saves that are important to you UNLESS you have a backup copy.=No cargues ningún guardado importante a menos que tengas una copia de seguridad.
+You can use the 'export' buttons above to create a backup copy of your save.=Puedes usar los botones de 'exportar' de arriba para crear una copia de seguridad de tu guardado.
 Action can only be performed by host=La acción solo puede ser realizada por el anfitrión
 Press key...=Presiona la tecla...
 Enter=Enter
@@ -1186,24 +1187,24 @@ Manage Botanist=Gestionar Botánico
 Assigned Pots=Macetas Asignadas
 Supplies=Suministros
 Learn how to manage botanists.=Aprende cómo gestionar botánicos.
-Use the management clipboard to assign the botanist to a bed=Usa la carpeta de gestión para asignar una cama al botánico.
+Use the management clipboard to assign the botanist to a locker=Usa la carpeta de gestión para asignar un armario al botánico.
 Assign a supplies source to the botanist=Asigna una fuente de suministros al botánico.
 Assign a station to the chemist=Asigna una estación al químico
 r:Assign Stations (.*)\/(.*)=Asignación de estaciones $1/$2
 Assign a pot or grow tent to the botanist=Asigna una maceta o una tienda de cultivo al botánico.
 Set the pot/grow tent destination=Establece el destino de la maceta/tienda de cultivo.
-Place cash in the briefcase on the botanist's bed=Coloca dinero en el maletín en la cama del botánico.
-Place cash in the briefcase on the chemist's bed=Coloca dinero en el maletín en la cama del químico.
+Place cash in the briefcase on the botanist's locker=Coloca dinero en el maletín en el armario del botánico.
+Place cash in the briefcase on the chemist's locker=Coloca dinero en el maletín en el armario del químico.
 Learn how to manage chemists.=Aprende cómo gestionar químicos.
-Use the management clipboard to assign the chemist to a bed=Usa la carpeta de gestión para asignar una cama al químico.
+Use the management clipboard to assign the chemist to a locker=Usa la carpeta de gestión para asignar un armario al químico.
 Learn how to manage cleaners.=Aprende cómo gestionar limpiadores.
-Use the management clipboard to assign the cleaner to a bed=Usa la carpeta de gestión para asignar una cama al limpiador.
+Use the management clipboard to assign the cleaner to a locker=Usa la carpeta de gestión para asignar un armario al limpiador.
 Assign a trash can to the cleaner=Asigna un cubo de basura al limpiador.
-Place cash in the briefcase on the cleaner's bed=Coloca dinero en el maletín en la cama del limpiador.
+Place cash in the briefcase on the cleaner's locker=Coloca dinero en el maletín en el armario del limpiador.
 Learn how to manage packagers.=Aprende cómo gestionar embaladores.
-Use the management clipboard to assign the packager to a bed=Usa la carpeta de gestión para asignar una cama al embalador.
+Use the management clipboard to assign the packager to a locker=Usa la carpeta de gestión para asignar un armario al embalador.
 Assign a packaging station to the packager=Asigna una estación de embalaje al embalador.
-Place cash in the briefcase on the packager's bed=Coloca dinero en el maletín en la cama del embalador.
+Place cash in the briefcase on the packager's locker=Coloca dinero en el maletín en el armario del embalador.
 r:Pots/Drying Racks (.*)=Macetas/Estantes de Secado $1
 Select=Seleccionar
 Select Supplies Source=Seleccionar Fuente de Suministros
@@ -1217,13 +1218,12 @@ Manage Pot=Gestionar Maceta
 r:Manage (\d+x) Packaging Station=Gestionar $1 Estación de Embalaje
 r:Manage (\d+x) Mixing Station=Gestionar $1 Estación de Mezcla
 r:Manage (\d+x) Pot=Gestionar $1 Maceta
-Assign bed=Asignar cama
 Open briefcase=Abrir maletín
 Briefcase=Maletín
 r:"^Assigned to (.+)$"=Asignado a $1
 r:"^(.+)'s Briefcase$"=Maletín de $1
-sr:^(.+) will draw his daily wage of <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$=$1 retirará su salario diario de <color=#54E717>$2</color> de este maletín.
-sr:^(.+)$ will draw her daily wage of <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.=$1 retirará su salario diario de <color=#54E717>$2</color> de este maletín.
+sr:^(.+) will draw his daily wage of <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color> from this locker$=$1 retirará su salario diario de <color=#54E717>$2</color> de este armario.
+sr:^(.+)$ will draw her daily wage of <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color> from this locker=$1 retirará su salario diario de <color=#54E717>$2</color> de este armario.
 Any=Cualquiera
 ^Harvested product will be automatically moved to the destination by the assigned botanist=^El producto cosechado será automáticamente movido al destino por el botánico asignado.
 Additive 3=Aditivo 3
@@ -1268,9 +1268,9 @@ Hi boss=Jefe?
 Awesome, thanks!=Genial, gracias
 Very nice!=Muy bien!
 I'm good thanks=Estoy bien gracias
-Sorry boss, I need to be assigned a bed before I can get to work.=Lo siento, jefe, necesito que me asignen una cama antes de empezar a trabajar.
+Sorry boss, I need to be assigned a locker before I can get to work.=Lo siento, jefe, necesito que me asignen un armario antes de empezar a trabajar.
 Very nice. Chelsey might be interested. You should go talk to them.=Muy bien. Chelsey podría estar interesada. Deberías ir a hablar con ella.
-How do I assign your bed?=¿Cómo te asigno una cama?
+How do I assign your locker?=¿Cómo te asigno un armario?
 Open the contacts app=Abre la app de Contactos
 This is your <color\=#88CBFF>contacts web</color>. This is where you can view all your customers and potential customers.=Este es tu <color\=#88CBFF>red de contactos</color>. Aquí es donde puedes ver a todos tus clientes y clientes potenciales.
 You can use your management clipboard for that.=Puedes usar tu portapapeles de gestión para eso.
@@ -1312,9 +1312,9 @@ Drop seed into hole=Suelta la semilla en el agujero
 r:Click soil chunks to bury seed (.)/(.*)=Haz clic en los trozos de tierra para enterrar la semilla $1/$2
 Already contains seed=Ya contiene una semilla
 Water the seed=Riega la semilla
-Head to bed when you're ready=Ve a la cama cuando estés listo
+Head to locker when you're ready=Ve al armario cuando estés listo
 
-You can place cash in the briefcase on my bed.=Puedes colocar dinero en el maletín en mi cama.
+You can place cash in my locker.=Puedes colocar dinero en mi armario.
 
 There is a pot ready for sowing, but I don't have any seeds for it.=Hay una maceta lista para sembrar, pero no tengo semillas para ella.
 
@@ -2001,8 +2001,8 @@ Coffee Table=Mesa de centro
 Wooden Square Table=Mesa cuadrada de madera
 Metal Square Table=Mesa cuadrada de metal
 Floor Lamp=Lámpara de piso
-TV=TELEVISOR
-
+TV=TV
+Wall Clock=Reloj de pared
 Display Cabinet=Gabinete de exhibición
 Trash Can=Bote de basura
 Hounddog=Sabueso
@@ -2791,8 +2791,8 @@ Your drop is ready. Grab it behind <b>(.+)</b>=Listo! Recógela detrás de <b>\1
 sr:"The drop is ready. You can find it (.+)$"=Listo! Puedes encontrarla $1.
 sr:"Your drop is ready. Grab it (.+)$"=Listo! Recógela $1.
 sr:"Hey, that drop is ready (.+)$"=Oye, esa entrega está lista $1.
-r:"^(.+) will draw his daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 recibirá su salario diario de <color\=#54E717>$ $2</color> de este maletín.
-r:"^(.+) will draw her daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 recibirá su salario diario de <color\=#54E717>$ $2</color> de este maletín.
+r:"^(.+) will draw his daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this locker.$"=$1 recibirá su salario diario de <color\=#54E717>$ $2</color> de este maletín.
+r:"^(.+) will draw her daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this locker.$"=$1 recibirá su salario diario de <color\=#54E717>$ $2</color> de este maletín.
 nvm=-.-"
 
 ###PAWSHOP ####
@@ -3444,6 +3444,7 @@ With Benji's help, you'll be able to move a good quantity of product. Now it's t
 Welcome to Hyland Point.\n\nThis is our territory.\nDon't interfere.\n\n- TB=Bienvenido a Hyland Point\n\nEste es nuestro territorio.\nNo interfieras.\n\n- TB
 That's shit!=Que mierda!
 Thanks for you order!=Gracias por tu pedido!
+Thanks for you order=Gracias por tu pedido
 Unspecified=Ninguna
 Thanks for you purchase.=Gracias por tu compra.
 Vehicle won't fit everything. Some items will be placed on the pallets.=El vehículo no puede transportar todo. Algunos artículos se colocarán en los pallets.
@@ -3462,3 +3463,29 @@ Lower volume=Bajar volumen
 Increase volume=Subir volumen
 Use jukebox=Usar rocola
 This delivery has arrived and is ready to be unloaded.=Este pedido ha llegado y está listo para ser descargado.
+
+####v0.3.6
+Configure Filter=Configurar filtro
+Filters tell employees what items can or cannot be placed in this slot.=Los filtros indican a los empleados qué artículos pueden o no pueden colocarse en este espacio.
+Allowed Items=Productos Permitidos
+Add=   Agregar
+Allowed Quality=Calidad permitida
+Whitelist=Lista Blanca
+Blacklist=Lista Negra
+Locker=Armario
+Big metal locker, can be assigned to employees or used for general storage.=Gran armario metálico, puede asignarse a empleados o usarse para almacenamiento general.
+Access locker=Acceder al armario
+Assign locker=Asignar armario
+I need to transfer you to another property=Necesito transferirte a otra propiedad.
+Okay - which property should I transfer to?=Ok, a qué propiedad debo ir?
+So you'd like to reassign me to Storage Unit? I'll go there as soon as I finish my current task.=¿Quieres que me reasigne a la unidad de almacenamiento? Iré allí en cuanto termine mi tarea actual.
+Ok boss, I'll head over there shortly.=Ok jefe, iré para allá en breve.
+ALREADY AT MAX CAPACITY=ESTÁ A MAXIMA CAPACIDAD
+Decoration=Decoración
+Equipment=Equipamiento
+Small Trash Can=Bote de basura pequeño
+r:Storage Unit (.*)\/(.*)=Unidad de almacenamiento $1/$2
+r:Barn (.*)\/(.*)=Granero $1/$2
+r:Docks Warehouse (.*)\/(.*)=Almacen de los muelles $1/$2
+r:Bungalow (.*)\/(.*)=Bungaló $1/$2
+Search items...=Buscar productos...
