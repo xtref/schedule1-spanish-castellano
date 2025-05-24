@@ -1,23 +1,21 @@
-# Traducción al español del juego Schedule I
-Al no existir por ahora una traducción oficial por parte de los desarrolladores, se ha decidido buscar todas las palabras y frases que están en el juego y traducirlas al español.
+# Schedule I traducción al castellano
 
-:point_right:  [Ultima versión](https://github.com/Beetario/schedule1_Spanish/archive/refs/heads/main.zip) :point_left:
+## Instalar
 
-# 🔰 Versión MelonLoader
+* Instala MelonLoader: https://github.com/LavaGang/MelonLoader
+* Descarga este repositorio como .zip dando a *Código > Descargar ZIP*
+* Extrae el .zip en cualquier sitio de tu PC
+* Copia los contenidos de la carpeta `schedule1-spanish-castellano...` (los contenidos, no la carpeta en sí misma) en la carpeta raíz de Schedule I, donde el juego está instalado (ej en `C:\SteamLibrary\steamapps\common\Schedule I`)
 
-Instala el MelonLoader que se encuentra en la carpeta que se descargó, si ya lo tienes instalado no hace falta hacer nada, 
-luego copia el contenido de la carpeta "info" directamente en la carpeta raíz del juego y listo, puedes iniciar el juego directamente desde el escritorio o Steam, quizás se tarde un poco en cargar, sólo espera. 
+## Actualizar
+
+* Lo mismo que para instalar la primera vez, pero al copiar cuando haya conflictos de archivos, sobrescribe los antiguos
+
+## Desinstalar
+
+* Ve a la carpeta donde Schedule 1 esté instalado (ej en `C:\SteamLibrary\steamapps\common\Schedule I`)
+* Borra la carpeta `AutoTranslator`
 
 
-# 
-🖥 Siempre estoy cargando nuevas lineas de traducciones a mi repositorio Github las cuales se bajan automáticamente al iniciar el juego, no tienes que preocuparte por eso. 
-
-[Video Tutorial](https://youtu.be/zlGClYnd18I) 
-
-# 
-Siéntete en la libertad de reportar malas traducciones o faltantes, enviando pantallazo o la frase en cuestión para incluirla en la próxima actualización. Te espero en mi [Discord](https://discord.gg/aSvFe9CTrf)
 
 
-Beetar.
-
-Gracias https://buymeacoffee.com/beetar ❤
