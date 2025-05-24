@@ -1,54 +1,37 @@
-##Menu Principal##
-TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibidas.\n\nLos procesos mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos - no lograrás crear drogas, pero podrías causarte daños graves.\n\nPor favor, no uses drogas. \n\nTraducido al Español por Beetar.
+##MAIN MENU##
+TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibidas.\n\nLos procesos mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos - no lograrás crear drogas, pero podrías causarte daños graves.\n\nPor favor, no uses drogas.\n\nTraducido al castellano por Crisol García. Basado en la traducción al español (de Colombia) de Beetar.
 
-Back=Volver
+Back=Atrás
 Esc=Esc
 BETA=BETA
 Quit=Salir
-Credits=Agradecimientos
-Settings=Configuraciones
+Credits=Créditos
+Settings=Configuración
 New Game=Nuevo juego
-
 Continue=Continuar
 
-Back=Volver
-
 <Loading Message>=<Mensaje de carga>
-
 Loading...=Cargando...
 
 You'll play the prologue in singleplayer\nand join your friends once complete.=Jugarás el prólogo en modo un jugador\ny podrás unirte a tus amigos cuando lo completes.
 
 Prologue=Prólogo
-
 Leave=Abandonar
 
 r:Lobby \((\d+)/(\d+)\)=Lobby ($1/$2)
 
 Invite Friends=Invitar
-
 Tylah Cannell=Tylah Cannell
-
-Voice Actors=Actores de Voz
-
+Voice Actors=Actores de doblaje
 Soundtrack by=Banda sonora por
-
 TVGS=TVGS
-
 Will Jackson=Will Jackson
-
 Graffiti by=Graffiti por
-
 Cody To=Cody To
-
-Created by =Creado por
-
+Created by=Creado por
 Debbie Cannell=Debbie Cannell
-
 Adam Walton=Adam Walton
-
 KAESUL=KAESUL
-
 Zac Williams=Zac Williams
 
 Interact=Interactuar
@@ -56,25 +39,18 @@ Interact=Interactuar
 View Avatar=Avatar
 
 Right=Derecha
-
-Texts=Chats
+Texts=Mensajes
 
 Control=CTRL
-
 Sprint=Correr
-
 Flashlight=Linterna
-
 Journal=Diario
-
 Graphics=Gráficos
 
 Invert Y Axis=<size\=13>Invertir eje Y</size>
 
 Space=Espacio
-
 Jump=Saltar
-
 Use/Drag/Attack=<size\=10>Usar/Arrastar\n/Atacar</size>
 
 Pick up=Recoger
@@ -84,38 +60,24 @@ Controls=Controles
 Mouse Sensitivity=<size\=12>Sensibilidad del Mouse</size>
 
 Forward=Avanzar
-
 Phone=Teléfono
-
 Backward=Retroceder
-
 Audio=Audio
-
-Sprint Mode=Modo de correr
-
+Sprint Mode=Modo correr
 Map=Mapa
-
 Left=Izquierda
-
 Display=Ventana
-
 Crouch=Agachar
-
-Press=Presionar
-
-Target Framerate=Tasa de Fotogramas
-
+Press=Pulsar
+Target Framerate=Tasa de fotogramas
 Resolution=Resolución
-
-Interface Scale=Escala de Interfaz
-
+Interface Scale=Escala de interfaz
 VSync=VSync
-
-Camera Bobbing=Bamboleo de Cámara
+Camera Bobbing=Bamboleo de cámara
 
 Display Mode=Modo de Visualización
 
-Fullscreen Window=Pantalla Completa
+Fullscreen Window=Pantalla completa
 
 Apply Settings=Aplicar Configuración
 
@@ -144,58 +106,33 @@ God Rays=Rayos de Luz
 SSAO=SSAO
 
 Quality=Calidad
-
 High=Alto
-
 Medium=Medio
-
 Low=Bajo
-
 Very Low=Muy Bajo
-
 Option A=Opción A
-
 FXAA=FXAA
-
 Off=Apagado
-
 Music=Música
-
 Footsteps=Pasos
-
 Ambience=Ambiente
-
-Master Volume=Volumen General
-
+Master Volume=Volumen general
 Dialogue=Diálogos
-
 Interface=Interfaz
-
-SFX=Efectos de Sonido
-
+SFX=Efectos de sonido
 Hold=Mantener
-
 Tab=Tab
-
 Shift=Shift
-
-Exclusive Fullscreen=Pantalla Completa Exclusiva
-
+Exclusive Fullscreen=Pantalla completa exclusiva
 Windowed=Ventana
-
 Created=Creado
-
-Net worth=Valor Neto
+Net worth=Valor neto
 
 Select Save Slot=Seleccionar ranura de guardado
-
 Organisation=Organización
-
 Today=Hoy
-
 More than a year ago=Hace más de un año
-
-Last Played=Última vez
+Last Played=Jugado por última vez
 
 Are you sure you want to \noverwrite this save?=¿Estás seguro de que deseas \nsobrescribir este guardado?
 
@@ -208,9 +145,7 @@ Skip prologue=Omitir prólogo
 Organisation setup=Configuración de la organización
 
 Specify a name for your organisation=Especifica un nombre para tu organización
-
 Not recommended for new players=No recomendado para nuevos jugadores
-
 Yesterday=Ayer
 
 Select a category=<size\=13>Seleccionar una categoría</size>
@@ -218,21 +153,13 @@ Select a category=<size\=13>Seleccionar una categoría</size>
 Include Save File?=¿Incluir archivo de guardado?
 
 Bugs - Crashing =Errores - Fallos
-
 Bugs - Saving/Loading =<size\=11>Errores - Guardado/Carga</size>
-
 Bugs - Multiplayer =Errores - Multijugador
-
 Bugs - General =Errores - Generales
-
 Bugs - Employees =Errores - Empleados
-
 Bugs - Customers =Bugs - Clientes
-
 Bugs - Interface =Bugs - Interface
-
 Submitting feedback...=Enviando comentarios...
-
 Thank you for your feedback!=¡Gracias por tus comentarios!
 
 r:"^\$\d{1,3},\dK$"=$0
@@ -250,119 +177,96 @@ Changes the player's cash balance by the specified amount=Cambia el saldo de efe
 Gives the player the specified item. Optionally specify a quantity.=Da al jugador el objeto especificado. Opcionalmente, especifica una cantidad.
 
 give ogkush 5=give ogkush 5
-
 give=dar
 
 Sets the time of day to the specified 24-hour time=Establece la hora del día al tiempo especificado en formato de 24 horas.
 
 settime 1530=settime 1530
-
 settime=fijar hora
 
 Forces a save=Fuerza un guardado.
-
 save=Guardar
-
 freecam=freecam
 
 Toggles free cam mode=Activa/desactiva el modo de cámara libre.
 
 clearinventory=Limpiar inventario
-
 Clears the player's inventory=Limpia el inventario del jugador
 
 changecash=changecash
-
 changecash 5000=changecash 5000
 
 Changes the player's cash balance by the specified amount=Cambia el saldo de caja del jugador en la cantidad especificada.
 
 changebalance=changebalance
-
 changebalance 5000=changebalance 5000
 
 Changes the player's online balance by the specified amount=Cambia el saldo en línea del jugador en la cantidad especificada.
 
 addxp=addxp
-
 addxp 100=addxp 100
 
 Adds the specified amount of experience points.=Adiciona a quantidade especificada de pontos de experiência.
 
 spawnvehicle=spawnvehicle
-
 spawnvehicle shitbox=spawnvehicle shitbox
 
 Spawns a vehicle at the player's location=Gera um veículo na localização do jogador.
 
 setmovespeed=setmovespeed
-
 setmovespeed 1=setmovespeed 1
 
 Sets the player's move speed multiplier=Define o multiplicador de velocidade de movimento do jogador.
 
 setjumpforce=setjumpforce
-
 setjumpforce 1=setjumpforce 1
 
 Sets the player's jump force multiplier=Define o multiplicador de força de pulo do jogador.
 
 teleport=teleport
-
 teleport townhall, teleport barn=teleport townhall, teleport barn
 
 Teleports the player to the specified location=Teleporta o jogador para o local especificado.
 
 setowned=setowned
-
 setowned barn, setowned laundromat=setowned barn, setowned laundromat
 
 Sets the specified property or business as owned=Define a propriedade ou negócio especificado como possuído.
 
 packageprodcut=packageprodcut
-
 packageproduct jar, packageproduct baggie=packageproduct jar, packageproduct baggie
 
 Packages the equipped product with the specified packaging=Empacota o produto equipado com a embalagem especificada.
 
 setstaminareserve=setstaminareserve
-
 setstaminareserve 200=setstaminareserve 200
 
 Sets the player's stamina reserve (default 100) to the specified amount.=Define a reserva de stamina do jogador (padrão 100) para a quantia especificada.
-
 raisewanted=raisewanted
 
 Raises the player's wanted level=Aumenta o nível de procurado do jogador.
-
 lowerwanted=lowerwanted
-
 Lowers the player's wanted level=Reduz o nível de procurado do jogador.
 
 clearwanted=clearwanted
-
 Clears the player's wanted level=Remove o nível de procurado do jogador.
 
 sethealth=sethealth
-
 sethealth 100=sethealth 100
 
 Sets the player's health to the specified amount=Define a saúde do jogador para a quantia especificada.
 
 settimescale=settimescale
-
 settimescale 1=settimescale 1
 
 Sets the time scale. Default 1=Define a escala de tempo. Padrão 1
 
 setvar=setvar
-
 setvar <variable> <value>=setvar <variable> <value>
 
 Sets the value of the specified variable=Define o valor da variável especificada.
 
 setqueststate=setqueststate
-
 setqueststate <quest name> <state>=setqueststate <quest name> <state>
 
 Sets the state of the specified quest=Define o estado da missão especificada.
@@ -380,25 +284,20 @@ setemotion cheery=setemotion cheery
 Sets the facial expression of the player's avatar.=Define a expressão facial do avatar do jogador.
 
 setunlocked=setunlocked
-
 setunlocked <npc_id>=setunlocked <npc_id>
 
 Unlocks the given NPC=Desbloqueia o NPC especificado.
 
 setrelationship=setrelationship
-
 setrelationship <npc_id> 5=setrelationship <npc_id> 5
 
 Sets the relationship scalar of the given NPC. Range is 0-5.=Define o escalar de relacionamento do NPC especificado. Faixa de 0 a 5.
-
 addemployee=addemployee
 
 addemployee botanist barn=addemployee botanist barn
-
 Adds an employee of the specified type to the given property.=Adiciona um funcionário do tipo especificado à propriedade indicada.
 
 setdiscovered=setdiscovered
-
 setdiscovered ogkush=setdiscovered ogkush
 
 Sets the specified product as discovered=Define o produto especificado como descoberto.
@@ -420,27 +319,22 @@ setquality standard, setquality heavenly=setquality standard, setquality heavenl
 Sets the quality of the currently equipped item.=Define a qualidade do item atualmente equipado.
 
 bind=bind
-
 bind t 'settime 1200'=bind t 'settime 1200'
 
 Binds the given key to the given command.=Vincula a tecla especificada ao comando dado.
 
 unbind=unbind
-
 unbind t=unbind t
 
 Removes the given bind.=Remove o vínculo especificado.
-
 clearbinds=clearbinds
 
 Clears ALL binds.=Remove TODOS os vínculos.
-
 hideui=hideui
 
 Hides all on-screen UI.=Esconde toda a interface na tela.
 
 disable=disable
-
 disable pp=disable pp
 
 Disables the specified GameObject=Desativa o GameObject especificado.
@@ -1365,18 +1259,16 @@ Fill watering can=Llenar regadera
 
 Click and hold tap to refill watering can=Haz clic y mantén presionado el grifo para rellenar la regadera
 
-Pour water=Verter agua
-Pour soil=Verter tierra
+Pour water=Echar agua
+Pour soil=Echar tierra
 Click and drag to cut soil bag=Click y arrasta para cortar la bolsa
-r:Pour soil into pot (.+)%=Vierte la tierra $1%)
+r:Pour soil into pot (.+)%=Echar la tierra $1%)
 
 While dragging an item, press <color\=#88CBFF>A</color> or <color\=#88CBFF>D</color> to rotate it.=Mientras arrastras un objeto, presiona <color\=#88CBFF>A</color> o <color\=#88CBFF>D</color> para rotarlo.
 
 Rotate Held Item=Rotar Objeto Sostenido
-
 Move=Mover
-
-Pour water over target=Vierte agua en los puntos
+Pour water over target=Echar agua en los puntos
 
 Press <color\=#88CBFF>Tab</color> to open your phone.=Presiona <color\=#88CBFF>Tab</color> para abrir tu teléfono.
 Open your phone (press tab) and read your messages=Abre tu teléfono (presiona tab) y lee tus mensajes.
@@ -1560,7 +1452,7 @@ View Shirley Watts's stash=Ver el escondite de Shirley Watts
 COOK=COCINAR
 Ready to begin cooking=Listo para comenzar a cocinar
 Open oven door=Abrir la puerta del horno
-Pour liquid into tray=Verter líquido en la bandeja
+Pour liquid into tray=Echar líquido en la bandeja
 Close oven door=Cerrar la puerta del horno
 Start oven=Encender el horno
 Place items onto tray=Colocar objetos en la bandeja
@@ -1583,14 +1475,14 @@ My vehicle is stuck=Mi vehículo está atascado.
 Thanks buddy=Gracias, amigo.
 Alright then, I've moved it just outside. Try not to do that again...=Está bien, lo moví justo afuera. Intenta no hacerlo de nuevo...
 Damn it fine. What time?=Maldita sea, está bien. ¿A qué hora?
-Hold on=Espera.
+Hold on=Espera
 One moment please=Un momento, por favor.
 Wait! You're under arrest=¡Espera! Estás arrestado.
 What's wrong with you?=¿Qué te pasa?
 Damn!=¡Maldita sea!
-Holy hell!=Santo inferno!
-Holy shit!=Caramba!
-Are you blind??=¿Eres ciego??
+Holy hell!=Hostia!
+Holy shit!=¡Hostia puta!
+Are you blind??=¿¿Estás ciego??
 Aim=Mirar
 Cock/Fire=Engatillar/Disparar
 assault with a deadly weapon=asalto con arma mortal
@@ -1609,7 +1501,7 @@ r:"^\$([0-9]+)K$"=$$1K
 Combine ingredients in beaker=Combina los ingredientes en el béquer
 r:Stir mixture (.*)=Agita la mezcla $1
 Lower boiling flask=Baja el matraz de ebullición
-Pour mixture into boiling flask=Vierte la mezcla en el matraz de ebullición
+Pour mixture into boiling flask=Echar la mezcla en el matraz de ebullición
 Raise boiling flask above burner=Levanta el matraz de ebullición sobre el quemador
 r:Start burner (.*)=Inicia el quemador $1
 Cooking in progress...=Cocción en progreso...
@@ -1622,8 +1514,8 @@ Open up your contacts app and look for a supplier in Westville. Keep unlocking c
 • Purchase a chemistry station from Oscar=• Compra una estación química de Oscar
 • Purchase a lab oven from Oscar=• Compra un horno de laboratorio de Oscar
 • Message Shirley about buying some pseudo=• Envía un mensaje a Shirley sobre comprar pseudo
-• Purchase phosphorus from Oscar=• Compra fósforo de Oscar
-• Purchase acid from Oscar=• Compra ácido de Oscar
+• Purchase phosphorus from Oscar=• Cómprale fósforo a Oscar
+• Purchase acid from Oscar=• Cómprale ácido a Oscar
 Unlock the pseudo supplier in Westville (see contacts app for more info)=Desbloquea al proveedor de pseudo en Westville (consulta la app de contactos para más información)
 Purchase a chemistry station from Oscar=Compra una estación química de Oscar
 Purchase a lab oven from Oscar=Compra un horno de laboratorio de Oscar
@@ -1646,23 +1538,14 @@ Selected destination has no loading docks=El destino seleccionado no tiene muell
 Nah, not for me dog=No, no es para mí, hermano
 
 I don't think so...=Creo que no...
-
 Not interested=No estoy interesado
-
-SAMPLE ALREADY OFFERED TODAY=MUESTRA YA OFRECIDA HOY
-
+SAMPLE ALREADY OFFERED TODAY=YA LE HAS OFRECIDO UNA MUESTRA HOY
 Ew, no.=Ew, no.
-
 One moment bro...=Un momento, hermano...
-
 Not yet=Todavía no
-
-Mornin' dude=Buenos días, amigo
-
+Mornin' dude=Buenos días, tío
 Heyo=¡Hola!
-
 Argh! That's nasty=¡Argh! Eso es asqueroso
-
 Ok...=Ok...
 
 Come on, I need it now!=¡Vamos, lo necesito ahora!
@@ -1701,7 +1584,7 @@ Start cauldron=Iniciar caldero
 
 Powerful stimulant commonly snorted for a euphoric but short-lived high.=Estimulante poderoso, comúnmente inhalado, que produce una euforia de corta duración.
 
-r:Pour product into mould (.*)\/(.*)=Vierte el producto en el molde $1/$2
+r:Pour product into mould (.*)\/(.*)=Echa el producto en el molde $1/$2
 
 Rotate handle quickly to press product=Gira la manivela rápidamente para prensar el producto.
 
@@ -2738,7 +2621,6 @@ Wooden Square Table=Mesa cuadrada de madera
 Metal Square Table=Mesa cuadrada de metal
 Floor Lamp=Lámpara de piso
 TV=TELEVISOR
-
 Display Cabinet=Gabinete de exhibición
 Trash Can=Bote de basura
 Hounddog=Hounddog
@@ -2760,15 +2642,15 @@ Keeping it Fresh=Manteniéndolo fresco
 Money Management=Administración de dinero
 Wretched Hive of Scum and Villainy=Colmena Miserable de Escoria y Villanía
 Gearing Up=Preparándose
-Moving Up=Moverse
+Moving Up=Mudándose
 Clean Cash=Efectivo limpio
 Welcome to Hyland Point=Bienvenido a Hyland Point
 You haven't recruited any dealers=No has reclutado ningún dealer
 Collect Dead Drop=Recolectar pedido secreto
 Player Name=Nombre del jugador
 Drop=Pedido
-SCORE=PUNTAJE
-HIGH SCORE=Puntaje alto
+SCORE=PUNTUACIÓN
+HIGH SCORE=MÁXIMA PUNTUACIÓN
 EGG RUN=Huevo
 Snake=Serpiente
 Egg Run=Huevo
@@ -2784,7 +2666,7 @@ Can be used to either gather up trash or to bag the contents of a trash can.=Se 
 Stand still. You're being searched=Estarse quieto.\nTe están buscando
 All clear.=Todo claro.
 Ow!=¡Ay!
-'DOCKS' REGION MUST BE UNLOCKED=LA REGIÓN DE 'MUELLES' DEBE DESBLOQUEARSE
+'DOCKS' REGION MUST BE UNLOCKED=TIENES QUE DESBLOQUEAR LA REGIÓN 'MUELLES'
 Spiky=Puntiagudo
 Acid=Ácido
 Smug=Presumido
@@ -2802,7 +2684,7 @@ Okay. I'll be in the west construction site for the next 6 hours.=Bueno. Estaré
 The drop is ready. You can find it behind the motel office=Tu pedido está listo.\nPuedes encontrarlo cerca del motel.
 ^I need a dead drop^:\n10x Green Crack Seed=Necesito una entrega
 A cozy single bed to slumber in.=Una cómoda cama para tus largas horas de trabajo.
-Change Amount=Cambiar Monto
+Change Amount=Cambiar cantidad
 Collect the new product=Recoge el nuevo producto
 That's your first mix done! There's a wide range of different ingredients with unique effects. Each one will affect the value of your product differently.=¡Tu primera mezcla está lista! Hay una amplia variedad de ingredientes diferentes con efectos únicos. Cada uno afectará el valor de tu producto de manera distinta.
 Keep trying different mix recipes, and you'll be able to make some seriously valuable product.=Sigue probando diferentes recetas de mezcla, y podrás crear productos realmente valiosos.
@@ -2828,7 +2710,6 @@ Place <color\=#7FFD63>packaged product</color> here and the dealer will sell it 
 Insufficient online balance. Visit an ATM to deposit cash.=Dinero insuficiente en la cuenta. Visita un cajero para depositar.
 Request Dead Drop=Solicitar entrega secreta
 Select items to order from Albert=Selecciona los productos que necesitas de Albert
-
 No worries, here you are.=No te preocupes, aquí tienes.
 You can assign customers to me with the dealer management app on your phone.=Tu puedes asignarme compradores con la app Dealers en tu teléfono.
 Inventory won't fit everything. Some items will be placed on the pallets.=El inventario no puede contener todo. Algunos artículos se colocarán en los pallets.
@@ -2862,9 +2743,9 @@ r:Agreed. I'll be next to the mayor's house for the next (\d+) hours.=OK. Estar�
 r:Agreed. I'll be under the west bridge for the next (\d+) hours.=OK. Estaré bajo el puente oeste durante las próximas $1 horas.
 r:Copy. I'll message you when it's ready in about (\d+) hours.= Copiado. Te enviaré un mensaje cuando esté listo, en unas $1 horas.
 Howdy buddy. if you're looking for protection, you've come to the right place.= Hola amigo. Si buscas protección, has venido al lugar correcto.
-What do you sell?= ¿Qué vendes?
-Thanks= Gracias
-Thanks...= Gracias...
+What do you sell?=¿Qué vendes?
+Thanks=Gracias
+Thanks...=Gracias...
 Yeahhhh, more or less. Most of them are probably not completely non-illegal… What're you askin' for anywho?= Sííí, más o menos. La mayoría probablemente no son completamente legales... ¿Qué es lo que estás buscando, de todos modos?
 Hello there, you smell nice...= Hola, hueles bien...
 Huh?= ¿Eh?
@@ -2879,7 +2760,7 @@ Used to hang grow lights above pots.= Se usa para colgar luces de cultivo sobre 
 Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luz de cultivo halógena barata y simple. Debe colocarse en un soporte suspendido.
 A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Luz de cultivo LED simple. Emite una luz púrpura que estimula el crecimiento de las plantas un 15% más rápido que la halógena. Debe colocarse en un soporte suspendido.
 That'll be a $1000 signing fee, and the employee's daily wage will be $200.= La tarifa de registro será de $1000 y el salario diario del empleado será de $200.
-Deal= Trato hecho
+Deal=Trato hecho
 Benji is out dealing= Benji está afuera haciendo tratos
 So you'd like to purchase bungalow? Payments are made from your online balance.= ¿Así que quieres comprar un bungalow? Los pagos se hacen desde tu saldo en línea.
 Actually, nevermind= En realidad, olvídalo
@@ -2891,7 +2772,7 @@ BUY=<\size=12>COMPRAR</size>
 Assing a station to the chemist= Asignar una estación al químico
 1x Chemist= Químico
 1x Handler= Encargado
-Mixing Station= Estación de mezcla
+Mixing Station=Estación de mezcla
 r:Assigned Stations (.*)=Estaciones Asignadas $1
 Unlock this dealer by reaching 'Friendly' with one of their connections.= Desbloquea a este vendedor alcanzando el nivel de "Amistoso" con uno de sus contactos.
 Hey, that drop is ready on the pawn shop west wall=Hey, esa entrega está lista en la pared oeste de la casa de empeños.
@@ -2919,8 +2800,8 @@ Mixing in progress...=Mezcla en progreso
 r:(\d+) mins remaining=$1 min faltantes
 r:When you're ready please deposit (.*) into my stash box - your debt is still unpaid.=Cuando estés listo, por favor deposita $1 en mi caja - tu deuda aún no está saldada.
 r:"I'm still currently waiting on a payment of <color=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Please deposit it into my stash box when you've got a chance."=Todavía estoy esperando un pago de $<color\=#54E717>$1</color>. Por favor, deposítalo en mi caja cuando tengas la oportunidad.
-Arghh fine. What time?=Arghh bien. A qué hora?
-Hmm ok. What time?=Hmm ok. A qué hora?
+Arghh fine. What time?=Arghh vale. ¿A qué hora?
+Hmm ok. What time?=Hmm ok. ¿A qué hora?
 r:I've received (.*) cash from you. Your debt is now paid off.=He recibido <color\=#54E717>$1</color> en efectivo. Tu deuda ahora está saldada.
 r:Agreed. I'll be under the north end of the overpass for the next (\d+) hours.=Ok. Estaré bajo el extremo norte del paso elevado durante las próximas $1 horas.
 r:You owe Albert Hoover <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt=Le debes a Albert Hoover $<color\=#54E717>$1</color>. Inserta dinero y sal para saldar tu deuda.
@@ -3096,11 +2977,11 @@ So you'd like to purchase laundromat? Payments are made from your online balance
 Congratulations! The business has been transferred to your name.=¡Felicidades! El negocio ha sido transferido a tu nombre.  
 Go to your new business=Ir a tu nuevo negocio  
 The Shitbox=La Caja de Porquería  
-The Veeper=El Veeper  
-The Bruiser=El Matón  
-The Dinkler=El Dinkler  
-The Hounddog=El Sabueso  
-The Cheetah=El Guepardo  
+The Veeper=El Veeper
+The Bruiser=El Matón
+The Dinkler=El Dinkler
+The Hounddog=El Sabueso
+The Cheetah=El Guepardo
 Actually, nevermind.=En realidad, olvídalo.  
 Use the laundering station to start a new laundering operation=Usa la estación de lavado para comenzar una nueva operación de lavado  
 Manage business=Administrar negocio  
@@ -3109,7 +2990,7 @@ Laundering Timeline=Línea de tiempo del lavado
 Launder=Lavar  
 All Active Laundering Operations=Todas las operaciones de lavado activas  
 business=Negocio  
-Amount=Monto  
+Amount=Cantidad  
 Time Remaining=Tiempo faltante  
 No active Laundering Operations=No hay operaciones de lavado activas  
 Current total=Total actual  
@@ -3502,7 +3383,7 @@ r:"^(\d+) possession of medium-severity drug$"=$1 en posesión de drogas de grav
 r:"^(\d+) possession of low-severity drug$"=$1 en posesión de drogas de baja gravedad  
 r:"^(\d+) assault$"=$1 agresión  
 r:"^(\d+) evading arrest$"=$1 evasión de arresto  
-'UPTOWN' REGION MUST BE UNLOCKED=LA REGIÓN 'UPTOWN' DEBE SER DESBLOQUEADA
+'UPTOWN' REGION MUST BE UNLOCKED=TIENES QUE DESBLOQUEAR LA REGIÓN 'UPTOWN'
 North arcade wall=Muro norte de la galería
 on the north exterior wall of the arcade=en el muro exterior norte de la galería
 Your drop is ready. Grab it behind <b>(.+)</b>=Listo! Recógela detrás de <b>\1</b>.
