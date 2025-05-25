@@ -397,7 +397,7 @@ You can view and track/untrack all of your current quests and contracts in your 
 
 Dealers will automatically split up bricks/jars when necessary.=Los vendedores dividirán automáticamente los ladrillos/frascos cuando sea necesario.
 
-Hyland Point was first established in 1903 thanks to the efforts of P.P. Hyland.=Hyland Point fue fundada por primera vez en 1903 gracias a los esfuerzos de P.P. Hyland.
+Hyland Point was first established in 1903 thanks to the efforts of P.P. Hyland.=Hyland Point fue fundada en 1903 gracias a los esfuerzos de P.P. Hyland.
 
 If you die in singleplayer, you'll go back to your last save. If you die in multiplayer, you'll pay an expensive visit to the medical clinic.=Si mueres en el modo un jugador, volverás a tu último guardado. Si mueres en multijugador, pagarás una costosa visita a la clínica médica.
 
@@ -407,9 +407,7 @@ Visit the graveyard and ponder your mortality!=¡Visita el cementerio y reflexio
 
 Head to Ray's Realty to purchase properties and businesses.=Dirígete a la Inmobiliaria de Ray para comprar propiedades y negocios.
 
-Dealers will sell whatever is in their inventory, regardless of it's listed for sale or not.=Los vendedores venderán lo que esté en su inventario, independientemente de si está listado para la venta o no.
-
-Dealers will sell whatever is in their inventory, regardless of if it's listed for sale or not.=Los vendedores venderán lo que esté en su inventario, independientemente de si está listado para la venta o no.
+Dealers will sell whatever is in their inventory, regardless of if it's listed for sale or not.=Los vendedores venderán lo que esté en su inventario, independientemente de si está puesto en venta o no.
 
 Your progress is automatically saved when you sleep. You can also manually save at the save panel in any of your properties.=Tu progreso se guarda automáticamente cuando duermes. También puedes guardar manualmente en el panel de guardado en cualquiera de tus propiedades.
 
@@ -698,7 +696,7 @@ Quick Move=Mover Rápido
 
 Weekly Deposit Limit=Límite Semanal de Depósito
 
-Hello, Player=Hola!?
+Hello, Player=Hola, Player
 
 ATM=<size\=22>Cajero Automático</size>
 
@@ -1098,9 +1096,7 @@ r:"^(\d+) days ago$"=Hace $1 días
 r:"^(\d+) day ago$"=Hace $1 día
 
 New Customer Unlocked!=¡Nuevo Cliente Desbloqueado!
-
 Bug=Error
-
 Dealer Earnings=Ganancias del Vendedor
 
 Drag product into slots=Arrastra el producto a los espacios
@@ -1327,7 +1323,7 @@ You wanna buy something? [Offer a deal]=¿Quieres comprar algo? [Ofrecer un trat
 Knock=Llamar
 Hi=Hola
 Hello=Hola
-Purchase Cuke=Comprar Coka
+Purchase Cuke=Comprar Cuka
 You ready?=¿Estás listo?
 Thanks!=¡Gracias!
 Ready?=¿Listo?
@@ -1522,7 +1518,7 @@ Purchase a lab oven from Oscar=Compra un horno de laboratorio de Oscar
 Message Shirley about buying some pseudo=Envía un mensaje a Shirley sobre comprar pseudo
 Purchase phosphorus from Oscar=Compra fósforo de Oscar
 Purchase acid from Oscar=Compra ácido de Oscar
-No, not right now=No, no ahora
+No, not right now=No, ahora mismo no
 Thanks for shopping with Oscar=Gracias por comprar con Oscar
 Hey there=Hola
 No thanks bro=No, gracias, hermano
@@ -2386,8 +2382,8 @@ I've heard you're in some trouble. Best not to talk over your mobile phone. Go f
 Insufficient online balance=Saldo en cuenta insuficiente
 Small Storage Rack=Estante de almacenamiento pequeño
 Hi boss, just letting you know I'm out of product.=Hola Jefe, le aviso que me he quedado sin producto.
-Cuke=Coka
-A refreshing can of Cuke that leaves you feeling energized. It's heaven in a can.=Una refrescante lata de Coka que te deja lleno de energía. Es el cielo en una lata.
+Cuke=Cuka
+A refreshing can of Cuke that leaves you feeling energized. It's heaven in a can.=Una refrescante lata de Cuka que te deja lleno de energía. Es el cielo en una lata.
 Medication that is used to get you chubbed-up.=Medicamento que se utiliza para ponerte en forma.
 View dead drop=Revisar
 Dead Drop=Caja secreta
@@ -2766,7 +2762,7 @@ So you'd like to purchase bungalow? Payments are made from your online balance.=
 Actually, nevermind= En realidad, olvídalo
 Outstanding, the property has been transferred to your name.= Excelente, la propiedad ha sido transferida a tu nombre.
 Contains trash= Contiene basura
-Hello sir. Ready to peruse the supplies?= Hola sr, Listo para revisar?
+Hello sir. Ready to peruse the supplies?= Hola señor, Listo para revisar?
 Deal Expired= Trato expirado
 BUY=<\size=12>COMPRAR</size>
 Assing a station to the chemist= Asignar una estación al químico
@@ -2790,9 +2786,9 @@ r:Deal (.*)$= Trato $1
 r:Deal completed for (.*)$=Trato completado con $1
 Thank you. Bring me some product and assign some customers to me, and I'll get to work.= Gracias. Tráeme algo de producto y asígname algunos clientes, y me pondré a trabajar.
 Pawn shop west wall=Pared oeste de la casa de empeño
-Not right now=No ahora
+Not right now=Ahora no
 Hey there - what can I do for you?=Hola, ¿en qué puedo ayudarte?
-I'd like a hair cut=Me gustaría un corte de cabello
+I'd like a hair cut=Me gustaría un corte de pelo
 APPLY=APLICAR
 Like meth except legal. Used to stimulate cognition.=Como la metanfetamina, pero legal. Usado para estimular la cognición.
 The drop is ready. You can find it at the skate park=La entrega está lista. Puedes encontrarla en el parque de skate.
@@ -3441,10 +3437,10 @@ Used to mix product with ingredients to create unique new products.=Utilizado pa
 A small grow tent with built-in lighting and pot. Plants will grow faster but smaller.=Una pequeña tienda de cultivo con iluminación integrada y maceta. Las plantas crecerán más rápido pero serán más pequeñas.
 Used to hang grow lights above pots.=Utilizado para colgar luces de cultivo sobre las macetas.
 When activated, will fill the adjacent pot or grow tent with soil.=Al activarse, llenará de tierra la maceta o tienda de cultivo adyacente.
-Hello?? Nevermind then=¿Hola?? Entonces olvídalo
+Hello?? Nevermind then=¿¿Hola?? Nada, déjalo
 Please wait while we process the transaction=Por favor espera mientras procesamos la transacción
 r:You have deposited (.*)=Has depositado $1
-Are you joking?=Estás bromeando?
+Are you joking?=¿Estás de broma?
 r:Wait ([0-9]+)s=Espera $1s
 ##ПLunes matin##
 r:"^(1:(\d{2}) AM)\sMonday*"=Lunes 01:$2 AM
