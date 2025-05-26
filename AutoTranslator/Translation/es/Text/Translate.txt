@@ -54,10 +54,8 @@ Jump=Saltar
 Use/Drag/Attack=<size\=10>Usar/Arrastar\n/Atacar</size>
 
 Pick up=Recoger
-
 Controls=Controles
-
-Mouse Sensitivity=<size\=12>Sensibilidad del Mouse</size>
+Mouse Sensitivity=<size\=12>Sensibilidad del ratón</size>
 
 Forward=Avanzar
 Phone=Teléfono
@@ -1095,15 +1093,12 @@ r:"^(\d+) days ago$"=Hace $1 días
 
 r:"^(\d+) day ago$"=Hace $1 día
 
-New Customer Unlocked!=¡Nuevo Cliente Desbloqueado!
-Bug=Error
-Dealer Earnings=Ganancias del Vendedor
-
+New Customer Unlocked!=¡Nuevo cliente desbloqueado!
+Bug=Bug
+Dealer Earnings=Ganancias del camello
 Drag product into slots=Arrastra el producto a los espacios
-
 UNPACKAGE=DESEMPAQUETAR
-
-New Mix Discovered!=¡Nueva Mezcla Descubierta!
+New Mix Discovered!=¡Nueva mezcla descubierta!
 
 Press ~ (tilde) to toggle=Presiona ~ (tilde) para alternar
 
@@ -1214,9 +1209,7 @@ r:Click buds to harvest (.*)\/(.*)=Haz clic en los brotes para cosechar $1/$2
 r:Click and hold over buds to harvest (.*)\/(.*)=Haz clic y mantén presionado sobre los brotes para cosechar $1/$2
 
 A=A
-
 D=D
-
 E=E
 
 Drag product + packaging into slots=Arrastra producto + empaque a los espacios
@@ -1228,16 +1221,13 @@ Package all the weed at the packaging station=Empaca toda la marihuana en la est
 No plant in this pot=No hay planta en esta maceta
 
 (Hold) Smoke=(Mantener) Fumar
-
 No soil=Sin tierra
-
 Old school OG Kush. Offers a balanced, relaxing high with subtle physical effects.=OG Kush a la antigua. Ofrece un efecto equilibrado y relajante con efectos físicos sutiles.
-
-A small plastic baggie.  Holds 1x unit of any product.=Una pequeña bolsita de plástico. Contiene 1 unidad de cualquier producto.
+A small plastic baggie. Holds 1x unit of any product.=Una bolsita de plástico. Puede almacenar 1 unidad de cualquier producto.
 
 Place product into packaging=Coloca el producto en el empaque
 
-Drag Multiple=Arrastrar Múltiples
+Drag Multiple=Arrastrar varios
 
 Interact / Drag=Interactuar / Arrastrar
 
@@ -1278,7 +1268,7 @@ Talk to Uncle Nelson outside=Habla con el Tío Nelson afuera
 Active=Activo
 Completed=Completado
 Show on map=Ubicar
-Yep=Sí
+Yep=Sip
 Moderate standards.=Estándares moderados.
 Yes=Sí
 Loyal=Leal
@@ -1903,11 +1893,8 @@ Select a single instance to use this=Selecciona una sola instancia para usar est
 Multi-editing not supported=Edición múltiple no soportada.
 
 Source=Fuente
-
 To=Para
-
 From=De
-
 Routes=Rutas
 
 r:Assigned Stations (.)/(.)=Estaciones Asignadas $1/$2
@@ -1951,8 +1938,7 @@ Sorry boss, my shift ends at 4AM.=Lo siento, jefe, mi turno termina a las 4 de l
 Sorry boss, I haven't been paid to work today.=Lo siento, jefe, no me han pagado para trabajar hoy.
 
 How do I pay you?=¿Cómo te pago?
-
-You can place cash in the briefcase on my bed.=Puedes colocar dinero en el maletín en mi cama.
+You can place cash in the briefcase on my bed.=Puedes colocar dinero en el maletín que está encima de mi cama.
 
 There is a pot ready for sowing, but I don't have any seeds for it.=Hay una maceta lista para sembrar, pero no tengo semillas para ella.
 
@@ -2149,45 +2135,38 @@ Sandals=Sandalias
 Very stylish and versatile footwear.=Calzado muy elegante y versátil.
 
 RectangleFrameGlasses=Gafas de Montura Rectangular
-
 sr:"Rectangle Frame Glasses (.+)$"=Gafas de Montura Rectangular $1
 
 Rectangle frame glasses.=Gafas de montura rectangular.
 
 PorkpieHat=Sombrero Porkpie
-
 sr:"Porkpie Hat (.+)$"=Sombrero Porkpie $1
 
 A must-have for an aspiring kingpin.=Imprescindible para un aspirante a jefe.
 
 sr:"Overalls (.+)$"=Mono $1
-
 Overalls=Mono
 
 Pants that go over your shoulders.=Pantalones que pasan por los hombros.
 
-LongSkirt=Falda Larga
+LongSkirt=Falda larga
 
-sr:"Long Skirt (.+)$"=Falda Larga $1
-
+sr:"Long Skirt (.+)$"=Falda larga $1
 Long tubular fabric. A truly racy garment if you're Mormon.=Tela tubular larga. Una prenda atrevida si eres mormón.
 
-LegendSunglasses=Gafas Legendarias
-
+LegendSunglasses=Gafas de Leyenda
 sr:"Legend Sunglasses (.+)$"=Gafas Legendarias $1
 
 Sunglasses that can only be worn by legends.=Gafas de sol que solo pueden ser usadas por leyendas.
 
 sr:"Jorts (.+)$"=Shorts Vaqueros $1
 
-Jorts=Shorts Vaqueros
-
+Jorts=Vaqueros cortos
 Abhorrent abomination.=Abominación horrenda.
 
 sr:"Jeans (.+)$"=Jeans $1
 
 Jeans=Jeans
-
 The classic pant.=El pantalón clásico.
 
 sr:"Gloves (.+)$"=Guantes $1
@@ -2496,8 +2475,8 @@ Extra Long-Life Soil=Tierra++
 Extra long-lasting soil that can be used to grow 3 plants before expiring.=Tierra de alta durabilidad+, te permite plantar hasta 3 veces más!
 Loading Dock=Zona descarga
 Wait$1s=Espera
-Molly Presley\n(Dealer)=Molly Presley\n(Repartidor)
-Benji Coleman\n(Dealer)=Benji Coleman\n(Repartidor)
+Molly Presley\n(Dealer)=Molly Presley\n(Camella)
+Benji Coleman\n(Dealer)=Benji Coleman\n(Camello)
 
 Select items to order from shirley=Selecciona los items para comprar
 Send Message=Enviar Mensaje
@@ -2512,7 +2491,7 @@ S.W=SUDOESTE
 Barn=Granero
 Properties for sale=Propiedades en venta
 Employee of \nthe month=Empleado del mes
-TOWN   SQUARE=Plaza municipal
+TOWN SQUARE=Plaza mayor
 Businesses for sale=Negocios en venta
 Kyle=Kyle
 Choose Color=Elige el color
@@ -2568,9 +2547,9 @@ Move Camera=Mover la cámara
 Ride the Bus=Montar en el autobús
 BUST!=¡BUSTO!
 Stand=Pararse
-Tattoo Shop=Tienda tatuajes
-Manor=Señorío
-Motel Room=Motel
+Tattoo Shop=Estudio de tatuajes
+Manor=Mansión
+Motel Room=Habitación del motel
 Wait 46s=Espera 46s
 Long Skirt=Falda larga
 Legend Sunglasses=Gafas de sol de leyenda
@@ -3357,16 +3336,16 @@ barn? Payments are made from your online balance.=¿Granero? Los pagos se hacen 
 laundromat? Payments are made from your online balance.=¿Lavandería? Los pagos se hacen desde tu saldo en línea.  
 docks warehouse? Payments are made from your online balance.=¿Almacén de los muelles? Los pagos se hacen desde tu saldo en línea.  
 
-Taco Ticklers (Owned)=Taco Ticklers\n(Propiedad adquirida)  
-Car Wash (Owned)=Lavadero de autos\n(Propiedad adquirida)  
-Laundromat (Owned)=Lavandería\n(Propiedad adquirida)  
-Docks Warehouse (Owned)=Almacén de los muelles\n(Propiedad adquirida)  
-Bungalow (Owned)=Bungaló\n(Propiedad adquirida)  
-Barn (Owned)=Granero\n(Propiedad adquirida)
-Motel Room (Owned)=Cuarto de motel\n(Propiedad adquirida)
-Sweatshop (Owned)=Sweatshop\n(Propiedad adquirida)
+Taco Ticklers (Owned)=Taco Ticklers\n(En propiedad)
+Car Wash (Owned)=Lavadero de autos\n(En propiedad)
+Laundromat (Owned)=Lavandería\n(En propiedad)
+Docks Warehouse (Owned)=Almacén de los muelles\n(En propiedad)
+Bungalow (Owned)=Bungaló\n(En propiedad)
+Barn (Owned)=Granero\n(En propiedad)
+Motel Room (Owned)=Habitación del motel\n(En propiedad)
+Sweatshop (Owned)=Sweatshop\n(En propiedad)
 
-INVESTIGATING=EN INVESTIGACIÓN
+INVESTIGATING=INVESTIGANDO
 Police are nearby!=¡La policía está cerca!
 
 r:"^\$(\d+\.\d{2}) fine \(\$(\d+\.\d{2}) paid - insufficient cash\)$"=$${1} multa ($${2} pagado — efectivo insuficiente)  
@@ -3390,7 +3369,7 @@ r:"^(.+) will draw his daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</col
 r:"^(.+) will draw her daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 recibirá su salario diario de <color\=#54E717>$ $2</color> de este maletín.
 
 Howdy, buddy. You need somethin'?=Hola, amigo. ¿Necesitas algo?
-I'd like to sell something=Quisiera vender algo
+I'd like to sell something=Quiero vender algo
 Insert items for appraisal=Inserta los artículos para tasar
 EXIT=SALIR
 ACCEPT=ACEPTAR
@@ -3404,10 +3383,10 @@ You can find it stashed near the <color\=#88CBFF>town hall fountain, in the cana
 • Collect the stash behind the supermarket=• Recupera el alijo detrás del supermercado
 • Collect the stash near the fountain=• Recupera el alijo cerca de la fuente
 • Collect the stash near the canal=• Recupera el alijo cerca del canal
-Head back to the RV=Regresa a la autocaravana  
-Investigate the explosion=Investiga la explosión  
-Read the note=Lee la nota  
-View note=Ver nota  
+Head back to the RV=Regresa a la autocaravana
+Investigate the explosion=Investiga la explosión
+Read the note=Lee la nota
+View note=Ver nota
 Answer phone=Contestar el teléfono
 Well shit... that's not ideal.=Pues mierda... no es lo ideal.
 There's a powerful cartel in town, the <color=#4CB0FF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=Hay un cartel poderoso en la ciudad, la <color=#4CB0FF>familia Benzies.</color> Sabía que eventualmente serían un problema, pero no pensé que te encontrarían tan rápido...
@@ -3442,7 +3421,7 @@ Please wait while we process the transaction=Por favor espera mientras procesamo
 r:You have deposited (.*)=Has depositado $1
 Are you joking?=¿Estás de broma?
 r:Wait ([0-9]+)s=Espera $1s
-##ПLunes matin##
+
 r:"^(1:(\d{2}) AM)\sMonday*"=Lunes 01:$2 AM
 r:"^(2:(\d{2}) AM)\sMonday*"=Lunes 02:$2 AM
 r:"^(3:(\d{2}) AM)\sMonday*"=Lunes 03:$2 AM
@@ -3455,7 +3434,7 @@ r:"^(9:(\d{2}) AM)\sMonday*"=Lunes 09:$2 AM
 r:"^(10:(\d{2}) AM)\sMonday*"=Lunes 10:$2 AM
 r:"^(11:(\d{2}) AM)\sMonday*"=Lunes 11:$2 AM
 r:"^(12:(\d{2}) PM)\sMonday*"=Lunes 12:$2 AM
-##Lunes après-midi##
+
 r:"^(1:(\d{2}) PM)\sMonday*"=Lunes 01:$2 PM
 r:"^(2:(\d{2}) PM)\sMonday*"=Lunes 02:$2 PM
 r:"^(3:(\d{2}) PM)\sMonday*"=Lunes 03:$2 PM
@@ -3468,8 +3447,7 @@ r:"^(9:(\d{2}) PM)\sMonday*"=Lunes 09:$2 PM
 r:"^(10:(\d{2}) PM)\sMonday*"=Lunes 10:$2 PM
 r:"^(11:(\d{2}) PM)\sMonday*"=Lunes 11:$2 PM
 r:"^(12:(\d{2}) PM)\sMonday*"=Lunes 12:$2 PM
-##Martes##
-##Martes por la mañana##
+
 r:"^(1:(\d{2}) AM)\sTuesday*"=Martes 1:$2 AM
 r:"^(2:(\d{2}) AM)\sTuesday*"=Martes 2:$2 AM
 r:"^(3:(\d{2}) AM)\sTuesday*"=Martes 3:$2 AM
@@ -3482,7 +3460,7 @@ r:"^(9:(\d{2}) AM)\sTuesday*"=Martes 9:$2 AM
 r:"^(10:(\d{2}) AM)\sTuesday*"=Martes 10:$2 AM
 r:"^(11:(\d{2}) AM)\sTuesday*"=Martes 11:$2 AM
 r:"^(12:(\d{2}) PM)\sTuesday*"=Martes 12:$2 PM
-##Martes por la tarde##
+
 r:"^(1:(\d{2}) PM)\sTuesday*"=Martes 1:$2 PM
 r:"^(2:(\d{2}) PM)\sTuesday*"=Martes 2:$2 PM
 r:"^(3:(\d{2}) PM)\sTuesday*"=Martes 3:$2 PM
@@ -3496,8 +3474,6 @@ r:"^(10:(\d{2}) PM)\sTuesday*"=Martes 10:$2 PM
 r:"^(11:(\d{2}) PM)\sTuesday*"=Martes 11:$2 PM
 r:"^(12:(\d{2}) AM)\sTuesday*"=Martes 12:$2 AM
 
-##Miércoles##
-##Miércoles por la mañana##
 r:"^(1:(\d{2}) AM)\sWednesday*"=Miércoles 1:$2 AM
 r:"^(2:(\d{2}) AM)\sWednesday*"=Miércoles 2:$2 AM
 r:"^(3:(\d{2}) AM)\sWednesday*"=Miércoles 3:$2 AM
@@ -3510,7 +3486,7 @@ r:"^(9:(\d{2}) AM)\sWednesday*"=Miércoles 9:$2 AM
 r:"^(10:(\d{2}) AM)\sWednesday*"=Miércoles 10:$2 AM
 r:"^(11:(\d{2}) AM)\sWednesday*"=Miércoles 11:$2 AM
 r:"^(12:(\d{2}) PM)\sWednesday*"=Miércoles 12:$2 PM
-##Miércoles por la tarde##
+
 r:"^(1:(\d{2}) PM)\sWednesday*"=Miércoles 1:$2 PM
 r:"^(2:(\d{2}) PM)\sWednesday*"=Miércoles 2:$2 PM
 r:"^(3:(\d{2}) PM)\sWednesday*"=Miércoles 3:$2 PM
@@ -3524,8 +3500,6 @@ r:"^(10:(\d{2}) PM)\sWednesday*"=Miércoles 10:$2 PM
 r:"^(11:(\d{2}) PM)\sWednesday*"=Miércoles 11:$2 PM
 r:"^(12:(\d{2}) AM)\sWednesday*"=Miércoles 12:$2 AM
 
-##Jeudi##
-##Jeudi matin##
 r:"^(1:(\d{2}) AM)\sThursday*"=Jueves 1:$2 AM
 r:"^(2:(\d{2}) AM)\sThursday*"=Jueves 2:$2 AM
 r:"^(3:(\d{2}) AM)\sThursday*"=Jueves 3:$2 AM
@@ -3538,7 +3512,7 @@ r:"^(9:(\d{2}) AM)\sThursday*"=Jueves 9:$2 AM
 r:"^(10:(\d{2}) AM)\sThursday*"=Jueves 10:$2 AM
 r:"^(11:(\d{2}) AM)\sThursday*"=Jueves 11:$2 AM
 r:"^(12:(\d{2}) PM)\sThursday*"=Jueves 12:$2 PM
-##Jueves por la tarde##
+
 r:"^(1:(\d{2}) PM)\sThursday*"=Jueves 1:$2 PM
 r:"^(2:(\d{2}) PM)\sThursday*"=Jueves 2:$2 PM
 r:"^(3:(\d{2}) PM)\sThursday*"=Jueves 3:$2 PM
@@ -3552,8 +3526,6 @@ r:"^(10:(\d{2}) PM)\sThursday*"=Jueves 10:$2 PM
 r:"^(11:(\d{2}) PM)\sThursday*"=Jueves 11:$2 PM
 r:"^(12:(\d{2}) AM)\sThursday*"=Jueves 12:$2 AM
 
-##Viernes##
-##Viernes por la mañana##
 r:"^(1:(\d{2}) AM)\sFriday*"=Viernes 1:$2 AM
 r:"^(2:(\d{2}) AM)\sFriday*"=Viernes 2:$2 AM
 r:"^(3:(\d{2}) AM)\sFriday*"=Viernes 3:$2 AM
@@ -3566,7 +3538,7 @@ r:"^(9:(\d{2}) AM)\sFriday*"=Viernes 9:$2 AM
 r:"^(10:(\d{2}) AM)\sFriday*"=Viernes 10:$2 AM
 r:"^(11:(\d{2}) AM)\sFriday*"=Viernes 11:$2 AM
 r:"^(12:(\d{2}) PM)\sFriday*"=Viernes 12:$2 PM
-##Viernes por la tarde##
+
 r:"^(1:(\d{2}) PM)\sFriday*"=Viernes 1:$2 PM
 r:"^(2:(\d{2}) PM)\sFriday*"=Viernes 2:$2 PM
 r:"^(3:(\d{2}) PM)\sFriday*"=Viernes 3:$2 PM
@@ -3580,8 +3552,6 @@ r:"^(10:(\d{2}) PM)\sFriday*"=Viernes 10:$2 PM
 r:"^(11:(\d{2}) PM)\sFriday*"=Viernes 11:$2 PM
 r:"^(12:(\d{2}) AM)\sFriday*"=Viernes 12:$2 AM
 
-##Sábado##
-##Sábado por la mañana##
 r:"^(1:(\d{2}) AM)\sSaturday*"=Sábado 1:$2 AM
 r:"^(2:(\d{2}) AM)\sSaturday*"=Sábado 2:$2 AM
 r:"^(3:(\d{2}) AM)\sSaturday*"=Sábado 3:$2 AM
@@ -3593,7 +3563,7 @@ r:"^(8:(\d{2}) AM)\sSaturday*"=Sábado 8:$2 AM
 r:"^(9:(\d{2}) AM)\sSaturday*"=Sábado 9:$2 AM
 r:"^(10:(\d{2}) AM)\sSaturday*"=Sábado 10:$2 AM
 r:"^(11:(\d{2}) AM)\sSaturday*"=Sábado 11:$2 AM
-##Sábado por la tarde##
+
 r:"^(12:(\d{2}) PM)\sSaturday*"=Sábado 12:$2 PM
 r:"^(1:(\d{2}) PM)\sSaturday*"=Sábado 1:$2 PM
 r:"^(2:(\d{2}) PM)\sSaturday*"=Sábado 2:$2 PM
@@ -3608,8 +3578,6 @@ r:"^(10:(\d{2}) PM)\sSaturday*"=Sábado 10:$2 PM
 r:"^(11:(\d{2}) PM)\sSaturday*"=Sábado 11:$2 PM
 r:"^(12:(\d{2}) AM)\sSaturday*"=Sábado 12:$2 AM
 
-##Dimanche##
-##Dimanche matin##
 r:"^(1:(\d{2}) AM)\sSunday*"=Domingo 1:$2 AM
 r:"^(2:(\d{2}) AM)\sSunday*"=Domingo 2:$2 AM
 r:"^(3:(\d{2}) AM)\sSunday*"=Domingo 3:$2 AM
@@ -3622,7 +3590,6 @@ r:"^(9:(\d{2}) AM)\sSunday*"=Domingo 9:$2 AM
 r:"^(10:(\d{2}) AM)\sSunday*"=Domingo 10:$2 AM
 r:"^(11:(\d{2}) AM)\sSunday*"=Domingo 11:$2 AM
 
-##Dimanche après-midi##
 r:"^(12:(\d{2}) PM)\sSunday*"=Domingo 12:$2 PM
 r:"^(1:(\d{2}) PM)\sSunday*"=Domingo 1:$2 PM
 r:"^(2:(\d{2}) PM)\sSunday*"=Domingo 2:$2 PM
@@ -3636,6 +3603,7 @@ r:"^(9:(\d{2}) PM)\sSunday*"=Domingo 9:$2 PM
 r:"^(10:(\d{2}) PM)\sSunday*"=Domingo 10:$2 PM
 r:"^(11:(\d{2}) PM)\sSunday*"=Domingo 11:$2 PM
 r:"^(12:(\d{2}) AM)\sSunday*"=Domingo 12:$2 AM
+
 No what I like=No es lo que me gusta
 START=INICIO
 sr:"So you'd like to purchase (.+)?$"=Entonces te gustaría comprar $1 ?
